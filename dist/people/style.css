@@ -1,0 +1,593 @@
+@font-face {
+  font-family: "people";
+  src: url('people.eot');
+  src: url('people.eot?#iefix') format('eot'),
+    url('people.woff') format('woff'),
+    url('people.ttf') format('truetype'),
+    url('people.svg#people') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "people";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-people-peace:before {
+  content: "\1262E"
+}
+.icon-people-umbrella:before {
+  content: "\1F302"
+}
+.icon-people-star:before {
+  content: "\1F31F"
+}
+.icon-people-bow:before {
+  content: "\1F380"
+}
+.icon-people-heartlefttip:before {
+  content: "\1F394"
+}
+.icon-people-tophat:before {
+  content: "\1F3A9"
+}
+.icon-people-runningshirt:before {
+  content: "\1F3BD"
+}
+.icon-people-running:before {
+  content: "\1F3C3"
+}
+.icon-people-eyes:before {
+  content: "\1F440"
+}
+.icon-people-eye:before {
+  content: "\1F441"
+}
+.icon-people-ear:before {
+  content: "\1F442"
+}
+.icon-people-nose:before {
+  content: "\1F443"
+}
+.icon-people-mouth:before {
+  content: "\1F444"
+}
+.icon-people-tongue:before {
+  content: "\1F445"
+}
+.icon-people-up:before {
+  content: "\1F446"
+}
+.icon-people-down:before {
+  content: "\1F447"
+}
+.icon-people-left:before {
+  content: "\1F448"
+}
+.icon-people-right:before {
+  content: "\1F449"
+}
+.icon-people-fistedhand:before {
+  content: "\1F44A"
+}
+.icon-people-wave:before {
+  content: "\1F44B"
+}
+.icon-people-aok:before {
+  content: "\1F44C"
+}
+.icon-people-thumbsup:before {
+  content: "\1F44D"
+}
+.icon-people-thumbsdown:before {
+  content: "\1F44E"
+}
+.icon-people-clap:before {
+  content: "\1F44F"
+}
+.icon-people-hands:before {
+  content: "\1F450"
+}
+.icon-people-crown:before {
+  content: "\1F451"
+}
+.icon-people-womanshat:before {
+  content: "\1F452"
+}
+.icon-people-glasses:before {
+  content: "\1F453"
+}
+.icon-people-tie:before {
+  content: "\1F454"
+}
+.icon-people-mansshirt:before {
+  content: "\1F455"
+}
+.icon-people-jeans:before {
+  content: "\1F456"
+}
+.icon-people-dress:before {
+  content: "\1F457"
+}
+.icon-people-kimono:before {
+  content: "\1F458"
+}
+.icon-people-bikini:before {
+  content: "\1F459"
+}
+.icon-people-womansshirt:before {
+  content: "\1F45A"
+}
+.icon-people-pinkwallet:before {
+  content: "\1F45B"
+}
+.icon-people-handbag:before {
+  content: "\1F45C"
+}
+.icon-people-makeupbag:before {
+  content: "\1F45D"
+}
+.icon-people-mensshoe:before {
+  content: "\1F45E"
+}
+.icon-people-mensrunner:before {
+  content: "\1F45F"
+}
+.icon-people-heels:before {
+  content: "\1F460"
+}
+.icon-people-sandals:before {
+  content: "\1F461"
+}
+.icon-people-boot:before {
+  content: "\1F462"
+}
+.icon-people-footprints:before {
+  content: "\1F463"
+}
+.icon-people-contact:before {
+  content: "\1F464"
+}
+.icon-people-contact2:before {
+  content: "\1F465"
+}
+.icon-people-boy:before {
+  content: "\1F466"
+}
+.icon-people-girl:before {
+  content: "\1F467"
+}
+.icon-people-man:before {
+  content: "\1F468"
+}
+.icon-people-woman:before {
+  content: "\1F469"
+}
+.icon-people-family:before {
+  content: "\1F46A"
+}
+.icon-people-girlguy:before {
+  content: "\1F46B"
+}
+.icon-people-guyguy:before {
+  content: "\1F46C"
+}
+.icon-people-girlgirl:before {
+  content: "\1F46D"
+}
+.icon-people-cop:before {
+  content: "\1F46E"
+}
+.icon-people-bunny:before {
+  content: "\1F46F"
+}
+.icon-people-bride:before {
+  content: "\1F470"
+}
+.icon-people-blonde:before {
+  content: "\1F471"
+}
+.icon-people-guapimao:before {
+  content: "\1F472"
+}
+.icon-people-turban:before {
+  content: "\1F473"
+}
+.icon-people-gpa:before {
+  content: "\1F474"
+}
+.icon-people-gma:before {
+  content: "\1F475"
+}
+.icon-people-baby:before {
+  content: "\1F476"
+}
+.icon-people-construct:before {
+  content: "\1F477"
+}
+.icon-people-princess:before {
+  content: "\1F478"
+}
+.icon-people-ogre:before {
+  content: "\1F479"
+}
+.icon-people-japaneseangrymask:before {
+  content: "\1F47A"
+}
+.icon-people-babyangel:before {
+  content: "\1F47C"
+}
+.icon-people-alien:before {
+  content: "\1F47D"
+}
+.icon-people-imp:before {
+  content: "\1F47F"
+}
+.icon-people-skull:before {
+  content: "\1F480"
+}
+.icon-people-waitress:before {
+  content: "\1F481"
+}
+.icon-people-guardsman:before {
+  content: "\1F482"
+}
+.icon-people-dancer:before {
+  content: "\1F483"
+}
+.icon-people-lipstick:before {
+  content: "\1F484"
+}
+.icon-people-nailpolish:before {
+  content: "\1F485"
+}
+.icon-people-headmassage:before {
+  content: "\1F486"
+}
+.icon-people-haircut:before {
+  content: "\1F487"
+}
+.icon-people-kissmark:before {
+  content: "\1F48B"
+}
+.icon-people-loveletter:before {
+  content: "\1F48C"
+}
+.icon-people-ring:before {
+  content: "\1F48D"
+}
+.icon-people-gem:before {
+  content: "\1F48E"
+}
+.icon-people-kiss2:before {
+  content: "\1F48F"
+}
+.icon-people-couple:before {
+  content: "\1F491"
+}
+.icon-people-beating_heart:before {
+  content: "\1F493"
+}
+.icon-people-brokenheart:before {
+  content: "\1F494"
+}
+.icon-people-2hearts:before {
+  content: "\1F495"
+}
+.icon-people-sparklingheart:before {
+  content: "\1F496"
+}
+.icon-people-growingheart:before {
+  content: "\1F497"
+}
+.icon-people-heartarrow:before {
+  content: "\1F498"
+}
+.icon-people-heartblue:before {
+  content: "\1F499"
+}
+.icon-people-heartgreen:before {
+  content: "\1F49A"
+}
+.icon-people-heartyellow:before {
+  content: "\1F49B"
+}
+.icon-people-heartpurple:before {
+  content: "\1F49C"
+}
+.icon-people-revolvinghearts:before {
+  content: "\1F49E"
+}
+.icon-people-anger:before {
+  content: "\1F4A2"
+}
+.icon-people-sleeping2:before {
+  content: "\1F4A4"
+}
+.icon-people-collision:before {
+  content: "\1F4A5"
+}
+.icon-people-sweatsplash:before {
+  content: "\1F4A6"
+}
+.icon-people-sweat:before {
+  content: "\1F4A7"
+}
+.icon-people-dash:before {
+  content: "\1F4A8"
+}
+.icon-people-poo:before {
+  content: "\1F4A9"
+}
+.icon-people-flexbicep:before {
+  content: "\1F4AA"
+}
+.icon-people-dizzy2:before {
+  content: "\1F4AB"
+}
+.icon-people-speechbubble:before {
+  content: "\1F4AC"
+}
+.icon-people-thoughtbaloon:before {
+  content: "\1F4AD"
+}
+.icon-people-briefcase:before {
+  content: "\1F4BC"
+}
+.icon-people-fire:before {
+  content: "\1F525"
+}
+.icon-people-grin:before {
+  content: "\1F600"
+}
+.icon-people-grineyes:before {
+  content: "\1F601"
+}
+.icon-people-grintears:before {
+  content: "\1F602"
+}
+.icon-people-grinwide:before {
+  content: "\1F603"
+}
+.icon-people-grinwideeyes:before {
+  content: "\1F604"
+}
+.icon-people-grinsweat:before {
+  content: "\1F605"
+}
+.icon-people-grinsquint:before {
+  content: "\1F606"
+}
+.icon-people-halo:before {
+  content: "\1F607"
+}
+.icon-people-devilhorns:before {
+  content: "\1F608"
+}
+.icon-people-winking:before {
+  content: "\1F609"
+}
+.icon-people-smileeyes:before {
+  content: "\1F60A"
+}
+.icon-people-smiletongue:before {
+  content: "\1F60B"
+}
+.icon-people-relieved:before {
+  content: "\1F60C"
+}
+.icon-people-hearteyes:before {
+  content: "\1F60D"
+}
+.icon-people-sunglasses:before {
+  content: "\1F60E"
+}
+.icon-people-smirk:before {
+  content: "\1F60F"
+}
+.icon-people-neutral:before {
+  content: "\1F610"
+}
+.icon-people-expressionless:before {
+  content: "\1F611"
+}
+.icon-people-unamused:before {
+  content: "\1F612"
+}
+.icon-people-coldsweat:before {
+  content: "\1F613"
+}
+.icon-people-pensive:before {
+  content: "\1F614"
+}
+.icon-people-confused:before {
+  content: "\1F615"
+}
+.icon-people-confounded:before {
+  content: "\1F616"
+}
+.icon-people-kiss:before {
+  content: "\1F617"
+}
+.icon-people-kissing:before {
+  content: "\1F618"
+}
+.icon-people-kisseyes:before {
+  content: "\1F619"
+}
+.icon-people-kissclosedeyes:before {
+  content: "\1F61A"
+}
+.icon-people-tongueout:before {
+  content: "\1F61B"
+}
+.icon-people-tongueoutwink:before {
+  content: "\1F61C"
+}
+.icon-people-tongueoutwink2:before {
+  content: "\1F61D"
+}
+.icon-people-disappointed:before {
+  content: "\1F61E"
+}
+.icon-people-worried:before {
+  content: "\1F61F"
+}
+.icon-people-angry:before {
+  content: "\1F620"
+}
+.icon-people-pouting:before {
+  content: "\1F621"
+}
+.icon-people-crying:before {
+  content: "\1F622"
+}
+.icon-people-perservere:before {
+  content: "\1F623"
+}
+.icon-people-triumph:before {
+  content: "\1F624"
+}
+.icon-people-dissapointedrelief:before {
+  content: "\1F625"
+}
+.icon-people-frownmouth:before {
+  content: "\1F626"
+}
+.icon-people-anguish:before {
+  content: "\1F627"
+}
+.icon-people-fearful:before {
+  content: "\1F628"
+}
+.icon-people-weary:before {
+  content: "\1F629"
+}
+.icon-people-sleepy:before {
+  content: "\1F62A"
+}
+.icon-people-tired:before {
+  content: "\1F62B"
+}
+.icon-people-grimacing:before {
+  content: "\1F62C"
+}
+.icon-people-loudlycrying:before {
+  content: "\1F62D"
+}
+.icon-people-openmouth:before {
+  content: "\1F62E"
+}
+.icon-people-hushed:before {
+  content: "\1F62F"
+}
+.icon-people-coldsweat2:before {
+  content: "\1F630"
+}
+.icon-people-screamfear:before {
+  content: "\1F631"
+}
+.icon-people-astonished:before {
+  content: "\1F632"
+}
+.icon-people-flushed:before {
+  content: "\1F633"
+}
+.icon-people-sleeping:before {
+  content: "\1F634"
+}
+.icon-people-dizzy:before {
+  content: "\1F635"
+}
+.icon-people-nomouth:before {
+  content: "\1F636"
+}
+.icon-people-medicalmask:before {
+  content: "\1F637"
+}
+.icon-people-foxgrin:before {
+  content: "\1F638"
+}
+.icon-people-foxtearofjoy:before {
+  content: "\1F639"
+}
+.icon-people-foxsmiling:before {
+  content: "\1F63A"
+}
+.icon-people-foxheart:before {
+  content: "\1F63B"
+}
+.icon-people-foxwry:before {
+  content: "\1F63C"
+}
+.icon-people-foxkissing:before {
+  content: "\1F63D"
+}
+.icon-people-foxpouting:before {
+  content: "\1F63E"
+}
+.icon-people-foxcrying:before {
+  content: "\1F63F"
+}
+.icon-people-foxweary:before {
+  content: "\1F640"
+}
+.icon-people-smallfrown:before {
+  content: "\1F641"
+}
+.icon-people-smallsmile:before {
+  content: "\1F642"
+}
+.icon-people-nogesture:before {
+  content: "\1F645"
+}
+.icon-people-okgesture:before {
+  content: "\1F646"
+}
+.icon-people-bowing:before {
+  content: "\1F647"
+}
+.icon-people-monkeysee:before {
+  content: "\1F648"
+}
+.icon-people-monkeyhear:before {
+  content: "\1F649"
+}
+.icon-people-monkeyspeak:before {
+  content: "\1F64A"
+}
+.icon-people-handup:before {
+  content: "\1F64B"
+}
+.icon-people-high5:before {
+  content: "\1F64C"
+}
+.icon-people-frown:before {
+  content: "\1F64D"
+}
+.icon-people-pout:before {
+  content: "\1F64E"
+}
+.icon-people-pray:before {
+  content: "\1F64F"
+}
+.icon-people-walking:before {
+  content: "\1F6B6"
+}
+.icon-people-blackmissingsmiley:before {
+  content: "\263B"
+}
+.icon-people-hand:before {
+  content: "\270B"
+}
+.icon-people-sparkles:before {
+  content: "\2728"
+}
+.icon-people-redheart:before {
+  content: "\2764"
+}

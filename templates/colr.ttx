@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <COLR>
+    <version value="0"/>
+    <ColorGlyph name="poo">
+      <layer colorID="0" name="uE001l1" />
+      <layer colorID="1" name="uE001l2" />
+      <layer colorID="2" name="uE001l3" />
+    </ColorGlyph>
+    <ColorGlyph name="grin">
+      <layer colorID="3" name="uE002l1" />
+      <layer colorID="4" name="uE002l2" />
+      <layer colorID="5" name="uE002l3" />
+      <layer colorID="2" name="uE002l4" />
+    </ColorGlyph>
+  </COLR>
+
+  <CPAL>
+    <version value="0"/>
+    <numPaletteEntries value="6"/>
+    <palette index="0">
+      <color index="0" value="#A47655" />
+      <color index="1" value="#2C3C47" />
+      <color index="2" value="#EF4B44" />
+      <color index="3" value="#FFD46A" />
+      <color index="4" value="#FCB536" />
+      <color index="5" value="#2C3B47" />
+    </palette>
+    <palette index="1">
+      <color index="0" value="#A47655" />
+      <color index="1" value="#2C3C47" />
+      <color index="2" value="#EF4B44" />
+      <color index="3" value="#FFD46A" />
+      <color index="4" value="#FCB536" />
+      <color index="5" value="#2C3B47" />
+    </palette>
+  </CPAL>
+
+</ttFont>

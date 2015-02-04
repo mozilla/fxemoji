@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <title><%= fontName %></title>
+    <link href="<%= cssTemplate %>.css" rel="stylesheet">
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        font-size: 10px;
+        font-family: "Open Sans", sans-serif;
+        text-align: center;
+        background-color: #f8f8f8;
+      }
+      body > h1 { color: #777; margin: 1rem 0 }
+      .glyphs {
+        width: 130rem;
+        margin: 0 auto;
+        padding: 0;
+        font-size: 0;
+        list-style: none;
+      }
+      .glyphs > li { display: inline-block;
+        position: relative;
+        margin: .5rem;
+        padding: 1rem 0;
+        width: 12rem;
+        text-align: center;
+        border-radius: .5rem;
+        background-color: #fff;
+      }
+
+      .glyphs .icon:before {
+        position: absolute;
+        top: 0;
+        left: 2rem;
+        width: 100%;
+        height: 100%;
+      }
+      .glyphs .icon {
+        display: block;
+        position: relative;
+        width: 8rem;
+        height: 8rem;
+        font-size: 8rem;
+      }
+      .glyphs .icon:hover:before {
+        font-family: sans-serif !important;
+      }
+      .glyph-name {
+        display: block;
+        margin-top: 1.2rem;
+        color: #666;
+        font-size: 1.2rem;
+      }
+      .glyph-codepoint {
+        display: block;
+        margin-top: 1.2rem;
+        color: #999;
+        font-size: 1.2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1><%= fontName %></h1>
+    <ul class="glyphs"><% _.each(glyphs, function(glyph) { if( glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "E") { %>
+      <li>
+        <i class="icon <%= className %>-<%= glyph.name %>"></i>
+        <span class="glyph-name"><%= glyph.name %></span>
+        <span class="glyph-codepoint"><%= glyph.codepoint.toString(16).toUpperCase() %></span>
+      </li><% } }); %>
+    </ul>
+  </body>
+</html>

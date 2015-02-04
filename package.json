@@ -1,0 +1,29 @@
+{
+  "name": "FirefoxOSColoredEmojiFontTool",
+  "version": "0.0.1",
+  "description": "FirefoxOS emoji icon font tool.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "yargs": "^1.3.3",
+    "gulp-consolidate": "^0.1.2",
+    "gulp-iconfont": "^0.1.2",
+    "lodash": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pivanov/FirefoxOS-Colored-Emoji-Font-Tool"
+  },
+  "keywords": [
+    "FirefoxOS",
+    "Emoji",
+    "Icon",
+    "Font",
+    "SVG"
+  ],
+  "author": "Pavel Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pivanov/FirefoxOS-Colored-Emoji-Font-Tool/issues"
+  }
+}

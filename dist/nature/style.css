@@ -1,0 +1,308 @@
+@font-face {
+  font-family: "nature";
+  src: url('nature.eot');
+  src: url('nature.eot?#iefix') format('eot'),
+    url('nature.woff') format('woff'),
+    url('nature.ttf') format('truetype'),
+    url('nature.svg#nature') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "nature";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-nature-cyclone:before {
+  content: "\1F300"
+}
+.icon-nature-foggy:before {
+  content: "\1F301"
+}
+.icon-nature-rainbow:before {
+  content: "\1F308"
+}
+.icon-nature-wave:before {
+  content: "\1F30A"
+}
+.icon-nature-volcano:before {
+  content: "\1F30B"
+}
+.icon-nature-milkyway:before {
+  content: "\1F30C"
+}
+.icon-nature-europeafricaglobe:before {
+  content: "\1F30D"
+}
+.icon-nature-americasglobe:before {
+  content: "\1F30E"
+}
+.icon-nature-asiaaustraliaglobe:before {
+  content: "\1F30F"
+}
+.icon-nature-meridianglobe:before {
+  content: "\1F310"
+}
+.icon-nature-fullmoonface:before {
+  content: "\1F31D"
+}
+.icon-nature-sunwithface:before {
+  content: "\1F31E"
+}
+.icon-nature-shootingstar:before {
+  content: "\1F320"
+}
+.icon-nature-acorn:before {
+  content: "\1F330"
+}
+.icon-nature-seedling:before {
+  content: "\1F331"
+}
+.icon-nature-evergreen:before {
+  content: "\1F332"
+}
+.icon-nature-deciduoustree:before {
+  content: "\1F333"
+}
+.icon-nature-palmtree:before {
+  content: "\1F334"
+}
+.icon-nature-cactus:before {
+  content: "\1F335"
+}
+.icon-nature-tulip:before {
+  content: "\1F337"
+}
+.icon-nature-cherryblossom:before {
+  content: "\1F338"
+}
+.icon-nature-rose:before {
+  content: "\1F339"
+}
+.icon-nature-hibiscus:before {
+  content: "\1F33A"
+}
+.icon-nature-sunflower:before {
+  content: "\1F33B"
+}
+.icon-nature-blossom:before {
+  content: "\1F33C"
+}
+.icon-nature-earofrice:before {
+  content: "\1F33E"
+}
+.icon-nature-herb:before {
+  content: "\1F33F"
+}
+.icon-nature-fourleafclover:before {
+  content: "\1F340"
+}
+.icon-nature-mapleleaf:before {
+  content: "\1F341"
+}
+.icon-nature-fallingleaf:before {
+  content: "\1F342"
+}
+.icon-nature-leaffluttering:before {
+  content: "\1F343"
+}
+.icon-nature-mushroom:before {
+  content: "\1F344"
+}
+.icon-nature-rat:before {
+  content: "\1F400"
+}
+.icon-nature-mouseside:before {
+  content: "\1F401"
+}
+.icon-nature-ox:before {
+  content: "\1F402"
+}
+.icon-nature-waterbuffalo:before {
+  content: "\1F403"
+}
+.icon-nature-cow:before {
+  content: "\1F404"
+}
+.icon-nature-tigerside:before {
+  content: "\1F405"
+}
+.icon-nature-leopardside:before {
+  content: "\1F406"
+}
+.icon-nature-bunnyside:before {
+  content: "\1F407"
+}
+.icon-nature-catside:before {
+  content: "\1F408"
+}
+.icon-nature-dragonside:before {
+  content: "\1F409"
+}
+.icon-nature-crocodile:before {
+  content: "\1F40A"
+}
+.icon-nature-whale:before {
+  content: "\1F40B"
+}
+.icon-nature-snail:before {
+  content: "\1F40C"
+}
+.icon-nature-snake:before {
+  content: "\1F40D"
+}
+.icon-nature-horse:before {
+  content: "\1F40E"
+}
+.icon-nature-ram:before {
+  content: "\1F40F"
+}
+.icon-nature-goat:before {
+  content: "\1F410"
+}
+.icon-nature-sheep:before {
+  content: "\1F411"
+}
+.icon-nature-monkey:before {
+  content: "\1F412"
+}
+.icon-nature-rooster:before {
+  content: "\1F413"
+}
+.icon-nature-chicken:before {
+  content: "\1F414"
+}
+.icon-nature-dogside:before {
+  content: "\1F415"
+}
+.icon-nature-pigside:before {
+  content: "\1F416"
+}
+.icon-nature-boar:before {
+  content: "\1F417"
+}
+.icon-nature-elephant:before {
+  content: "\1F418"
+}
+.icon-nature-octopus:before {
+  content: "\1F419"
+}
+.icon-nature-turtle:before {
+  content: "\1F422"
+}
+.icon-nature-hatchingchick:before {
+  content: "\1F423"
+}
+.icon-nature-babychick:before {
+  content: "\1F424"
+}
+.icon-nature-frontfacingchick:before {
+  content: "\1F425"
+}
+.icon-nature-bird:before {
+  content: "\1F426"
+}
+.icon-nature-penguin:before {
+  content: "\1F427"
+}
+.icon-nature-koala:before {
+  content: "\1F428"
+}
+.icon-nature-poodle:before {
+  content: "\1F429"
+}
+.icon-nature-dromedarycamel:before {
+  content: "\1F42A"
+}
+.icon-nature-bactriancamel:before {
+  content: "\1F42B"
+}
+.icon-nature-dolphin:before {
+  content: "\1F42C"
+}
+.icon-nature-mouse:before {
+  content: "\1F42D"
+}
+.icon-nature-cowface:before {
+  content: "\1F42E"
+}
+.icon-nature-tiger:before {
+  content: "\1F42F"
+}
+.icon-nature-bunny:before {
+  content: "\1F430"
+}
+.icon-nature-cat:before {
+  content: "\1F431"
+}
+.icon-nature-dragonhead:before {
+  content: "\1F432"
+}
+.icon-nature-spurtingwhale:before {
+  content: "\1F433"
+}
+.icon-nature-horseface:before {
+  content: "\1F434"
+}
+.icon-nature-monkeyface:before {
+  content: "\1F435"
+}
+.icon-nature-dog:before {
+  content: "\1F436"
+}
+.icon-nature-pig:before {
+  content: "\1F437"
+}
+.icon-nature-frog:before {
+  content: "\1F438"
+}
+.icon-nature-hampster:before {
+  content: "\1F439"
+}
+.icon-nature-wolfface:before {
+  content: "\1F43A"
+}
+.icon-nature-bear:before {
+  content: "\1F43B"
+}
+.icon-nature-pandaface:before {
+  content: "\1F43C"
+}
+.icon-nature-pigsnout:before {
+  content: "\1F43D"
+}
+.icon-nature-pawprints:before {
+  content: "\1F43E"
+}
+.icon-nature-bouquet:before {
+  content: "\1F490"
+}
+.icon-nature-sunrays:before {
+  content: "\2600"
+}
+.icon-nature-cloud:before {
+  content: "\2601"
+}
+.icon-nature-whitemediumstar:before {
+  content: "\2606"
+}
+.icon-nature-umbrellawithraindrops:before {
+  content: "\2614"
+}
+.icon-nature-bolt:before {
+  content: "\26A1"
+}
+.icon-nature-snowmannosnow:before {
+  content: "\26C4"
+}
+.icon-nature-sunbehindcloud:before {
+  content: "\26C5"
+}
+.icon-nature-snowflake:before {
+  content: "\2744"
+}
