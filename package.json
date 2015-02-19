@@ -4,7 +4,7 @@
   "description": "FirefoxOS emoji icon font tool.",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.8.10",
+    "gulp": "^3.8.11",
     "yargs": "^1.3.3",
     "gulp-consolidate": "^0.1.2",
     "gulp-iconfont": "^0.1.2",

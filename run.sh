@@ -15,11 +15,15 @@ generate_font() {
 
 
   #Dumping 'cmap' table
-  ttx -a -o tmp/${font_name}/${font_name}.ttx -t cmap tmp/${font_name}/${font_name}.ttf
+  ttx -o tmp/${font_name}/${font_name}.ttx -t cmap tmp/${font_name}/${font_name}.ttf
 
   # Remove Glyphs from 'cmap' table
   for file in `find ${svgs_dir}/${font_name}/ -name "*.svg"`
     do
+      # if [[ $file == *layer* ]]
+      #   then
+      #   svgo $file
+      # fi
       #get first 2 characters after first 4 characters
       filename=$(basename $file);
       if [[ $filename == *layer* ]]

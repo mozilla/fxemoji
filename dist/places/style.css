@@ -1,0 +1,260 @@
+@font-face {
+  font-family: "places";
+  src: url('places.eot');
+  src: url('places.eot?#iefix') format('eot'),
+    url('places.woff') format('woff'),
+    url('places.ttf') format('truetype'),
+    url('places.svg#places') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "places";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-places-nightwithstars:before {
+  content: "\1F303"
+}
+.icon-places-sunriseovermountains:before {
+  content: "\1F304"
+}
+.icon-places-sunrise:before {
+  content: "\1F305"
+}
+.icon-places-cityscapeatdusk:before {
+  content: "\1F306"
+}
+.icon-places-bridgeatnight:before {
+  content: "\1F309"
+}
+.icon-places-carouselhorse:before {
+  content: "\1F3A0"
+}
+.icon-places-FERRISWHEEL:before {
+  content: "\1F3A1"
+}
+.icon-places-rollercoaster:before {
+  content: "\1F3A2"
+}
+.icon-places-circustent:before {
+  content: "\1F3AA"
+}
+.icon-places-ticket:before {
+  content: "\1F3AB"
+}
+.icon-places-performingarts:before {
+  content: "\1F3AD"
+}
+.icon-places-slotmachine:before {
+  content: "\1F3B0"
+}
+.icon-places-housebuilding:before {
+  content: "\1F3E0"
+}
+.icon-places-housewithgarden:before {
+  content: "\1F3E1"
+}
+.icon-places-officebuilding:before {
+  content: "\1F3E2"
+}
+.icon-places-japanesepostoffice:before {
+  content: "\1F3E3"
+}
+.icon-places-europeanpostoffice:before {
+  content: "\1F3E4"
+}
+.icon-places-hospital:before {
+  content: "\1F3E5"
+}
+.icon-places-bank:before {
+  content: "\1F3E6"
+}
+.icon-places-hotel:before {
+  content: "\1F3E8"
+}
+.icon-places-lovehotel:before {
+  content: "\1F3E9"
+}
+.icon-places-conveniencestore:before {
+  content: "\1F3EA"
+}
+.icon-places-school:before {
+  content: "\1F3EB"
+}
+.icon-places-departmentstore:before {
+  content: "\1F3EC"
+}
+.icon-places-factory:before {
+  content: "\1F3ED"
+}
+.icon-places-IZAKAYALANTERN:before {
+  content: "\1F3EE"
+}
+.icon-places-japanesecastle:before {
+  content: "\1F3EF"
+}
+.icon-places-europeancastle:before {
+  content: "\1F3F0"
+}
+.icon-places-barberpole:before {
+  content: "\1F488"
+}
+.icon-places-wedding:before {
+  content: "\1F492"
+}
+.icon-places-seat:before {
+  content: "\1F4BA"
+}
+.icon-places-roundpushpin:before {
+  content: "\1F4CD"
+}
+.icon-places-japanesesymbolforbeginner:before {
+  content: "\1F530"
+}
+.icon-places-mountfuji:before {
+  content: "\1F5FB"
+}
+.icon-places-toykotower:before {
+  content: "\1F5FC"
+}
+.icon-places-silhouetteohjapan:before {
+  content: "\1F5FE"
+}
+.icon-places-moyai:before {
+  content: "\1F5FF"
+}
+.icon-places-rocket:before {
+  content: "\1F680"
+}
+.icon-places-helicopter:before {
+  content: "\1F681"
+}
+.icon-places-steamlocomotive:before {
+  content: "\1F682"
+}
+.icon-places-railwaycar:before {
+  content: "\1F683"
+}
+.icon-places-highspeedtrain:before {
+  content: "\1F684"
+}
+.icon-places-highspeedtrainbulletnose:before {
+  content: "\1F685"
+}
+.icon-places-train:before {
+  content: "\1F686"
+}
+.icon-places-metro:before {
+  content: "\1F687"
+}
+.icon-places-lightrail:before {
+  content: "\1F688"
+}
+.icon-places-station:before {
+  content: "\1F689"
+}
+.icon-places-tram:before {
+  content: "\1F68A"
+}
+.icon-places-tramcar:before {
+  content: "\1F68B"
+}
+.icon-places-bus:before {
+  content: "\1F68C"
+}
+.icon-places-oncomingbus:before {
+  content: "\1F68D"
+}
+.icon-places-trolleybus:before {
+  content: "\1F68E"
+}
+.icon-places-busstop:before {
+  content: "\1F68F"
+}
+.icon-places-minibus:before {
+  content: "\1F690"
+}
+.icon-places-ambulance:before {
+  content: "\1F691"
+}
+.icon-places-fireengine:before {
+  content: "\1F692"
+}
+.icon-places-policecar:before {
+  content: "\1F693"
+}
+.icon-places-oncomingpolicecar:before {
+  content: "\1F694"
+}
+.icon-places-oncomingtaxi:before {
+  content: "\1F696"
+}
+.icon-places-automobile:before {
+  content: "\1F697"
+}
+.icon-places-deliverytruck:before {
+  content: "\1F69A"
+}
+.icon-places-articulatedlorry:before {
+  content: "\1F69B"
+}
+.icon-places-tractor:before {
+  content: "\1F69C"
+}
+.icon-places-monorail:before {
+  content: "\1F69D"
+}
+.icon-places-mountainrailway:before {
+  content: "\1F69E"
+}
+.icon-places-suspensionrailway:before {
+  content: "\1F69F"
+}
+.icon-places-mountaincableway:before {
+  content: "\1F6A0"
+}
+.icon-places-aerialtramway:before {
+  content: "\1F6A1"
+}
+.icon-places-ship:before {
+  content: "\1F6A2"
+}
+.icon-places-rowboat:before {
+  content: "\1F6A3"
+}
+.icon-places-speedboat:before {
+  content: "\1F6A4"
+}
+.icon-places-horizontaltrafficlight:before {
+  content: "\1F6A5"
+}
+.icon-places-verticaltrafficlight:before {
+  content: "\1F6A6"
+}
+.icon-places-constructionsign:before {
+  content: "\1F6A7"
+}
+.icon-places-policecarsrevolvinglight:before {
+  content: "\1F6A8"
+}
+.icon-places-triangularflagonpost:before {
+  content: "\1F6A9"
+}
+.icon-places-bicycle:before {
+  content: "\1F6B2"
+}
+.icon-places-fountain:before {
+  content: "\26F2"
+}
+.icon-places-tent:before {
+  content: "\26FA"
+}
+.icon-places-statueofliberty:before {
+  content: "\F5FD"
+}

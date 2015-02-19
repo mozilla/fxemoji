@@ -42,6 +42,11 @@ if __name__ == "__main__":
       color=raw_svg.split('fill="#')[1].split('"')[0]
 
 
+      if len(color) == 3:  # short group
+        value = [c + c for c in color]
+        color = value[0] + value[1] + value[2]
+
+
       #get codes and layer index
       file_name=file.replace('.svg','').split('layer')
       key=file_name[0].replace('.','')

@@ -18,9 +18,6 @@
   cursor: pointer;
 }
 
-.icon-people-peace:before {
-  content: "\1262E"
-}
 .icon-people-umbrella:before {
   content: "\1F302"
 }
@@ -264,13 +261,13 @@
 .icon-people-gem:before {
   content: "\1F48E"
 }
-.icon-people-kiss2:before {
+.icon-people-couplekiss:before {
   content: "\1F48F"
 }
 .icon-people-couple:before {
   content: "\1F491"
 }
-.icon-people-beating_heart:before {
+.icon-people-beating__heart:before {
   content: "\1F493"
 }
 .icon-people-brokenheart:before {
@@ -306,7 +303,7 @@
 .icon-people-anger:before {
   content: "\1F4A2"
 }
-.icon-people-sleeping2:before {
+.icon-people-zzz:before {
   content: "\1F4A4"
 }
 .icon-people-collision:before {
@@ -315,7 +312,7 @@
 .icon-people-sweatsplash:before {
   content: "\1F4A6"
 }
-.icon-people-sweat:before {
+.icon-people-droplet:before {
   content: "\1F4A7"
 }
 .icon-people-dash:before {
@@ -327,7 +324,7 @@
 .icon-people-flexbicep:before {
   content: "\1F4AA"
 }
-.icon-people-dizzy2:before {
+.icon-people-dizzy:before {
   content: "\1F4AB"
 }
 .icon-people-speechbubble:before {
@@ -399,7 +396,7 @@
 .icon-people-unamused:before {
   content: "\1F612"
 }
-.icon-people-coldsweat:before {
+.icon-people-sweat:before {
   content: "\1F613"
 }
 .icon-people-pensive:before {
@@ -486,7 +483,7 @@
 .icon-people-hushed:before {
   content: "\1F62F"
 }
-.icon-people-coldsweat2:before {
+.icon-people-coldsweat:before {
   content: "\1F630"
 }
 .icon-people-screamfear:before {
@@ -501,7 +498,7 @@
 .icon-people-sleeping:before {
   content: "\1F634"
 }
-.icon-people-dizzy:before {
+.icon-people-dizzyface:before {
   content: "\1F635"
 }
 .icon-people-nomouth:before {
@@ -584,6 +581,9 @@
 }
 .icon-people-hand:before {
   content: "\270B"
+}
+.icon-people-victoryhand:before {
+  content: "\270C"
 }
 .icon-people-sparkles:before {
   content: "\2728"

@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g id="Layer_4">
-	<path fill="#E5E4DF" d="M309.365,247c-2.832-32.971-30.121-58.914-63.751-58.914c-33.723,0-61.013,25.943-63.886,58.914
-		l-0.776,41.426h0.276c0,0.135,0,0.182,0,0.252c0,35.546,28.84,64.386,64.386,64.386S310,324.224,310,288.679
-		c0-0.07-0.135-0.117-0.135-0.252H310V247H309.365z"/>
-</g>
-<g id="Layer_1">
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" enable-background="new 0 0 512 512"><path fill="#E5E4DF" d="M309.365 247c-2.832-32.97-30.12-58.914-63.75-58.914-33.724 0-61.014 25.943-63.887 58.914l-.776 41.426h.276v.252c0 35.546 28.84 64.386 64.386 64.386S310 324.224 310 288.68c0-.07-.135-.118-.135-.253H310V247h-.635z"/></svg>

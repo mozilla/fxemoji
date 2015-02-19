@@ -373,8 +373,8 @@
       "layers": [
         {
           "color": "2BA52E",
-          "name": "u1F33F.layer0",
-          "order": 0
+          "name": "u1F33F.layer1",
+          "order": 1
         }
       ]
     }
@@ -1232,7 +1232,7 @@
           "order": 4
         },
         {
-          "color": "FFEECC",
+          "color": "ffeecc",
           "name": "u1F408.layer5",
           "order": 5
         }
@@ -1922,7 +1922,7 @@
           "order": 2
         },
         {
-          "color": "FFFFFF",
+          "color": "ffffff",
           "name": "u1F419.layer3",
           "order": 3
         },
@@ -2422,7 +2422,7 @@
           "order": 2
         },
         {
-          "color": "00CC00",
+          "color": "00cc00",
           "name": "u1F438.layer3",
           "order": 3
         },

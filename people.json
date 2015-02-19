@@ -558,7 +558,7 @@
     "icon": {
       "glyph": {
         "code": "u1F613",
-        "name": "coldsweat"
+        "name": "sweat"
       },
       "layers": [
         {
@@ -2248,7 +2248,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4AB",
-        "name": "dizzy2"
+        "name": "dizzy"
       },
       "layers": [
         {
@@ -2268,7 +2268,7 @@
     "icon": {
       "glyph": {
         "code": "u1F48F",
-        "name": "kiss2"
+        "name": "couplekiss"
       },
       "layers": [
         {
@@ -3098,7 +3098,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4A4",
-        "name": "sleeping2"
+        "name": "zzz"
       },
       "layers": [
         {
@@ -3123,7 +3123,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4A7",
-        "name": "sweat"
+        "name": "droplet"
       },
       "layers": [
         {
@@ -3210,6 +3210,26 @@
           "color": "FF7DDA",
           "name": "u1F482.layer5",
           "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u270C",
+        "name": "victoryhand"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u270C.layer1",
+          "order": 1
+        },
+        {
+          "color": "F2C7AA",
+          "name": "u270C.layer2",
+          "order": 2
         }
       ]
     }
@@ -4418,7 +4438,7 @@
     "icon": {
       "glyph": {
         "code": "u1F493",
-        "name": "beating_heart"
+        "name": "beating__heart"
       },
       "layers": [
         {
@@ -5262,26 +5282,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1262E",
-        "name": "peace"
-      },
-      "layers": [
-        {
-          "color": "FFD3B6",
-          "name": "u1262E.layer1",
-          "order": 1
-        },
-        {
-          "color": "F2C7AA",
-          "name": "u1262E.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F3C3",
         "name": "running"
       },
@@ -5335,6 +5335,31 @@
           "color": "FFD3B6",
           "name": "u1F3C3.layer10",
           "order": 10
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F3C3.layer11",
+          "order": 11
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3C3.layer12",
+          "order": 12
+        },
+        {
+          "color": "68442A",
+          "name": "u1F3C3.layer13",
+          "order": 13
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3C3.layer14",
+          "order": 14
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3C3.layer15",
+          "order": 15
         }
       ]
     }
@@ -5438,7 +5463,7 @@
     "icon": {
       "glyph": {
         "code": "u1F630",
-        "name": "coldsweat2"
+        "name": "coldsweat"
       },
       "layers": [
         {
@@ -5548,7 +5573,7 @@
     "icon": {
       "glyph": {
         "code": "u1F635",
-        "name": "dizzy"
+        "name": "dizzyface"
       },
       "layers": [
         {
