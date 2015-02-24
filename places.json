@@ -2,6 +2,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F699",
+        "name": "recreationalvehicle"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F699.layer1",
+          "order": 1
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F699.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F699.layer3",
+          "order": 3
+        },
+        {
+          "color": "9BA5A8",
+          "name": "u1F699.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F699.layer5",
+          "order": 5
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F699.layer6",
+          "order": 6
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F699.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F699.layer8",
+          "order": 8
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F699.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F698",
         "name": "oncomingautomobile"
       },
