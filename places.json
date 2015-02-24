@@ -2067,6 +2067,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26F5",
+        "name": "sailboat"
+      },
+      "layers": [
+        {
+          "color": "D7F4F7",
+          "name": "u26F5.layer1",
+          "order": 1
+        },
+        {
+          "color": "00BEEA",
+          "name": "u26F5.layer2",
+          "order": 2
+        },
+        {
+          "color": "AF773F",
+          "name": "u26F5.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u26F5.layer4",
+          "order": 4
+        },
+        {
+          "color": "464A4C",
+          "name": "u26F5.layer5",
+          "order": 5
+        },
+        {
+          "color": "D19B61",
+          "name": "u26F5.layer6",
+          "order": 6
+        },
+        {
+          "color": "00A6C1",
+          "name": "u26F5.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4CD",
         "name": "roundpushpin"
       },
