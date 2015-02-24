@@ -261,6 +261,9 @@
 .icon-places-anchor:before {
   content: "\2693"
 }
+.icon-places-church:before {
+  content: "\26EA"
+}
 .icon-places-fountain:before {
   content: "\26F2"
 }

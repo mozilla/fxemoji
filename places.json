@@ -3127,6 +3127,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26EA",
+        "name": "church"
+      },
+      "layers": [
+        {
+          "color": "C8CACB",
+          "name": "u26EA.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u26EA.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u26EA.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u26EA.layer4",
+          "order": 4
+        },
+        {
+          "color": "F2A74E",
+          "name": "u26EA.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u26EA.layer6",
+          "order": 6
+        },
+        {
+          "color": "899296",
+          "name": "u26EA.layer7",
+          "order": 7
+        },
+        {
+          "color": "C8CACB",
+          "name": "u26EA.layer8",
+          "order": 8
+        },
+        {
+          "color": "EBECED",
+          "name": "u26EA.layer9",
+          "order": 9
+        },
+        {
+          "color": "F2A74E",
+          "name": "u26EA.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2693",
         "name": "anchor"
       },
