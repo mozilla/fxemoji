@@ -255,6 +255,9 @@
 .icon-places-bicycle:before {
   content: "\1F6B2"
 }
+.icon-places-hotsprings:before {
+  content: "\2668"
+}
 .icon-places-anchor:before {
   content: "\2693"
 }

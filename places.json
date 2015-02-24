@@ -352,6 +352,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2668",
+        "name": "hotsprings"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u2668.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F698",
         "name": "oncomingautomobile"
       },
