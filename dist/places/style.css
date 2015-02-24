@@ -192,6 +192,9 @@
 .icon-places-oncomingpolicecar:before {
   content: "\1F694"
 }
+.icon-places-taxi:before {
+  content: "\1F695"
+}
 .icon-places-oncomingtaxi:before {
   content: "\1F696"
 }
