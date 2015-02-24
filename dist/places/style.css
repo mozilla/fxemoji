@@ -201,6 +201,9 @@
 .icon-places-automobile:before {
   content: "\1F697"
 }
+.icon-places-oncomingautomobile:before {
+  content: "\1F698"
+}
 .icon-places-deliverytruck:before {
   content: "\1F69A"
 }

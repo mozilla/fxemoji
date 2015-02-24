@@ -322,6 +322,76 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F698",
+        "name": "oncomingautomobile"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F698.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F698.layer2",
+          "order": 2
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F698.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F698.layer4",
+          "order": 4
+        },
+        {
+          "color": "9BA5A8",
+          "name": "u1F698.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F698.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F698.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F698.layer8",
+          "order": 8
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F698.layer9",
+          "order": 9
+        },
+        {
+          "color": "8A8D8E",
+          "name": "u1F698.layer10",
+          "order": 10
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F698.layer11",
+          "order": 11
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F698.layer12",
+          "order": 12
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F680",
         "name": "rocket"
       },
