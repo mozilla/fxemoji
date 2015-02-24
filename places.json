@@ -1372,6 +1372,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2693",
+        "name": "anchor"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u2693.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F691",
         "name": "ambulance"
       },
