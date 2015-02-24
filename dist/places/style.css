@@ -267,6 +267,9 @@
 .icon-places-tent:before {
   content: "\26FA"
 }
+.icon-places-fuelpump:before {
+  content: "\26FD"
+}
 .icon-places-airplane:before {
   content: "\2708"
 }
