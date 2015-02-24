@@ -261,6 +261,9 @@
 .icon-places-tent:before {
   content: "\26FA"
 }
+.icon-places-airplane:before {
+  content: "\2708"
+}
 .icon-places-statueofliberty:before {
   content: "\F5FD"
 }

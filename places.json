@@ -257,6 +257,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2708",
+        "name": "airplane"
+      },
+      "layers": [
+        {
+          "color": "707D7F",
+          "name": "u2708.layer1",
+          "order": 1
+        },
+        {
+          "color": "8DC5D8",
+          "name": "u2708.layer2",
+          "order": 2
+        },
+        {
+          "color": "C9D6D6",
+          "name": "u2708.layer3",
+          "order": 3
+        },
+        {
+          "color": "707D7F",
+          "name": "u2708.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F693",
         "name": "policecar"
       },
