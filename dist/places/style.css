@@ -18,6 +18,12 @@
   cursor: pointer;
 }
 
+.icon-places-unitedstatesflag2:before {
+  content: "\1F1F8"
+}
+.icon-places-unitedstatesflag:before {
+  content: "\1F1FA"
+}
 .icon-places-nightwithstars:before {
   content: "\1F303"
 }
