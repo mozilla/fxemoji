@@ -1022,24 +1022,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3EE",
-        "name": "IZAKAYALANTERN"
+        "code": "u26A0",
+        "name": "warningsign"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u1F3EE.layer1",
+          "color": "FFB636",
+          "name": "u26A0.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
-          "name": "u1F3EE.layer2",
+          "color": "2B3B47",
+          "name": "u26A0.layer2",
           "order": 2
-        },
-        {
-          "color": "D32A2A",
-          "name": "u1F3EE.layer3",
-          "order": 3
         }
       ]
     }
@@ -2755,6 +2750,31 @@
           "color": "D1CFC3",
           "name": "u26FD.layer10",
           "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3EE",
+        "name": "IZAKAYALANTERN"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F3EE.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3EE.layer2",
+          "order": 2
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F3EE.layer3",
+          "order": 3
         }
       ]
     }
