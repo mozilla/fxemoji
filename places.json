@@ -672,6 +672,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1EF",
+        "name": "flagjapan"
+      },
+      "layers": [
+        {
+          "color": "E8E8E8",
+          "name": "u1F1EF.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F1EF.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3E6",
         "name": "bank"
       },
@@ -2397,54 +2417,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F686",
-        "name": "train"
+        "code": "u1F6A9",
+        "name": "triangularflagonpost"
       },
       "layers": [
         {
-          "color": "B1B8BC",
-          "name": "u1F686.layer1",
+          "color": "D5DEE4",
+          "name": "u1F6A9.layer1",
           "order": 1
         },
         {
-          "color": "89999B",
-          "name": "u1F686.layer2",
+          "color": "FF473E",
+          "name": "u1F6A9.layer2",
           "order": 2
-        },
-        {
-          "color": "606E72",
-          "name": "u1F686.layer3",
-          "order": 3
-        },
-        {
-          "color": "B1B8BC",
-          "name": "u1F686.layer4",
-          "order": 4
-        },
-        {
-          "color": "EBECED",
-          "name": "u1F686.layer5",
-          "order": 5
-        },
-        {
-          "color": "B1B8BC",
-          "name": "u1F686.layer6",
-          "order": 6
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F686.layer7",
-          "order": 7
-        },
-        {
-          "color": "597B91",
-          "name": "u1F686.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F686.layer9",
-          "order": 9
         }
       ]
     }
@@ -4017,19 +4002,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6A9",
-        "name": "triangularflagonpost"
+        "code": "u1F686",
+        "name": "train"
       },
       "layers": [
         {
-          "color": "D5DEE4",
-          "name": "u1F6A9.layer1",
+          "color": "B1B8BC",
+          "name": "u1F686.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
-          "name": "u1F6A9.layer2",
+          "color": "89999B",
+          "name": "u1F686.layer2",
           "order": 2
+        },
+        {
+          "color": "606E72",
+          "name": "u1F686.layer3",
+          "order": 3
+        },
+        {
+          "color": "B1B8BC",
+          "name": "u1F686.layer4",
+          "order": 4
+        },
+        {
+          "color": "EBECED",
+          "name": "u1F686.layer5",
+          "order": 5
+        },
+        {
+          "color": "B1B8BC",
+          "name": "u1F686.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F686.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F686.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F686.layer9",
+          "order": 9
         }
       ]
     }
