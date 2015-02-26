@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "symbols";
+  src: url('symbols.eot');
+  src: url('symbols.eot?#iefix') format('eot'),
+    url('symbols.woff') format('woff'),
+    url('symbols.ttf') format('truetype'),
+    url('symbols.svg#symbols') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "symbols";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-symbols-copyrightsign:before {
+  content: "\A9"
+}

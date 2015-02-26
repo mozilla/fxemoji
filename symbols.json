@@ -1,0 +1,22 @@
+[
+  {
+    "icon": {
+      "glyph": {
+        "code": "u00A9",
+        "name": "copyrightsign"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u00A9.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u00A9.layer2",
+          "order": 2
+        }
+      ]
+    }
+  }
+]
