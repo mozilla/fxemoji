@@ -36,6 +36,9 @@
 .icon-symbols-nonpotablewatersymbol:before {
   content: "\1F6B1"
 }
+.icon-symbols-blackrightwardsarrow:before {
+  content: "\27A1"
+}
 .icon-symbols-leftwardsblackarrow:before {
   content: "\2B05"
 }
