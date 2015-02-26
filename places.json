@@ -447,84 +447,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F695",
-        "name": "taxi"
+        "code": "u1F1F3",
+        "name": "chineseflag2"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u1F695.layer1",
+          "color": "FF473E",
+          "name": "u1F1F3.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u1F695.layer2",
+          "color": "FFD469",
+          "name": "u1F1F3.layer2",
           "order": 2
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F695.layer3",
-          "order": 3
-        },
-        {
-          "color": "E08820",
-          "name": "u1F695.layer4",
-          "order": 4
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer5",
-          "order": 5
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F695.layer6",
-          "order": 6
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer7",
-          "order": 7
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer8",
-          "order": 8
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer9",
-          "order": 9
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer10",
-          "order": 10
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F695.layer11",
-          "order": 11
-        },
-        {
-          "color": "9BA5A8",
-          "name": "u1F695.layer12",
-          "order": 12
-        },
-        {
-          "color": "E5E4DF",
-          "name": "u1F695.layer13",
-          "order": 13
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F695.layer14",
-          "order": 14
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F695.layer15",
-          "order": 15
         }
       ]
     }
@@ -1357,6 +1292,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1E8",
+        "name": "chineseflag"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F1E8.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F1E8.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5FC",
         "name": "toykotower"
       },
@@ -2020,6 +1975,91 @@
           "color": "FFCF53",
           "name": "u1F306.layer5",
           "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F695",
+        "name": "taxi"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F695.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F695.layer3",
+          "order": 3
+        },
+        {
+          "color": "E08820",
+          "name": "u1F695.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F695.layer6",
+          "order": 6
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer8",
+          "order": 8
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer9",
+          "order": 9
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer10",
+          "order": 10
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F695.layer11",
+          "order": 11
+        },
+        {
+          "color": "9BA5A8",
+          "name": "u1F695.layer12",
+          "order": 12
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F695.layer13",
+          "order": 13
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F695.layer14",
+          "order": 14
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F695.layer15",
+          "order": 15
         }
       ]
     }

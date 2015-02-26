@@ -21,8 +21,14 @@
 .icon-places-greatbritainflag2:before {
   content: "\1F1E7"
 }
+.icon-places-chineseflag:before {
+  content: "\1F1E8"
+}
 .icon-places-greatbritainflag:before {
   content: "\1F1EC"
+}
+.icon-places-chineseflag2:before {
+  content: "\1F1F3"
 }
 .icon-places-unitedstatesflag2:before {
   content: "\1F1F8"
