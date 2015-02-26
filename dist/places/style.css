@@ -36,6 +36,9 @@
 .icon-places-flagjapan:before {
   content: "\1F1EF"
 }
+.icon-places-flagkorea:before {
+  content: "\1F1F0"
+}
 .icon-places-russianflag:before {
   content: "\1F1F7"
 }

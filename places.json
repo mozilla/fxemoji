@@ -1707,49 +1707,34 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F69F",
-        "name": "suspensionrailway"
+        "code": "u1F306",
+        "name": "cityscapeatdusk"
       },
       "layers": [
         {
-          "color": "FFB636",
-          "name": "u1F69F.layer1",
+          "color": "FC7E17",
+          "name": "u1F306.layer1",
           "order": 1
         },
         {
-          "color": "597B91",
-          "name": "u1F69F.layer2",
+          "color": "D1552A",
+          "name": "u1F306.layer2",
           "order": 2
         },
         {
-          "color": "FFE1AB",
-          "name": "u1F69F.layer3",
+          "color": "ED8135",
+          "name": "u1F306.layer3",
           "order": 3
         },
         {
-          "color": "FF473E",
-          "name": "u1F69F.layer4",
+          "color": "2B3B47",
+          "name": "u1F306.layer4",
           "order": 4
         },
         {
-          "color": "45565B",
-          "name": "u1F69F.layer5",
+          "color": "FFCF53",
+          "name": "u1F306.layer5",
           "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F69F.layer6",
-          "order": 6
-        },
-        {
-          "color": "BCC4C9",
-          "name": "u1F69F.layer7",
-          "order": 7
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F69F.layer8",
-          "order": 8
         }
       ]
     }
@@ -1865,6 +1850,56 @@
           "color": "597B91",
           "name": "u1F69D.layer10",
           "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F69F",
+        "name": "suspensionrailway"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F69F.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F69F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F69F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F69F.layer4",
+          "order": 4
+        },
+        {
+          "color": "45565B",
+          "name": "u1F69F.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F69F.layer6",
+          "order": 6
+        },
+        {
+          "color": "BCC4C9",
+          "name": "u1F69F.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F69F.layer8",
+          "order": 8
         }
       ]
     }
@@ -2072,34 +2107,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F306",
-        "name": "cityscapeatdusk"
+        "code": "u1F1F0",
+        "name": "flagkorea"
       },
       "layers": [
         {
-          "color": "FC7E17",
-          "name": "u1F306.layer1",
+          "color": "E8E8E8",
+          "name": "u1F1F0.layer1",
           "order": 1
         },
         {
-          "color": "D1552A",
-          "name": "u1F306.layer2",
+          "color": "FF473E",
+          "name": "u1F1F0.layer2",
           "order": 2
         },
         {
-          "color": "ED8135",
-          "name": "u1F306.layer3",
+          "color": "0B67B2",
+          "name": "u1F1F0.layer3",
           "order": 3
         },
         {
           "color": "2B3B47",
-          "name": "u1F306.layer4",
+          "name": "u1F1F0.layer4",
           "order": 4
-        },
-        {
-          "color": "FFCF53",
-          "name": "u1F306.layer5",
-          "order": 5
         }
       ]
     }
@@ -2417,19 +2447,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6A9",
-        "name": "triangularflagonpost"
+        "code": "u1F686",
+        "name": "train"
       },
       "layers": [
         {
-          "color": "D5DEE4",
-          "name": "u1F6A9.layer1",
+          "color": "B1B8BC",
+          "name": "u1F686.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
-          "name": "u1F6A9.layer2",
+          "color": "89999B",
+          "name": "u1F686.layer2",
           "order": 2
+        },
+        {
+          "color": "606E72",
+          "name": "u1F686.layer3",
+          "order": 3
+        },
+        {
+          "color": "B1B8BC",
+          "name": "u1F686.layer4",
+          "order": 4
+        },
+        {
+          "color": "EBECED",
+          "name": "u1F686.layer5",
+          "order": 5
+        },
+        {
+          "color": "B1B8BC",
+          "name": "u1F686.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F686.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F686.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F686.layer9",
+          "order": 9
         }
       ]
     }
@@ -4002,54 +4067,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F686",
-        "name": "train"
+        "code": "u1F6A9",
+        "name": "triangularflagonpost"
       },
       "layers": [
         {
-          "color": "B1B8BC",
-          "name": "u1F686.layer1",
+          "color": "D5DEE4",
+          "name": "u1F6A9.layer1",
           "order": 1
         },
         {
-          "color": "89999B",
-          "name": "u1F686.layer2",
+          "color": "FF473E",
+          "name": "u1F6A9.layer2",
           "order": 2
-        },
-        {
-          "color": "606E72",
-          "name": "u1F686.layer3",
-          "order": 3
-        },
-        {
-          "color": "B1B8BC",
-          "name": "u1F686.layer4",
-          "order": 4
-        },
-        {
-          "color": "EBECED",
-          "name": "u1F686.layer5",
-          "order": 5
-        },
-        {
-          "color": "B1B8BC",
-          "name": "u1F686.layer6",
-          "order": 6
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F686.layer7",
-          "order": 7
-        },
-        {
-          "color": "597B91",
-          "name": "u1F686.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F686.layer9",
-          "order": 9
         }
       ]
     }
