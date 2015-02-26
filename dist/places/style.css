@@ -33,6 +33,9 @@
 .icon-places-italianflag:before {
   content: "\1F1EE"
 }
+.icon-places-russianflag:before {
+  content: "\1F1F7"
+}
 .icon-places-unitedstatesflag:before {
   content: "\1F1FA"
 }
