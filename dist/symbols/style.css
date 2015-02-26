@@ -36,6 +36,9 @@
 .icon-symbols-nosmokingsymbol:before {
   content: "\1F6AD"
 }
+.icon-symbols-putlitterinitsplacesymbol:before {
+  content: "\1F6AE"
+}
 .icon-symbols-potablewatersystem:before {
   content: "\1F6B0"
 }
