@@ -22,6 +22,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2B1C",
+        "name": "whitelargesquare"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u2B1C.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B0",
         "name": "potablewatersystem"
       },
