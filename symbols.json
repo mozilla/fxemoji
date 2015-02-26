@@ -92,6 +92,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4A0",
+        "name": "diamondshapewithdotinside"
+      },
+      "layers": [
+        {
+          "color": "59CAFC",
+          "name": "u1F4A0.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F4A0.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u00A9",
         "name": "copyrightsign"
       },
