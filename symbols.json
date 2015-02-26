@@ -2,6 +2,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3E7",
+        "name": "automatedtellermachine"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F3E7.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F3E7.layer2",
+          "order": 2
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F3E7.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3E7.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3E7.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3E7.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B0",
         "name": "potablewatersystem"
       },
