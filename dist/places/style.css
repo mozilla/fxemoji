@@ -18,6 +18,12 @@
   cursor: pointer;
 }
 
+.icon-places-greatbritainflag2:before {
+  content: "\1F1E7"
+}
+.icon-places-greatbritainflag:before {
+  content: "\1F1EC"
+}
 .icon-places-unitedstatesflag2:before {
   content: "\1F1F8"
 }
