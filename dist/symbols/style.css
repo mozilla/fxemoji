@@ -33,6 +33,9 @@
 .icon-symbols-whiteflower:before {
   content: "\1F4AE"
 }
+.icon-symbols-currencyexchange:before {
+  content: "\1F4B1"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }

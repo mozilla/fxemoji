@@ -27,14 +27,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6AB",
-        "name": "noentrysign"
+        "code": "u1F4B1",
+        "name": "currencyexchange"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F6AB.layer1",
+          "color": "2B3B47",
+          "name": "u1F4B1.layer1",
           "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4B1.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4B1.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4B1.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F6B1",
+        "name": "nonpotablewatersymbol"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F6B1.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F6B1.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F6B1.layer3",
+          "order": 3
         }
       ]
     }
@@ -87,24 +127,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6AD",
-        "name": "nosmokingsymbol"
+        "code": "u1F6AB",
+        "name": "noentrysign"
       },
       "layers": [
         {
-          "color": "00B1FF",
-          "name": "u1F6AD.layer1",
+          "color": "FF473E",
+          "name": "u1F6AB.layer1",
           "order": 1
-        },
-        {
-          "color": "0096D1",
-          "name": "u1F6AD.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6AD.layer3",
-          "order": 3
         }
       ]
     }
@@ -157,23 +187,23 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6B1",
-        "name": "nonpotablewatersymbol"
+        "code": "u1F6AD",
+        "name": "nosmokingsymbol"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u1F6B1.layer1",
+          "color": "00B1FF",
+          "name": "u1F6AD.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u1F6B1.layer2",
+          "color": "0096D1",
+          "name": "u1F6AD.layer2",
           "order": 2
         },
         {
-          "color": "FF473E",
-          "name": "u1F6B1.layer3",
+          "color": "FFFFFF",
+          "name": "u1F6AD.layer3",
           "order": 3
         }
       ]
