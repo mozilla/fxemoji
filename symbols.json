@@ -227,6 +227,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4AE",
+        "name": "whiteflower"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F4AE.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AE.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3E7",
         "name": "automatedtellermachine"
       },
