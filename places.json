@@ -622,6 +622,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1EB",
+        "name": "franceflag"
+      },
+      "layers": [
+        {
+          "color": "0B67B2",
+          "name": "u1F1EB.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F1EB.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "u1F1EB.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F1EC",
         "name": "greatbritainflag"
       },

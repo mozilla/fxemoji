@@ -24,6 +24,9 @@
 .icon-places-spanishflag:before {
   content: "\1F1EA"
 }
+.icon-places-franceflag:before {
+  content: "\1F1EB"
+}
 .icon-places-greatbritainflag:before {
   content: "\1F1EC"
 }
