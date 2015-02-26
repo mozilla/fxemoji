@@ -48,6 +48,9 @@
 .icon-symbols-nonpotablewatersymbol:before {
   content: "\1F6B1"
 }
+.icon-symbols-baggageclaim:before {
+  content: "\1F6C4"
+}
 .icon-symbols-blackrightwardsarrow:before {
   content: "\27A1"
 }
