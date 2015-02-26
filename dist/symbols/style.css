@@ -36,6 +36,9 @@
 .icon-symbols-currencyexchange:before {
   content: "\1F4B1"
 }
+.icon-symbols-heavydollarsign:before {
+  content: "\1F4B2"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }

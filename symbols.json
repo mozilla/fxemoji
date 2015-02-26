@@ -57,6 +57,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4B2",
+        "name": "heavydollarsign"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4B2.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B1",
         "name": "nonpotablewatersymbol"
       },
