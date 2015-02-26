@@ -152,6 +152,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2B55",
+        "name": "heavylargecircle"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u2B55.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A6",
         "name": "cinema"
       },
