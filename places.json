@@ -672,6 +672,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1EE",
+        "name": "italianflag"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u1F1EE.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F1EE.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "u1F1EE.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3E6",
         "name": "bank"
       },
@@ -1177,19 +1202,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u26A0",
-        "name": "warningsign"
+        "code": "u1F3EE",
+        "name": "IZAKAYALANTERN"
       },
       "layers": [
         {
-          "color": "FFB636",
-          "name": "u26A0.layer1",
+          "color": "2B3B47",
+          "name": "u1F3EE.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u26A0.layer2",
+          "color": "FF473E",
+          "name": "u1F3EE.layer2",
           "order": 2
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F3EE.layer3",
+          "order": 3
         }
       ]
     }
@@ -2962,24 +2992,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3EE",
-        "name": "IZAKAYALANTERN"
+        "code": "u26A0",
+        "name": "warningsign"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u1F3EE.layer1",
+          "color": "FFB636",
+          "name": "u26A0.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
-          "name": "u1F3EE.layer2",
+          "color": "2B3B47",
+          "name": "u26A0.layer2",
           "order": 2
-        },
-        {
-          "color": "D32A2A",
-          "name": "u1F3EE.layer3",
-          "order": 3
         }
       ]
     }

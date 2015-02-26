@@ -30,6 +30,9 @@
 .icon-places-greatbritainflag:before {
   content: "\1F1EC"
 }
+.icon-places-italianflag:before {
+  content: "\1F1EE"
+}
 .icon-places-unitedstatesflag:before {
   content: "\1F1FA"
 }
