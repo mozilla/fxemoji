@@ -39,6 +39,9 @@
 .icon-symbols-putlitterinitsplacesymbol:before {
   content: "\1F6AE"
 }
+.icon-symbols-donotlittersymbol:before {
+  content: "\1F6AF"
+}
 .icon-symbols-potablewatersystem:before {
   content: "\1F6B0"
 }
