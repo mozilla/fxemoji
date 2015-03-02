@@ -54,6 +54,9 @@
 .icon-symbols-nomobilephones:before {
   content: "\1F4F5"
 }
+.icon-symbols-antennawithbars:before {
+  content: "\1F4F6"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }

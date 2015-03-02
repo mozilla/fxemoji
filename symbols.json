@@ -107,6 +107,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4F6",
+        "name": "antennawithbars"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F4F6.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F4F6.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4F6.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4AF",
         "name": "hundredpointssymbol"
       },
@@ -467,14 +492,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B1C",
-        "name": "whitelargesquare"
+        "code": "u1F3A6",
+        "name": "cinema"
       },
       "layers": [
         {
-          "color": "D9DDE8",
-          "name": "u2B1C.layer1",
+          "color": "597B91",
+          "name": "u1F3A6.layer1",
           "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F3A6.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3A6.layer3",
+          "order": 3
         }
       ]
     }
@@ -597,24 +632,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3A6",
-        "name": "cinema"
+        "code": "u2B1C",
+        "name": "whitelargesquare"
       },
       "layers": [
         {
-          "color": "597B91",
-          "name": "u1F3A6.layer1",
+          "color": "D9DDE8",
+          "name": "u2B1C.layer1",
           "order": 1
-        },
-        {
-          "color": "2B5770",
-          "name": "u1F3A6.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F3A6.layer3",
-          "order": 3
         }
       ]
     }
