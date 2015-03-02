@@ -42,6 +42,9 @@
 .icon-symbols-heavydollarsign:before {
   content: "\1F4B2"
 }
+.icon-symbols-chartupwardstrendyen:before {
+  content: "\1F4B9"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
