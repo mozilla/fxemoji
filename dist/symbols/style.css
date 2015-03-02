@@ -51,6 +51,9 @@
 .icon-symbols-mobilephoneoff:before {
   content: "\1F4F4"
 }
+.icon-symbols-nomobilephones:before {
+  content: "\1F4F5"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
