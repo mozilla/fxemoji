@@ -677,6 +677,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26AB",
+        "name": "mediumblackcircle"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u26AB.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B3",
         "name": "nobicycles"
       },
