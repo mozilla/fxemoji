@@ -2,6 +2,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u303D",
+        "name": "partalternationmark"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u303D.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B05",
         "name": "leftwardsblackarrow"
       },
@@ -20,6 +35,61 @@
           "color": "F9F9F7",
           "name": "u2B05.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4AE",
+        "name": "whiteflower"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F4AE.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AE.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4AF",
+        "name": "hundredpointssymbol"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F4AF.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AF.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AF.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AF.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4AF.layer5",
+          "order": 5
         }
       ]
     }
@@ -72,44 +142,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6B1",
-        "name": "nonpotablewatersymbol"
+        "code": "u1F6AF",
+        "name": "donotlittersymbol"
       },
       "layers": [
         {
           "color": "2B3B47",
-          "name": "u1F6B1.layer1",
-          "order": 1
+          "name": "u1F6AF.layer0",
+          "order": 0
         },
         {
           "color": "2B3B47",
-          "name": "u1F6B1.layer2",
+          "name": "u1F6AF.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F6AF.layer2",
           "order": 2
         },
         {
           "color": "FF473E",
-          "name": "u1F6B1.layer3",
+          "name": "u1F6AF.layer3",
           "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4A0",
-        "name": "diamondshapewithdotinside"
-      },
-      "layers": [
-        {
-          "color": "59CAFC",
-          "name": "u1F4A0.layer1",
-          "order": 1
-        },
-        {
-          "color": "0096D1",
-          "name": "u1F4A0.layer2",
-          "order": 2
         }
       ]
     }
@@ -142,14 +197,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6AB",
-        "name": "noentrysign"
+        "code": "u1F6AD",
+        "name": "nosmokingsymbol"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F6AB.layer1",
+          "color": "00B1FF",
+          "name": "u1F6AD.layer1",
           "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F6AD.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6AD.layer3",
+          "order": 3
         }
       ]
     }
@@ -202,104 +267,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6AD",
-        "name": "nosmokingsymbol"
+        "code": "u1F6B1",
+        "name": "nonpotablewatersymbol"
       },
       "layers": [
         {
-          "color": "00B1FF",
-          "name": "u1F6AD.layer1",
+          "color": "2B3B47",
+          "name": "u1F6B1.layer1",
           "order": 1
         },
         {
-          "color": "0096D1",
-          "name": "u1F6AD.layer2",
+          "color": "2B3B47",
+          "name": "u1F6B1.layer2",
           "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6AD.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u303D",
-        "name": "partalternationmark"
-      },
-      "layers": [
-        {
-          "color": "FFB636",
-          "name": "u303D.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6C4",
-        "name": "baggageclaim"
-      },
-      "layers": [
-        {
-          "color": "00B1FF",
-          "name": "u1F6C4.layer1",
-          "order": 1
-        },
-        {
-          "color": "0096D1",
-          "name": "u1F6C4.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6C4.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6C4.layer4",
-          "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u2B1C",
-        "name": "whitelargesquare"
-      },
-      "layers": [
-        {
-          "color": "D9DDE8",
-          "name": "u2B1C.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4AE",
-        "name": "whiteflower"
-      },
-      "layers": [
-        {
-          "color": "FF473E",
-          "name": "u1F4AE.layer1",
-          "order": 1
         },
         {
           "color": "FF473E",
-          "name": "u1F4AE.layer2",
-          "order": 2
+          "name": "u1F6B1.layer3",
+          "order": 3
         }
       ]
     }
@@ -347,14 +332,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B55",
-        "name": "heavylargecircle"
+        "code": "u00A9",
+        "name": "copyrightsign"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u2B55.layer1",
+          "color": "2B3B47",
+          "name": "u00A9.layer1",
           "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u00A9.layer2",
+          "order": 2
         }
       ]
     }
@@ -387,6 +377,86 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2B1C",
+        "name": "whitelargesquare"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u2B1C.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2B1B",
+        "name": "blacklargesquare"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u2B1B.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F6AB",
+        "name": "noentrysign"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F6AB.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2B55",
+        "name": "heavylargecircle"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u2B55.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4A0",
+        "name": "diamondshapewithdotinside"
+      },
+      "layers": [
+        {
+          "color": "59CAFC",
+          "name": "u1F4A0.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F4A0.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A6",
         "name": "cinema"
       },
@@ -412,64 +482,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B1B",
-        "name": "blacklargesquare"
+        "code": "u1F6C4",
+        "name": "baggageclaim"
       },
       "layers": [
         {
-          "color": "132028",
-          "name": "u2B1B.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u00A9",
-        "name": "copyrightsign"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u00A9.layer1",
+          "color": "00B1FF",
+          "name": "u1F6C4.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u00A9.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6AF",
-        "name": "donotlittersymbol"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u1F6AF.layer0",
-          "order": 0
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F6AF.layer1",
-          "order": 1
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F6AF.layer2",
+          "color": "0096D1",
+          "name": "u1F6C4.layer2",
           "order": 2
         },
         {
-          "color": "FF473E",
-          "name": "u1F6AF.layer3",
+          "color": "FFFFFF",
+          "name": "u1F6C4.layer3",
           "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C4.layer4",
+          "order": 4
         }
       ]
     }
