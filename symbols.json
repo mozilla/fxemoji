@@ -227,6 +227,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u303D",
+        "name": "partalternationmark"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u303D.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C4",
         "name": "baggageclaim"
       },
