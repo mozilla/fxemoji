@@ -2,6 +2,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u27B0",
+        "name": "curlyloop"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u27B0.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u303D",
         "name": "partalternationmark"
       },
