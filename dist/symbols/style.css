@@ -78,6 +78,9 @@
 .icon-symbols-nobicycles:before {
   content: "\1F6B3"
 }
+.icon-symbols-nopedestrians:before {
+  content: "\1F6B7"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
