@@ -737,6 +737,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u6307",
+        "name": "CJKunifiedideograph_a1"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u6307.layer1",
+          "order": 1
+        },
+        {
+          "color": "009E83",
+          "name": "u6307.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6307.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6307.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6307.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B8",
         "name": "childrencrossing"
       },
