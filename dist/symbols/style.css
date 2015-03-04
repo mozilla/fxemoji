@@ -99,6 +99,9 @@
 .icon-symbols-topwithupwardsarrow:before {
   content: "\1F51D"
 }
+.icon-symbols-nooneunder18symbol:before {
+  content: "\1F51E"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
