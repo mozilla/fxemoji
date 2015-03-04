@@ -87,6 +87,9 @@
 .icon-symbols-antennawithbars:before {
   content: "\1F4F6"
 }
+.icon-symbols-endwithleftwardsarrow:before {
+  content: "\1F51A"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
