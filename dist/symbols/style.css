@@ -36,6 +36,9 @@
 .icon-symbols-CJKunifiedideograph:before {
   content: "\1F21A"
 }
+.icon-symbols-CJKunifiedideograph_a:before {
+  content: "\1F22F"
+}
 .icon-symbols-cinema:before {
   content: "\1F3A6"
 }
