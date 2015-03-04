@@ -96,6 +96,9 @@
 .icon-symbols-babysymbol:before {
   content: "\1F6BC"
 }
+.icon-symbols-watercloset:before {
+  content: "\1F6BE"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
