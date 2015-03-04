@@ -102,6 +102,9 @@
 .icon-symbols-passportcontrol:before {
   content: "\1F6C2"
 }
+.icon-symbols-customs:before {
+  content: "\1F6C3"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }

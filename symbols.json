@@ -822,14 +822,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u274C",
-        "name": "crossmark"
+        "code": "u1F6C3",
+        "name": "customs"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u274C.layer1",
+          "color": "597B91",
+          "name": "u1F6C3.layer1",
           "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F6C3.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C3.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C3.layer4",
+          "order": 4
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6C3.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C3.layer6",
+          "order": 6
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6C3.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C3.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C3.layer9",
+          "order": 9
         }
       ]
     }
@@ -955,6 +995,21 @@
           "color": "FF473E",
           "name": "u1F6B3.layer2",
           "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u274C",
+        "name": "crossmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u274C.layer1",
+          "order": 1
         }
       ]
     }
