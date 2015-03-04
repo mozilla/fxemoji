@@ -108,6 +108,9 @@
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
+.icon-symbols-leftluggage:before {
+  content: "\1F6C5"
+}
 .icon-symbols-mediumblackcircle:before {
   content: "\26AB"
 }
