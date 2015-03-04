@@ -81,6 +81,9 @@
 .icon-symbols-nopedestrians:before {
   content: "\1F6B7"
 }
+.icon-symbols-childrencrossing:before {
+  content: "\1F6B8"
+}
 .icon-symbols-menssymbol:before {
   content: "\1F6B9"
 }
