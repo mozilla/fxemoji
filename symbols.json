@@ -837,6 +837,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6C2",
+        "name": "passportcontrol"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F6C2.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F6C2.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C2.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C2.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C2.layer5",
+          "order": 5
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6C2.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C2.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6C2.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C2.layer9",
+          "order": 9
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6C2.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C4",
         "name": "baggageclaim"
       },
