@@ -167,6 +167,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F18E",
+        "name": "negativesquaredAB"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F18E.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F18E.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F18E.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F18E.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4F3",
         "name": "vibrationmode"
       },
