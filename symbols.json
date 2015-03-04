@@ -1512,6 +1512,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F49F",
+        "name": "heartdecoration"
+      },
+      "layers": [
+        {
+          "color": "FF5FD2",
+          "name": "u1F49F.layer1",
+          "order": 1
+        },
+        {
+          "color": "EF2EC2",
+          "name": "u1F49F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F49F.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u274C",
         "name": "crossmark"
       },
