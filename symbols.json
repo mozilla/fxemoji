@@ -212,6 +212,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F23A",
+        "name": "CJKunifiedideograph_b"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F23A.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u1F23A.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F23A.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F23A.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F18E",
         "name": "negativesquaredAB"
       },
