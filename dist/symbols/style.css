@@ -96,6 +96,9 @@
 .icon-symbols-soonwithrightarrow:before {
   content: "\1F51C"
 }
+.icon-symbols-topwithupwardsarrow:before {
+  content: "\1F51D"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
