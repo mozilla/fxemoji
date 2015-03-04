@@ -692,6 +692,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u274C",
+        "name": "crossmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u274C.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C4",
         "name": "baggageclaim"
       },

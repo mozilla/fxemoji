@@ -90,6 +90,9 @@
 .icon-symbols-mediumblackcircle:before {
   content: "\26AB"
 }
+.icon-symbols-crossmark:before {
+  content: "\274C"
+}
 .icon-symbols-blackrightwardsarrow:before {
   content: "\27A1"
 }
