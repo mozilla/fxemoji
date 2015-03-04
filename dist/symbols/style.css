@@ -93,6 +93,9 @@
 .icon-symbols-restroom:before {
   content: "\1F6BB"
 }
+.icon-symbols-babysymbol:before {
+  content: "\1F6BC"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
