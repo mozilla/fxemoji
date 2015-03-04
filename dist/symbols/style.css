@@ -33,6 +33,9 @@
 .icon-symbols-squaredvs:before {
   content: "\1F19A"
 }
+.icon-symbols-CJKunifiedideograph:before {
+  content: "\1F21A"
+}
 .icon-symbols-cinema:before {
   content: "\1F3A6"
 }
