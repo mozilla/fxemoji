@@ -617,6 +617,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6BA",
+        "name": "womenssymbol"
+      },
+      "layers": [
+        {
+          "color": "FF5FD2",
+          "name": "u1F6BA.layer1",
+          "order": 1
+        },
+        {
+          "color": "EF2EC2",
+          "name": "u1F6BA.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6BA.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u00A9",
         "name": "copyrightsign"
       },

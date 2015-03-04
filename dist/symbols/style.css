@@ -87,6 +87,9 @@
 .icon-symbols-menssymbol:before {
   content: "\1F6B9"
 }
+.icon-symbols-womenssymbol:before {
+  content: "\1F6BA"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
