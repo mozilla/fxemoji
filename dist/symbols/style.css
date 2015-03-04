@@ -159,6 +159,9 @@
 .icon-symbols-partalternationmark:before {
   content: "\303D"
 }
+.icon-symbols-CJKunifiedideograph_b1:before {
+  content: "\55B6"
+}
 .icon-symbols-CJKunifiedideograph_a1:before {
   content: "\6307"
 }
