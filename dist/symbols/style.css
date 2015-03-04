@@ -90,6 +90,9 @@
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }
+.icon-symbols-onarrowleftright:before {
+  content: "\1F51B"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
