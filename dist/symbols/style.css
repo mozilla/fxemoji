@@ -90,6 +90,9 @@
 .icon-symbols-womenssymbol:before {
   content: "\1F6BA"
 }
+.icon-symbols-restroom:before {
+  content: "\1F6BB"
+}
 .icon-symbols-baggageclaim:before {
   content: "\1F6C4"
 }
