@@ -317,6 +317,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F196",
+        "name": "squaredng"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F196.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F196.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F196.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F196.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F18E",
         "name": "negativesquaredAB"
       },
