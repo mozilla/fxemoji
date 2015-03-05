@@ -102,6 +102,9 @@
 .icon-symbols-nooneunder18symbol:before {
   content: "\1F51E"
 }
+.icon-symbols-ten:before {
+  content: "\1F51F"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
