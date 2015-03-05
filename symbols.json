@@ -1212,6 +1212,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F55F",
+        "name": "clock4thirty"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F55F.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F55F.layer2",
+          "order": 2
+        },
+        {
+          "color": "3A5D66",
+          "name": "u1F55F.layer3",
+          "order": 3
+        },
+        {
+          "color": "183F4C",
+          "name": "u1F55F.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F19A",
         "name": "squaredvs"
       },
