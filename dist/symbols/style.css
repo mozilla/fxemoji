@@ -111,6 +111,9 @@
 .icon-symbols-uppointingredtriangle:before {
   content: "\1F53A"
 }
+.icon-symbols-downpointingredtriangle:before {
+  content: "\1F53B"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }

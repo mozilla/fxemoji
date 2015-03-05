@@ -352,6 +352,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F53B",
+        "name": "downpointingredtriangle"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F53B.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F17F",
         "name": "negativesquaredlatincapitalletterP"
       },
