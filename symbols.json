@@ -1647,6 +1647,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u25FE",
+        "name": "blackmediumsmallsquare"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u25FE.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26AB",
         "name": "mediumblackcircle"
       },
