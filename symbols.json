@@ -742,6 +742,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F170",
+        "name": "negativesquaredlatincaptialA"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F170.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F170.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F170.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F55D",
         "name": "clock2thirty"
       },
