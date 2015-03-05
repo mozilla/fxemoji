@@ -1182,6 +1182,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F55B",
+        "name": "clock12oclock"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F55B.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F55B.layer2",
+          "order": 2
+        },
+        {
+          "color": "183F4C",
+          "name": "u1F55B.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6BB",
         "name": "restroom"
       },
