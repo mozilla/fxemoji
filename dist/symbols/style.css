@@ -42,6 +42,9 @@
 .icon-symbols-squaredcool:before {
   content: "\1F192"
 }
+.icon-symbols-squaredfree:before {
+  content: "\1F193"
+}
 .icon-symbols-squaredvs:before {
   content: "\1F19A"
 }
