@@ -2,14 +2,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u27B0",
-        "name": "curlyloop"
+        "code": "u1F52F",
+        "name": "sixpointedstarwithdot"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u27B0.layer1",
+          "color": "A97DFF",
+          "name": "u1F52F.layer1",
           "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u1F52F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F52F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F52F.layer4",
+          "order": 4
         }
       ]
     }
@@ -1685,6 +1700,21 @@
           "color": "FF473E",
           "name": "u1F6B3.layer2",
           "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u27B0",
+        "name": "curlyloop"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u27B0.layer1",
+          "order": 1
         }
       ]
     }
