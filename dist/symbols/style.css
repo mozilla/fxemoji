@@ -117,6 +117,9 @@
 .icon-symbols-clock12oclock:before {
   content: "\1F55B"
 }
+.icon-symbols-clock1thirty:before {
+  content: "\1F55C"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
