@@ -517,6 +517,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F194",
+        "name": "squaredid"
+      },
+      "layers": [
+        {
+          "color": "7359E2",
+          "name": "u1F194.layer1",
+          "order": 1
+        },
+        {
+          "color": "5246CC",
+          "name": "u1F194.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F194.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F194.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4B1",
         "name": "currencyexchange"
       },
