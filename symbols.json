@@ -382,6 +382,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F192",
+        "name": "squaredcool"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F192.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F192.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F192.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F192.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F192.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F192.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F17F",
         "name": "negativesquaredlatincapitalletterP"
       },
