@@ -117,6 +117,9 @@
 .icon-symbols-uppointingsmallredtrisngle:before {
   content: "\1F53C"
 }
+.icon-symbols-downpointingsmallredtrisngle:before {
+  content: "\1F53D"
+}
 .icon-symbols-clock12oclock:before {
   content: "\1F55B"
 }

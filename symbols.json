@@ -72,23 +72,23 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B05",
-        "name": "leftwardsblackarrow"
+        "code": "u1F53D",
+        "name": "downpointingsmallredtrisngle"
       },
       "layers": [
         {
           "color": "597B91",
-          "name": "u2B05.layer1",
+          "name": "u1F53D.layer1",
           "order": 1
         },
         {
           "color": "2B5770",
-          "name": "u2B05.layer2",
+          "name": "u1F53D.layer2",
           "order": 2
         },
         {
           "color": "F9F9F7",
-          "name": "u2B05.layer3",
+          "name": "u1F53D.layer3",
           "order": 3
         }
       ]
@@ -1164,6 +1164,31 @@
         {
           "color": "2B3B47",
           "name": "u1F6B8.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2B05",
+        "name": "leftwardsblackarrow"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u2B05.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u2B05.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u2B05.layer3",
           "order": 3
         }
       ]
