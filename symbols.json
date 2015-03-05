@@ -57,6 +57,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u274C",
+        "name": "crossmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u274C.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u303D",
         "name": "partalternationmark"
       },
@@ -2037,14 +2052,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u274C",
-        "name": "crossmark"
+        "code": "u1F191",
+        "name": "squaredCL"
       },
       "layers": [
         {
           "color": "FF473E",
-          "name": "u274C.layer1",
+          "name": "u1F191.layer1",
           "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F191.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F191.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F191.layer4",
+          "order": 4
         }
       ]
     }
