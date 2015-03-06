@@ -2247,6 +2247,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u6709",
+        "name": "CJKunifiedideograph_g1"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u6709.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u6709.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6709.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6709.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52F",
         "name": "sixpointedstarwithdot"
       },
