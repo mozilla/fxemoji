@@ -1067,6 +1067,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F201",
+        "name": "squaredkatakanakoko"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F201.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F201.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F201.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B8",
         "name": "childrencrossing"
       },
