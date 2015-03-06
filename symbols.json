@@ -1272,6 +1272,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F237",
+        "name": "CJKunifiedideograph_h"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F237.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u1F237.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F237.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F237.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F237.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F236",
         "name": "CJKunifiedideograph_g"
       },
