@@ -2312,6 +2312,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u6708",
+        "name": "CJKunifiedideograph_h1"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u6708.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u6708.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6708.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6708.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u6708.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52F",
         "name": "sixpointedstarwithdot"
       },
