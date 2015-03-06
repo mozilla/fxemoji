@@ -279,6 +279,9 @@
 .icon-symbols-partalternationmark:before {
   content: "\303D"
 }
+.icon-symbols-CJKunifiedideograph_k1:before {
+  content: "\5272"
+}
 .icon-symbols-CJKunifiedideograph_e1:before {
   content: "\5408"
 }

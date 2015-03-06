@@ -2467,6 +2467,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u5272",
+        "name": "CJKunifiedideograph_k1"
+      },
+      "layers": [
+        {
+          "color": "FF6E83",
+          "name": "u5272.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF5072",
+          "name": "u5272.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5272.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5272.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5272.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5272.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AB",
         "name": "noentrysign"
       },
