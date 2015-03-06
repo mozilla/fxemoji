@@ -902,6 +902,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F500",
+        "name": "twistedrightwardsarrows"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F500.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F500.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F500.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F500.layer4",
+          "order": 4
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F500.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B05",
         "name": "leftwardsblackarrow"
       },
@@ -1057,14 +1092,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F53A",
-        "name": "uppointingredtriangle"
+        "code": "u27A1",
+        "name": "blackrightwardsarrow"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F53A.layer1",
+          "color": "597B91",
+          "name": "u27A1.layer1",
           "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u27A1.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u27A1.layer3",
+          "order": 3
         }
       ]
     }
@@ -2732,24 +2777,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u27A1",
-        "name": "blackrightwardsarrow"
+        "code": "u1F53A",
+        "name": "uppointingredtriangle"
       },
       "layers": [
         {
-          "color": "597B91",
-          "name": "u27A1.layer1",
+          "color": "FF473E",
+          "name": "u1F53A.layer1",
           "order": 1
-        },
-        {
-          "color": "2B5770",
-          "name": "u27A1.layer2",
-          "order": 2
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u27A1.layer3",
-          "order": 3
         }
       ]
     }

@@ -147,6 +147,9 @@
 .icon-symbols-antennawithbars:before {
   content: "\1F4F6"
 }
+.icon-symbols-twistedrightwardsarrows:before {
+  content: "\1F500"
+}
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }
