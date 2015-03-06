@@ -1532,6 +1532,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F197",
+        "name": "squaredok"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F197.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F197.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F197.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F197.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F19A",
         "name": "squaredvs"
       },
