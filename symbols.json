@@ -1272,6 +1272,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F236",
+        "name": "CJKunifiedideograph_g"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F236.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u1F236.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F236.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F236.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4A0",
         "name": "diamondshapewithdotinside"
       },
