@@ -1422,6 +1422,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F238",
+        "name": "CJKunifiedideograph_j"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F238.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u1F238.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F238.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B3",
         "name": "nobicycles"
       },
