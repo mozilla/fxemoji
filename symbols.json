@@ -997,6 +997,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26AA",
+        "name": "mediumwhitecircle"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u26AA.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u7981",
         "name": "CJKunifiedideograph_c1"
       },

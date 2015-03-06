@@ -219,6 +219,9 @@
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }
+.icon-symbols-mediumwhitecircle:before {
+  content: "\26AA"
+}
 .icon-symbols-mediumblackcircle:before {
   content: "\26AB"
 }
