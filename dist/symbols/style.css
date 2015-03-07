@@ -162,6 +162,9 @@
 .icon-symbols-anticlockwiseupwardsanddownwardsarrows:before {
   content: "\1F504"
 }
+.icon-symbols-linksymbol:before {
+  content: "\1F517"
+}
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }

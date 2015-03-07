@@ -587,6 +587,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F517",
+        "name": "linksymbol"
+      },
+      "layers": [
+        {
+          "color": "8B8D8E",
+          "name": "u1F517.layer1",
+          "order": 1
+        },
+        {
+          "color": "646768",
+          "name": "u1F517.layer2",
+          "order": 2
+        },
+        {
+          "color": "8B8D8E",
+          "name": "u1F517.layer3",
+          "order": 3
+        },
+        {
+          "color": "8B8D8E",
+          "name": "u1F517.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B1C",
         "name": "whitelargesquare"
       },
