@@ -652,6 +652,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F519",
+        "name": "backwithleftwardsarrow"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F519.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F519.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F519.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F519.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F519.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B1C",
         "name": "whitelargesquare"
       },
