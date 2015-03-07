@@ -183,6 +183,9 @@
 .icon-symbols-downpointingsmallredtrisngle:before {
   content: "\1F53D"
 }
+.icon-symbols-clock4oclock:before {
+  content: "\1F553"
+}
 .icon-symbols-clock12oclock:before {
   content: "\1F55B"
 }
