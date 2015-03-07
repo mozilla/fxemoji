@@ -189,6 +189,9 @@
 .icon-symbols-sixpointedstarwithdot:before {
   content: "\1F52F"
 }
+.icon-symbols-largeredcircle:before {
+  content: "\1F534"
+}
 .icon-symbols-uppointingredtriangle:before {
   content: "\1F53A"
 }
