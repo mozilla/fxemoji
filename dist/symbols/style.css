@@ -165,6 +165,9 @@
 .icon-symbols-linksymbol:before {
   content: "\1F517"
 }
+.icon-symbols-radiobutton:before {
+  content: "\1F518"
+}
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }

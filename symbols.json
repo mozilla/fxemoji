@@ -617,6 +617,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F518",
+        "name": "radiobutton"
+      },
+      "layers": [
+        {
+          "color": "646768",
+          "name": "u1F518.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F518.layer2",
+          "order": 2
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F518.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F518.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F518.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B1C",
         "name": "whitelargesquare"
       },
