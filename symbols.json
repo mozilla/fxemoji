@@ -917,6 +917,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F503",
+        "name": "clockwisedownupcircledarrows"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F503.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F502",
         "name": "clockwiserightwardsleftwardscirclearrowsone"
       },
@@ -1207,6 +1222,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u7A7A",
+        "name": "CJKunifiedideograph2_d1"
+      },
+      "layers": [
+        {
+          "color": "8866B9",
+          "name": "u7A7A.layer1",
+          "order": 1
+        },
+        {
+          "color": "744DB2",
+          "name": "u7A7A.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7A7A.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7A7A.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F170",
         "name": "negativesquaredlatincaptialA"
       },
@@ -1307,29 +1352,34 @@
   {
     "icon": {
       "glyph": {
-        "code": "u7A7A",
-        "name": "CJKunifiedideograph2_d1"
+        "code": "u1F22F",
+        "name": "CJKunifiedideograph_a"
       },
       "layers": [
         {
-          "color": "8866B9",
-          "name": "u7A7A.layer1",
+          "color": "00B89C",
+          "name": "u1F22F.layer1",
           "order": 1
         },
         {
-          "color": "744DB2",
-          "name": "u7A7A.layer2",
+          "color": "009E83",
+          "name": "u1F22F.layer2",
           "order": 2
         },
         {
           "color": "FFFFFF",
-          "name": "u7A7A.layer3",
+          "name": "u1F22F.layer3",
           "order": 3
         },
         {
           "color": "FFFFFF",
-          "name": "u7A7A.layer4",
+          "name": "u1F22F.layer4",
           "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F22F.layer5",
+          "order": 5
         }
       ]
     }
@@ -2695,41 +2745,6 @@
           "color": "FF473E",
           "name": "u1F6AB.layer1",
           "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F22F",
-        "name": "CJKunifiedideograph_a"
-      },
-      "layers": [
-        {
-          "color": "00B89C",
-          "name": "u1F22F.layer1",
-          "order": 1
-        },
-        {
-          "color": "009E83",
-          "name": "u1F22F.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F22F.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F22F.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F22F.layer5",
-          "order": 5
         }
       ]
     }
