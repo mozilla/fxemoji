@@ -153,6 +153,9 @@
 .icon-symbols-clockwiserightwardsleftwardscirclearrows:before {
   content: "\1F501"
 }
+.icon-symbols-clockwiserightwardsleftwardscirclearrowsone:before {
+  content: "\1F502"
+}
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }
