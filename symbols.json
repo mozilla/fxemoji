@@ -1842,6 +1842,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u21A9",
+        "name": "leftwardsarrowwithhook"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u21A9.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u21A9.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u21A9.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F21A",
         "name": "CJKunifiedideograph"
       },
