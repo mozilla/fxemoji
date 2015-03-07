@@ -189,6 +189,9 @@
 .icon-symbols-ten:before {
   content: "\1F51F"
 }
+.icon-symbols-inputsymbolforlatincapitalletters:before {
+  content: "\1F520"
+}
 .icon-symbols-sixpointedstarwithdot:before {
   content: "\1F52F"
 }
