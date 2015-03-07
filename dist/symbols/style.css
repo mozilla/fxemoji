@@ -150,6 +150,9 @@
 .icon-symbols-twistedrightwardsarrows:before {
   content: "\1F500"
 }
+.icon-symbols-clockwiserightwardsleftwardscirclearrows:before {
+  content: "\1F501"
+}
 .icon-symbols-endwithleftwardsarrow:before {
   content: "\1F51A"
 }

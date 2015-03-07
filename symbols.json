@@ -917,6 +917,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F501",
+        "name": "clockwiserightwardsleftwardscirclearrows"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F501.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F501.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F501.layer3",
+          "order": 3
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F501.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F500",
         "name": "twistedrightwardsarrows"
       },
