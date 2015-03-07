@@ -572,19 +572,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u00A9",
-        "name": "copyrightsign"
+        "code": "u2B55",
+        "name": "heavylargecircle"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u00A9.layer1",
+          "color": "FF473E",
+          "name": "u2B55.layer1",
           "order": 1
-        },
-        {
-          "color": "2B3B47",
-          "name": "u00A9.layer2",
-          "order": 2
         }
       ]
     }
@@ -910,6 +905,36 @@
           "color": "132028",
           "name": "u26AB.layer1",
           "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F504",
+        "name": "anticlockwiseupwardsanddownwardsarrows"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F504.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u1F504.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F504.layer3",
+          "order": 3
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F504.layer4",
+          "order": 4
         }
       ]
     }
@@ -2312,14 +2337,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B55",
-        "name": "heavylargecircle"
+        "code": "u00A9",
+        "name": "copyrightsign"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u2B55.layer1",
+          "color": "2B3B47",
+          "name": "u00A9.layer1",
           "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u00A9.layer2",
+          "order": 2
         }
       ]
     }
