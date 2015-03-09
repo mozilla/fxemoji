@@ -195,6 +195,9 @@
 .icon-symbols-inputsymbolforlatinsmallletters:before {
   content: "\1F521"
 }
+.icon-symbols-inputsymbolforsymbols:before {
+  content: "\1F523"
+}
 .icon-symbols-sixpointedstarwithdot:before {
   content: "\1F52F"
 }
