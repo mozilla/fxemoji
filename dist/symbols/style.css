@@ -309,6 +309,9 @@
 .icon-symbols-mediumblackcircle:before {
   content: "\26AB"
 }
+.icon-symbols-ophiuchus:before {
+  content: "\26CE"
+}
 .icon-symbols-crossmark:before {
   content: "\274C"
 }

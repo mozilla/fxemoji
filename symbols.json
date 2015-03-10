@@ -2182,6 +2182,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26CE",
+        "name": "ophiuchus"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u26CE.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u26CE.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u26CE.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A6",
         "name": "cinema"
       },
