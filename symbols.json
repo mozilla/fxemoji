@@ -2987,6 +2987,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F536",
+        "name": "largeorangediamond"
+      },
+      "layers": [
+        {
+          "color": "FF8E39",
+          "name": "u1F536.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F534",
         "name": "largeredcircle"
       },
