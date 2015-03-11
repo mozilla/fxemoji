@@ -1427,6 +1427,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u27BF",
+        "name": "doublecurlyloop"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u27BF.layer0",
+          "order": 0
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F201",
         "name": "squaredkatakanakoko"
       },

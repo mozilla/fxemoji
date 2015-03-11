@@ -330,6 +330,9 @@
 .icon-symbols-curlyloop:before {
   content: "\27B0"
 }
+.icon-symbols-doublecurlyloop:before {
+  content: "\27BF"
+}
 .icon-symbols-leftwardsblackarrow:before {
   content: "\2B05"
 }
