@@ -330,6 +330,9 @@
 .icon-symbols-rightwardsarrowwithhook:before {
   content: "\21AA"
 }
+.icon-symbols-blackrightpointingdoublearrow:before {
+  content: "\23E9"
+}
 .icon-symbols-blackrightpointingarrow:before {
   content: "\25B6"
 }
