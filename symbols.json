@@ -1193,7 +1193,7 @@
     "icon": {
       "glyph": {
         "code": "u7121",
-        "name": "CJKunifiedideograph2"
+        "name": "CJKunifiedideograph_i1"
       },
       "layers": [
         {
@@ -1983,7 +1983,7 @@
     "icon": {
       "glyph": {
         "code": "u1F21A",
-        "name": "CJKunifiedideograph"
+        "name": "CJKunifiedideograph_i"
       },
       "layers": [
         {
