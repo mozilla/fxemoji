@@ -327,6 +327,9 @@
 .icon-symbols-ophiuchus:before {
   content: "\26CE"
 }
+.icon-symbols-noentry:before {
+  content: "\26D4"
+}
 .icon-symbols-crossmark:before {
   content: "\274C"
 }

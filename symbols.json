@@ -3142,6 +3142,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26D4",
+        "name": "noentry"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u26D4.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u26D4.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u26D4.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F53D",
         "name": "downpointingsmallredtrisngle"
       },
