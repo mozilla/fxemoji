@@ -246,6 +246,9 @@
 .icon-symbols-downpointingsmallredtrisngle:before {
   content: "\1F53D"
 }
+.icon-symbols-clock1oclock:before {
+  content: "\1F550"
+}
 .icon-symbols-clock4oclock:before {
   content: "\1F553"
 }
