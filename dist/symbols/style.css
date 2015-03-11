@@ -345,6 +345,9 @@
 .icon-symbols-crossmark:before {
   content: "\274C"
 }
+.icon-symbols-negativesquaredcrossmark:before {
+  content: "\274E"
+}
 .icon-symbols-blackrightwardsarrow:before {
   content: "\27A1"
 }

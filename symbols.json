@@ -3417,6 +3417,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u274E",
+        "name": "negativesquaredcrossmark"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u274E.layer1",
+          "order": 1
+        },
+        {
+          "color": "009E83",
+          "name": "u274E.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u274E.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F524",
         "name": "inputsymbolforlatinletters"
       },
