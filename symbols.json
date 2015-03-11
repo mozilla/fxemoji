@@ -3042,6 +3042,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F537",
+        "name": "largebluediamond"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F537.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F534",
         "name": "largeredcircle"
       },
