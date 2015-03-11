@@ -219,6 +219,9 @@
 .icon-symbols-largeredcircle:before {
   content: "\1F534"
 }
+.icon-symbols-largebluecircle:before {
+  content: "\1F535"
+}
 .icon-symbols-largeorangediamond:before {
   content: "\1F536"
 }

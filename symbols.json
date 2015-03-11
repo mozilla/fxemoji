@@ -3057,6 +3057,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F535",
+        "name": "largebluecircle"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F535.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F532",
         "name": "blacksquarebutton"
       },
