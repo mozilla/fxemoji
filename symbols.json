@@ -3042,6 +3042,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F531",
+        "name": "tridentemblem"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F531.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F53D",
         "name": "downpointingsmallredtrisngle"
       },
