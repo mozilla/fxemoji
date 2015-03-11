@@ -210,6 +210,9 @@
 .icon-symbols-tridentemblem:before {
   content: "\1F531"
 }
+.icon-symbols-blacksquarebutton:before {
+  content: "\1F532"
+}
 .icon-symbols-largeredcircle:before {
   content: "\1F534"
 }
