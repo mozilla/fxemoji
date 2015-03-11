@@ -1217,44 +1217,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u7121",
-        "name": "CJKunifiedideograph_i1"
+        "code": "u21AA",
+        "name": "rightwardsarrowwithhook"
       },
       "layers": [
         {
-          "color": "FFB636",
-          "name": "u7121.layer1",
+          "color": "597B91",
+          "name": "u21AA.layer1",
           "order": 1
         },
         {
-          "color": "ED9B43",
-          "name": "u7121.layer2",
+          "color": "2B5770",
+          "name": "u21AA.layer2",
           "order": 2
         },
         {
-          "color": "FFFFFF",
-          "name": "u7121.layer3",
+          "color": "F9F9F7",
+          "name": "u21AA.layer3",
           "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u7121.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u7121.layer5",
-          "order": 5
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u7121.layer6",
-          "order": 6
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u7121.layer7",
-          "order": 7
         }
       ]
     }
@@ -3420,6 +3400,51 @@
           "color": "FFFFFF",
           "name": "u55B6.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u7121",
+        "name": "CJKunifiedideograph_i1"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u7121.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u7121.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7121.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7121.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7121.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7121.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u7121.layer7",
+          "order": 7
         }
       ]
     }
