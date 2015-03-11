@@ -327,6 +327,9 @@
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }
+.icon-symbols-blackrightpointingarrow:before {
+  content: "\25B6"
+}
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }

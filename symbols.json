@@ -42,6 +42,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u25B6",
+        "name": "blackrightpointingarrow"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u25B6.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u25B6.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u25B6.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4F4",
         "name": "mobilephoneoff"
       },
