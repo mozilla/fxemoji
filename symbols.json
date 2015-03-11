@@ -3212,6 +3212,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F539",
+        "name": "smallbluediamond"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F539.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F53D",
         "name": "downpointingsmallredtrisngle"
       },
