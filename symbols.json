@@ -3062,6 +3062,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F533",
+        "name": "whitesquarebutton"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u1F533.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F533.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F531",
         "name": "tridentemblem"
       },

@@ -213,6 +213,9 @@
 .icon-symbols-blacksquarebutton:before {
   content: "\1F532"
 }
+.icon-symbols-whitesquarebutton:before {
+  content: "\1F533"
+}
 .icon-symbols-largeredcircle:before {
   content: "\1F534"
 }
