@@ -261,6 +261,9 @@
 .icon-symbols-clock6oclock:before {
   content: "\1F555"
 }
+.icon-symbols-clock7oclock:before {
+  content: "\1F556"
+}
 .icon-symbols-clock12oclock:before {
   content: "\1F55B"
 }
