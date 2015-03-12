@@ -414,6 +414,9 @@
 .icon-symbols-negativesquaredcrossmark:before {
   content: "\274E"
 }
+.icon-symbols-heavyexclaimationmarksymbol:before {
+  content: "\2757"
+}
 .icon-symbols-heavyminussign:before {
   content: "\2796"
 }

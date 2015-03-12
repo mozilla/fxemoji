@@ -3997,6 +3997,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2757",
+        "name": "heavyexclaimationmarksymbol"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2757.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u274C",
         "name": "crossmark"
       },
