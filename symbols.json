@@ -2967,6 +2967,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u24C2",
+        "name": "circledlatincapitalletterM"
+      },
+      "layers": [
+        {
+          "color": "59CAFC",
+          "name": "u24C2.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u24C2.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u24C2.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C3",
         "name": "customs"
       },
