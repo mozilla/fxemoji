@@ -2672,6 +2672,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u23EA",
+        "name": "blackleftpointingdoublearrow"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u23EA.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u23EA.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u23EA.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F55D",
         "name": "clock2thirty"
       },
