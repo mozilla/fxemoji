@@ -351,6 +351,9 @@
 .icon-symbols-blackrightpointingdoublearrow:before {
   content: "\23E9"
 }
+.icon-symbols-blackuppointingdoublearrow:before {
+  content: "\23EB"
+}
 .icon-symbols-blackdownpointingdoublearrow:before {
   content: "\23EC"
 }
