@@ -3052,6 +3052,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u264B",
+        "name": "cancer"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u264B.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u264B.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u264B.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u264B.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u5408",
         "name": "CJKunifiedideograph_e1"
       },
