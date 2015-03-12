@@ -381,6 +381,9 @@
 .icon-symbols-blackmediumsquare:before {
   content: "\25FC"
 }
+.icon-symbols-whitemediumsmallsquare:before {
+  content: "\25FD"
+}
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }
