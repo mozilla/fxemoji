@@ -252,6 +252,9 @@
 .icon-symbols-clock2oclock:before {
   content: "\1F551"
 }
+.icon-symbols-clock3oclock:before {
+  content: "\1F552"
+}
 .icon-symbols-clock4oclock:before {
   content: "\1F553"
 }
