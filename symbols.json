@@ -2572,6 +2572,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u25AA",
+        "name": "blacksmallsquare"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u25AA.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u25AB",
         "name": "whitesmallsquare"
       },
