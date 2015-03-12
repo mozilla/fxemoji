@@ -2182,6 +2182,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u203C",
+        "name": "doubleexclaimationmark"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u203C.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u203C.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2648",
         "name": "aries"
       },

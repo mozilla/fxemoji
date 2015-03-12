@@ -342,6 +342,9 @@
 .icon-symbols-leftluggage:before {
   content: "\1F6C5"
 }
+.icon-symbols-doubleexclaimationmark:before {
+  content: "\203C"
+}
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }
