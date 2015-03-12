@@ -354,6 +354,9 @@
 .icon-symbols-blackdownpointingdoublearrow:before {
   content: "\23EC"
 }
+.icon-symbols-whitesmallsquare:before {
+  content: "\25AB"
+}
 .icon-symbols-blackrightpointingarrow:before {
   content: "\25B6"
 }

@@ -2472,6 +2472,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u25AB",
+        "name": "whitesmallsquare"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u25AB.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u7981",
         "name": "CJKunifiedideograph_c1"
       },
