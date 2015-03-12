@@ -345,6 +345,9 @@
 .icon-symbols-doubleexclaimationmark:before {
   content: "\203C"
 }
+.icon-symbols-exclaimationquestionmark:before {
+  content: "\2049"
+}
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }

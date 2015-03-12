@@ -4172,6 +4172,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2049",
+        "name": "exclaimationquestionmark"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2049.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u2049.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u55B6",
         "name": "CJKunifiedideograph_b1"
       },
