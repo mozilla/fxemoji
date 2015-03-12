@@ -3132,6 +3132,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u264E",
+        "name": "libra"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u264E.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u264E.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u264E.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u264E.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u5408",
         "name": "CJKunifiedideograph_e1"
       },
