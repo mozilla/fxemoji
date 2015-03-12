@@ -363,6 +363,9 @@
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }
+.icon-symbols-aries:before {
+  content: "\2648"
+}
 .icon-symbols-gemini:before {
   content: "\264A"
 }
