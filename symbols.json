@@ -3107,6 +3107,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u264D",
+        "name": "virgo"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u264D.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u264D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u264D.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u5408",
         "name": "CJKunifiedideograph_e1"
       },
