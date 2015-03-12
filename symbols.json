@@ -1352,6 +1352,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2652",
+        "name": "aquarius"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u2652.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u2652.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2652.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2652.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u264A",
         "name": "gemini"
       },
