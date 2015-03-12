@@ -342,6 +342,9 @@
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }
+.icon-symbols-gemini:before {
+  content: "\264A"
+}
 .icon-symbols-mediumwhitecircle:before {
   content: "\26AA"
 }
