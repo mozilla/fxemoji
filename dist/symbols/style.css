@@ -375,6 +375,9 @@
 .icon-symbols-blackleftpointingarrow:before {
   content: "\25C0"
 }
+.icon-symbols-whitemediumsquare:before {
+  content: "\25FB"
+}
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }

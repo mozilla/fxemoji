@@ -1537,6 +1537,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u5408",
+        "name": "CJKunifiedideograph_e1"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u5408.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u5408.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5408.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5408.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u5408.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B8",
         "name": "childrencrossing"
       },
@@ -3402,34 +3437,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u5408",
-        "name": "CJKunifiedideograph_e1"
+        "code": "u25FB",
+        "name": "whitemediumsquare"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u5408.layer1",
+          "color": "D9DDE8",
+          "name": "u25FB.layer1",
           "order": 1
-        },
-        {
-          "color": "D32A2A",
-          "name": "u5408.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u5408.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u5408.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u5408.layer5",
-          "order": 5
         }
       ]
     }
