@@ -492,6 +492,9 @@
 .icon-symbols-heavylargecircle:before {
   content: "\2B55"
 }
+.icon-symbols-wavydash:before {
+  content: "\3030"
+}
 .icon-symbols-partalternationmark:before {
   content: "\303D"
 }

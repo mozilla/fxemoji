@@ -3682,6 +3682,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u3030",
+        "name": "wavydash"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u3030.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u6709",
         "name": "CJKunifiedideograph_g1"
       },
