@@ -4217,6 +4217,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2665",
+        "name": "blackheartsuit"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2665.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F538",
         "name": "smallorangediamond"
       },
