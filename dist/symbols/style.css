@@ -483,6 +483,9 @@
 .icon-symbols-noentry:before {
   content: "\26D4"
 }
+.icon-symbols-whiteheavycheckmark:before {
+  content: "\2705"
+}
 .icon-symbols-crossmark:before {
   content: "\274C"
 }
