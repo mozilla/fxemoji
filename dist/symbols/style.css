@@ -18,6 +18,9 @@
   cursor: pointer;
 }
 
+.icon-symbols-hash_keycap:before {
+  content: "\23"
+}
 .icon-symbols-zero_keycap:before {
   content: "\30"
 }
