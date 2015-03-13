@@ -2417,6 +2417,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2139",
+        "name": "informationsource"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u2139.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u2139.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2139.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2139.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u21A9",
         "name": "leftwardsarrowwithhook"
       },
