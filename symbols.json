@@ -4382,6 +4382,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2611",
+        "name": "ballotboxwithcheck"
+      },
+      "layers": [
+        {
+          "color": "646768",
+          "name": "u2611.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u2611.layer2",
+          "order": 2
+        },
+        {
+          "color": "616566",
+          "name": "u2611.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u2611.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u55B6",
         "name": "CJKunifiedideograph_b1"
       },

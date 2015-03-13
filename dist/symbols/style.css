@@ -414,6 +414,9 @@
 .icon-symbols-blackmediumsmallsquare:before {
   content: "\25FE"
 }
+.icon-symbols-ballotboxwithcheck:before {
+  content: "\2611"
+}
 .icon-symbols-aries:before {
   content: "\2648"
 }
