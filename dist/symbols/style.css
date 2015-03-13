@@ -30,6 +30,9 @@
 .icon-symbols-five_keycap:before {
   content: "\35"
 }
+.icon-symbols-six_keycap:before {
+  content: "\36"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }
