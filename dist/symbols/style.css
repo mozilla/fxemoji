@@ -510,6 +510,9 @@
 .icon-symbols-blackquestionmark:before {
   content: "\2753"
 }
+.icon-symbols-whitequestionmark:before {
+  content: "\2754"
+}
 .icon-symbols-heavyexclaimationmarksymbol:before {
   content: "\2757"
 }
