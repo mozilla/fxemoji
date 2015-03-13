@@ -1427,6 +1427,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2663",
+        "name": "blackclubsuit"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2663.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2660",
         "name": "blackspadesuit"
       },

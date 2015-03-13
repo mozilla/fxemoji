@@ -456,6 +456,9 @@
 .icon-symbols-blackspadesuit:before {
   content: "\2660"
 }
+.icon-symbols-blackclubsuit:before {
+  content: "\2663"
+}
 .icon-symbols-blackuniversalrecyclingsymbol:before {
   content: "\267B"
 }
