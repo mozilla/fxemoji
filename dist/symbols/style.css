@@ -21,6 +21,9 @@
 .icon-symbols-two_keycap:before {
   content: "\32"
 }
+.icon-symbols-three_keycap:before {
+  content: "\33"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }
