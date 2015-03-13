@@ -4042,6 +4042,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2748",
+        "name": "sparkle"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u2748.layer1",
+          "order": 1
+        },
+        {
+          "color": "009E83",
+          "name": "u2748.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2748.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AB",
         "name": "noentrysign"
       },

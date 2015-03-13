@@ -498,6 +498,9 @@
 .icon-symbols-eightpointedblackstar:before {
   content: "\2734"
 }
+.icon-symbols-sparkle:before {
+  content: "\2748"
+}
 .icon-symbols-crossmark:before {
   content: "\274C"
 }
