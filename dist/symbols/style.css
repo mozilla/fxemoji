@@ -354,6 +354,9 @@
 .icon-symbols-informationsource:before {
   content: "\2139"
 }
+.icon-symbols-leftrightarrow:before {
+  content: "\2194"
+}
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }

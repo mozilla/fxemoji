@@ -4397,6 +4397,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2194",
+        "name": "leftrightarrow"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u2194.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u2194.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u2194.layer3",
+          "order": 3
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u2194.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u3299",
         "name": "circledideographsecret"
       },
