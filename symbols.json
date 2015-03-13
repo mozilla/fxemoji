@@ -1077,6 +1077,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F250",
+        "name": "circledideographadvantage"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F250.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F19A",
         "name": "squaredvs"
       },
