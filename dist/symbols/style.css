@@ -27,6 +27,9 @@
 .icon-symbols-four_keycap:before {
   content: "\34"
 }
+.icon-symbols-five_keycap:before {
+  content: "\35"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }
