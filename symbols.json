@@ -1457,6 +1457,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2666",
+        "name": "blackdiamondsuit"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2666.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2652",
         "name": "aquarius"
       },

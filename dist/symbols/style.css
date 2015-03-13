@@ -462,6 +462,9 @@
 .icon-symbols-blackheartsuit:before {
   content: "\2665"
 }
+.icon-symbols-blackdiamondsuit:before {
+  content: "\2666"
+}
 .icon-symbols-blackuniversalrecyclingsymbol:before {
   content: "\267B"
 }
