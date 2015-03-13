@@ -486,6 +486,9 @@
 .icon-symbols-whiteheavycheckmark:before {
   content: "\2705"
 }
+.icon-symbols-heavycheckmark:before {
+  content: "\2714"
+}
 .icon-symbols-crossmark:before {
   content: "\274C"
 }

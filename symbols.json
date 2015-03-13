@@ -1882,6 +1882,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2714",
+        "name": "heavycheckmark"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2714.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u3299",
         "name": "circledideographsecret"
       },
