@@ -4487,6 +4487,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u0031",
+        "name": "one_keycap"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u0031.layer1",
+          "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u0031.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B5770",
+          "name": "u0031.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26D4",
         "name": "noentry"
       },

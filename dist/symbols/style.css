@@ -18,6 +18,9 @@
   cursor: pointer;
 }
 
+.icon-symbols-one_keycap:before {
+  content: "\31"
+}
 .icon-symbols-two_keycap:before {
   content: "\32"
 }
