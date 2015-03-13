@@ -4237,29 +4237,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u3297",
-        "name": "circledideographcongratulation"
+        "code": "u0039",
+        "name": "nine_keycap"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u3297.layer1",
+          "color": "597B91",
+          "name": "u0039.layer1",
           "order": 1
         },
         {
-          "color": "D32A2A",
-          "name": "u3297.layer2",
+          "color": "F9F9F7",
+          "name": "u0039.layer2",
           "order": 2
         },
         {
-          "color": "FFFFFF",
-          "name": "u3297.layer3",
+          "color": "2B5770",
+          "name": "u0039.layer3",
           "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u3297.layer4",
-          "order": 4
         }
       ]
     }
@@ -4859,6 +4854,36 @@
         {
           "color": "F4F3EF",
           "name": "u2611.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u3297",
+        "name": "circledideographcongratulation"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u3297.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u3297.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u3297.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u3297.layer4",
           "order": 4
         }
       ]

@@ -39,6 +39,9 @@
 .icon-symbols-eight_keycap:before {
   content: "\38"
 }
+.icon-symbols-nine_keycap:before {
+  content: "\39"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }
