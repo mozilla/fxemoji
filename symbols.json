@@ -2427,6 +2427,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2934",
+        "name": "arrowrightwardsupwards"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u2934.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B5770",
+          "name": "u2934.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u2934.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F567",
         "name": "clock12thirty"
       },
