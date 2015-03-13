@@ -4647,6 +4647,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u0038",
+        "name": "eight_keycap"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u0038.layer1",
+          "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u0038.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B5770",
+          "name": "u0038.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F53D",
         "name": "downpointingsmallredtrisngle"
       },
