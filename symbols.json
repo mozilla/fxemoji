@@ -582,6 +582,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u267F",
+        "name": "wheelchairsymbol"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u267F.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u267F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u267F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u267F.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u267F.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3E7",
         "name": "automatedtellermachine"
       },
