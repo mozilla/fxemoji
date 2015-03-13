@@ -2452,6 +2452,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2734",
+        "name": "eightpointedblackstar"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u2734.layer1",
+          "order": 1
+        },
+        {
+          "color": "ED9B43",
+          "name": "u2734.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2734.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u203C",
         "name": "doubleexclaimationmark"
       },
