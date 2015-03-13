@@ -1587,6 +1587,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2650",
+        "name": "saggitarius"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u2650.layer1",
+          "order": 1
+        },
+        {
+          "color": "7F4AFF",
+          "name": "u2650.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u2650.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u27BF",
         "name": "doublecurlyloop"
       },
@@ -2152,24 +2177,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2650",
-        "name": "saggitarius"
+        "code": "u2122",
+        "name": "trademarksign"
       },
       "layers": [
         {
-          "color": "A97DFF",
-          "name": "u2650.layer1",
+          "color": "2B3B47",
+          "name": "u2122.layer1",
           "order": 1
         },
         {
-          "color": "7F4AFF",
-          "name": "u2650.layer2",
+          "color": "2B3B47",
+          "name": "u2122.layer2",
           "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u2650.layer3",
-          "order": 3
         }
       ]
     }

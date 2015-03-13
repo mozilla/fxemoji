@@ -348,6 +348,9 @@
 .icon-symbols-exclaimationquestionmark:before {
   content: "\2049"
 }
+.icon-symbols-trademarksign:before {
+  content: "\2122"
+}
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }
