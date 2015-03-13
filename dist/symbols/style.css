@@ -363,6 +363,9 @@
 .icon-symbols-northwestarrow:before {
   content: "\2196"
 }
+.icon-symbols-northeastarrow:before {
+  content: "\2197"
+}
 .icon-symbols-leftwardsarrowwithhook:before {
   content: "\21A9"
 }
