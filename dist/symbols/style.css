@@ -519,6 +519,9 @@
 .icon-symbols-heavyexclaimationmarksymbol:before {
   content: "\2757"
 }
+.icon-symbols-heavyplussign:before {
+  content: "\2795"
+}
 .icon-symbols-heavyminussign:before {
   content: "\2796"
 }
