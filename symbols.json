@@ -2672,6 +2672,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2665",
+        "name": "blackheartsuit"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2665.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F21A",
         "name": "CJKunifiedideograph_i"
       },
@@ -4452,14 +4467,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2665",
-        "name": "blackheartsuit"
+        "code": "u0032",
+        "name": "two_keycap"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u2665.layer1",
+          "color": "597B91",
+          "name": "u0032.layer1",
           "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u0032.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B5770",
+          "name": "u0032.layer3",
+          "order": 3
         }
       ]
     }

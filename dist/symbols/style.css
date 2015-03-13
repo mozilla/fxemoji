@@ -18,6 +18,9 @@
   cursor: pointer;
 }
 
+.icon-symbols-two_keycap:before {
+  content: "\32"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }
