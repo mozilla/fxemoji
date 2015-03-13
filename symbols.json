@@ -3042,6 +3042,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2716",
+        "name": "heavymultiplicationsymbol"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2716.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u23EB",
         "name": "blackuppointingdoublearrow"
       },
