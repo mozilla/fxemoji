@@ -33,6 +33,9 @@
 .icon-symbols-six_keycap:before {
   content: "\36"
 }
+.icon-symbols-seven_keycap:before {
+  content: "\37"
+}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }

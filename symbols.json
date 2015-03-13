@@ -3187,14 +3187,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2716",
-        "name": "heavymultiplicationsymbol"
+        "code": "u0037",
+        "name": "seven_keycap"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u2716.layer1",
+          "color": "597B91",
+          "name": "u0037.layer1",
           "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u0037.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B5770",
+          "name": "u0037.layer3",
+          "order": 3
         }
       ]
     }
@@ -4190,6 +4200,21 @@
           "color": "FFFFFF",
           "name": "u2748.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2716",
+        "name": "heavymultiplicationsymbol"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2716.layer1",
+          "order": 1
         }
       ]
     }
