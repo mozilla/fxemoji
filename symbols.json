@@ -4602,6 +4602,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2753",
+        "name": "blackquestionmark"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2753.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u55B6",
         "name": "CJKunifiedideograph_b1"
       },

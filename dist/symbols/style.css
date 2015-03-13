@@ -507,6 +507,9 @@
 .icon-symbols-negativesquaredcrossmark:before {
   content: "\274E"
 }
+.icon-symbols-blackquestionmark:before {
+  content: "\2753"
+}
 .icon-symbols-heavyexclaimationmarksymbol:before {
   content: "\2757"
 }
