@@ -4722,6 +4722,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2755",
+        "name": "whiteexclaimationmark"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u2755.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2194",
         "name": "leftrightarrow"
       },
