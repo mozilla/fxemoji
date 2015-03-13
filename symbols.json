@@ -1812,6 +1812,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2797",
+        "name": "heavydivisionsign"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2795",
         "name": "heavyplussign"
       },

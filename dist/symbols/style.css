@@ -525,6 +525,9 @@
 .icon-symbols-heavyminussign:before {
   content: "\2796"
 }
+.icon-symbols-heavydivisionsign:before {
+  content: "\2797"
+}
 .icon-symbols-blackrightwardsarrow:before {
   content: "\27A1"
 }
