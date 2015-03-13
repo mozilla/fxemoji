@@ -540,6 +540,9 @@
 .icon-symbols-arrowrightwardsupwards:before {
   content: "\2934"
 }
+.icon-symbols-arrowrightwardsdownwards:before {
+  content: "\2935"
+}
 .icon-symbols-leftwardsblackarrow:before {
   content: "\2B05"
 }
