@@ -37,6 +37,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3BA",
+        "name": "trumpet"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F3BA.layer1",
+          "order": 1
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F3BA.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F3BA.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F3BA.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3BA.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3BA.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3BF",
         "name": "skiandskiboot"
       },
