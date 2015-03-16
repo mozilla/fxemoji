@@ -1047,6 +1047,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3B8",
+        "name": "guitar"
+      },
+      "layers": [
+        {
+          "color": "E2A042",
+          "name": "u1F3B8.layer1",
+          "order": 1
+        },
+        {
+          "color": "A36119",
+          "name": "u1F3B8.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F3B8.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3B8.layer4",
+          "order": 4
+        },
+        {
+          "color": "E2A042",
+          "name": "u1F3B8.layer5",
+          "order": 5
+        },
+        {
+          "color": "A36119",
+          "name": "u1F3B8.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A7",
         "name": "headphone"
       },
