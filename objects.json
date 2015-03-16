@@ -2,6 +2,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5AA",
+        "name": "floppydisk"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F5AA.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5AA.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5AA.layer3",
+          "order": 3
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F5AA.layer4",
+          "order": 4
+        },
+        {
+          "color": "132028",
+          "name": "u1F5AA.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F0CF",
         "name": "playingcardblackjoker"
       },
