@@ -2,6 +2,76 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3C4",
+        "name": "surfer"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u1F3C4.layer1",
+          "order": 1
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F3C4.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3C4.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F3C4.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3C4.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3C4.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF929D",
+          "name": "u1F3C4.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3C4.layer8",
+          "order": 8
+        },
+        {
+          "color": "959DA3",
+          "name": "u1F3C4.layer9",
+          "order": 9
+        },
+        {
+          "color": "68442A",
+          "name": "u1F3C4.layer10",
+          "order": 10
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F3C4.layer11",
+          "order": 11
+        },
+        {
+          "color": "E5AB83",
+          "name": "u1F3C4.layer12",
+          "order": 12
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C6",
         "name": "trophy"
       },
