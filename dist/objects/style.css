@@ -60,6 +60,9 @@
 .icon-objects-musicalnote:before {
   content: "\1F3B5"
 }
+.icon-objects-multiplemusicalnotes:before {
+  content: "\1F3B6"
+}
 .icon-objects-skiandskiboot:before {
   content: "\1F3BF"
 }
