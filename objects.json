@@ -37,6 +37,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3C6",
+        "name": "trophy"
+      },
+      "layers": [
+        {
+          "color": "E2A042",
+          "name": "u1F3C6.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3C6.layer2",
+          "order": 2
+        },
+        {
+          "color": "E2A042",
+          "name": "u1F3C6.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3C6.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3C6.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F0CF",
         "name": "playingcardblackjoker"
       },

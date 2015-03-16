@@ -21,6 +21,9 @@
 .icon-objects-playingcardblackjoker:before {
   content: "\1F0CF"
 }
+.icon-objects-trophy:before {
+  content: "\1F3C6"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
