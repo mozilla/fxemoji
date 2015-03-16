@@ -42,6 +42,9 @@
 .icon-objects-videogame:before {
   content: "\1F3AE"
 }
+.icon-objects-directhit:before {
+  content: "\1F3AF"
+}
 .icon-objects-skiandskiboot:before {
   content: "\1F3BF"
 }

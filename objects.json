@@ -232,6 +232,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3AF",
+        "name": "directhit"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F3AF.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3AF.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3AF.layer6",
+          "order": 6
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F3AF.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F0CF",
         "name": "playingcardblackjoker"
       },
