@@ -45,6 +45,9 @@
 .icon-objects-directhit:before {
   content: "\1F3AF"
 }
+.icon-objects-billiards:before {
+  content: "\1F3B1"
+}
 .icon-objects-skiandskiboot:before {
   content: "\1F3BF"
 }
