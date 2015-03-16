@@ -162,6 +162,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3AC",
+        "name": "clapperboard"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u1F3AC.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3AC.layer2",
+          "order": 2
+        },
+        {
+          "color": "445056",
+          "name": "u1F3AC.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F0CF",
         "name": "playingcardblackjoker"
       },
