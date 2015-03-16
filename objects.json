@@ -172,6 +172,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3BF",
+        "name": "skiandskiboot"
+      },
+      "layers": [
+        {
+          "color": "D8E9EA",
+          "name": "u1F3BF.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3BF.layer2",
+          "order": 2
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3BF.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3BF.layer4",
+          "order": 4
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3BF.layer5",
+          "order": 5
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3BF.layer6",
+          "order": 6
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3BF.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F3BF.layer8",
+          "order": 8
+        },
+        {
+          "color": "85DBF9",
+          "name": "u1F3BF.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A3",
         "name": "fishingpoleandfish"
       },
