@@ -927,6 +927,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3B7",
+        "name": "saxophone"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F3B7.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3B7.layer2",
+          "order": 2
+        },
+        {
+          "color": "A36119",
+          "name": "u1F3B7.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3B7.layer4",
+          "order": 4
+        },
+        {
+          "color": "E2A042",
+          "name": "u1F3B7.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3B6",
         "name": "multiplemusicalnotes"
       },
