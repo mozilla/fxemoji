@@ -247,6 +247,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3A8",
+        "name": "artistpalette"
+      },
+      "layers": [
+        {
+          "color": "E5AA6E",
+          "name": "u1F3A8.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3A8.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3A8.layer3",
+          "order": 3
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F3A8.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3A8.layer5",
+          "order": 5
+        },
+        {
+          "color": "009B51",
+          "name": "u1F3A8.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2712",
         "name": "blacknib"
       },
