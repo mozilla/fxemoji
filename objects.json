@@ -92,54 +92,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3A7",
-        "name": "headphone"
+        "code": "u1F4E6",
+        "name": "package"
       },
       "layers": [
         {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer1",
+          "color": "AF773F",
+          "name": "u1F4E6.layer1",
           "order": 1
         },
         {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer2",
+          "color": "E5AA6E",
+          "name": "u1F4E6.layer2",
           "order": 2
         },
         {
-          "color": "176068",
-          "name": "u1F3A7.layer3",
+          "color": "332A23",
+          "name": "u1F4E6.layer3",
           "order": 3
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer4",
+          "color": "3F6072",
+          "name": "u1F4E6.layer4",
           "order": 4
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer5",
-          "order": 5
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer6",
-          "order": 6
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer7",
-          "order": 7
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer8",
-          "order": 8
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer9",
-          "order": 9
         }
       ]
     }
@@ -952,29 +927,99 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E6",
-        "name": "package"
+        "code": "u1F3B4",
+        "name": "flowerplayingcards"
       },
       "layers": [
         {
-          "color": "AF773F",
-          "name": "u1F4E6.layer1",
+          "color": "FF6F1F",
+          "name": "u1F3B4.layer1",
           "order": 1
         },
         {
-          "color": "E5AA6E",
-          "name": "u1F4E6.layer2",
+          "color": "2B3B47",
+          "name": "u1F3B4.layer2",
           "order": 2
         },
         {
-          "color": "332A23",
-          "name": "u1F4E6.layer3",
+          "color": "FFFFFF",
+          "name": "u1F3B4.layer3",
           "order": 3
         },
         {
-          "color": "3F6072",
-          "name": "u1F4E6.layer4",
+          "color": "FFFFFF",
+          "name": "u1F3B4.layer4",
           "order": 4
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F3B4.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3B4.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3B4.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A7",
+        "name": "headphone"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer2",
+          "order": 2
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer4",
+          "order": 4
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer5",
+          "order": 5
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer6",
+          "order": 6
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer7",
+          "order": 7
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer8",
+          "order": 8
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer9",
+          "order": 9
         }
       ]
     }
