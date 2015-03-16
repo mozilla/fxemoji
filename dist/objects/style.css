@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "objects";
+  src: url('objects.eot');
+  src: url('objects.eot?#iefix') format('eot'),
+    url('objects.woff') format('woff'),
+    url('objects.ttf') format('truetype'),
+    url('objects.svg#objects') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "objects";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-objects-playingcardblackjoker:before {
+  content: "\1F0CF"
+}
