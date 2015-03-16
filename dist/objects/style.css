@@ -48,6 +48,9 @@
 .icon-objects-billiards:before {
   content: "\1F3B1"
 }
+.icon-objects-gamedie:before {
+  content: "\1F3B2"
+}
 .icon-objects-skiandskiboot:before {
   content: "\1F3BF"
 }
