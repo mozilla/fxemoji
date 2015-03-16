@@ -142,6 +142,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3A4",
+        "name": "microphone"
+      },
+      "layers": [
+        {
+          "color": "A5AAAA",
+          "name": "u1F3A4.layer1",
+          "order": 1
+        },
+        {
+          "color": "838989",
+          "name": "u1F3A4.layer2",
+          "order": 2
+        },
+        {
+          "color": "445056",
+          "name": "u1F3A4.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A4.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AA",
         "name": "floppydisk"
       },
