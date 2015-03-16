@@ -447,6 +447,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3AE",
+        "name": "videogame"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F3AE.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3AE.layer2",
+          "order": 2
+        },
+        {
+          "color": "132028",
+          "name": "u1F3AE.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3AE.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3AE.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AE.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3AE.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3AE.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4DF",
         "name": "pager"
       },

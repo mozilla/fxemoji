@@ -39,6 +39,9 @@
 .icon-objects-clapperboard:before {
   content: "\1F3AC"
 }
+.icon-objects-videogame:before {
+  content: "\1F3AE"
+}
 .icon-objects-skiandskiboot:before {
   content: "\1F3BF"
 }
