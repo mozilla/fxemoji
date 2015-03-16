@@ -152,6 +152,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3BE",
+        "name": "tennisball"
+      },
+      "layers": [
+        {
+          "color": "2ABA52",
+          "name": "u1F3BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "B4D99A",
+          "name": "u1F3BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "B4D99A",
+          "name": "u1F3BE.layer3",
+          "order": 3
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3BE.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3BE.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E6",
         "name": "package"
       },
