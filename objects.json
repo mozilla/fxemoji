@@ -37,6 +37,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4B4",
+        "name": "banknoteyen"
+      },
+      "layers": [
+        {
+          "color": "EDCE83",
+          "name": "u1F4B4.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B4.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B4.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C2",
         "name": "snowboarder"
       },
