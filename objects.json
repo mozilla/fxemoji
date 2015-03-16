@@ -2,6 +2,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3BC",
+        "name": "musicalscore"
+      },
+      "layers": [
+        {
+          "color": "B9C5C6",
+          "name": "u1F3BC.layer1",
+          "order": 1
+        },
+        {
+          "color": "445056",
+          "name": "u1F3BC.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3BB",
         "name": "violin"
       },
