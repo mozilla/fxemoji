@@ -27,6 +27,9 @@
 .icon-objects-microphone:before {
   content: "\1F3A4"
 }
+.icon-objects-moviecamera:before {
+  content: "\1F3A5"
+}
 .icon-objects-trophy:before {
   content: "\1F3C6"
 }
