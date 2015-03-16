@@ -37,6 +37,81 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3C2",
+        "name": "snowboarder"
+      },
+      "layers": [
+        {
+          "color": "D8E9EA",
+          "name": "u1F3C2.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3C2.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3C2.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3C2.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3C2.layer5",
+          "order": 5
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3C2.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3C2.layer7",
+          "order": 7
+        },
+        {
+          "color": "E5AB83",
+          "name": "u1F3C2.layer8",
+          "order": 8
+        },
+        {
+          "color": "FF929D",
+          "name": "u1F3C2.layer9",
+          "order": 9
+        },
+        {
+          "color": "68442A",
+          "name": "u1F3C2.layer10",
+          "order": 10
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3C2.layer11",
+          "order": 11
+        },
+        {
+          "color": "D8E9EA",
+          "name": "u1F3C2.layer12",
+          "order": 12
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F3C2.layer13",
+          "order": 13
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AA",
         "name": "floppydisk"
       },
