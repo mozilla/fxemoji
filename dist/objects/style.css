@@ -114,6 +114,9 @@
 .icon-objects-swimming:before {
   content: "\1F3CA"
 }
+.icon-objects-bomb:before {
+  content: "\1F4A3"
+}
 .icon-objects-banknoteyen:before {
   content: "\1F4B4"
 }
