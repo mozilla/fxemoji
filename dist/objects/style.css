@@ -147,6 +147,9 @@
 .icon-objects-opticaldisc:before {
   content: "\1F4BF"
 }
+.icon-objects-pagefacingup:before {
+  content: "\1F4C4"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }

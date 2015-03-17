@@ -62,6 +62,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4C4",
+        "name": "pagefacingup"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C4.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4C4.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4C4.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BF",
         "name": "opticaldisc"
       },
