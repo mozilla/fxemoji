@@ -129,6 +129,9 @@
 .icon-objects-package:before {
   content: "\1F4E6"
 }
+.icon-objects-email:before {
+  content: "\1F4E7"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
