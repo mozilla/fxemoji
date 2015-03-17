@@ -1142,6 +1142,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3CA",
+        "name": "swimming"
+      },
+      "layers": [
+        {
+          "color": "E2AF8D",
+          "name": "u1F3CA.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CA.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3CA.layer3",
+          "order": 3
+        },
+        {
+          "color": "CE8E63",
+          "name": "u1F3CA.layer4",
+          "order": 4
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3CA.layer5",
+          "order": 5
+        },
+        {
+          "color": "CE8E63",
+          "name": "u1F3CA.layer6",
+          "order": 6
+        },
+        {
+          "color": "332A23",
+          "name": "u1F3CA.layer7",
+          "order": 7
+        },
+        {
+          "color": "C2CACE",
+          "name": "u1F3CA.layer8",
+          "order": 8
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F3CA.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4B4",
         "name": "banknoteyen"
       },
