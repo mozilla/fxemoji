@@ -141,6 +141,9 @@
 .icon-objects-personalcomputer:before {
   content: "\1F4BB"
 }
+.icon-objects-minidisc:before {
+  content: "\1F4BD"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
