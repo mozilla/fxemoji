@@ -126,6 +126,9 @@
 .icon-objects-banknoteyen:before {
   content: "\1F4B4"
 }
+.icon-objects-banknotedollar:before {
+  content: "\1F4B5"
+}
 .icon-objects-banknotepound:before {
   content: "\1F4B7"
 }
