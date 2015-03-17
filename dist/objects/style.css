@@ -150,6 +150,9 @@
 .icon-objects-dvd:before {
   content: "\1F4C0"
 }
+.icon-objects-filefolder:before {
+  content: "\1F4C1"
+}
 .icon-objects-pagefacingup:before {
   content: "\1F4C4"
 }

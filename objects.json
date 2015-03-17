@@ -1237,6 +1237,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4E7",
+        "name": "email"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4E7.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4E7.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDECE6",
+          "name": "u1F4E7.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4E7.layer4",
+          "order": 4
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4E7.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F0CF",
         "name": "playingcardblackjoker"
       },
@@ -2257,34 +2292,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E7",
-        "name": "email"
+        "code": "u1F4C1",
+        "name": "filefolder"
       },
       "layers": [
         {
-          "color": "96A9B2",
-          "name": "u1F4E7.layer1",
+          "color": "BC7520",
+          "name": "u1F4C1.layer1",
           "order": 1
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F4E7.layer2",
+          "color": "FFB636",
+          "name": "u1F4C1.layer2",
           "order": 2
         },
         {
-          "color": "EDECE6",
-          "name": "u1F4E7.layer3",
+          "color": "BC7520",
+          "name": "u1F4C1.layer3",
           "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4E7.layer4",
-          "order": 4
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4E7.layer5",
-          "order": 5
         }
       ]
     }
