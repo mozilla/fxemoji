@@ -712,6 +712,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4B8",
+        "name": "moneywithwings"
+      },
+      "layers": [
+        {
+          "color": "7BD873",
+          "name": "u1F4B8.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B8.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B8.layer3",
+          "order": 3
+        },
+        {
+          "color": "C4F0F2",
+          "name": "u1F4B8.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4D3",
         "name": "notebook"
       },
