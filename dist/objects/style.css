@@ -165,6 +165,9 @@
 .icon-objects-calendar:before {
   content: "\1F4C5"
 }
+.icon-objects-tearoffcalendar:before {
+  content: "\1F4C6"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
