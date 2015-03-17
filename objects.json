@@ -1387,6 +1387,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4BB",
+        "name": "personalcomputer"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F4BB.layer1",
+          "order": 1
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F4BB.layer2",
+          "order": 2
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F4BB.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4BB.layer4",
+          "order": 4
+        },
+        {
+          "color": "D7F4F7",
+          "name": "u1F4BB.layer5",
+          "order": 5
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4BB.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4B3",
         "name": "creditcard"
       },
