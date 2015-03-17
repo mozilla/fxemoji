@@ -129,6 +129,9 @@
 .icon-objects-banknotedollar:before {
   content: "\1F4B5"
 }
+.icon-objects-banknoteeuro:before {
+  content: "\1F4B6"
+}
 .icon-objects-banknotepound:before {
   content: "\1F4B7"
 }
