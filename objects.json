@@ -1097,6 +1097,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6AC",
+        "name": "smokingsymbol"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F6AC.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F6AC.layer2",
+          "order": 2
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F6AC.layer3",
+          "order": 3
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F6AC.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F6AC.layer5",
+          "order": 5
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F6AC.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F6AC.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A3",
         "name": "fishingpoleandfish"
       },

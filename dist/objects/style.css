@@ -180,6 +180,9 @@
 .icon-objects-door:before {
   content: "\1F6AA"
 }
+.icon-objects-smokingsymbol:before {
+  content: "\1F6AC"
+}
 .icon-objects-bicyclist:before {
   content: "\1F6B4"
 }
