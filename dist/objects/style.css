@@ -147,6 +147,9 @@
 .icon-objects-opticaldisc:before {
   content: "\1F4BF"
 }
+.icon-objects-dvd:before {
+  content: "\1F4C0"
+}
 .icon-objects-pagefacingup:before {
   content: "\1F4C4"
 }

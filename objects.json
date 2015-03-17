@@ -152,6 +152,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4EB",
+        "name": "closedmailboxraisedflag"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F4EB.layer1",
+          "order": 1
+        },
+        {
+          "color": "81929B",
+          "name": "u1F4EB.layer2",
+          "order": 2
+        },
+        {
+          "color": "BCC8CC",
+          "name": "u1F4EB.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4EB.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4D7",
         "name": "greenbook"
       },
@@ -382,29 +412,39 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4EB",
-        "name": "closedmailboxraisedflag"
+        "code": "u1F4C0",
+        "name": "dvd"
       },
       "layers": [
         {
-          "color": "D19B61",
-          "name": "u1F4EB.layer1",
+          "color": "FFD469",
+          "name": "u1F4C0.layer1",
           "order": 1
         },
         {
-          "color": "81929B",
-          "name": "u1F4EB.layer2",
+          "color": "FFB636",
+          "name": "u1F4C0.layer2",
           "order": 2
         },
         {
-          "color": "BCC8CC",
-          "name": "u1F4EB.layer3",
+          "color": "FFB636",
+          "name": "u1F4C0.layer3",
           "order": 3
         },
         {
-          "color": "FF473E",
-          "name": "u1F4EB.layer4",
+          "color": "FFE1AB",
+          "name": "u1F4C0.layer4",
           "order": 4
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F4C0.layer5",
+          "order": 5
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F4C0.layer6",
+          "order": 6
         }
       ]
     }
