@@ -87,6 +87,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F52A",
+        "name": "hocho"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F52A.layer1",
+          "order": 1
+        },
+        {
+          "color": "9CADB5",
+          "name": "u1F52A.layer2",
+          "order": 2
+        },
+        {
+          "color": "D7DFE2",
+          "name": "u1F52A.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BF",
         "name": "opticaldisc"
       },
