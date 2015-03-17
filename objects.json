@@ -2442,6 +2442,71 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6C0",
+        "name": "bath"
+      },
+      "layers": [
+        {
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer1",
+          "order": 1
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C0.layer2",
+          "order": 2
+        },
+        {
+          "color": "C3CCD1",
+          "name": "u1F6C0.layer4",
+          "order": 4
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C0.layer5",
+          "order": 5
+        },
+        {
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer6",
+          "order": 6
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C0.layer7",
+          "order": 7
+        },
+        {
+          "color": "212D37",
+          "name": "u1F6C0.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C0.layer9",
+          "order": 9
+        },
+        {
+          "color": "DC9A70",
+          "name": "u1F6C0.layer10",
+          "order": 10
+        },
+        {
+          "color": "E6B290",
+          "name": "u1F6C0.layer11",
+          "order": 11
+        },
+        {
+          "color": "543420",
+          "name": "u1F6C0.layer12",
+          "order": 12
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2712",
         "name": "blacknib"
       },
