@@ -162,6 +162,9 @@
 .icon-objects-pagefacingup:before {
   content: "\1F4C4"
 }
+.icon-objects-calendar:before {
+  content: "\1F4C5"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
