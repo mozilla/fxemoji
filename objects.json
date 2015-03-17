@@ -557,6 +557,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3C8",
+        "name": "americanfootball"
+      },
+      "layers": [
+        {
+          "color": "8E6049",
+          "name": "u1F3C8.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3C8.layer2",
+          "order": 2
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3C8.layer3",
+          "order": 3
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3C8.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3A8",
         "name": "artistpalette"
       },
