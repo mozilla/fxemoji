@@ -2232,6 +2232,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4C7",
+        "name": "cardindex"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4C7.layer1",
+          "order": 1
+        },
+        {
+          "color": "E8EAEA",
+          "name": "u1F4C7.layer2",
+          "order": 2
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C7.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4C7.layer4",
+          "order": 4
+        },
+        {
+          "color": "BFBFBB",
+          "name": "u1F4C7.layer5",
+          "order": 5
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4C7.layer6",
+          "order": 6
+        },
+        {
+          "color": "9B9B9A",
+          "name": "u1F4C7.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E0",
         "name": "faxmachine"
       },

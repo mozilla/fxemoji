@@ -168,6 +168,9 @@
 .icon-objects-tearoffcalendar:before {
   content: "\1F4C6"
 }
+.icon-objects-cardindex:before {
+  content: "\1F4C7"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
