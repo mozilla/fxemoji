@@ -2,6 +2,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4D7",
+        "name": "greenbook"
+      },
+      "layers": [
+        {
+          "color": "009E83",
+          "name": "u1F4D7.layer1",
+          "order": 1
+        },
+        {
+          "color": "009E83",
+          "name": "u1F4D7.layer2",
+          "order": 2
+        },
+        {
+          "color": "009E83",
+          "name": "u1F4D7.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D7.layer4",
+          "order": 4
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F4D7.layer5",
+          "order": 5
+        },
+        {
+          "color": "009E83",
+          "name": "u1F4D7.layer6",
+          "order": 6
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4D7.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3BC",
         "name": "musicalscore"
       },
@@ -587,44 +632,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4D7",
-        "name": "greenbook"
+        "code": "u1F3C9",
+        "name": "rugbyfootball"
       },
       "layers": [
         {
-          "color": "009E83",
-          "name": "u1F4D7.layer1",
+          "color": "E2A042",
+          "name": "u1F3C9.layer1",
           "order": 1
         },
         {
-          "color": "009E83",
-          "name": "u1F4D7.layer2",
+          "color": "AF773F",
+          "name": "u1F3C9.layer2",
           "order": 2
         },
         {
-          "color": "009E83",
-          "name": "u1F4D7.layer3",
+          "color": "FFE1AB",
+          "name": "u1F3C9.layer3",
           "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4D7.layer4",
-          "order": 4
-        },
-        {
-          "color": "00B89C",
-          "name": "u1F4D7.layer5",
-          "order": 5
-        },
-        {
-          "color": "009E83",
-          "name": "u1F4D7.layer6",
-          "order": 6
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4D7.layer7",
-          "order": 7
         }
       ]
     }
