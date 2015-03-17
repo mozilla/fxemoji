@@ -147,6 +147,9 @@
 .icon-objects-pager:before {
   content: "\1F4DF"
 }
+.icon-objects-faxmachine:before {
+  content: "\1F4E0"
+}
 .icon-objects-package:before {
   content: "\1F4E6"
 }
