@@ -2517,6 +2517,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6C1",
+        "name": "bathtub"
+      },
+      "layers": [
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer1",
+          "order": 1
+        },
+        {
+          "color": "C3CCD1",
+          "name": "u1F6C1.layer2",
+          "order": 2
+        },
+        {
+          "color": "C3CCD1",
+          "name": "u1F6C1.layer3",
+          "order": 3
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer4",
+          "order": 4
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26BE",
         "name": "baseball"
       },
