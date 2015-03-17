@@ -144,6 +144,9 @@
 .icon-objects-minidisc:before {
   content: "\1F4BD"
 }
+.icon-objects-opticaldisc:before {
+  content: "\1F4BF"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }

@@ -62,6 +62,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4BF",
+        "name": "opticaldisc"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F4BF.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BF.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BF.layer3",
+          "order": 3
+        },
+        {
+          "color": "D4DBDD",
+          "name": "u1F4BF.layer4",
+          "order": 4
+        },
+        {
+          "color": "D4DBDD",
+          "name": "u1F4BF.layer5",
+          "order": 5
+        },
+        {
+          "color": "798A93",
+          "name": "u1F4BF.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6BF",
         "name": "shower"
       },
