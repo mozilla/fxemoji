@@ -132,6 +132,9 @@
 .icon-objects-email:before {
   content: "\1F4E7"
 }
+.icon-objects-closedmailboxraisedflag:before {
+  content: "\1F4EB"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
