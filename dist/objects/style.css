@@ -120,6 +120,9 @@
 .icon-objects-moneybag:before {
   content: "\1F4B0"
 }
+.icon-objects-creditcard:before {
+  content: "\1F4B3"
+}
 .icon-objects-banknoteyen:before {
   content: "\1F4B4"
 }
