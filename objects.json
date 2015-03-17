@@ -1572,6 +1572,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4D9",
+        "name": "orangebook"
+      },
+      "layers": [
+        {
+          "color": "FF6F1F",
+          "name": "u1F4D9.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F4D9.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F4D9.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D9.layer4",
+          "order": 4
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F4D9.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F4D9.layer6",
+          "order": 6
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4D9.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BB",
         "name": "personalcomputer"
       },
@@ -2247,44 +2292,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4D9",
-        "name": "orangebook"
+        "code": "u1F4C2",
+        "name": "openfilefolder"
       },
       "layers": [
         {
-          "color": "FF6F1F",
-          "name": "u1F4D9.layer1",
+          "color": "BC7520",
+          "name": "u1F4C2.layer1",
           "order": 1
         },
         {
-          "color": "FF6F1F",
-          "name": "u1F4D9.layer2",
+          "color": "FFB636",
+          "name": "u1F4C2.layer2",
           "order": 2
-        },
-        {
-          "color": "FF6F1F",
-          "name": "u1F4D9.layer3",
-          "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4D9.layer4",
-          "order": 4
-        },
-        {
-          "color": "F2A74E",
-          "name": "u1F4D9.layer5",
-          "order": 5
-        },
-        {
-          "color": "FF6F1F",
-          "name": "u1F4D9.layer6",
-          "order": 6
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4D9.layer7",
-          "order": 7
         }
       ]
     }

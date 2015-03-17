@@ -153,6 +153,9 @@
 .icon-objects-filefolder:before {
   content: "\1F4C1"
 }
+.icon-objects-openfilefolder:before {
+  content: "\1F4C2"
+}
 .icon-objects-pagefacingup:before {
   content: "\1F4C4"
 }
