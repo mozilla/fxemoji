@@ -1377,6 +1377,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F004",
+        "name": "mahjong"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F004.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F004.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4B4",
         "name": "banknoteyen"
       },

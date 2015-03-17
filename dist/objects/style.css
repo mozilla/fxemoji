@@ -18,6 +18,9 @@
   cursor: pointer;
 }
 
+.icon-objects-mahjong:before {
+  content: "\1F004"
+}
 .icon-objects-playingcardblackjoker:before {
   content: "\1F0CF"
 }
