@@ -198,6 +198,9 @@
 .icon-objects-bookmarktab:before {
   content: "\1F4D1"
 }
+.icon-objects-ledger:before {
+  content: "\1F4D2"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }

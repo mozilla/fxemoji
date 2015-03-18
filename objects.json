@@ -32,6 +32,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6C1",
+        "name": "bathtub"
+      },
+      "layers": [
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer1",
+          "order": 1
+        },
+        {
+          "color": "C3CCD1",
+          "name": "u1F6C1.layer2",
+          "order": 2
+        },
+        {
+          "color": "C3CCD1",
+          "name": "u1F6C1.layer3",
+          "order": 3
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer4",
+          "order": 4
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C1.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E6",
         "name": "package"
       },
@@ -2897,34 +2932,39 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6C1",
-        "name": "bathtub"
+        "code": "u1F4D2",
+        "name": "ledger"
       },
       "layers": [
         {
-          "color": "8299A3",
-          "name": "u1F6C1.layer1",
+          "color": "597B91",
+          "name": "u1F4D2.layer1",
           "order": 1
         },
         {
-          "color": "C3CCD1",
-          "name": "u1F6C1.layer2",
+          "color": "799EB2",
+          "name": "u1F4D2.layer2",
           "order": 2
         },
         {
-          "color": "C3CCD1",
-          "name": "u1F6C1.layer3",
+          "color": "597B91",
+          "name": "u1F4D2.layer3",
           "order": 3
         },
         {
-          "color": "8299A3",
-          "name": "u1F6C1.layer4",
+          "color": "2B3B47",
+          "name": "u1F4D2.layer4",
           "order": 4
         },
         {
-          "color": "8299A3",
-          "name": "u1F6C1.layer5",
+          "color": "96A9B2",
+          "name": "u1F4D2.layer5",
           "order": 5
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D2.layer6",
+          "order": 6
         }
       ]
     }
