@@ -195,6 +195,9 @@
 .icon-objects-closedmailboxraisedflag:before {
   content: "\1F4EB"
 }
+.icon-objects-leftmagnifyingglass:before {
+  content: "\1F50D"
+}
 .icon-objects-hocho:before {
   content: "\1F52A"
 }
