@@ -180,6 +180,9 @@
 .icon-objects-barchart:before {
   content: "\1F4CA"
 }
+.icon-objects-clipboard:before {
+  content: "\1F4CB"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }

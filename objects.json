@@ -557,6 +557,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4CB",
+        "name": "clipboard"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F4CB.layer1",
+          "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F4CB.layer2",
+          "order": 2
+        },
+        {
+          "color": "A9B8C2",
+          "name": "u1F4CB.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4CB.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4CB.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4CA",
         "name": "barchart"
       },
