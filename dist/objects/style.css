@@ -213,6 +213,9 @@
 .icon-objects-greenbook:before {
   content: "\1F4D7"
 }
+.icon-objects-bluebook:before {
+  content: "\1F4D8"
+}
 .icon-objects-orangebook:before {
   content: "\1F4D9"
 }
