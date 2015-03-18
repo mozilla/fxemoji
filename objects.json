@@ -1277,6 +1277,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4D1",
+        "name": "bookmarktab"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D1.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4D1.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4D1.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4D1.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F4D1.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C8",
         "name": "americanfootball"
       },
