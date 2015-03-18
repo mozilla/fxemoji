@@ -2,6 +2,266 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F50F",
+        "name": "lockwithinkpen"
+      },
+      "layers": [
+        {
+          "color": "B1B4B5",
+          "name": "u1F50F.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F50F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F50F.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F50F.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F50F.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F50D",
+        "name": "leftmagnifyingglass"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F50D.layer1",
+          "order": 1
+        },
+        {
+          "color": "B0E9FF",
+          "name": "u1F50D.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F50D.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3C9",
+        "name": "rugbyfootball"
+      },
+      "layers": [
+        {
+          "color": "E2A042",
+          "name": "u1F3C9.layer1",
+          "order": 1
+        },
+        {
+          "color": "AF773F",
+          "name": "u1F3C9.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F3C9.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C7",
+        "name": "cardindex"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4C7.layer1",
+          "order": 1
+        },
+        {
+          "color": "E8EAEA",
+          "name": "u1F4C7.layer2",
+          "order": 2
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C7.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4C7.layer4",
+          "order": 4
+        },
+        {
+          "color": "BFBFBB",
+          "name": "u1F4C7.layer5",
+          "order": 5
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4C7.layer6",
+          "order": 6
+        },
+        {
+          "color": "9B9B9A",
+          "name": "u1F4C7.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u26BE",
+        "name": "baseball"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u26BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u26BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u26BE.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C6",
+        "name": "tearoffcalendar"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4C6.layer1",
+          "order": 1
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C6.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4C6.layer3",
+          "order": 3
+        },
+        {
+          "color": "505A60",
+          "name": "u1F4C6.layer4",
+          "order": 4
+        },
+        {
+          "color": "505A60",
+          "name": "u1F4C6.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4C6.layer6",
+          "order": 6
+        },
+        {
+          "color": "BFBFBB",
+          "name": "u1F4C6.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C6.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C6.layer9",
+          "order": 9
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C6.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2712",
+        "name": "blacknib"
+      },
+      "layers": [
+        {
+          "color": "B9C5C6",
+          "name": "u2712.layer1",
+          "order": 1
+        },
+        {
+          "color": "445056",
+          "name": "u2712.layer2",
+          "order": 2
+        },
+        {
+          "color": "A1AAAD",
+          "name": "u2712.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F004",
+        "name": "mahjong"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F004.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F004.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4A3",
         "name": "bomb"
       },
@@ -25,6 +285,1126 @@
           "color": "80878C",
           "name": "u1F4A3.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F5AA",
+        "name": "floppydisk"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F5AA.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5AA.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5AA.layer3",
+          "order": 3
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F5AA.layer4",
+          "order": 4
+        },
+        {
+          "color": "132028",
+          "name": "u1F5AA.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A7",
+        "name": "headphone"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer2",
+          "order": 2
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer4",
+          "order": 4
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer5",
+          "order": 5
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer6",
+          "order": 6
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer7",
+          "order": 7
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer8",
+          "order": 8
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4CF",
+        "name": "straightruler"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F4CF.layer1",
+          "order": 1
+        },
+        {
+          "color": "AA8F4D",
+          "name": "u1F4CF.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4CE",
+        "name": "paperclip"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4CE.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4CC",
+        "name": "pushpin"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4CC.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4CC.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F4CC.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4CB",
+        "name": "clipboard"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F4CB.layer1",
+          "order": 1
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F4CB.layer2",
+          "order": 2
+        },
+        {
+          "color": "A9B8C2",
+          "name": "u1F4CB.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4CB.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4CB.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4CA",
+        "name": "barchart"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4CA.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4CA.layer2",
+          "order": 2
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4CA.layer3",
+          "order": 3
+        },
+        {
+          "color": "A97DFF",
+          "name": "u1F4CA.layer4",
+          "order": 4
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4CA.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B0",
+        "name": "moneybag"
+      },
+      "layers": [
+        {
+          "color": "EDCE83",
+          "name": "u1F4B0.layer1",
+          "order": 1
+        },
+        {
+          "color": "AA8F4D",
+          "name": "u1F4B0.layer2",
+          "order": 2
+        },
+        {
+          "color": "AA8F4D",
+          "name": "u1F4B0.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B3",
+        "name": "creditcard"
+      },
+      "layers": [
+        {
+          "color": "C2CCCE",
+          "name": "u1F4B3.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B3.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4B3.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B3.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B4",
+        "name": "banknoteyen"
+      },
+      "layers": [
+        {
+          "color": "EDCE83",
+          "name": "u1F4B4.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B4.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B4.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B5",
+        "name": "banknotedollar"
+      },
+      "layers": [
+        {
+          "color": "7BD873",
+          "name": "u1F4B5.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B5.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B5.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B6",
+        "name": "banknoteeuro"
+      },
+      "layers": [
+        {
+          "color": "73EABC",
+          "name": "u1F4B6.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B6.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B6.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B7",
+        "name": "banknotepound"
+      },
+      "layers": [
+        {
+          "color": "C4A6FF",
+          "name": "u1F4B7.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B7.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B7.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4B8",
+        "name": "moneywithwings"
+      },
+      "layers": [
+        {
+          "color": "7BD873",
+          "name": "u1F4B8.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B8.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4B8.layer3",
+          "order": 3
+        },
+        {
+          "color": "C4F0F2",
+          "name": "u1F4B8.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F6B4",
+        "name": "bicyclist"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F6B4.layer1",
+          "order": 1
+        },
+        {
+          "color": "A39F90",
+          "name": "u1F6B4.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F6B4.layer3",
+          "order": 3
+        },
+        {
+          "color": "DEE254",
+          "name": "u1F6B4.layer4",
+          "order": 4
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F6B4.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F6B4.layer7",
+          "order": 7
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F6B4.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6B4.layer9",
+          "order": 9
+        },
+        {
+          "color": "E5E5E5",
+          "name": "u1F6B4.layer10",
+          "order": 10
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F6B4.layer11",
+          "order": 11
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F6B4.layer12",
+          "order": 12
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F6B4.layer13",
+          "order": 13
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F6B4.layer14",
+          "order": 14
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F6B4.layer15",
+          "order": 15
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F6B4.layer16",
+          "order": 16
+        },
+        {
+          "color": "DEE254",
+          "name": "u1F6B4.layer17",
+          "order": 17
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F6B4.layer18",
+          "order": 18
+        },
+        {
+          "color": "597B91",
+          "name": "u1F6B4.layer19",
+          "order": 19
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F6B4.layer20",
+          "order": 20
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F6B4.layer21",
+          "order": 21
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F6B4.layer22",
+          "order": 22
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6B4.layer23",
+          "order": 23
+        },
+        {
+          "color": "68442A",
+          "name": "u1F6B4.layer24",
+          "order": 24
+        },
+        {
+          "color": "E5AB83",
+          "name": "u1F6B4.layer25",
+          "order": 25
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F6B4.layer26",
+          "order": 26
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F6B4.layer27",
+          "order": 27
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6B4.layer28",
+          "order": 28
+        },
+        {
+          "color": "E5E5E5",
+          "name": "u1F6B4.layer29",
+          "order": 29
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A8",
+        "name": "artistpalette"
+      },
+      "layers": [
+        {
+          "color": "E5AA6E",
+          "name": "u1F3A8.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3A8.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3A8.layer3",
+          "order": 3
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F3A8.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3A8.layer5",
+          "order": 5
+        },
+        {
+          "color": "009B51",
+          "name": "u1F3A8.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A3",
+        "name": "fishingpoleandfish"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F3A3.layer1",
+          "order": 1
+        },
+        {
+          "color": "D8E9EA",
+          "name": "u1F3A3.layer2",
+          "order": 2
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F3A3.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3A3.layer5",
+          "order": 5
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A3.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A3.layer7",
+          "order": 7
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3A3.layer8",
+          "order": 8
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F3A3.layer9",
+          "order": 9
+        },
+        {
+          "color": "819096",
+          "name": "u1F3A3.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F0CF",
+        "name": "playingcardblackjoker"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F0CF.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F0CF.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F0CF.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F0CF.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A4",
+        "name": "microphone"
+      },
+      "layers": [
+        {
+          "color": "A5AAAA",
+          "name": "u1F3A4.layer1",
+          "order": 1
+        },
+        {
+          "color": "838989",
+          "name": "u1F3A4.layer2",
+          "order": 2
+        },
+        {
+          "color": "445056",
+          "name": "u1F3A4.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A4.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3A5",
+        "name": "moviecamera"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F3A5.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3A5.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3A5.layer3",
+          "order": 3
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F3A5.layer4",
+          "order": 4
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F3A5.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3A5.layer6",
+          "order": 6
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3A5.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3AC",
+        "name": "clapperboard"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u1F3AC.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3AC.layer2",
+          "order": 2
+        },
+        {
+          "color": "445056",
+          "name": "u1F3AC.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3AF",
+        "name": "directhit"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F3AF.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3AF.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AF.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3AF.layer6",
+          "order": 6
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F3AF.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F3AE",
+        "name": "videogame"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F3AE.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3AE.layer2",
+          "order": 2
+        },
+        {
+          "color": "132028",
+          "name": "u1F3AE.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3AE.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F3AE.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3AE.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3AE.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3AE.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4BB",
+        "name": "personalcomputer"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F4BB.layer1",
+          "order": 1
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F4BB.layer2",
+          "order": 2
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F4BB.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4BB.layer4",
+          "order": 4
+        },
+        {
+          "color": "D7F4F7",
+          "name": "u1F4BB.layer5",
+          "order": 5
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4BB.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4BD",
+        "name": "minidisc"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F4BD.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F4BD.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4BD.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F4BD.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F4BD.layer5",
+          "order": 5
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F4BD.layer6",
+          "order": 6
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BD.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4BF",
+        "name": "opticaldisc"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F4BF.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BF.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BF.layer3",
+          "order": 3
+        },
+        {
+          "color": "D4DBDD",
+          "name": "u1F4BF.layer4",
+          "order": 4
+        },
+        {
+          "color": "D4DBDD",
+          "name": "u1F4BF.layer5",
+          "order": 5
+        },
+        {
+          "color": "798A93",
+          "name": "u1F4BF.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F6BF",
+        "name": "shower"
+      },
+      "layers": [
+        {
+          "color": "C3CCD1",
+          "name": "u1F6BF.layer1",
+          "order": 1
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6BF.layer2",
+          "order": 2
+        },
+        {
+          "color": "31CAFF",
+          "name": "u1F6BF.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F6BD",
+        "name": "toilet"
+      },
+      "layers": [
+        {
+          "color": "A1A6A8",
+          "name": "u1F6BD.layer1",
+          "order": 1
+        },
+        {
+          "color": "D3D3D3",
+          "name": "u1F6BD.layer2",
+          "order": 2
+        },
+        {
+          "color": "E6E7E8",
+          "name": "u1F6BD.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C9",
+        "name": "chartdownwardstrend"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C9.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4C9.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4C9.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C8",
+        "name": "chartupwardstrend"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C8.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4C8.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4C8.layer3",
+          "order": 3
         }
       ]
     }
@@ -67,29 +1447,124 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E6",
-        "name": "package"
+        "code": "u1F6C0",
+        "name": "bath"
       },
       "layers": [
         {
-          "color": "AF773F",
-          "name": "u1F4E6.layer1",
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer1",
           "order": 1
         },
         {
-          "color": "E5AA6E",
-          "name": "u1F4E6.layer2",
+          "color": "8299A3",
+          "name": "u1F6C0.layer2",
           "order": 2
         },
         {
-          "color": "332A23",
-          "name": "u1F4E6.layer3",
+          "color": "C3CCD1",
+          "name": "u1F6C0.layer4",
+          "order": 4
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C0.layer5",
+          "order": 5
+        },
+        {
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer6",
+          "order": 6
+        },
+        {
+          "color": "8299A3",
+          "name": "u1F6C0.layer7",
+          "order": 7
+        },
+        {
+          "color": "212D37",
+          "name": "u1F6C0.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F6C0.layer9",
+          "order": 9
+        },
+        {
+          "color": "DC9A70",
+          "name": "u1F6C0.layer10",
+          "order": 10
+        },
+        {
+          "color": "E6B290",
+          "name": "u1F6C0.layer11",
+          "order": 11
+        },
+        {
+          "color": "543420",
+          "name": "u1F6C0.layer12",
+          "order": 12
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C5",
+        "name": "calendar"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C5.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4C5.layer2",
+          "order": 2
+        },
+        {
+          "color": "505A60",
+          "name": "u1F4C5.layer3",
           "order": 3
         },
         {
-          "color": "3F6072",
-          "name": "u1F4E6.layer4",
+          "color": "505A60",
+          "name": "u1F4C5.layer4",
           "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C5.layer5",
+          "order": 5
+        },
+        {
+          "color": "BFBFBB",
+          "name": "u1F4C5.layer6",
+          "order": 6
+        },
+        {
+          "color": "BFBFBB",
+          "name": "u1F4C5.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C5.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C5.layer9",
+          "order": 9
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4C5.layer10",
+          "order": 10
         }
       ]
     }
@@ -122,6 +1597,116 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4C3",
+        "name": "pagewithcurl"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4C3.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4C3.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4C3.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C2",
+        "name": "openfilefolder"
+      },
+      "layers": [
+        {
+          "color": "BC7520",
+          "name": "u1F4C2.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4C2.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C1",
+        "name": "filefolder"
+      },
+      "layers": [
+        {
+          "color": "BC7520",
+          "name": "u1F4C1.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4C1.layer2",
+          "order": 2
+        },
+        {
+          "color": "BC7520",
+          "name": "u1F4C1.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4C0",
+        "name": "dvd"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F4C0.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4C0.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4C0.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F4C0.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F4C0.layer5",
+          "order": 5
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F4C0.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52A",
         "name": "hocho"
       },
@@ -140,46 +1725,6 @@
           "color": "D7DFE2",
           "name": "u1F52A.layer3",
           "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4BF",
-        "name": "opticaldisc"
-      },
-      "layers": [
-        {
-          "color": "ADB8BC",
-          "name": "u1F4BF.layer1",
-          "order": 1
-        },
-        {
-          "color": "EDEDED",
-          "name": "u1F4BF.layer2",
-          "order": 2
-        },
-        {
-          "color": "EDEDED",
-          "name": "u1F4BF.layer3",
-          "order": 3
-        },
-        {
-          "color": "D4DBDD",
-          "name": "u1F4BF.layer4",
-          "order": 4
-        },
-        {
-          "color": "D4DBDD",
-          "name": "u1F4BF.layer5",
-          "order": 5
-        },
-        {
-          "color": "798A93",
-          "name": "u1F4BF.layer6",
-          "order": 6
         }
       ]
     }
@@ -265,166 +1810,6 @@
           "color": "2B3B47",
           "name": "u1F52B.layer9",
           "order": 9
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6BF",
-        "name": "shower"
-      },
-      "layers": [
-        {
-          "color": "C3CCD1",
-          "name": "u1F6BF.layer1",
-          "order": 1
-        },
-        {
-          "color": "8299A3",
-          "name": "u1F6BF.layer2",
-          "order": 2
-        },
-        {
-          "color": "31CAFF",
-          "name": "u1F6BF.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F50F",
-        "name": "lockwithinkpen"
-      },
-      "layers": [
-        {
-          "color": "B1B4B5",
-          "name": "u1F50F.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F50F.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFD469",
-          "name": "u1F50F.layer3",
-          "order": 3
-        },
-        {
-          "color": "597B91",
-          "name": "u1F50F.layer4",
-          "order": 4
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F50F.layer5",
-          "order": 5
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F50D",
-        "name": "leftmagnifyingglass"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u1F50D.layer1",
-          "order": 1
-        },
-        {
-          "color": "B0E9FF",
-          "name": "u1F50D.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F50D.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4EB",
-        "name": "closedmailboxraisedflag"
-      },
-      "layers": [
-        {
-          "color": "D19B61",
-          "name": "u1F4EB.layer1",
-          "order": 1
-        },
-        {
-          "color": "81929B",
-          "name": "u1F4EB.layer2",
-          "order": 2
-        },
-        {
-          "color": "BCC8CC",
-          "name": "u1F4EB.layer3",
-          "order": 3
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4EB.layer4",
-          "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4D7",
-        "name": "greenbook"
-      },
-      "layers": [
-        {
-          "color": "009E83",
-          "name": "u1F4D7.layer1",
-          "order": 1
-        },
-        {
-          "color": "009E83",
-          "name": "u1F4D7.layer2",
-          "order": 2
-        },
-        {
-          "color": "009E83",
-          "name": "u1F4D7.layer3",
-          "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4D7.layer4",
-          "order": 4
-        },
-        {
-          "color": "00B89C",
-          "name": "u1F4D7.layer5",
-          "order": 5
-        },
-        {
-          "color": "009E83",
-          "name": "u1F4D7.layer6",
-          "order": 6
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4D7.layer7",
-          "order": 7
         }
       ]
     }
@@ -617,234 +2002,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4CF",
-        "name": "straightruler"
-      },
-      "layers": [
-        {
-          "color": "FFD469",
-          "name": "u1F4CF.layer1",
-          "order": 1
-        },
-        {
-          "color": "AA8F4D",
-          "name": "u1F4CF.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4CE",
-        "name": "paperclip"
-      },
-      "layers": [
-        {
-          "color": "96A9B2",
-          "name": "u1F4CE.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C0",
-        "name": "dvd"
-      },
-      "layers": [
-        {
-          "color": "FFD469",
-          "name": "u1F4C0.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F4C0.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F4C0.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFE1AB",
-          "name": "u1F4C0.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFE1AB",
-          "name": "u1F4C0.layer5",
-          "order": 5
-        },
-        {
-          "color": "F2A74E",
-          "name": "u1F4C0.layer6",
-          "order": 6
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4CC",
-        "name": "pushpin"
-      },
-      "layers": [
-        {
-          "color": "96A9B2",
-          "name": "u1F4CC.layer1",
-          "order": 1
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4CC.layer2",
-          "order": 2
-        },
-        {
-          "color": "FF6E83",
-          "name": "u1F4CC.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4CB",
-        "name": "clipboard"
+        "code": "u1F4EB",
+        "name": "closedmailboxraisedflag"
       },
       "layers": [
         {
           "color": "D19B61",
-          "name": "u1F4CB.layer1",
+          "name": "u1F4EB.layer1",
           "order": 1
         },
         {
-          "color": "F9F9F7",
-          "name": "u1F4CB.layer2",
+          "color": "81929B",
+          "name": "u1F4EB.layer2",
           "order": 2
         },
         {
-          "color": "A9B8C2",
-          "name": "u1F4CB.layer3",
+          "color": "BCC8CC",
+          "name": "u1F4EB.layer3",
           "order": 3
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F4CB.layer4",
-          "order": 4
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4CB.layer5",
-          "order": 5
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4CA",
-        "name": "barchart"
-      },
-      "layers": [
-        {
-          "color": "DCE2E2",
-          "name": "u1F4CA.layer1",
-          "order": 1
         },
         {
           "color": "FF473E",
-          "name": "u1F4CA.layer2",
-          "order": 2
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F4CA.layer3",
-          "order": 3
-        },
-        {
-          "color": "A97DFF",
-          "name": "u1F4CA.layer4",
+          "name": "u1F4EB.layer4",
           "order": 4
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F4CA.layer5",
-          "order": 5
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6C0",
-        "name": "bath"
-      },
-      "layers": [
-        {
-          "color": "FDC8A6",
-          "name": "u1F6C0.layer1",
-          "order": 1
-        },
-        {
-          "color": "8299A3",
-          "name": "u1F6C0.layer2",
-          "order": 2
-        },
-        {
-          "color": "C3CCD1",
-          "name": "u1F6C0.layer4",
-          "order": 4
-        },
-        {
-          "color": "8299A3",
-          "name": "u1F6C0.layer5",
-          "order": 5
-        },
-        {
-          "color": "FDC8A6",
-          "name": "u1F6C0.layer6",
-          "order": 6
-        },
-        {
-          "color": "8299A3",
-          "name": "u1F6C0.layer7",
-          "order": 7
-        },
-        {
-          "color": "212D37",
-          "name": "u1F6C0.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6C0.layer9",
-          "order": 9
-        },
-        {
-          "color": "DC9A70",
-          "name": "u1F6C0.layer10",
-          "order": 10
-        },
-        {
-          "color": "E6B290",
-          "name": "u1F6C0.layer11",
-          "order": 11
-        },
-        {
-          "color": "543420",
-          "name": "u1F6C0.layer12",
-          "order": 12
         }
       ]
     }
@@ -1092,31 +2272,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4B5",
-        "name": "banknotedollar"
-      },
-      "layers": [
-        {
-          "color": "7BD873",
-          "name": "u1F4B5.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B5.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B5.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F3C2",
         "name": "snowboarder"
       },
@@ -1192,54 +2347,39 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4B7",
-        "name": "banknotepound"
+        "code": "u1F4D2",
+        "name": "ledger"
       },
       "layers": [
         {
-          "color": "C4A6FF",
-          "name": "u1F4B7.layer1",
+          "color": "597B91",
+          "name": "u1F4D2.layer1",
           "order": 1
         },
         {
-          "color": "597B91",
-          "name": "u1F4B7.layer2",
+          "color": "799EB2",
+          "name": "u1F4D2.layer2",
           "order": 2
         },
         {
           "color": "597B91",
-          "name": "u1F4B7.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4B8",
-        "name": "moneywithwings"
-      },
-      "layers": [
-        {
-          "color": "7BD873",
-          "name": "u1F4B8.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B8.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B8.layer3",
+          "name": "u1F4D2.layer3",
           "order": 3
         },
         {
-          "color": "C4F0F2",
-          "name": "u1F4B8.layer4",
+          "color": "2B3B47",
+          "name": "u1F4D2.layer4",
           "order": 4
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4D2.layer5",
+          "order": 5
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D2.layer6",
+          "order": 6
         }
       ]
     }
@@ -1377,24 +2517,44 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3C9",
-        "name": "rugbyfootball"
+        "code": "u1F4D7",
+        "name": "greenbook"
       },
       "layers": [
         {
-          "color": "E2A042",
-          "name": "u1F3C9.layer1",
+          "color": "009E83",
+          "name": "u1F4D7.layer1",
           "order": 1
         },
         {
-          "color": "AF773F",
-          "name": "u1F3C9.layer2",
+          "color": "009E83",
+          "name": "u1F4D7.layer2",
           "order": 2
         },
         {
-          "color": "FFE1AB",
-          "name": "u1F3C9.layer3",
+          "color": "009E83",
+          "name": "u1F4D7.layer3",
           "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4D7.layer4",
+          "order": 4
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F4D7.layer5",
+          "order": 5
+        },
+        {
+          "color": "009E83",
+          "name": "u1F4D7.layer6",
+          "order": 6
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4D7.layer7",
+          "order": 7
         }
       ]
     }
@@ -1432,39 +2592,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3A8",
-        "name": "artistpalette"
+        "code": "u1F4D5",
+        "name": "closedbook"
       },
       "layers": [
         {
-          "color": "E5AA6E",
-          "name": "u1F3A8.layer1",
+          "color": "D32A2A",
+          "name": "u1F4D5.layer1",
           "order": 1
         },
         {
-          "color": "FFFFFF",
-          "name": "u1F3A8.layer2",
+          "color": "DCE2E2",
+          "name": "u1F4D5.layer2",
           "order": 2
         },
         {
-          "color": "FFD469",
-          "name": "u1F3A8.layer3",
+          "color": "FF473E",
+          "name": "u1F4D5.layer3",
           "order": 3
         },
         {
-          "color": "0074A8",
-          "name": "u1F3A8.layer4",
+          "color": "2B3B47",
+          "name": "u1F4D5.layer4",
           "order": 4
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3A8.layer5",
-          "order": 5
-        },
-        {
-          "color": "009B51",
-          "name": "u1F3A8.layer6",
-          "order": 6
         }
       ]
     }
@@ -1517,366 +2667,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4C9",
-        "name": "chartdownwardstrend"
-      },
-      "layers": [
-        {
-          "color": "DCE2E2",
-          "name": "u1F4C9.layer1",
-          "order": 1
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F4C9.layer2",
-          "order": 2
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F4C9.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3A3",
-        "name": "fishingpoleandfish"
-      },
-      "layers": [
-        {
-          "color": "00B1FF",
-          "name": "u1F3A3.layer1",
-          "order": 1
-        },
-        {
-          "color": "D8E9EA",
-          "name": "u1F3A3.layer2",
-          "order": 2
-        },
-        {
-          "color": "59CAFC",
-          "name": "u1F3A3.layer4",
-          "order": 4
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F3A3.layer5",
-          "order": 5
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3A3.layer6",
-          "order": 6
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3A3.layer7",
-          "order": 7
-        },
-        {
-          "color": "8E6049",
-          "name": "u1F3A3.layer8",
-          "order": 8
-        },
-        {
-          "color": "ADB8BC",
-          "name": "u1F3A3.layer9",
-          "order": 9
-        },
-        {
-          "color": "819096",
-          "name": "u1F3A3.layer10",
-          "order": 10
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C8",
-        "name": "chartupwardstrend"
-      },
-      "layers": [
-        {
-          "color": "DCE2E2",
-          "name": "u1F4C8.layer1",
-          "order": 1
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4C8.layer2",
-          "order": 2
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F4C8.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4E7",
-        "name": "email"
-      },
-      "layers": [
-        {
-          "color": "96A9B2",
-          "name": "u1F4E7.layer1",
-          "order": 1
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F4E7.layer2",
-          "order": 2
-        },
-        {
-          "color": "EDECE6",
-          "name": "u1F4E7.layer3",
-          "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4E7.layer4",
-          "order": 4
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4E7.layer5",
-          "order": 5
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F0CF",
-        "name": "playingcardblackjoker"
-      },
-      "layers": [
-        {
-          "color": "E5E4DF",
-          "name": "u1F0CF.layer1",
-          "order": 1
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F0CF.layer3",
-          "order": 3
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFD3B6",
-          "name": "u1F0CF.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer6",
-          "order": 6
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F0CF.layer7",
-          "order": 7
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer8",
-          "order": 8
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3A4",
-        "name": "microphone"
-      },
-      "layers": [
-        {
-          "color": "A5AAAA",
-          "name": "u1F3A4.layer1",
-          "order": 1
-        },
-        {
-          "color": "838989",
-          "name": "u1F3A4.layer2",
-          "order": 2
-        },
-        {
-          "color": "445056",
-          "name": "u1F3A4.layer3",
-          "order": 3
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3A4.layer4",
-          "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3A5",
-        "name": "moviecamera"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u1F3A5.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F3A5.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F3A5.layer3",
-          "order": 3
-        },
-        {
-          "color": "ADB8BC",
-          "name": "u1F3A5.layer4",
-          "order": 4
-        },
-        {
-          "color": "ADB8BC",
-          "name": "u1F3A5.layer5",
-          "order": 5
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3A5.layer6",
-          "order": 6
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F3A5.layer7",
-          "order": 7
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4B0",
-        "name": "moneybag"
-      },
-      "layers": [
-        {
-          "color": "EDCE83",
-          "name": "u1F4B0.layer1",
-          "order": 1
-        },
-        {
-          "color": "AA8F4D",
-          "name": "u1F4B0.layer2",
-          "order": 2
-        },
-        {
-          "color": "AA8F4D",
-          "name": "u1F4B0.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3AC",
-        "name": "clapperboard"
-      },
-      "layers": [
-        {
-          "color": "00B89C",
-          "name": "u1F3AC.layer1",
-          "order": 1
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3AC.layer2",
-          "order": 2
-        },
-        {
-          "color": "445056",
-          "name": "u1F3AC.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3AF",
-        "name": "directhit"
-      },
-      "layers": [
-        {
-          "color": "E5E4DF",
-          "name": "u1F3AF.layer1",
-          "order": 1
-        },
-        {
-          "color": "E5E4DF",
-          "name": "u1F3AF.layer2",
-          "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3AF.layer3",
-          "order": 3
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3AF.layer4",
-          "order": 4
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3AF.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F3AF.layer6",
-          "order": 6
-        },
-        {
-          "color": "0074A8",
-          "name": "u1F3AF.layer7",
-          "order": 7
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F6AA",
         "name": "door"
       },
@@ -1900,56 +2690,6 @@
           "color": "BFBCAF",
           "name": "u1F6AA.layer4",
           "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3AE",
-        "name": "videogame"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u1F3AE.layer1",
-          "order": 1
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F3AE.layer2",
-          "order": 2
-        },
-        {
-          "color": "132028",
-          "name": "u1F3AE.layer3",
-          "order": 3
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3AE.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F3AE.layer5",
-          "order": 5
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3AE.layer6",
-          "order": 6
-        },
-        {
-          "color": "00B89C",
-          "name": "u1F3AE.layer7",
-          "order": 7
-        },
-        {
-          "color": "597B91",
-          "name": "u1F3AE.layer8",
-          "order": 8
         }
       ]
     }
@@ -1994,121 +2734,6 @@
         {
           "color": "2B3B47",
           "name": "u1F4D9.layer7",
-          "order": 7
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4BB",
-        "name": "personalcomputer"
-      },
-      "layers": [
-        {
-          "color": "ADB8BC",
-          "name": "u1F4BB.layer1",
-          "order": 1
-        },
-        {
-          "color": "C5CFD1",
-          "name": "u1F4BB.layer2",
-          "order": 2
-        },
-        {
-          "color": "C5CFD1",
-          "name": "u1F4BB.layer3",
-          "order": 3
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F4BB.layer4",
-          "order": 4
-        },
-        {
-          "color": "D7F4F7",
-          "name": "u1F4BB.layer5",
-          "order": 5
-        },
-        {
-          "color": "8F9799",
-          "name": "u1F4BB.layer6",
-          "order": 6
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4B3",
-        "name": "creditcard"
-      },
-      "layers": [
-        {
-          "color": "C2CCCE",
-          "name": "u1F4B3.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B3.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4B3.layer3",
-          "order": 3
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B3.layer4",
-          "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4BD",
-        "name": "minidisc"
-      },
-      "layers": [
-        {
-          "color": "464A4C",
-          "name": "u1F4BD.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFD469",
-          "name": "u1F4BD.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F4BD.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFE1AB",
-          "name": "u1F4BD.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFE1AB",
-          "name": "u1F4BD.layer5",
-          "order": 5
-        },
-        {
-          "color": "F2A74E",
-          "name": "u1F4BD.layer6",
-          "order": 6
-        },
-        {
-          "color": "EDEDED",
-          "name": "u1F4BD.layer7",
           "order": 7
         }
       ]
@@ -2165,51 +2790,6 @@
           "color": "59CAFC",
           "name": "u1F3CA.layer9",
           "order": 9
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F004",
-        "name": "mahjong"
-      },
-      "layers": [
-        {
-          "color": "E5E4DF",
-          "name": "u1F004.layer1",
-          "order": 1
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F004.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4B4",
-        "name": "banknoteyen"
-      },
-      "layers": [
-        {
-          "color": "EDCE83",
-          "name": "u1F4B4.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B4.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4B4.layer3",
-          "order": 3
         }
       ]
     }
@@ -2280,31 +2860,6 @@
           "color": "90B776",
           "name": "u1F4DF.layer12",
           "order": 12
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6BD",
-        "name": "toilet"
-      },
-      "layers": [
-        {
-          "color": "A1A6A8",
-          "name": "u1F6BD.layer1",
-          "order": 1
-        },
-        {
-          "color": "D3D3D3",
-          "name": "u1F6BD.layer2",
-          "order": 2
-        },
-        {
-          "color": "E6E7E8",
-          "name": "u1F6BD.layer3",
-          "order": 3
         }
       ]
     }
@@ -2527,51 +3082,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4C7",
-        "name": "cardindex"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u1F4C7.layer1",
-          "order": 1
-        },
-        {
-          "color": "E8EAEA",
-          "name": "u1F4C7.layer2",
-          "order": 2
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4C7.layer3",
-          "order": 3
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4C7.layer4",
-          "order": 4
-        },
-        {
-          "color": "BFBFBB",
-          "name": "u1F4C7.layer5",
-          "order": 5
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F4C7.layer6",
-          "order": 6
-        },
-        {
-          "color": "9B9B9A",
-          "name": "u1F4C7.layer7",
-          "order": 7
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F4E0",
         "name": "faxmachine"
       },
@@ -2687,223 +3197,33 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4C3",
-        "name": "pagewithcurl"
+        "code": "u1F4E7",
+        "name": "email"
       },
       "layers": [
         {
-          "color": "DCE2E2",
-          "name": "u1F4C3.layer1",
-          "order": 1
-        },
-        {
           "color": "96A9B2",
-          "name": "u1F4C3.layer2",
-          "order": 2
+          "name": "u1F4E7.layer1",
+          "order": 1
         },
         {
           "color": "B9C5C6",
-          "name": "u1F4C3.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C2",
-        "name": "openfilefolder"
-      },
-      "layers": [
-        {
-          "color": "BC7520",
-          "name": "u1F4C2.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F4C2.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C1",
-        "name": "filefolder"
-      },
-      "layers": [
-        {
-          "color": "BC7520",
-          "name": "u1F4C1.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F4C1.layer2",
+          "name": "u1F4E7.layer2",
           "order": 2
         },
         {
-          "color": "BC7520",
-          "name": "u1F4C1.layer3",
+          "color": "EDECE6",
+          "name": "u1F4E7.layer3",
           "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3A7",
-        "name": "headphone"
-      },
-      "layers": [
-        {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer1",
-          "order": 1
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer2",
-          "order": 2
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer3",
-          "order": 3
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer4",
-          "order": 4
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer5",
-          "order": 5
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer6",
-          "order": 6
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer7",
-          "order": 7
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer8",
-          "order": 8
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer9",
-          "order": 9
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4D2",
-        "name": "ledger"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u1F4D2.layer1",
-          "order": 1
-        },
-        {
-          "color": "799EB2",
-          "name": "u1F4D2.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F4D2.layer3",
-          "order": 3
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4D2.layer4",
-          "order": 4
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F4D2.layer5",
-          "order": 5
         },
         {
           "color": "DCE2E2",
-          "name": "u1F4D2.layer6",
-          "order": 6
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u26BE",
-        "name": "baseball"
-      },
-      "layers": [
-        {
-          "color": "E5E4DF",
-          "name": "u26BE.layer1",
-          "order": 1
-        },
-        {
-          "color": "BFBCAF",
-          "name": "u26BE.layer2",
-          "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u26BE.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F5AA",
-        "name": "floppydisk"
-      },
-      "layers": [
-        {
-          "color": "464A4C",
-          "name": "u1F5AA.layer1",
-          "order": 1
-        },
-        {
-          "color": "EDEDED",
-          "name": "u1F5AA.layer2",
-          "order": 2
-        },
-        {
-          "color": "EDEDED",
-          "name": "u1F5AA.layer3",
-          "order": 3
-        },
-        {
-          "color": "59CAFC",
-          "name": "u1F5AA.layer4",
+          "name": "u1F4E7.layer4",
           "order": 4
         },
         {
-          "color": "132028",
-          "name": "u1F5AA.layer5",
+          "color": "597B91",
+          "name": "u1F4E7.layer5",
           "order": 5
         }
       ]
@@ -2912,319 +3232,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4B6",
-        "name": "banknoteeuro"
+        "code": "u1F4E6",
+        "name": "package"
       },
       "layers": [
         {
-          "color": "73EABC",
-          "name": "u1F4B6.layer1",
+          "color": "AF773F",
+          "name": "u1F4E6.layer1",
           "order": 1
         },
         {
-          "color": "597B91",
-          "name": "u1F4B6.layer2",
+          "color": "E5AA6E",
+          "name": "u1F4E6.layer2",
           "order": 2
         },
         {
-          "color": "597B91",
-          "name": "u1F4B6.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C6",
-        "name": "tearoffcalendar"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u1F4C6.layer1",
-          "order": 1
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4C6.layer2",
-          "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4C6.layer3",
+          "color": "332A23",
+          "name": "u1F4E6.layer3",
           "order": 3
         },
         {
-          "color": "505A60",
-          "name": "u1F4C6.layer4",
+          "color": "3F6072",
+          "name": "u1F4E6.layer4",
           "order": 4
-        },
-        {
-          "color": "505A60",
-          "name": "u1F4C6.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4C6.layer6",
-          "order": 6
-        },
-        {
-          "color": "BFBFBB",
-          "name": "u1F4C6.layer7",
-          "order": 7
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C6.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C6.layer9",
-          "order": 9
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C6.layer10",
-          "order": 10
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F6B4",
-        "name": "bicyclist"
-      },
-      "layers": [
-        {
-          "color": "BFBCAF",
-          "name": "u1F6B4.layer1",
-          "order": 1
-        },
-        {
-          "color": "A39F90",
-          "name": "u1F6B4.layer2",
-          "order": 2
-        },
-        {
-          "color": "EDC0A2",
-          "name": "u1F6B4.layer3",
-          "order": 3
-        },
-        {
-          "color": "DEE254",
-          "name": "u1F6B4.layer4",
-          "order": 4
-        },
-        {
-          "color": "76DFFF",
-          "name": "u1F6B4.layer6",
-          "order": 6
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F6B4.layer7",
-          "order": 7
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F6B4.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6B4.layer9",
-          "order": 9
-        },
-        {
-          "color": "E5E5E5",
-          "name": "u1F6B4.layer10",
-          "order": 10
-        },
-        {
-          "color": "0074A8",
-          "name": "u1F6B4.layer11",
-          "order": 11
-        },
-        {
-          "color": "464A4C",
-          "name": "u1F6B4.layer12",
-          "order": 12
-        },
-        {
-          "color": "464A4C",
-          "name": "u1F6B4.layer13",
-          "order": 13
-        },
-        {
-          "color": "FFD3B6",
-          "name": "u1F6B4.layer14",
-          "order": 14
-        },
-        {
-          "color": "464A4C",
-          "name": "u1F6B4.layer15",
-          "order": 15
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F6B4.layer16",
-          "order": 16
-        },
-        {
-          "color": "DEE254",
-          "name": "u1F6B4.layer17",
-          "order": 17
-        },
-        {
-          "color": "76DFFF",
-          "name": "u1F6B4.layer18",
-          "order": 18
-        },
-        {
-          "color": "597B91",
-          "name": "u1F6B4.layer19",
-          "order": 19
-        },
-        {
-          "color": "FFD3B6",
-          "name": "u1F6B4.layer20",
-          "order": 20
-        },
-        {
-          "color": "FFD3B6",
-          "name": "u1F6B4.layer21",
-          "order": 21
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F6B4.layer22",
-          "order": 22
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6B4.layer23",
-          "order": 23
-        },
-        {
-          "color": "68442A",
-          "name": "u1F6B4.layer24",
-          "order": 24
-        },
-        {
-          "color": "E5AB83",
-          "name": "u1F6B4.layer25",
-          "order": 25
-        },
-        {
-          "color": "EDC0A2",
-          "name": "u1F6B4.layer26",
-          "order": 26
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F6B4.layer27",
-          "order": 27
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F6B4.layer28",
-          "order": 28
-        },
-        {
-          "color": "E5E5E5",
-          "name": "u1F6B4.layer29",
-          "order": 29
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u2712",
-        "name": "blacknib"
-      },
-      "layers": [
-        {
-          "color": "B9C5C6",
-          "name": "u2712.layer1",
-          "order": 1
-        },
-        {
-          "color": "445056",
-          "name": "u2712.layer2",
-          "order": 2
-        },
-        {
-          "color": "A1AAAD",
-          "name": "u2712.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4C5",
-        "name": "calendar"
-      },
-      "layers": [
-        {
-          "color": "DCE2E2",
-          "name": "u1F4C5.layer1",
-          "order": 1
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4C5.layer2",
-          "order": 2
-        },
-        {
-          "color": "505A60",
-          "name": "u1F4C5.layer3",
-          "order": 3
-        },
-        {
-          "color": "505A60",
-          "name": "u1F4C5.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C5.layer5",
-          "order": 5
-        },
-        {
-          "color": "BFBFBB",
-          "name": "u1F4C5.layer6",
-          "order": 6
-        },
-        {
-          "color": "BFBFBB",
-          "name": "u1F4C5.layer7",
-          "order": 7
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C5.layer8",
-          "order": 8
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C5.layer9",
-          "order": 9
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F4C5.layer10",
-          "order": 10
         }
       ]
     }
