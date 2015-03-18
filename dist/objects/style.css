@@ -183,6 +183,9 @@
 .icon-objects-clipboard:before {
   content: "\1F4CB"
 }
+.icon-objects-pushpin:before {
+  content: "\1F4CC"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
