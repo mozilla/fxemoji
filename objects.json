@@ -152,6 +152,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F52C",
+        "name": "microscope"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F52C.layer1",
+          "order": 1
+        },
+        {
+          "color": "445056",
+          "name": "u1F52C.layer2",
+          "order": 2
+        },
+        {
+          "color": "6FBAD8",
+          "name": "u1F52C.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F52C.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52B",
         "name": "pistol"
       },
