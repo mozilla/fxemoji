@@ -2,34 +2,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F50F",
-        "name": "lockwithinkpen"
+        "code": "u1F3C8",
+        "name": "americanfootball"
       },
       "layers": [
         {
-          "color": "B1B4B5",
-          "name": "u1F50F.layer1",
+          "color": "8E6049",
+          "name": "u1F3C8.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F50F.layer2",
+          "color": "464A4C",
+          "name": "u1F3C8.layer2",
           "order": 2
         },
         {
-          "color": "FFD469",
-          "name": "u1F50F.layer3",
+          "color": "D1CFC3",
+          "name": "u1F3C8.layer3",
           "order": 3
         },
         {
-          "color": "597B91",
-          "name": "u1F50F.layer4",
+          "color": "D1CFC3",
+          "name": "u1F3C8.layer4",
           "order": 4
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F50F.layer5",
-          "order": 5
         }
       ]
     }
@@ -80,6 +75,41 @@
           "color": "FFE1AB",
           "name": "u1F3C9.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F50F",
+        "name": "lockwithinkpen"
+      },
+      "layers": [
+        {
+          "color": "B1B4B5",
+          "name": "u1F50F.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F50F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F50F.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F50F.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F50F.layer5",
+          "order": 5
         }
       ]
     }
@@ -2517,29 +2547,34 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3C8",
-        "name": "americanfootball"
+        "code": "u1F4D6",
+        "name": "openbook"
       },
       "layers": [
         {
-          "color": "8E6049",
-          "name": "u1F3C8.layer1",
+          "color": "FF473E",
+          "name": "u1F4D6.layer1",
           "order": 1
         },
         {
-          "color": "464A4C",
-          "name": "u1F3C8.layer2",
+          "color": "445056",
+          "name": "u1F4D6.layer2",
           "order": 2
         },
         {
-          "color": "D1CFC3",
-          "name": "u1F3C8.layer3",
+          "color": "A9B8C2",
+          "name": "u1F4D6.layer3",
           "order": 3
         },
         {
-          "color": "D1CFC3",
-          "name": "u1F3C8.layer4",
+          "color": "DCE2E2",
+          "name": "u1F4D6.layer4",
           "order": 4
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F4D6.layer5",
+          "order": 5
         }
       ]
     }

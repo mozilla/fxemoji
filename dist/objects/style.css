@@ -210,6 +210,9 @@
 .icon-objects-closedbook:before {
   content: "\1F4D5"
 }
+.icon-objects-openbook:before {
+  content: "\1F4D6"
+}
 .icon-objects-greenbook:before {
   content: "\1F4D7"
 }
