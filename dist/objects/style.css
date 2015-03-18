@@ -204,6 +204,9 @@
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
+.icon-objects-notebookdecorativecover:before {
+  content: "\1F4D4"
+}
 .icon-objects-greenbook:before {
   content: "\1F4D7"
 }
