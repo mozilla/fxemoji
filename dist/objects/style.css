@@ -198,6 +198,9 @@
 .icon-objects-hocho:before {
   content: "\1F52A"
 }
+.icon-objects-pistol:before {
+  content: "\1F52B"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }

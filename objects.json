@@ -152,6 +152,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F52B",
+        "name": "pistol"
+      },
+      "layers": [
+        {
+          "color": "778A91",
+          "name": "u1F52B.layer1",
+          "order": 1
+        },
+        {
+          "color": "576F7A",
+          "name": "u1F52B.layer2",
+          "order": 2
+        },
+        {
+          "color": "778A91",
+          "name": "u1F52B.layer3",
+          "order": 3
+        },
+        {
+          "color": "9CADB5",
+          "name": "u1F52B.layer4",
+          "order": 4
+        },
+        {
+          "color": "576F7A",
+          "name": "u1F52B.layer5",
+          "order": 5
+        },
+        {
+          "color": "C3D6DD",
+          "name": "u1F52B.layer6",
+          "order": 6
+        },
+        {
+          "color": "D7DFE2",
+          "name": "u1F52B.layer7",
+          "order": 7
+        },
+        {
+          "color": "C3D6DD",
+          "name": "u1F52B.layer8",
+          "order": 8
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F52B.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6BF",
         "name": "shower"
       },
