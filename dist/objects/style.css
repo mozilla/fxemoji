@@ -192,6 +192,9 @@
 .icon-objects-straightruler:before {
   content: "\1F4CF"
 }
+.icon-objects-triangularruler:before {
+  content: "\1F4D0"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }

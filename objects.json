@@ -1257,6 +1257,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4D0",
+        "name": "triangularruler"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F4D0.layer1",
+          "order": 1
+        },
+        {
+          "color": "AA8F4D",
+          "name": "u1F4D0.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C8",
         "name": "americanfootball"
       },
