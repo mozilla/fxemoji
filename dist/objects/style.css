@@ -177,6 +177,9 @@
 .icon-objects-chartdownwardstrend:before {
   content: "\1F4C9"
 }
+.icon-objects-barchart:before {
+  content: "\1F4CA"
+}
 .icon-objects-notebook:before {
   content: "\1F4D3"
 }
