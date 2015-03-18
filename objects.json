@@ -2927,6 +2927,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4DB",
+        "name": "namebadge"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F4DB.layer1",
+          "order": 1
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4DB.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4DF",
         "name": "pager"
       },
