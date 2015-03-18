@@ -1767,6 +1767,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F52E",
+        "name": "crystalball"
+      },
+      "layers": [
+        {
+          "color": "D8BA66",
+          "name": "u1F52E.layer1",
+          "order": 1
+        },
+        {
+          "color": "725FAF",
+          "name": "u1F52E.layer2",
+          "order": 2
+        },
+        {
+          "color": "9180D6",
+          "name": "u1F52E.layer3",
+          "order": 3
+        },
+        {
+          "color": "9180D6",
+          "name": "u1F52E.layer4",
+          "order": 4
+        },
+        {
+          "color": "725FAF",
+          "name": "u1F52E.layer5",
+          "order": 5
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F52E.layer6",
+          "order": 6
+        },
+        {
+          "color": "C4A6FF",
+          "name": "u1F52E.layer7",
+          "order": 7
+        },
+        {
+          "color": "DFD2FF",
+          "name": "u1F52E.layer8",
+          "order": 8
+        },
+        {
+          "color": "8280D8",
+          "name": "u1F52E.layer9",
+          "order": 9
+        },
+        {
+          "color": "9180D6",
+          "name": "u1F52E.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52D",
         "name": "telescope"
       },

@@ -261,6 +261,9 @@
 .icon-objects-telescope:before {
   content: "\1F52D"
 }
+.icon-objects-crystalball:before {
+  content: "\1F52E"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
