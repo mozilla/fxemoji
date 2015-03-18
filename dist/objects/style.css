@@ -252,6 +252,9 @@
 .icon-objects-microscope:before {
   content: "\1F52C"
 }
+.icon-objects-telescope:before {
+  content: "\1F52D"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }

@@ -1767,6 +1767,71 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F52D",
+        "name": "telescope"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F52D.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F52D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F52D.layer3",
+          "order": 3
+        },
+        {
+          "color": "445056",
+          "name": "u1F52D.layer4",
+          "order": 4
+        },
+        {
+          "color": "EA1B1B",
+          "name": "u1F52D.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F52D.layer6",
+          "order": 6
+        },
+        {
+          "color": "EA1B1B",
+          "name": "u1F52D.layer7",
+          "order": 7
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F52D.layer8",
+          "order": 8
+        },
+        {
+          "color": "445056",
+          "name": "u1F52D.layer9",
+          "order": 9
+        },
+        {
+          "color": "B0E9FF",
+          "name": "u1F52D.layer10",
+          "order": 10
+        },
+        {
+          "color": "708084",
+          "name": "u1F52D.layer11",
+          "order": 11
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52A",
         "name": "hocho"
       },
