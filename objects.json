@@ -582,6 +582,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4CE",
+        "name": "paperclip"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4CE.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4C0",
         "name": "dvd"
       },
