@@ -222,6 +222,9 @@
 .icon-objects-orangebook:before {
   content: "\1F4D9"
 }
+.icon-objects-books:before {
+  content: "\1F4DA"
+}
 .icon-objects-namebadge:before {
   content: "\1F4DB"
 }

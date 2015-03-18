@@ -2947,6 +2947,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4DA",
+        "name": "books"
+      },
+      "layers": [
+        {
+          "color": "D32A2A",
+          "name": "u1F4DA.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F4DA.layer2",
+          "order": 2
+        },
+        {
+          "color": "005877",
+          "name": "u1F4DA.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4DA.layer4",
+          "order": 4
+        },
+        {
+          "color": "445056",
+          "name": "u1F4DA.layer5",
+          "order": 5
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4DA.layer6",
+          "order": 6
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F4DA.layer7",
+          "order": 7
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4DA.layer8",
+          "order": 8
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4DA.layer9",
+          "order": 9
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4DA.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4DF",
         "name": "pager"
       },
