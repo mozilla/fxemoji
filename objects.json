@@ -367,6 +367,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26F3",
+        "name": "flaginhole"
+      },
+      "layers": [
+        {
+          "color": "369E65",
+          "name": "u26F3.layer1",
+          "order": 1
+        },
+        {
+          "color": "15844A",
+          "name": "u26F3.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u26F3.layer3",
+          "order": 3
+        },
+        {
+          "color": "D19B61",
+          "name": "u26F3.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u26F3.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AA",
         "name": "floppydisk"
       },
