@@ -249,6 +249,9 @@
 .icon-objects-megaphone:before {
   content: "\1F4E3"
 }
+.icon-objects-outbox:before {
+  content: "\1F4E4"
+}
 .icon-objects-package:before {
   content: "\1F4E6"
 }
