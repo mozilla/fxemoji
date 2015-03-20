@@ -322,6 +322,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F36B",
+        "name": "chocolatebar"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F36B.layer1",
+          "order": 1
+        },
+        {
+          "color": "C2CACE",
+          "name": "u1F36B.layer2",
+          "order": 2
+        },
+        {
+          "color": "C47955",
+          "name": "u1F36B.layer3",
+          "order": 3
+        },
+        {
+          "color": "E22020",
+          "name": "u1F36B.layer4",
+          "order": 4
+        },
+        {
+          "color": "8C4B3B",
+          "name": "u1F36B.layer5",
+          "order": 5
+        },
+        {
+          "color": "C2CACE",
+          "name": "u1F36B.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4FA",
         "name": "television"
       },
