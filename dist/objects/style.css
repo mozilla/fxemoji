@@ -276,6 +276,9 @@
 .icon-objects-openmailboxloweredflag:before {
   content: "\1F4ED"
 }
+.icon-objects-postbox:before {
+  content: "\1F4EE"
+}
 .icon-objects-television:before {
   content: "\1F4FA"
 }
