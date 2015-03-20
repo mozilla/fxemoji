@@ -157,6 +157,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4F2",
+        "name": "phonerightarrowleft"
+      },
+      "layers": [
+        {
+          "color": "8F9799",
+          "name": "u1F4F2.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F4F2.layer2",
+          "order": 2
+        },
+        {
+          "color": "CAD6D8",
+          "name": "u1F4F2.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4F9F9",
+          "name": "u1F4F2.layer4",
+          "order": 4
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4F2.layer5",
+          "order": 5
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F4F2.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },

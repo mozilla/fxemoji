@@ -291,6 +291,9 @@
 .icon-objects-cellphone:before {
   content: "\1F4F1"
 }
+.icon-objects-phonerightarrowleft:before {
+  content: "\1F4F2"
+}
 .icon-objects-television:before {
   content: "\1F4FA"
 }
