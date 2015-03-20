@@ -3072,6 +3072,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4DC",
+        "name": "scroll"
+      },
+      "layers": [
+        {
+          "color": "C4AC8C",
+          "name": "u1F4DC.layer1",
+          "order": 1
+        },
+        {
+          "color": "F7DFBC",
+          "name": "u1F4DC.layer2",
+          "order": 2
+        },
+        {
+          "color": "E0C7AD",
+          "name": "u1F4DC.layer3",
+          "order": 3
+        },
+        {
+          "color": "C4AC8C",
+          "name": "u1F4DC.layer4",
+          "order": 4
+        },
+        {
+          "color": "60554A",
+          "name": "u1F4DC.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4DA",
         "name": "books"
       },

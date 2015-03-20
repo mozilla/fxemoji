@@ -228,6 +228,9 @@
 .icon-objects-namebadge:before {
   content: "\1F4DB"
 }
+.icon-objects-scroll:before {
+  content: "\1F4DC"
+}
 .icon-objects-pager:before {
   content: "\1F4DF"
 }
