@@ -1942,6 +1942,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4E2",
+        "name": "loudspeaker"
+      },
+      "layers": [
+        {
+          "color": "0096D1",
+          "name": "u1F4E2.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F4E2.layer2",
+          "order": 2
+        },
+        {
+          "color": "727272",
+          "name": "u1F4E2.layer3",
+          "order": 3
+        },
+        {
+          "color": "D1D1D1",
+          "name": "u1F4E2.layer4",
+          "order": 4
+        },
+        {
+          "color": "B2B2B2",
+          "name": "u1F4E2.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52A",
         "name": "hocho"
       },
