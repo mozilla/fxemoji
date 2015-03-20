@@ -252,6 +252,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4F9",
+        "name": "handheldvideocamera"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4F9.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4F9.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4F9.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4F9.layer4",
+          "order": 4
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4F9.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },

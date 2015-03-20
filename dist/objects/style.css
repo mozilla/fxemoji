@@ -297,6 +297,9 @@
 .icon-objects-camera:before {
   content: "\1F4F7"
 }
+.icon-objects-handheldvideocamera:before {
+  content: "\1F4F9"
+}
 .icon-objects-television:before {
   content: "\1F4FA"
 }
