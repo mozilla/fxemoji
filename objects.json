@@ -3272,6 +3272,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4DD",
+        "name": "memo"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F4DD.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4DD.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B2622",
+          "name": "u1F4DD.layer3",
+          "order": 3
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F4DD.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F4DD.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F4DD.layer6",
+          "order": 6
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4DD.layer7",
+          "order": 7
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4DD.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3B3",
         "name": "bowling"
       },

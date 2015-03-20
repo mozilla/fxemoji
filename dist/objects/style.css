@@ -231,6 +231,9 @@
 .icon-objects-scroll:before {
   content: "\1F4DC"
 }
+.icon-objects-memo:before {
+  content: "\1F4DD"
+}
 .icon-objects-pager:before {
   content: "\1F4DF"
 }
