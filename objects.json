@@ -2432,6 +2432,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4EC",
+        "name": "openmailboxraisedflag"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F4EC.layer1",
+          "order": 1
+        },
+        {
+          "color": "81929B",
+          "name": "u1F4EC.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4EC.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4EC.layer4",
+          "order": 4
+        },
+        {
+          "color": "EDECE6",
+          "name": "u1F4EC.layer5",
+          "order": 5
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4EC.layer6",
+          "order": 6
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F4EC.layer7",
+          "order": 7
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4EC.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4EB",
         "name": "closedmailboxraisedflag"
       },

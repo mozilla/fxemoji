@@ -273,6 +273,9 @@
 .icon-objects-closedmailboxraisedflag:before {
   content: "\1F4EB"
 }
+.icon-objects-openmailboxraisedflag:before {
+  content: "\1F4EC"
+}
 .icon-objects-openmailboxloweredflag:before {
   content: "\1F4ED"
 }
