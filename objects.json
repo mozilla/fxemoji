@@ -82,6 +82,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4F7",
+        "name": "camera"
+      },
+      "layers": [
+        {
+          "color": "8F9799",
+          "name": "u1F4F7.layer1",
+          "order": 1
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F4F7.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFBDE",
+          "name": "u1F4F7.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4F7.layer4",
+          "order": 4
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4F7.layer5",
+          "order": 5
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4F7.layer6",
+          "order": 6
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F4F7.layer7",
+          "order": 7
+        },
+        {
+          "color": "00BEEA",
+          "name": "u1F4F7.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F4F7.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4F0",
         "name": "newspaper"
       },
@@ -267,6 +322,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F6AA",
+        "name": "door"
+      },
+      "layers": [
+        {
+          "color": "F73737",
+          "name": "u1F6AA.layer1",
+          "order": 1
+        },
+        {
+          "color": "C62424",
+          "name": "u1F6AA.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F6AA.layer3",
+          "order": 3
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F6AA.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C1",
         "name": "bathtub"
       },
@@ -400,36 +485,6 @@
           "color": "132028",
           "name": "u1F57B.layer1",
           "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F4D8",
-        "name": "bluebook"
-      },
-      "layers": [
-        {
-          "color": "0096D1",
-          "name": "u1F4D8.layer1",
-          "order": 1
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4D8.layer2",
-          "order": 2
-        },
-        {
-          "color": "59CAFC",
-          "name": "u1F4D8.layer3",
-          "order": 3
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F4D8.layer4",
-          "order": 4
         }
       ]
     }
@@ -3392,28 +3447,28 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6AA",
-        "name": "door"
+        "code": "u1F4D8",
+        "name": "bluebook"
       },
       "layers": [
         {
-          "color": "F73737",
-          "name": "u1F6AA.layer1",
+          "color": "0096D1",
+          "name": "u1F4D8.layer1",
           "order": 1
         },
         {
-          "color": "C62424",
-          "name": "u1F6AA.layer2",
+          "color": "DCE2E2",
+          "name": "u1F4D8.layer2",
           "order": 2
         },
         {
-          "color": "FFB636",
-          "name": "u1F6AA.layer3",
+          "color": "59CAFC",
+          "name": "u1F4D8.layer3",
           "order": 3
         },
         {
-          "color": "BFBCAF",
-          "name": "u1F6AA.layer4",
+          "color": "2B3B47",
+          "name": "u1F4D8.layer4",
           "order": 4
         }
       ]
