@@ -592,6 +592,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F33D",
+        "name": "earofmaize"
+      },
+      "layers": [
+        {
+          "color": "2BA52E",
+          "name": "u1F33D.layer1",
+          "order": 1
+        },
+        {
+          "color": "F8A106",
+          "name": "u1F33D.layer2",
+          "order": 2
+        },
+        {
+          "color": "55B755",
+          "name": "u1F33D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FAC33A",
+          "name": "u1F33D.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F57B",
         "name": "telephonereceiver"
       },
