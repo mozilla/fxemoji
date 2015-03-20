@@ -357,6 +357,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4FB",
+        "name": "radio"
+      },
+      "layers": [
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FB.layer1",
+          "order": 1
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FB.layer2",
+          "order": 2
+        },
+        {
+          "color": "CCD1D3",
+          "name": "u1F4FB.layer3",
+          "order": 3
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FB.layer4",
+          "order": 4
+        },
+        {
+          "color": "D5DEE4",
+          "name": "u1F4FB.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF5850",
+          "name": "u1F4FB.layer6",
+          "order": 6
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FB.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AA",
         "name": "door"
       },

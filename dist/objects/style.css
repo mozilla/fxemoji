@@ -303,6 +303,9 @@
 .icon-objects-television:before {
   content: "\1F4FA"
 }
+.icon-objects-radio:before {
+  content: "\1F4FB"
+}
 .icon-objects-leftmagnifyingglass:before {
   content: "\1F50D"
 }
