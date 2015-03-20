@@ -402,6 +402,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4FC",
+        "name": "videocasette"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F4FC.layer1",
+          "order": 1
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F4FC.layer2",
+          "order": 2
+        },
+        {
+          "color": "132028",
+          "name": "u1F4FC.layer3",
+          "order": 3
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F4FC.layer4",
+          "order": 4
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FC.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AA",
         "name": "door"
       },
