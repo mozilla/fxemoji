@@ -212,59 +212,64 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4C6",
-        "name": "tearoffcalendar"
+        "code": "u1F6C0",
+        "name": "bath"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u1F4C6.layer1",
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer1",
           "order": 1
         },
         {
-          "color": "DCE2E2",
-          "name": "u1F4C6.layer2",
+          "color": "8299A3",
+          "name": "u1F6C0.layer2",
           "order": 2
         },
         {
-          "color": "FF473E",
-          "name": "u1F4C6.layer3",
-          "order": 3
-        },
-        {
-          "color": "505A60",
-          "name": "u1F4C6.layer4",
+          "color": "C3CCD1",
+          "name": "u1F6C0.layer4",
           "order": 4
         },
         {
-          "color": "505A60",
-          "name": "u1F4C6.layer5",
+          "color": "8299A3",
+          "name": "u1F6C0.layer5",
           "order": 5
         },
         {
-          "color": "2B3B47",
-          "name": "u1F4C6.layer6",
+          "color": "FDC8A6",
+          "name": "u1F6C0.layer6",
           "order": 6
         },
         {
-          "color": "BFBFBB",
-          "name": "u1F4C6.layer7",
+          "color": "8299A3",
+          "name": "u1F6C0.layer7",
           "order": 7
         },
         {
-          "color": "FFFFFF",
-          "name": "u1F4C6.layer8",
+          "color": "212D37",
+          "name": "u1F6C0.layer8",
           "order": 8
         },
         {
           "color": "FFFFFF",
-          "name": "u1F4C6.layer9",
+          "name": "u1F6C0.layer9",
           "order": 9
         },
         {
-          "color": "FFFFFF",
-          "name": "u1F4C6.layer10",
+          "color": "DC9A70",
+          "name": "u1F6C0.layer10",
           "order": 10
+        },
+        {
+          "color": "E6B290",
+          "name": "u1F6C0.layer11",
+          "order": 11
+        },
+        {
+          "color": "543420",
+          "name": "u1F6C0.layer12",
+          "order": 12
         }
       ]
     }
@@ -1662,64 +1667,59 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F6C0",
-        "name": "bath"
+        "code": "u1F4C6",
+        "name": "tearoffcalendar"
       },
       "layers": [
         {
-          "color": "FDC8A6",
-          "name": "u1F6C0.layer1",
+          "color": "2B3B47",
+          "name": "u1F4C6.layer1",
           "order": 1
         },
         {
-          "color": "8299A3",
-          "name": "u1F6C0.layer2",
+          "color": "DCE2E2",
+          "name": "u1F4C6.layer2",
           "order": 2
         },
         {
-          "color": "C3CCD1",
-          "name": "u1F6C0.layer4",
+          "color": "FF473E",
+          "name": "u1F4C6.layer3",
+          "order": 3
+        },
+        {
+          "color": "505A60",
+          "name": "u1F4C6.layer4",
           "order": 4
         },
         {
-          "color": "8299A3",
-          "name": "u1F6C0.layer5",
+          "color": "505A60",
+          "name": "u1F4C6.layer5",
           "order": 5
         },
         {
-          "color": "FDC8A6",
-          "name": "u1F6C0.layer6",
+          "color": "2B3B47",
+          "name": "u1F4C6.layer6",
           "order": 6
         },
         {
-          "color": "8299A3",
-          "name": "u1F6C0.layer7",
+          "color": "BFBFBB",
+          "name": "u1F4C6.layer7",
           "order": 7
         },
         {
-          "color": "212D37",
-          "name": "u1F6C0.layer8",
+          "color": "FFFFFF",
+          "name": "u1F4C6.layer8",
           "order": 8
         },
         {
           "color": "FFFFFF",
-          "name": "u1F6C0.layer9",
+          "name": "u1F4C6.layer9",
           "order": 9
         },
         {
-          "color": "DC9A70",
-          "name": "u1F6C0.layer10",
+          "color": "FFFFFF",
+          "name": "u1F4C6.layer10",
           "order": 10
-        },
-        {
-          "color": "E6B290",
-          "name": "u1F6C0.layer11",
-          "order": 11
-        },
-        {
-          "color": "543420",
-          "name": "u1F6C0.layer12",
-          "order": 12
         }
       ]
     }
@@ -2555,6 +2555,31 @@
           "color": "EDECE6",
           "name": "u1F4ED.layer8",
           "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4EF",
+        "name": "postalhorn"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F4EF.layer1",
+          "order": 1
+        },
+        {
+          "color": "F4580B",
+          "name": "u1F4EF.layer2",
+          "order": 2
+        },
+        {
+          "color": "BA7625",
+          "name": "u1F4EF.layer3",
+          "order": 3
         }
       ]
     }
