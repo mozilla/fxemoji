@@ -3752,6 +3752,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4E5",
+        "name": "inboxtray"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F4E5.layer1",
+          "order": 1
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F4E5.layer2",
+          "order": 2
+        },
+        {
+          "color": "68442A",
+          "name": "u1F4E5.layer3",
+          "order": 3
+        },
+        {
+          "color": "332A23",
+          "name": "u1F4E5.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E4",
         "name": "outbox"
       },

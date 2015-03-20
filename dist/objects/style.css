@@ -252,6 +252,9 @@
 .icon-objects-outbox:before {
   content: "\1F4E4"
 }
+.icon-objects-inboxtray:before {
+  content: "\1F4E5"
+}
 .icon-objects-package:before {
   content: "\1F4E6"
 }
