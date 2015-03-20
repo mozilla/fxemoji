@@ -117,6 +117,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4FA",
+        "name": "television"
+      },
+      "layers": [
+        {
+          "color": "8F9799",
+          "name": "u1F4FA.layer1",
+          "order": 1
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F4FA.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4FA.layer3",
+          "order": 3
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FA.layer4",
+          "order": 4
+        },
+        {
+          "color": "819096",
+          "name": "u1F4FA.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4C7",
         "name": "cardindex"
       },
