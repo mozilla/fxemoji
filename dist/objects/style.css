@@ -267,6 +267,9 @@
 .icon-objects-envelopedownarrowabove:before {
   content: "\1F4E9"
 }
+.icon-objects-closedmailboxloweredflag:before {
+  content: "\1F4EA"
+}
 .icon-objects-closedmailboxraisedflag:before {
   content: "\1F4EB"
 }

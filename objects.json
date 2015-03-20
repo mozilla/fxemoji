@@ -2402,6 +2402,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4EA",
+        "name": "closedmailboxloweredflag"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F4EA.layer1",
+          "order": 1
+        },
+        {
+          "color": "81929B",
+          "name": "u1F4EA.layer2",
+          "order": 2
+        },
+        {
+          "color": "BCC8CC",
+          "name": "u1F4EA.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4EA.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4EB",
         "name": "closedmailboxraisedflag"
       },
