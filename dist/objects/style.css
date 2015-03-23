@@ -408,6 +408,9 @@
 .icon-objects-speaker3soundwaves:before {
   content: "\1F50A"
 }
+.icon-objects-battery:before {
+  content: "\1F50B"
+}
 .icon-objects-electricplug:before {
   content: "\1F50C"
 }

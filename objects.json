@@ -77,6 +77,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F50B",
+        "name": "battery"
+      },
+      "layers": [
+        {
+          "color": "DDDDDD",
+          "name": "u1F50B.layer1",
+          "order": 1
+        },
+        {
+          "color": "9AAAB4",
+          "name": "u1F50B.layer2",
+          "order": 2
+        },
+        {
+          "color": "D5DEE2",
+          "name": "u1F50B.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F50B.layer4",
+          "order": 4
+        },
+        {
+          "color": "9AAAB4",
+          "name": "u1F50B.layer5",
+          "order": 5
+        },
+        {
+          "color": "D5DEE2",
+          "name": "u1F50B.layer6",
+          "order": 6
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F50B.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50A",
         "name": "speaker3soundwaves"
       },
