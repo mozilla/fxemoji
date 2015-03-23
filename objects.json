@@ -3772,6 +3772,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F34E",
+        "name": "redapple"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F34E.layer1",
+          "order": 1
+        },
+        {
+          "color": "75432E",
+          "name": "u1F34E.layer2",
+          "order": 2
+        },
+        {
+          "color": "16992B",
+          "name": "u1F34E.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF8A8A",
+          "name": "u1F34E.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F34D",
         "name": "pineapple"
       },
