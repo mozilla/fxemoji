@@ -3297,6 +3297,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F37C",
+        "name": "babybottle"
+      },
+      "layers": [
+        {
+          "color": "F9CB3A",
+          "name": "u1F37C.layer1",
+          "order": 1
+        },
+        {
+          "color": "CAE3EA",
+          "name": "u1F37C.layer2",
+          "order": 2
+        },
+        {
+          "color": "DCF3F9",
+          "name": "u1F37C.layer3",
+          "order": 3
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F37C.layer4",
+          "order": 4
+        },
+        {
+          "color": "3DCAEA",
+          "name": "u1F37C.layer5",
+          "order": 5
+        },
+        {
+          "color": "F5FBFC",
+          "name": "u1F37C.layer6",
+          "order": 6
+        },
+        {
+          "color": "DFEEF2",
+          "name": "u1F37C.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3BF",
         "name": "skiandskiboot"
       },
