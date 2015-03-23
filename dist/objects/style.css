@@ -84,6 +84,9 @@
 .icon-objects-beermug:before {
   content: "\1F37A"
 }
+.icon-objects-clinkingbeermugs:before {
+  content: "\1F37B"
+}
 .icon-objects-confetti:before {
   content: "\1F38A"
 }

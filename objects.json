@@ -992,6 +992,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F37B",
+        "name": "clinkingbeermugs"
+      },
+      "layers": [
+        {
+          "color": "F2A74E",
+          "name": "u1F37B.layer1",
+          "order": 1
+        },
+        {
+          "color": "F2BE2A",
+          "name": "u1F37B.layer2",
+          "order": 2
+        },
+        {
+          "color": "EA963B",
+          "name": "u1F37B.layer3",
+          "order": 3
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F37B.layer4",
+          "order": 4
+        },
+        {
+          "color": "F9CB3A",
+          "name": "u1F37B.layer5",
+          "order": 5
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F37B.layer6",
+          "order": 6
+        },
+        {
+          "color": "F7EAD7",
+          "name": "u1F37B.layer7",
+          "order": 7
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F37B.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F47B",
         "name": "ghost"
       },
