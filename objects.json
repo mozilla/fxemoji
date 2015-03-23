@@ -367,6 +367,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F36E",
+        "name": "custard"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F36E.layer1",
+          "order": 1
+        },
+        {
+          "color": "E3E8E7",
+          "name": "u1F36E.layer2",
+          "order": 2
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F36E.layer3",
+          "order": 3
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F36E.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F36E.layer5",
+          "order": 5
+        },
+        {
+          "color": "77431D",
+          "name": "u1F36E.layer6",
+          "order": 6
+        },
+        {
+          "color": "BC7A4D",
+          "name": "u1F36E.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36D",
         "name": "lollipop"
       },
