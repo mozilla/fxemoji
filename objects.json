@@ -402,6 +402,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F365",
+        "name": "fishcakeswirl"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F365.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFA1E0",
+          "name": "u1F365.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F364",
         "name": "friedshrimp"
       },
