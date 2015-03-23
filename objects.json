@@ -437,6 +437,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F392",
+        "name": "schoolsatchel"
+      },
+      "layers": [
+        {
+          "color": "0D7A7C",
+          "name": "u1F392.layer1",
+          "order": 1
+        },
+        {
+          "color": "332A23",
+          "name": "u1F392.layer2",
+          "order": 2
+        },
+        {
+          "color": "065654",
+          "name": "u1F392.layer3",
+          "order": 3
+        },
+        {
+          "color": "0D7A7C",
+          "name": "u1F392.layer4",
+          "order": 4
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F392.layer5",
+          "order": 5
+        },
+        {
+          "color": "332A23",
+          "name": "u1F392.layer6",
+          "order": 6
+        },
+        {
+          "color": "D7F4F7",
+          "name": "u1F392.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F390",
         "name": "windchime"
       },
