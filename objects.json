@@ -3692,6 +3692,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F350",
+        "name": "pear"
+      },
+      "layers": [
+        {
+          "color": "75432E",
+          "name": "u1F350.layer1",
+          "order": 1
+        },
+        {
+          "color": "ACE075",
+          "name": "u1F350.layer2",
+          "order": 2
+        },
+        {
+          "color": "C6ED98",
+          "name": "u1F350.layer3",
+          "order": 3
+        },
+        {
+          "color": "16992B",
+          "name": "u1F350.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F52C",
         "name": "microscope"
       },
