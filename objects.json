@@ -4932,6 +4932,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F349",
+        "name": "watermelon"
+      },
+      "layers": [
+        {
+          "color": "16992B",
+          "name": "u1F349.layer1",
+          "order": 1
+        },
+        {
+          "color": "F4C3C3",
+          "name": "u1F349.layer2",
+          "order": 2
+        },
+        {
+          "color": "F44D61",
+          "name": "u1F349.layer3",
+          "order": 3
+        },
+        {
+          "color": "442A34",
+          "name": "u1F349.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4D8",
         "name": "bluebook"
       },
