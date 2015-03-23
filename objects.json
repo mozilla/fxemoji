@@ -3167,6 +3167,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F354",
+        "name": "hamburger"
+      },
+      "layers": [
+        {
+          "color": "E59328",
+          "name": "u1F354.layer1",
+          "order": 1
+        },
+        {
+          "color": "7A2F18",
+          "name": "u1F354.layer2",
+          "order": 2
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F354.layer3",
+          "order": 3
+        },
+        {
+          "color": "E59328",
+          "name": "u1F354.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFCD7D",
+          "name": "u1F354.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F352",
         "name": "cherries"
       },
