@@ -1497,6 +1497,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F47E",
+        "name": "alienmonster"
+      },
+      "layers": [
+        {
+          "color": "7F4AFF",
+          "name": "u1F47E.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F47E.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26F3",
         "name": "flaginhole"
       },

@@ -201,6 +201,9 @@
 .icon-objects-ghost:before {
   content: "\1F47B"
 }
+.icon-objects-alienmonster:before {
+  content: "\1F47E"
+}
 .icon-objects-bomb:before {
   content: "\1F4A3"
 }
