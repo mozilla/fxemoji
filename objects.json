@@ -1297,6 +1297,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F38D",
+        "name": "pinedecoration"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u1F38D.layer1",
+          "order": 1
+        },
+        {
+          "color": "009B81",
+          "name": "u1F38D.layer2",
+          "order": 2
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F38D.layer3",
+          "order": 3
+        },
+        {
+          "color": "AF773F",
+          "name": "u1F38D.layer4",
+          "order": 4
+        },
+        {
+          "color": "00D1AE",
+          "name": "u1F38D.layer5",
+          "order": 5
+        },
+        {
+          "color": "F2E3BD",
+          "name": "u1F38D.layer6",
+          "order": 6
+        },
+        {
+          "color": "009B81",
+          "name": "u1F38D.layer7",
+          "order": 7
+        },
+        {
+          "color": "169136",
+          "name": "u1F38D.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26F3",
         "name": "flaginhole"
       },

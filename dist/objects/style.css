@@ -99,6 +99,9 @@
 .icon-objects-crossedflags:before {
   content: "\1F38C"
 }
+.icon-objects-pinedecoration:before {
+  content: "\1F38D"
+}
 .icon-objects-fishingpoleandfish:before {
   content: "\1F3A3"
 }
