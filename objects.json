@@ -6282,6 +6282,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F373",
+        "name": "cooking"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F373.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F373.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F373.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA41F",
+          "name": "u1F373.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3B7",
         "name": "saxophone"
       },
