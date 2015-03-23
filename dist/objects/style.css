@@ -69,6 +69,9 @@
 .icon-objects-chocolatebar:before {
   content: "\1F36B"
 }
+.icon-objects-candy:before {
+  content: "\1F36C"
+}
 .icon-objects-lollipop:before {
   content: "\1F36D"
 }
