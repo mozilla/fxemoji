@@ -3907,6 +3907,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F34B",
+        "name": "lemon"
+      },
+      "layers": [
+        {
+          "color": "16992B",
+          "name": "u1F34B.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFCA55",
+          "name": "u1F34B.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE2A9",
+          "name": "u1F34B.layer3",
+          "order": 3
+        },
+        {
+          "color": "56C140",
+          "name": "u1F34B.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4DB",
         "name": "namebadge"
       },
