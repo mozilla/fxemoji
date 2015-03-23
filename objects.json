@@ -347,6 +347,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F36D",
+        "name": "lollipop"
+      },
+      "layers": [
+        {
+          "color": "FFBC80",
+          "name": "u1F36D.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F36D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F36D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F36D.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36B",
         "name": "chocolatebar"
       },
