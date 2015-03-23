@@ -437,6 +437,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F390",
+        "name": "windchime"
+      },
+      "layers": [
+        {
+          "color": "C0C4C4",
+          "name": "u1F390.layer1",
+          "order": 1
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F390.layer2",
+          "order": 2
+        },
+        {
+          "color": "6ED9FF",
+          "name": "u1F390.layer3",
+          "order": 3
+        },
+        {
+          "color": "0096D1",
+          "name": "u1F390.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36F",
         "name": "honeypot"
       },
