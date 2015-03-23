@@ -78,6 +78,9 @@
 .icon-objects-custard:before {
   content: "\1F36E"
 }
+.icon-objects-honeypot:before {
+  content: "\1F36F"
+}
 .icon-objects-confetti:before {
   content: "\1F38A"
 }

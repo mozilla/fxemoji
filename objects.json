@@ -367,6 +367,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F36F",
+        "name": "honeypot"
+      },
+      "layers": [
+        {
+          "color": "FFE1AB",
+          "name": "u1F36F.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F36F.layer2",
+          "order": 2
+        },
+        {
+          "color": "F8A106",
+          "name": "u1F36F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFB941",
+          "name": "u1F36F.layer4",
+          "order": 4
+        },
+        {
+          "color": "C9A167",
+          "name": "u1F36F.layer5",
+          "order": 5
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F36F.layer6",
+          "order": 6
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F36F.layer7",
+          "order": 7
+        },
+        {
+          "color": "F8A106",
+          "name": "u1F36F.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36E",
         "name": "custard"
       },
