@@ -1297,6 +1297,76 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F38E",
+        "name": "japanesedolls"
+      },
+      "layers": [
+        {
+          "color": "A97DFF",
+          "name": "u1F38E.layer1",
+          "order": 1
+        },
+        {
+          "color": "D32A2A",
+          "name": "u1F38E.layer2",
+          "order": 2
+        },
+        {
+          "color": "C4A6FF",
+          "name": "u1F38E.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F38E.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F38E.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F38E.layer6",
+          "order": 6
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F38E.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F38E.layer8",
+          "order": 8
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F38E.layer9",
+          "order": 9
+        },
+        {
+          "color": "E2CCFF",
+          "name": "u1F38E.layer10",
+          "order": 10
+        },
+        {
+          "color": "C4A6FF",
+          "name": "u1F38E.layer11",
+          "order": 11
+        },
+        {
+          "color": "A97DFF",
+          "name": "u1F38E.layer12",
+          "order": 12
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F38D",
         "name": "pinedecoration"
       },
