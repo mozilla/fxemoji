@@ -3192,6 +3192,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F357",
+        "name": "poultryleg"
+      },
+      "layers": [
+        {
+          "color": "FCDDB1",
+          "name": "u1F357.layer1",
+          "order": 1
+        },
+        {
+          "color": "E59328",
+          "name": "u1F357.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F354",
         "name": "hamburger"
       },
