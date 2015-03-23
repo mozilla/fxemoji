@@ -1077,6 +1077,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F35D",
+        "name": "spaghetti"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F35D.layer1",
+          "order": 1
+        },
+        {
+          "color": "E3E8E7",
+          "name": "u1F35D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F35D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F35D.layer4",
+          "order": 4
+        },
+        {
+          "color": "CED6D5",
+          "name": "u1F35D.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB941",
+          "name": "u1F35D.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F35B",
         "name": "curryandrice"
       },
