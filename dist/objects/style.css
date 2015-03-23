@@ -204,6 +204,9 @@
 .icon-objects-alienmonster:before {
   content: "\1F47E"
 }
+.icon-objects-pill:before {
+  content: "\1F48A"
+}
 .icon-objects-bomb:before {
   content: "\1F4A3"
 }
