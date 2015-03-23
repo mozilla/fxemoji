@@ -402,6 +402,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F364",
+        "name": "friedshrimp"
+      },
+      "layers": [
+        {
+          "color": "F98787",
+          "name": "u1F364.layer1",
+          "order": 1
+        },
+        {
+          "color": "F96B6B",
+          "name": "u1F364.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFC878",
+          "name": "u1F364.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F363",
         "name": "sushi"
       },
