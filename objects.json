@@ -862,6 +862,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F34F",
+        "name": "greenapple"
+      },
+      "layers": [
+        {
+          "color": "6AAF43",
+          "name": "u1F34F.layer1",
+          "order": 1
+        },
+        {
+          "color": "75432E",
+          "name": "u1F34F.layer2",
+          "order": 2
+        },
+        {
+          "color": "16992B",
+          "name": "u1F34F.layer3",
+          "order": 3
+        },
+        {
+          "color": "9DDD73",
+          "name": "u1F34F.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26F3",
         "name": "flaginhole"
       },
