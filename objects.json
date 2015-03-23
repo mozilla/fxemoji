@@ -727,6 +727,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F35C",
+        "name": "steamingbowl"
+      },
+      "layers": [
+        {
+          "color": "D19B61",
+          "name": "u1F35C.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F35C.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F35C.layer3",
+          "order": 3
+        },
+        {
+          "color": "EFBD5B",
+          "name": "u1F35C.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F35C.layer5",
+          "order": 5
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F35C.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F35C.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F33D",
         "name": "earofmaize"
       },
