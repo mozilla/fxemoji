@@ -57,6 +57,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F50C",
+        "name": "electricplug"
+      },
+      "layers": [
+        {
+          "color": "7B95A3",
+          "name": "u1F50C.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F50C.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50A",
         "name": "speaker3soundwaves"
       },
