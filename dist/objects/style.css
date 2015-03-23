@@ -417,6 +417,9 @@
 .icon-objects-leftmagnifyingglass:before {
   content: "\1F50D"
 }
+.icon-objects-rightmagnifyingglass:before {
+  content: "\1F50E"
+}
 .icon-objects-lockwithinkpen:before {
   content: "\1F50F"
 }

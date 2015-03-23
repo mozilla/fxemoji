@@ -32,6 +32,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F50E",
+        "name": "rightmagnifyingglass"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F50E.layer1",
+          "order": 1
+        },
+        {
+          "color": "B0E9FF",
+          "name": "u1F50E.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F50E.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50D",
         "name": "leftmagnifyingglass"
       },
