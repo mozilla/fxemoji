@@ -402,6 +402,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F369",
+        "name": "doughnut"
+      },
+      "layers": [
+        {
+          "color": "F2A74E",
+          "name": "u1F369.layer1",
+          "order": 1
+        },
+        {
+          "color": "77431D",
+          "name": "u1F369.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F369.layer3",
+          "order": 3
+        },
+        {
+          "color": "F8A106",
+          "name": "u1F369.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F369.layer5",
+          "order": 5
+        },
+        {
+          "color": "5FD6FF",
+          "name": "u1F369.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFCD2E",
+          "name": "u1F369.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F368",
         "name": "icecream"
       },
