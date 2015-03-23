@@ -442,6 +442,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F366",
+        "name": "softicecream"
+      },
+      "layers": [
+        {
+          "color": "F4E3C1",
+          "name": "u1F366.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F366.layer2",
+          "order": 2
+        },
+        {
+          "color": "EABC54",
+          "name": "u1F366.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F366.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFE6A9",
+          "name": "u1F366.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F365",
         "name": "fishcakeswirl"
       },
