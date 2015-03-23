@@ -3747,6 +3747,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F348",
+        "name": "melon"
+      },
+      "layers": [
+        {
+          "color": "ACE075",
+          "name": "u1F348.layer1",
+          "order": 1
+        },
+        {
+          "color": "F0F3CD",
+          "name": "u1F348.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9BE78",
+          "name": "u1F348.layer3",
+          "order": 3
+        },
+        {
+          "color": "83C449",
+          "name": "u1F348.layer4",
+          "order": 4
+        },
+        {
+          "color": "FECF79",
+          "name": "u1F348.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3BC",
         "name": "musicalscore"
       },
