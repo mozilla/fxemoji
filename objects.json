@@ -642,6 +642,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F35",
+        "name": "bread"
+      },
+      "layers": [
+        {
+          "color": "BC7535",
+          "name": "u1F35.layer1",
+          "order": 1
+        },
+        {
+          "color": "FCDEA2",
+          "name": "u1F35.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C0",
         "name": "bath"
       },
