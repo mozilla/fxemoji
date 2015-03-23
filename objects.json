@@ -1037,6 +1037,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F35A",
+        "name": "cookedrice"
+      },
+      "layers": [
+        {
+          "color": "76DFFF",
+          "name": "u1F35A.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F35A.layer2",
+          "order": 2
+        },
+        {
+          "color": "EAE9E5",
+          "name": "u1F35A.layer3",
+          "order": 3
+        },
+        {
+          "color": "D6D3C1",
+          "name": "u1F35A.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4CF",
         "name": "straightruler"
       },
