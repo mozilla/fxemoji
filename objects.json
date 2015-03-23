@@ -1042,6 +1042,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F35F",
+        "name": "frenchfries"
+      },
+      "layers": [
+        {
+          "color": "E01212",
+          "name": "u1F35F.layer1",
+          "order": 1
+        },
+        {
+          "color": "E59328",
+          "name": "u1F35F.layer2",
+          "order": 2
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F35F.layer4",
+          "order": 4
+        },
+        {
+          "color": "E01212",
+          "name": "u1F35F.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AA",
         "name": "floppydisk"
       },
