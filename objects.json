@@ -4262,6 +4262,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F38B",
+        "name": "tanabatatree"
+      },
+      "layers": [
+        {
+          "color": "D32A2A",
+          "name": "u1F38B.layer1",
+          "order": 1
+        },
+        {
+          "color": "3A3831",
+          "name": "u1F38B.layer2",
+          "order": 2
+        },
+        {
+          "color": "B1E87E",
+          "name": "u1F38B.layer3",
+          "order": 3
+        },
+        {
+          "color": "6DBA31",
+          "name": "u1F38B.layer4",
+          "order": 4
+        },
+        {
+          "color": "50891D",
+          "name": "u1F38B.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F38B.layer6",
+          "order": 6
+        },
+        {
+          "color": "B1E87E",
+          "name": "u1F38B.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AC",
         "name": "smokingsymbol"
       },
