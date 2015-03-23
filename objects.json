@@ -1202,6 +1202,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F38C",
+        "name": "crossedflags"
+      },
+      "layers": [
+        {
+          "color": "E8E8E6",
+          "name": "u1F38C.layer1",
+          "order": 1
+        },
+        {
+          "color": "C1C5C6",
+          "name": "u1F38C.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F38C.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F34F",
         "name": "greenapple"
       },
