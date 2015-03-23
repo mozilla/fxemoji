@@ -992,6 +992,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F57F",
+        "name": "blacktelephone"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u1F57F.layer1",
+          "order": 1
+        },
+        {
+          "color": "5A5D5E",
+          "name": "u1F57F.layer2",
+          "order": 2
+        },
+        {
+          "color": "F4F9F9",
+          "name": "u1F57F.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F37B",
         "name": "clinkingbeermugs"
       },

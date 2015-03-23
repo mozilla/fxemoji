@@ -429,6 +429,9 @@
 .icon-objects-telephonereceiver:before {
   content: "\1F57B"
 }
+.icon-objects-blacktelephone:before {
+  content: "\1F57F"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
