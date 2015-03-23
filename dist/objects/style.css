@@ -207,6 +207,9 @@
 .icon-objects-pill:before {
   content: "\1F48A"
 }
+.icon-objects-heartribbon:before {
+  content: "\1F49D"
+}
 .icon-objects-bomb:before {
   content: "\1F4A3"
 }
