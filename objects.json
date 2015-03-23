@@ -1077,6 +1077,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F358",
+        "name": "ricecracker"
+      },
+      "layers": [
+        {
+          "color": "E5AA6E",
+          "name": "u1F358.layer1",
+          "order": 1
+        },
+        {
+          "color": "D89055",
+          "name": "u1F358.layer2",
+          "order": 2
+        },
+        {
+          "color": "2A442B",
+          "name": "u1F358.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F48A",
         "name": "pill"
       },
