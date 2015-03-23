@@ -447,6 +447,9 @@
 .icon-objects-flaginhole:before {
   content: "\26F3"
 }
+.icon-objects-pencil:before {
+  content: "\270F"
+}
 .icon-objects-blacknib:before {
   content: "\2712"
 }
