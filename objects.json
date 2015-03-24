@@ -4327,6 +4327,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F379",
+        "name": "tropicaldrink"
+      },
+      "layers": [
+        {
+          "color": "F4F3EF",
+          "name": "u1F379.layer1",
+          "order": 1
+        },
+        {
+          "color": "E8E7E2",
+          "name": "u1F379.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F379.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA683",
+          "name": "u1F379.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F379.layer5",
+          "order": 5
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F379.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F379.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F379.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFAF8F",
+          "name": "u1F379.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E3",
         "name": "megaphone"
       },
