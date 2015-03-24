@@ -597,6 +597,9 @@
 .icon-objects-flaginhole:before {
   content: "\26F3"
 }
+.icon-objects-envelope:before {
+  content: "\2709"
+}
 .icon-objects-pencil:before {
   content: "\270F"
 }

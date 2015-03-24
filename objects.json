@@ -1747,6 +1747,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2709",
+        "name": "envelope"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u2709.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u2709.layer2",
+          "order": 2
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u2709.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F48A",
         "name": "pill"
       },
