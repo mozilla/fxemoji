@@ -4047,6 +4047,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F375",
+        "name": "teacupwithouthandle"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer1",
+          "order": 1
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer2",
+          "order": 2
+        },
+        {
+          "color": "E1E1E1",
+          "name": "u1F375.layer3",
+          "order": 3
+        },
+        {
+          "color": "77B708",
+          "name": "u1F375.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer5",
+          "order": 5
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F356",
         "name": "meatonbone"
       },
