@@ -1872,6 +1872,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F508",
+        "name": "speaker"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F508.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F508.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F57F",
         "name": "blacktelephone"
       },

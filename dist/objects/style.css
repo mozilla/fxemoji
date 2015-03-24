@@ -507,6 +507,9 @@
 .icon-objects-videocasette:before {
   content: "\1F4FC"
 }
+.icon-objects-speaker:before {
+  content: "\1F508"
+}
 .icon-objects-speaker3soundwaves:before {
   content: "\1F50A"
 }
