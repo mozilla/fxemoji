@@ -516,6 +516,9 @@
 .icon-objects-lockandkey:before {
   content: "\1F510"
 }
+.icon-objects-wrench:before {
+  content: "\1F527"
+}
 .icon-objects-hocho:before {
   content: "\1F52A"
 }

@@ -6903,5 +6903,20 @@
         }
       ]
     }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F527",
+        "name": "wrench"
+      },
+      "layers": [
+        {
+          "color": "A1A6A8",
+          "name": "u1F527.layer1",
+          "order": 1
+        }
+      ]
+    }
   }
 ]
