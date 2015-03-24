@@ -1802,6 +1802,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F376",
+        "name": "sakebottleandcup"
+      },
+      "layers": [
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer1",
+          "order": 1
+        },
+        {
+          "color": "E2D6C0",
+          "name": "u1F376.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDE6D9",
+          "name": "u1F376.layer3",
+          "order": 3
+        },
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer4",
+          "order": 4
+        },
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F37A",
         "name": "beermug"
       },
