@@ -1467,6 +1467,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26BD",
+        "name": "soccerball"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u26BD.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u26BD.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26BE",
         "name": "baseball"
       },
