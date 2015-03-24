@@ -3522,6 +3522,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "uF4A1",
+        "name": "lightbulb"
+      },
+      "layers": [
+        {
+          "color": "B6C7CE",
+          "name": "uF4A1.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "uF4A1.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "uF4A1.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "uF4A1.layer4",
+          "order": 4
+        },
+        {
+          "color": "B6C7CE",
+          "name": "uF4A1.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F370",
         "name": "shortcake"
       },
