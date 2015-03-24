@@ -510,6 +510,9 @@
 .icon-objects-lockwithinkpen:before {
   content: "\1F50F"
 }
+.icon-objects-lockandkey:before {
+  content: "\1F510"
+}
 .icon-objects-hocho:before {
   content: "\1F52A"
 }

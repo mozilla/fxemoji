@@ -777,6 +777,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F510",
+        "name": "lockandkey"
+      },
+      "layers": [
+        {
+          "color": "B1B4B5",
+          "name": "u1F510.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F510.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F510.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F510.layer4",
+          "order": 4
+        },
+        {
+          "color": "7E9AA8",
+          "name": "u1F510.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },
