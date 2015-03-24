@@ -957,6 +957,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4E8",
+        "name": "incomingenvelope"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4E8.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4E8.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDECE6",
+          "name": "u1F4E8.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4E8.layer4",
+          "order": 4
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F4E8.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36F",
         "name": "honeypot"
       },
@@ -3452,34 +3487,119 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E8",
-        "name": "incomingenvelope"
+        "code": "u1F371",
+        "name": "bentobox"
       },
       "layers": [
         {
-          "color": "96A9B2",
-          "name": "u1F4E8.layer1",
+          "color": "2B3B47",
+          "name": "u1F371.layer1",
           "order": 1
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F4E8.layer2",
+          "color": "EF3030",
+          "name": "u1F371.layer2",
           "order": 2
         },
         {
-          "color": "EDECE6",
-          "name": "u1F4E8.layer3",
+          "color": "CE0B27",
+          "name": "u1F371.layer3",
           "order": 3
         },
         {
-          "color": "DCE2E2",
-          "name": "u1F4E8.layer4",
+          "color": "E57917",
+          "name": "u1F371.layer4",
           "order": 4
         },
         {
-          "color": "59CAFC",
-          "name": "u1F4E8.layer5",
+          "color": "F99621",
+          "name": "u1F371.layer5",
           "order": 5
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F371.layer6",
+          "order": 6
+        },
+        {
+          "color": "E2E0CF",
+          "name": "u1F371.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F371.layer8",
+          "order": 8
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F371.layer9",
+          "order": 9
+        },
+        {
+          "color": "52A81B",
+          "name": "u1F371.layer10",
+          "order": 10
+        },
+        {
+          "color": "FC8108",
+          "name": "u1F371.layer11",
+          "order": 11
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F371.layer12",
+          "order": 12
+        },
+        {
+          "color": "FC8108",
+          "name": "u1F371.layer13",
+          "order": 13
+        },
+        {
+          "color": "52A81B",
+          "name": "u1F371.layer14",
+          "order": 14
+        },
+        {
+          "color": "52A81B",
+          "name": "u1F371.layer15",
+          "order": 15
+        },
+        {
+          "color": "EFD873",
+          "name": "u1F371.layer16",
+          "order": 16
+        },
+        {
+          "color": "8AE252",
+          "name": "u1F371.layer17",
+          "order": 17
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F371.layer18",
+          "order": 18
+        },
+        {
+          "color": "FF8373",
+          "name": "u1F371.layer19",
+          "order": 19
+        },
+        {
+          "color": "52A81B",
+          "name": "u1F371.layer20",
+          "order": 20
+        },
+        {
+          "color": "FF8373",
+          "name": "u1F371.layer21",
+          "order": 21
+        },
+        {
+          "color": "FFDF95",
+          "name": "u1F371.layer22",
+          "order": 22
         }
       ]
     }
