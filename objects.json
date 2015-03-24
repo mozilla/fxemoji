@@ -1722,6 +1722,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2702",
+        "name": "blackscissors"
+      },
+      "layers": [
+        {
+          "color": "B9C5C6",
+          "name": "u2702.layer1",
+          "order": 1
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u2702.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u2702.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u2702.layer4",
+          "order": 4
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u2702.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F359",
         "name": "riceball"
       },
