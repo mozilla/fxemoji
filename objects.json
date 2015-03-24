@@ -3677,6 +3677,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F372",
+        "name": "potoffood"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F372.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F372.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9E7C0",
+          "name": "u1F372.layer3",
+          "order": 3
+        },
+        {
+          "color": "2ABA34",
+          "name": "u1F372.layer4",
+          "order": 4
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u1F372.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F372.layer6",
+          "order": 6
+        },
+        {
+          "color": "E2AF8D",
+          "name": "u1F372.layer7",
+          "order": 7
+        },
+        {
+          "color": "D19878",
+          "name": "u1F372.layer8",
+          "order": 8
+        },
+        {
+          "color": "D7F4F7",
+          "name": "u1F372.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3AE",
         "name": "videogame"
       },
