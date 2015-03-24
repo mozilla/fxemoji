@@ -1497,6 +1497,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F382",
+        "name": "birthdaycake"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F382.layer1",
+          "order": 1
+        },
+        {
+          "color": "E3E8E7",
+          "name": "u1F382.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F382.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F382.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFBDCD",
+          "name": "u1F382.layer5",
+          "order": 5
+        },
+        {
+          "color": "EBF2F2",
+          "name": "u1F382.layer6",
+          "order": 6
+        },
+        {
+          "color": "D6E5E5",
+          "name": "u1F382.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFBD03",
+          "name": "u1F382.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFD366",
+          "name": "u1F382.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F358",
         "name": "ricecracker"
       },
