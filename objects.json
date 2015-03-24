@@ -3712,6 +3712,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u231A",
+        "name": "watch"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u231A.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u231A.layer2",
+          "order": 2
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u231A.layer3",
+          "order": 3
+        },
+        {
+          "color": "F9F9F7",
+          "name": "u231A.layer4",
+          "order": 4
+        },
+        {
+          "color": "597B91",
+          "name": "u231A.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F371",
         "name": "bentobox"
       },
