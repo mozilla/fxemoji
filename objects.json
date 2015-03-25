@@ -1762,6 +1762,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F384",
+        "name": "christmastree"
+      },
+      "layers": [
+        {
+          "color": "8E6049",
+          "name": "u1F384.layer1",
+          "order": 1
+        },
+        {
+          "color": "149314",
+          "name": "u1F384.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F384.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F384.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F384.layer5",
+          "order": 5
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F384.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F358",
         "name": "ricecracker"
       },
