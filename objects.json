@@ -977,6 +977,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F516",
+        "name": "bookmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F516.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },

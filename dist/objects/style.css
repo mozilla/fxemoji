@@ -600,6 +600,9 @@
 .icon-objects-bellcancellation:before {
   content: "\1F515"
 }
+.icon-objects-bookmark:before {
+  content: "\1F516"
+}
 .icon-objects-electrictorch:before {
   content: "\1F526"
 }
