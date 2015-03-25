@@ -7763,5 +7763,40 @@
         }
       ]
     }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F529",
+        "name": "nutandbolt"
+      },
+      "layers": [
+        {
+          "color": "8B9EA5",
+          "name": "u1F529.layer1",
+          "order": 1
+        },
+        {
+          "color": "576F7A",
+          "name": "u1F529.layer2",
+          "order": 2
+        },
+        {
+          "color": "9CADB5",
+          "name": "u1F529.layer3",
+          "order": 3
+        },
+        {
+          "color": "72878E",
+          "name": "u1F529.layer4",
+          "order": 4
+        },
+        {
+          "color": "CBD5D8",
+          "name": "u1F529.layer5",
+          "order": 5
+        }
+      ]
+    }
   }
 ]
