@@ -216,6 +216,9 @@
 .icon-objects-fireworksparkler:before {
   content: "\1F387"
 }
+.icon-objects-balloon:before {
+  content: "\1F388"
+}
 .icon-objects-confetti:before {
   content: "\1F38A"
 }
