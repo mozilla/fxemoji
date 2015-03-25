@@ -558,6 +558,9 @@
 .icon-objects-highbrightness:before {
   content: "\1F506"
 }
+.icon-objects-speakercancellation:before {
+  content: "\1F507"
+}
 .icon-objects-speaker:before {
   content: "\1F508"
 }

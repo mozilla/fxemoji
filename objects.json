@@ -1682,6 +1682,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F507",
+        "name": "speakercancellation"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F507.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F507.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F507.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F506",
         "name": "highbrightness"
       },
