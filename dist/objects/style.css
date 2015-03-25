@@ -594,6 +594,9 @@
 .icon-objects-openlock:before {
   content: "\1F513"
 }
+.icon-objects-BELL:before {
+  content: "\1F514"
+}
 .icon-objects-electrictorch:before {
   content: "\1F526"
 }
