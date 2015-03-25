@@ -573,6 +573,9 @@
 .icon-objects-key:before {
   content: "\1F511"
 }
+.icon-objects-electrictorch:before {
+  content: "\1F526"
+}
 .icon-objects-wrench:before {
   content: "\1F527"
 }

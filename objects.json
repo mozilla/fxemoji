@@ -7907,6 +7907,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F526",
+        "name": "electrictorch"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F526.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F526.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F526.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F529",
         "name": "nutandbolt"
       },
