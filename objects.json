@@ -942,6 +942,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F515",
+        "name": "bellcancellation"
+      },
+      "layers": [
+        {
+          "color": "A06C33",
+          "name": "u1F515.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F515.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F515.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F515.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F515.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },
