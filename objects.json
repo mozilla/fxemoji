@@ -887,6 +887,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F513",
+        "name": "openlock"
+      },
+      "layers": [
+        {
+          "color": "B1B4B5",
+          "name": "u1F513.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F513.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F513.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },

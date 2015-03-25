@@ -591,6 +591,9 @@
 .icon-objects-lock:before {
   content: "\1F512"
 }
+.icon-objects-openlock:before {
+  content: "\1F513"
+}
 .icon-objects-electrictorch:before {
   content: "\1F526"
 }
