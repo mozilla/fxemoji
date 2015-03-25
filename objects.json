@@ -1972,6 +1972,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F389",
+        "name": "partypopper"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F389.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F389.layer2",
+          "order": 2
+        },
+        {
+          "color": "A06C33",
+          "name": "u1F389.layer3",
+          "order": 3
+        },
+        {
+          "color": "F7F9AA",
+          "name": "u1F389.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F389.layer5",
+          "order": 5
+        },
+        {
+          "color": "BEA4FF",
+          "name": "u1F389.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F389.layer7",
+          "order": 7
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F389.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F388",
         "name": "balloon"
       },
