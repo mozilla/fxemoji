@@ -576,6 +576,9 @@
 .icon-objects-wrench:before {
   content: "\1F527"
 }
+.icon-objects-hammer:before {
+  content: "\1F528"
+}
 .icon-objects-nutandbolt:before {
   content: "\1F529"
 }

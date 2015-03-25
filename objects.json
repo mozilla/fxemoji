@@ -7938,5 +7938,25 @@
         }
       ]
     }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F528",
+        "name": "hammer"
+      },
+      "layers": [
+        {
+          "color": "72878E",
+          "name": "u1F528.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F528.layer2",
+          "order": 2
+        }
+      ]
+    }
   }
 ]
