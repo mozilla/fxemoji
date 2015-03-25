@@ -4802,6 +4802,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F378",
+        "name": "cocktailglass"
+      },
+      "layers": [
+        {
+          "color": "CCD3D6",
+          "name": "u1F378.layer1",
+          "order": 1
+        },
+        {
+          "color": "DEE1E2",
+          "name": "u1F378.layer2",
+          "order": 2
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F378.layer3",
+          "order": 3
+        },
+        {
+          "color": "65BA24",
+          "name": "u1F378.layer4",
+          "order": 4
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F378.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F378.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F379",
         "name": "tropicaldrink"
       },

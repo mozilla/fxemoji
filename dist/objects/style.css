@@ -180,6 +180,9 @@
 .icon-objects-wineglass:before {
   content: "\1F377"
 }
+.icon-objects-cocktailglass:before {
+  content: "\1F378"
+}
 .icon-objects-tropicaldrink:before {
   content: "\1F379"
 }
