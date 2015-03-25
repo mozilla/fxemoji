@@ -1677,6 +1677,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F383",
+        "name": "jackolantern"
+      },
+      "layers": [
+        {
+          "color": "FF8724",
+          "name": "u1F383.layer1",
+          "order": 1
+        },
+        {
+          "color": "0B7C23",
+          "name": "u1F383.layer2",
+          "order": 2
+        },
+        {
+          "color": "0EAA2B",
+          "name": "u1F383.layer3",
+          "order": 3
+        },
+        {
+          "color": "4C311E",
+          "name": "u1F383.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F382",
         "name": "birthdaycake"
       },
