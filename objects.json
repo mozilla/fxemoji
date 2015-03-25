@@ -2982,6 +2982,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "uF4A1",
+        "name": "lightbulb"
+      },
+      "layers": [
+        {
+          "color": "B6C7CE",
+          "name": "uF4A1.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "uF4A1.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "uF4A1.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "uF4A1.layer4",
+          "order": 4
+        },
+        {
+          "color": "B6C7CE",
+          "name": "uF4A1.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F35F",
         "name": "frenchfries"
       },
@@ -3967,34 +4002,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "uF4A1",
-        "name": "lightbulb"
+        "code": "u231B",
+        "name": "hourglass"
       },
       "layers": [
         {
-          "color": "B6C7CE",
-          "name": "uF4A1.layer1",
+          "color": "F9E7C0",
+          "name": "u231B.layer1",
           "order": 1
         },
         {
-          "color": "FFD469",
-          "name": "uF4A1.layer2",
+          "color": "FFB636",
+          "name": "u231B.layer2",
           "order": 2
         },
         {
-          "color": "FFB636",
-          "name": "uF4A1.layer3",
+          "color": "68442A",
+          "name": "u231B.layer3",
           "order": 3
         },
         {
-          "color": "597B91",
-          "name": "uF4A1.layer4",
+          "color": "FFD469",
+          "name": "u231B.layer4",
           "order": 4
-        },
-        {
-          "color": "B6C7CE",
-          "name": "uF4A1.layer5",
-          "order": 5
         }
       ]
     }

@@ -627,6 +627,9 @@
 .icon-objects-watch:before {
   content: "\231A"
 }
+.icon-objects-hourglass:before {
+  content: "\231B"
+}
 .icon-objects-hotbeverage:before {
   content: "\2615"
 }
