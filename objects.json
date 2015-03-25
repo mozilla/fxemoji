@@ -2662,6 +2662,81 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F489",
+        "name": "syringe"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F489.layer1",
+          "order": 1
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F489.layer2",
+          "order": 2
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F489.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F489.layer4",
+          "order": 4
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F489.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F489.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F489.layer7",
+          "order": 7
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F489.layer8",
+          "order": 8
+        },
+        {
+          "color": "FBFBFB",
+          "name": "u1F489.layer9",
+          "order": 9
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F489.layer10",
+          "order": 10
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F489.layer11",
+          "order": 11
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F489.layer12",
+          "order": 12
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F489.layer13",
+          "order": 13
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F38A",
         "name": "confetti"
       },
