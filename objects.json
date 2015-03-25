@@ -1762,6 +1762,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F385",
+        "name": "fatherchristmas"
+      },
+      "layers": [
+        {
+          "color": "FFC9AB",
+          "name": "u1F385.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F385.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F385.layer3",
+          "order": 3
+        },
+        {
+          "color": "A9B5B4",
+          "name": "u1F385.layer4",
+          "order": 4
+        },
+        {
+          "color": "E0A882",
+          "name": "u1F385.layer5",
+          "order": 5
+        },
+        {
+          "color": "DEE2E2",
+          "name": "u1F385.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F385.layer7",
+          "order": 7
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F385.layer8",
+          "order": 8
+        },
+        {
+          "color": "DEE2E2",
+          "name": "u1F385.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F384",
         "name": "christmastree"
       },
