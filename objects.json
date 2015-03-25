@@ -972,33 +972,33 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E8",
-        "name": "incomingenvelope"
+        "code": "u1F391",
+        "name": "moonviewingceremony"
       },
       "layers": [
         {
-          "color": "96A9B2",
-          "name": "u1F4E8.layer1",
+          "color": "164C5B",
+          "name": "u1F391.layer1",
           "order": 1
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F4E8.layer2",
+          "color": "CAE4ED",
+          "name": "u1F391.layer2",
           "order": 2
         },
         {
-          "color": "EDECE6",
-          "name": "u1F4E8.layer3",
+          "color": "D19B61",
+          "name": "u1F391.layer3",
           "order": 3
         },
         {
-          "color": "DCE2E2",
-          "name": "u1F4E8.layer4",
+          "color": "FFD469",
+          "name": "u1F391.layer4",
           "order": 4
         },
         {
-          "color": "59CAFC",
-          "name": "u1F4E8.layer5",
+          "color": "5BB25B",
+          "name": "u1F391.layer5",
           "order": 5
         }
       ]
@@ -4335,6 +4335,41 @@
           "color": "D7F4F7",
           "name": "u1F372.layer9",
           "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4E8",
+        "name": "incomingenvelope"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4E8.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4E8.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDECE6",
+          "name": "u1F4E8.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4E8.layer4",
+          "order": 4
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F4E8.layer5",
+          "order": 5
         }
       ]
     }
