@@ -847,6 +847,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F511",
+        "name": "key"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F511.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F50F",
         "name": "lockwithinkpen"
       },
