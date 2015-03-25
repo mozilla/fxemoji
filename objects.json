@@ -1682,6 +1682,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F506",
+        "name": "highbrightness"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F506.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F506.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F505",
+        "name": "lowbrightness"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F505.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F505.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F35C",
         "name": "steamingbowl"
       },

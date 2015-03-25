@@ -552,6 +552,12 @@
 .icon-objects-videocasette:before {
   content: "\1F4FC"
 }
+.icon-objects-lowbrightness:before {
+  content: "\1F505"
+}
+.icon-objects-highbrightness:before {
+  content: "\1F506"
+}
 .icon-objects-speaker:before {
   content: "\1F508"
 }
