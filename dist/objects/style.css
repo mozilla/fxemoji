@@ -195,6 +195,9 @@
 .icon-objects-babybottle:before {
   content: "\1F37C"
 }
+.icon-objects-present:before {
+  content: "\1F381"
+}
 .icon-objects-birthdaycake:before {
   content: "\1F382"
 }

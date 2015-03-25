@@ -1642,6 +1642,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F381",
+        "name": "present"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F381.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F381.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F381.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD4DE",
+          "name": "u1F381.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F381.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F382",
         "name": "birthdaycake"
       },
