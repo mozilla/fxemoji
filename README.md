@@ -1,5 +1,7 @@
-FirefoxOS-Colored-Emoji-Font-Tool
+fxemoji
 =================================
+
+#Firefox OS Emojis
 
 ##Requirements
 
@@ -10,8 +12,8 @@ FirefoxOS-Colored-Emoji-Font-Tool
 
 ## Installation
 ```
-$ git clone https://github.com/pivanov/FirefoxOS-Colored-Emoji-Font-Tool.git
-$ cd FirefoxOS-Colored-Emoji-Font-Tool/
+$ git clone https://github.com/mozilla/fxemoji.git
+$ cd fxemoji/
 $ npm install
 ```
 
@@ -40,29 +42,3 @@ The files need to be named with uni code prefix.
 - u1F60B.layer2.svg (Layer 2)
 - etc.
 
-
-###SVG with opacity
-we need to use HEX + opacity to hex value
-e.g. #ff0000CC (red with 80% opacity)
-
-- 100% — FF
-- 95%  — F2
-- 90%  — E6
-- 85%  — D9
-- 80%  — CC
-- 75%  — BF
-- 70%  — B3
-- 65%  — A6
-- 60%  — 99
-- 55%  — 8C
-- 50%  — 80
-- 45%  — 73
-- 40%  — 66
-- 35%  — 59
-- 30%  — 4D
-- 25%  — 40
-- 20%  — 33
-- 15%  — 26
-- 10%  — 1A
-- 5%   — 0D
-- 0%   — 00

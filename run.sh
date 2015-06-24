@@ -20,10 +20,6 @@ generate_font() {
   # Remove Glyphs from 'cmap' table
   for file in `find ${svgs_dir}/${font_name}/ -name "*.svg"`
     do
-      # if [[ $file == *layer* ]]
-      #   then
-      #   svgo $file
-      # fi
       #get first 2 characters after first 4 characters
       filename=$(basename $file);
       if [[ $filename == *layer* ]]
@@ -44,8 +40,6 @@ generate_font() {
 
   #move final font to 'dist' folder
   mv tmp/${font_name}/${font_name}-colr.ttf dist/${font_name}/${font_name}.ttf
-
-  python check_images.py ${font_name}
 
   clean "tmp"
 }
