@@ -1,8 +1,8 @@
 fxemoji 
-http://mozilla.github.io/fxemoji/
 =================================
 
 #Firefox OS Emojis
+http://mozilla.github.io/fxemoji/
 
 ##Requirements
 
