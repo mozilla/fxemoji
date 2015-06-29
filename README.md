@@ -41,7 +41,7 @@ The files need to be named with uni code prefix.
 - etc.
 
 ##How to Contribute
-Please contact Patryk Adamczyk (padamczyk@mozilla.com) about contribution. 
-For more information about upcoming releases please refer to our 
+Please contact Patryk Adamczyk (padamczyk@mozilla.com) about contribution.
+For more information about upcoming releases please refer to our
 <a href="https://docs.google.com/a/mozilla.com/document/d/12wllN1NAJkS91VYLdCTHQ6FBb15VJTU8m0nPqaFOI5M/edit?usp=sharing">Firefox OS Emoji Roadmap</a>.
 
