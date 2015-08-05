@@ -357,6 +357,9 @@
 .icon-objects-heartribbon:before {
   content: "\1F49D"
 }
+.icon-objects-electriclightbulb:before {
+  content: "\1F4A1"
+}
 .icon-objects-bomb:before {
   content: "\1F4A3"
 }
@@ -386,6 +389,9 @@
 }
 .icon-objects-minidisc:before {
   content: "\1F4BD"
+}
+.icon-objects-floppydisk2:before {
+  content: "\1F4BE"
 }
 .icon-objects-opticaldisc:before {
   content: "\1F4BF"
@@ -477,6 +483,9 @@
 .icon-objects-memo:before {
   content: "\1F4DD"
 }
+.icon-objects-telephonereceiver2:before {
+  content: "\1F4DE"
+}
 .icon-objects-pager:before {
   content: "\1F4DF"
 }
@@ -564,6 +573,9 @@
 .icon-objects-speaker:before {
   content: "\1F508"
 }
+.icon-objects-Speakeronesoundwave:before {
+  content: "\1F509"
+}
 .icon-objects-speaker3soundwaves:before {
   content: "\1F50A"
 }
@@ -633,7 +645,7 @@
 .icon-objects-telephonereceiver:before {
   content: "\1F57B"
 }
-.icon-objects-blacktelephone:before {
+.icon-objects-blacktouchtonetelephone:before {
   content: "\1F57F"
 }
 .icon-objects-floppydisk:before {
@@ -666,6 +678,12 @@
 .icon-objects-hourglass:before {
   content: "\231B"
 }
+.icon-objects-hourglassflowingsand:before {
+  content: "\23F3"
+}
+.icon-objects-blacktelephone:before {
+  content: "\260E"
+}
 .icon-objects-hotbeverage:before {
   content: "\2615"
 }
@@ -689,9 +707,6 @@
 }
 .icon-objects-blacknib:before {
   content: "\2712"
-}
-.icon-objects-lightbulb:before {
-  content: "\F4A1"
 }
 .icon-objects-speaker1soundwave:before {
   content: "\F509"

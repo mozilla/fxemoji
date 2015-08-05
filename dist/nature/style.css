@@ -48,7 +48,43 @@
 .icon-nature-meridianglobe:before {
   content: "\1F310"
 }
-.icon-nature-fullmoonface:before {
+.icon-nature-newmoon:before {
+  content: "\1F311"
+}
+.icon-nature-waxingcrescentmoon:before {
+  content: "\1F312"
+}
+.icon-nature-firstquartermoon:before {
+  content: "\1F313"
+}
+.icon-nature-waxinggibbousmoon:before {
+  content: "\1F314"
+}
+.icon-nature-fullmoon:before {
+  content: "\1F315"
+}
+.icon-nature-waningbibbousmoon:before {
+  content: "\1F316"
+}
+.icon-nature-lastquartermoon:before {
+  content: "\1F317"
+}
+.icon-nature-waningcrescentmoon:before {
+  content: "\1F318"
+}
+.icon-nature-crescentmoon:before {
+  content: "\1F319"
+}
+.icon-nature-newmoonwithface:before {
+  content: "\1F31A"
+}
+.icon-nature-firstquartermoonface:before {
+  content: "\1F31B"
+}
+.icon-nature-lastquartermoonface:before {
+  content: "\1F31C"
+}
+.icon-nature-fullmoonwithface:before {
   content: "\1F31D"
 }
 .icon-nature-sunwithface:before {
@@ -192,6 +228,30 @@
 .icon-nature-octopus:before {
   content: "\1F419"
 }
+.icon-nature-spiralshell:before {
+  content: "\1F41A"
+}
+.icon-nature-bug:before {
+  content: "\1F41B"
+}
+.icon-nature-ant:before {
+  content: "\1F41C"
+}
+.icon-nature-honeybee:before {
+  content: "\1F41D"
+}
+.icon-nature-ladybeetle:before {
+  content: "\1F41E"
+}
+.icon-nature-fish:before {
+  content: "\1F41F"
+}
+.icon-nature-tropicalfish:before {
+  content: "\1F420"
+}
+.icon-nature-blowfish:before {
+  content: "\1F421"
+}
 .icon-nature-turtle:before {
   content: "\1F422"
 }
@@ -288,7 +348,7 @@
 .icon-nature-cloud:before {
   content: "\2601"
 }
-.icon-nature-whitemediumstar:before {
+.icon-nature-whitestar:before {
   content: "\2606"
 }
 .icon-nature-umbrellawithraindrops:before {
@@ -305,4 +365,7 @@
 }
 .icon-nature-snowflake:before {
   content: "\2744"
+}
+.icon-nature-whitemediumstar:before {
+  content: "\2B50"
 }

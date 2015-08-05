@@ -1932,6 +1932,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5Fd",
+        "name": "statueofliberty"
+      },
+      "layers": [
+        {
+          "color": "76DFFF",
+          "name": "u1F5Fd.layer1",
+          "order": 1
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5Fd.layer2",
+          "order": 2
+        },
+        {
+          "color": "49D1C6",
+          "name": "u1F5Fd.layer3",
+          "order": 3
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5Fd.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F69F",
         "name": "suspensionrailway"
       },
@@ -2175,6 +2205,51 @@
           "color": "2BA52E",
           "name": "u1F304.layer5",
           "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F307",
+        "name": "sunsetoverbuildings"
+      },
+      "layers": [
+        {
+          "color": "FC7E17",
+          "name": "u1F307.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFC033",
+          "name": "u1F307.layer2",
+          "order": 2
+        },
+        {
+          "color": "D1552A",
+          "name": "u1F307.layer3",
+          "order": 3
+        },
+        {
+          "color": "ED8135",
+          "name": "u1F307.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F307.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F307.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFCF53",
+          "name": "u1F307.layer7",
+          "order": 7
         }
       ]
     }
@@ -2980,36 +3055,6 @@
           "color": "E5E4DF",
           "name": "u1F4BA.layer6",
           "order": 6
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "uF5FD",
-        "name": "statueofliberty"
-      },
-      "layers": [
-        {
-          "color": "76DFFF",
-          "name": "uF5FD.layer1",
-          "order": 1
-        },
-        {
-          "color": "10867C",
-          "name": "uF5FD.layer2",
-          "order": 2
-        },
-        {
-          "color": "49D1C6",
-          "name": "uF5FD.layer3",
-          "order": 3
-        },
-        {
-          "color": "10867C",
-          "name": "uF5FD.layer4",
-          "order": 4
         }
       ]
     }

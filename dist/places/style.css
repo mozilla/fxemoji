@@ -57,6 +57,9 @@
 .icon-places-cityscapeatdusk:before {
   content: "\1F306"
 }
+.icon-places-sunsetoverbuildings:before {
+  content: "\1F307"
+}
 .icon-places-bridgeatnight:before {
   content: "\1F309"
 }
@@ -155,6 +158,9 @@
 }
 .icon-places-moyai:before {
   content: "\1F5FF"
+}
+.icon-places-statueofliberty:before {
+  content: "\1F5FD"
 }
 .icon-places-rocket:before {
   content: "\1F680"
@@ -311,7 +317,4 @@
 }
 .icon-places-airplane:before {
   content: "\2708"
-}
-.icon-places-statueofliberty:before {
-  content: "\F5FD"
 }

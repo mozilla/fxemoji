@@ -1,0 +1,2561 @@
+@font-face {
+  font-family: "FirefoxEmoji";
+  src: url('FirefoxEmoji.eot');
+  src: url('FirefoxEmoji.eot?#iefix') format('eot'),
+    url('FirefoxEmoji.woff') format('woff'),
+    url('FirefoxEmoji.ttf') format('truetype'),
+    url('FirefoxEmoji.svg#FirefoxEmoji') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  text-align: center;
+  font-family: "FirefoxEmoji";
+  font-style: normal;
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-FirefoxEmoji-hash_keycap:before {
+  content: "\23"
+}
+.icon-FirefoxEmoji-zero_keycap:before {
+  content: "\30"
+}
+.icon-FirefoxEmoji-one_keycap:before {
+  content: "\31"
+}
+.icon-FirefoxEmoji-two_keycap:before {
+  content: "\32"
+}
+.icon-FirefoxEmoji-three_keycap:before {
+  content: "\33"
+}
+.icon-FirefoxEmoji-four_keycap:before {
+  content: "\34"
+}
+.icon-FirefoxEmoji-five_keycap:before {
+  content: "\35"
+}
+.icon-FirefoxEmoji-six_keycap:before {
+  content: "\36"
+}
+.icon-FirefoxEmoji-seven_keycap:before {
+  content: "\37"
+}
+.icon-FirefoxEmoji-eight_keycap:before {
+  content: "\38"
+}
+.icon-FirefoxEmoji-nine_keycap:before {
+  content: "\39"
+}
+.icon-FirefoxEmoji-copyrightsign:before {
+  content: "\A9"
+}
+.icon-FirefoxEmoji-mahjong:before {
+  content: "\1F004"
+}
+.icon-FirefoxEmoji-playingcardblackjoker:before {
+  content: "\1F0CF"
+}
+.icon-FirefoxEmoji-negativesquaredlatincaptialA:before {
+  content: "\1F170"
+}
+.icon-FirefoxEmoji-negativesquaredlatincaptialB:before {
+  content: "\1F171"
+}
+.icon-FirefoxEmoji-negativesquaredlatincaptialO:before {
+  content: "\1F17E"
+}
+.icon-FirefoxEmoji-negativesquaredlatincapitalletterP:before {
+  content: "\1F17F"
+}
+.icon-FirefoxEmoji-negativesquaredAB:before {
+  content: "\1F18E"
+}
+.icon-FirefoxEmoji-squaredCL:before {
+  content: "\1F191"
+}
+.icon-FirefoxEmoji-squaredcool:before {
+  content: "\1F192"
+}
+.icon-FirefoxEmoji-squaredfree:before {
+  content: "\1F193"
+}
+.icon-FirefoxEmoji-squaredid:before {
+  content: "\1F194"
+}
+.icon-FirefoxEmoji-squarednew:before {
+  content: "\1F195"
+}
+.icon-FirefoxEmoji-squaredng:before {
+  content: "\1F196"
+}
+.icon-FirefoxEmoji-squaredok:before {
+  content: "\1F197"
+}
+.icon-FirefoxEmoji-squaredsos:before {
+  content: "\1F198"
+}
+.icon-FirefoxEmoji-squaredup:before {
+  content: "\1F199"
+}
+.icon-FirefoxEmoji-squaredvs:before {
+  content: "\1F19A"
+}
+.icon-FirefoxEmoji-chineseflag:before {
+  content: "\1F1E8"
+}
+.icon-FirefoxEmoji-spanishflag:before {
+  content: "\1F1EA"
+}
+.icon-FirefoxEmoji-franceflag:before {
+  content: "\1F1EB"
+}
+.icon-FirefoxEmoji-greatbritainflag:before {
+  content: "\1F1EC"
+}
+.icon-FirefoxEmoji-italianflag:before {
+  content: "\1F1EE"
+}
+.icon-FirefoxEmoji-flagjapan:before {
+  content: "\1F1EF"
+}
+.icon-FirefoxEmoji-flagkorea:before {
+  content: "\1F1F0"
+}
+.icon-FirefoxEmoji-russianflag:before {
+  content: "\1F1F7"
+}
+.icon-FirefoxEmoji-unitedstatesflag:before {
+  content: "\1F1FA"
+}
+.icon-FirefoxEmoji-squaredkatakanakoko:before {
+  content: "\1F201"
+}
+.icon-FirefoxEmoji-squaredkatakanasa:before {
+  content: "\1F202"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_i:before {
+  content: "\1F21A"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_a:before {
+  content: "\1F22F"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_c:before {
+  content: "\1F232"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_d:before {
+  content: "\1F233"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_e:before {
+  content: "\1F234"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_f:before {
+  content: "\1F235"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_g:before {
+  content: "\1F236"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_h:before {
+  content: "\1F237"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_j:before {
+  content: "\1F238"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_k:before {
+  content: "\1F239"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_b:before {
+  content: "\1F23A"
+}
+.icon-FirefoxEmoji-circledideographadvantage:before {
+  content: "\1F250"
+}
+.icon-FirefoxEmoji-circledideographaccept:before {
+  content: "\1F251"
+}
+.icon-FirefoxEmoji-cyclone:before {
+  content: "\1F300"
+}
+.icon-FirefoxEmoji-foggy:before {
+  content: "\1F301"
+}
+.icon-FirefoxEmoji-umbrella:before {
+  content: "\1F302"
+}
+.icon-FirefoxEmoji-nightwithstars:before {
+  content: "\1F303"
+}
+.icon-FirefoxEmoji-sunriseovermountains:before {
+  content: "\1F304"
+}
+.icon-FirefoxEmoji-sunrise:before {
+  content: "\1F305"
+}
+.icon-FirefoxEmoji-cityscapeatdusk:before {
+  content: "\1F306"
+}
+.icon-FirefoxEmoji-sunsetoverbuildings:before {
+  content: "\1F307"
+}
+.icon-FirefoxEmoji-rainbow:before {
+  content: "\1F308"
+}
+.icon-FirefoxEmoji-bridgeatnight:before {
+  content: "\1F309"
+}
+.icon-FirefoxEmoji-wave:before {
+  content: "\1F30A"
+}
+.icon-FirefoxEmoji-volcano:before {
+  content: "\1F30B"
+}
+.icon-FirefoxEmoji-milkyway:before {
+  content: "\1F30C"
+}
+.icon-FirefoxEmoji-europeafricaglobe:before {
+  content: "\1F30D"
+}
+.icon-FirefoxEmoji-americasglobe:before {
+  content: "\1F30E"
+}
+.icon-FirefoxEmoji-asiaaustraliaglobe:before {
+  content: "\1F30F"
+}
+.icon-FirefoxEmoji-meridianglobe:before {
+  content: "\1F310"
+}
+.icon-FirefoxEmoji-newmoon:before {
+  content: "\1F311"
+}
+.icon-FirefoxEmoji-waxingcrescentmoon:before {
+  content: "\1F312"
+}
+.icon-FirefoxEmoji-firstquartermoon:before {
+  content: "\1F313"
+}
+.icon-FirefoxEmoji-waxinggibbousmoon:before {
+  content: "\1F314"
+}
+.icon-FirefoxEmoji-fullmoon:before {
+  content: "\1F315"
+}
+.icon-FirefoxEmoji-waningbibbousmoon:before {
+  content: "\1F316"
+}
+.icon-FirefoxEmoji-lastquartermoon:before {
+  content: "\1F317"
+}
+.icon-FirefoxEmoji-waningcrescentmoon:before {
+  content: "\1F318"
+}
+.icon-FirefoxEmoji-crescentmoon:before {
+  content: "\1F319"
+}
+.icon-FirefoxEmoji-newmoonwithface:before {
+  content: "\1F31A"
+}
+.icon-FirefoxEmoji-firstquartermoonface:before {
+  content: "\1F31B"
+}
+.icon-FirefoxEmoji-lastquartermoonface:before {
+  content: "\1F31C"
+}
+.icon-FirefoxEmoji-fullmoonwithface:before {
+  content: "\1F31D"
+}
+.icon-FirefoxEmoji-sunwithface:before {
+  content: "\1F31E"
+}
+.icon-FirefoxEmoji-star:before {
+  content: "\1F31F"
+}
+.icon-FirefoxEmoji-shootingstar:before {
+  content: "\1F320"
+}
+.icon-FirefoxEmoji-acorn:before {
+  content: "\1F330"
+}
+.icon-FirefoxEmoji-seedling:before {
+  content: "\1F331"
+}
+.icon-FirefoxEmoji-evergreen:before {
+  content: "\1F332"
+}
+.icon-FirefoxEmoji-deciduoustree:before {
+  content: "\1F333"
+}
+.icon-FirefoxEmoji-palmtree:before {
+  content: "\1F334"
+}
+.icon-FirefoxEmoji-cactus:before {
+  content: "\1F335"
+}
+.icon-FirefoxEmoji-tulip:before {
+  content: "\1F337"
+}
+.icon-FirefoxEmoji-cherryblossom:before {
+  content: "\1F338"
+}
+.icon-FirefoxEmoji-rose:before {
+  content: "\1F339"
+}
+.icon-FirefoxEmoji-hibiscus:before {
+  content: "\1F33A"
+}
+.icon-FirefoxEmoji-sunflower:before {
+  content: "\1F33B"
+}
+.icon-FirefoxEmoji-blossom:before {
+  content: "\1F33C"
+}
+.icon-FirefoxEmoji-earofmaize:before {
+  content: "\1F33D"
+}
+.icon-FirefoxEmoji-earofrice:before {
+  content: "\1F33E"
+}
+.icon-FirefoxEmoji-herb:before {
+  content: "\1F33F"
+}
+.icon-FirefoxEmoji-fourleafclover:before {
+  content: "\1F340"
+}
+.icon-FirefoxEmoji-mapleleaf:before {
+  content: "\1F341"
+}
+.icon-FirefoxEmoji-fallingleaf:before {
+  content: "\1F342"
+}
+.icon-FirefoxEmoji-leaffluttering:before {
+  content: "\1F343"
+}
+.icon-FirefoxEmoji-mushroom:before {
+  content: "\1F344"
+}
+.icon-FirefoxEmoji-tomato:before {
+  content: "\1F345"
+}
+.icon-FirefoxEmoji-aubergine:before {
+  content: "\1F346"
+}
+.icon-FirefoxEmoji-grapes:before {
+  content: "\1F347"
+}
+.icon-FirefoxEmoji-melon:before {
+  content: "\1F348"
+}
+.icon-FirefoxEmoji-watermelon:before {
+  content: "\1F349"
+}
+.icon-FirefoxEmoji-tangerine:before {
+  content: "\1F34A"
+}
+.icon-FirefoxEmoji-lemon:before {
+  content: "\1F34B"
+}
+.icon-FirefoxEmoji-banana:before {
+  content: "\1F34C"
+}
+.icon-FirefoxEmoji-pineapple:before {
+  content: "\1F34D"
+}
+.icon-FirefoxEmoji-redapple:before {
+  content: "\1F34E"
+}
+.icon-FirefoxEmoji-greenapple:before {
+  content: "\1F34F"
+}
+.icon-FirefoxEmoji-bread:before {
+  content: "\1F35"
+}
+.icon-FirefoxEmoji-pear:before {
+  content: "\1F350"
+}
+.icon-FirefoxEmoji-peach:before {
+  content: "\1F351"
+}
+.icon-FirefoxEmoji-cherries:before {
+  content: "\1F352"
+}
+.icon-FirefoxEmoji-strawberry:before {
+  content: "\1F353"
+}
+.icon-FirefoxEmoji-hamburger:before {
+  content: "\1F354"
+}
+.icon-FirefoxEmoji-sliceofpizza:before {
+  content: "\1F355"
+}
+.icon-FirefoxEmoji-meatonbone:before {
+  content: "\1F356"
+}
+.icon-FirefoxEmoji-poultryleg:before {
+  content: "\1F357"
+}
+.icon-FirefoxEmoji-ricecracker:before {
+  content: "\1F358"
+}
+.icon-FirefoxEmoji-riceball:before {
+  content: "\1F359"
+}
+.icon-FirefoxEmoji-cookedrice:before {
+  content: "\1F35A"
+}
+.icon-FirefoxEmoji-curryandrice:before {
+  content: "\1F35B"
+}
+.icon-FirefoxEmoji-steamingbowl:before {
+  content: "\1F35C"
+}
+.icon-FirefoxEmoji-spaghetti:before {
+  content: "\1F35D"
+}
+.icon-FirefoxEmoji-frenchfries:before {
+  content: "\1F35F"
+}
+.icon-FirefoxEmoji-roastedsweetpotato:before {
+  content: "\1F360"
+}
+.icon-FirefoxEmoji-dango:before {
+  content: "\1F361"
+}
+.icon-FirefoxEmoji-oden:before {
+  content: "\1F362"
+}
+.icon-FirefoxEmoji-sushi:before {
+  content: "\1F363"
+}
+.icon-FirefoxEmoji-friedshrimp:before {
+  content: "\1F364"
+}
+.icon-FirefoxEmoji-fishcakeswirl:before {
+  content: "\1F365"
+}
+.icon-FirefoxEmoji-softicecream:before {
+  content: "\1F366"
+}
+.icon-FirefoxEmoji-shavedice:before {
+  content: "\1F367"
+}
+.icon-FirefoxEmoji-icecream:before {
+  content: "\1F368"
+}
+.icon-FirefoxEmoji-doughnut:before {
+  content: "\1F369"
+}
+.icon-FirefoxEmoji-cookie:before {
+  content: "\1F36A"
+}
+.icon-FirefoxEmoji-chocolatebar:before {
+  content: "\1F36B"
+}
+.icon-FirefoxEmoji-candy:before {
+  content: "\1F36C"
+}
+.icon-FirefoxEmoji-lollipop:before {
+  content: "\1F36D"
+}
+.icon-FirefoxEmoji-custard:before {
+  content: "\1F36E"
+}
+.icon-FirefoxEmoji-honeypot:before {
+  content: "\1F36F"
+}
+.icon-FirefoxEmoji-shortcake:before {
+  content: "\1F370"
+}
+.icon-FirefoxEmoji-bentobox:before {
+  content: "\1F371"
+}
+.icon-FirefoxEmoji-potoffood:before {
+  content: "\1F372"
+}
+.icon-FirefoxEmoji-cooking:before {
+  content: "\1F373"
+}
+.icon-FirefoxEmoji-forkandknife:before {
+  content: "\1F374"
+}
+.icon-FirefoxEmoji-teacupwithouthandle:before {
+  content: "\1F375"
+}
+.icon-FirefoxEmoji-sakebottleandcup:before {
+  content: "\1F376"
+}
+.icon-FirefoxEmoji-wineglass:before {
+  content: "\1F377"
+}
+.icon-FirefoxEmoji-cocktailglass:before {
+  content: "\1F378"
+}
+.icon-FirefoxEmoji-tropicaldrink:before {
+  content: "\1F379"
+}
+.icon-FirefoxEmoji-beermug:before {
+  content: "\1F37A"
+}
+.icon-FirefoxEmoji-clinkingbeermugs:before {
+  content: "\1F37B"
+}
+.icon-FirefoxEmoji-babybottle:before {
+  content: "\1F37C"
+}
+.icon-FirefoxEmoji-bow:before {
+  content: "\1F380"
+}
+.icon-FirefoxEmoji-present:before {
+  content: "\1F381"
+}
+.icon-FirefoxEmoji-birthdaycake:before {
+  content: "\1F382"
+}
+.icon-FirefoxEmoji-jackolantern:before {
+  content: "\1F383"
+}
+.icon-FirefoxEmoji-christmastree:before {
+  content: "\1F384"
+}
+.icon-FirefoxEmoji-fatherchristmas:before {
+  content: "\1F385"
+}
+.icon-FirefoxEmoji-fireworks:before {
+  content: "\1F386"
+}
+.icon-FirefoxEmoji-fireworksparkler:before {
+  content: "\1F387"
+}
+.icon-FirefoxEmoji-balloon:before {
+  content: "\1F388"
+}
+.icon-FirefoxEmoji-partypopper:before {
+  content: "\1F389"
+}
+.icon-FirefoxEmoji-confetti:before {
+  content: "\1F38A"
+}
+.icon-FirefoxEmoji-tanabatatree:before {
+  content: "\1F38B"
+}
+.icon-FirefoxEmoji-crossedflags:before {
+  content: "\1F38C"
+}
+.icon-FirefoxEmoji-pinedecoration:before {
+  content: "\1F38D"
+}
+.icon-FirefoxEmoji-japanesedolls:before {
+  content: "\1F38E"
+}
+.icon-FirefoxEmoji-carpstreamer:before {
+  content: "\1F38F"
+}
+.icon-FirefoxEmoji-windchime:before {
+  content: "\1F390"
+}
+.icon-FirefoxEmoji-moonviewingceremony:before {
+  content: "\1F391"
+}
+.icon-FirefoxEmoji-schoolsatchel:before {
+  content: "\1F392"
+}
+.icon-FirefoxEmoji-graduationcap:before {
+  content: "\1F393"
+}
+.icon-FirefoxEmoji-heartlefttip:before {
+  content: "\1F394"
+}
+.icon-FirefoxEmoji-carouselhorse:before {
+  content: "\1F3A0"
+}
+.icon-FirefoxEmoji-FERRISWHEEL:before {
+  content: "\1F3A1"
+}
+.icon-FirefoxEmoji-rollercoaster:before {
+  content: "\1F3A2"
+}
+.icon-FirefoxEmoji-fishingpoleandfish:before {
+  content: "\1F3A3"
+}
+.icon-FirefoxEmoji-microphone:before {
+  content: "\1F3A4"
+}
+.icon-FirefoxEmoji-moviecamera:before {
+  content: "\1F3A5"
+}
+.icon-FirefoxEmoji-cinema:before {
+  content: "\1F3A6"
+}
+.icon-FirefoxEmoji-headphone:before {
+  content: "\1F3A7"
+}
+.icon-FirefoxEmoji-artistpalette:before {
+  content: "\1F3A8"
+}
+.icon-FirefoxEmoji-tophat:before {
+  content: "\1F3A9"
+}
+.icon-FirefoxEmoji-circustent:before {
+  content: "\1F3AA"
+}
+.icon-FirefoxEmoji-ticket:before {
+  content: "\1F3AB"
+}
+.icon-FirefoxEmoji-clapperboard:before {
+  content: "\1F3AC"
+}
+.icon-FirefoxEmoji-performingarts:before {
+  content: "\1F3AD"
+}
+.icon-FirefoxEmoji-videogame:before {
+  content: "\1F3AE"
+}
+.icon-FirefoxEmoji-directhit:before {
+  content: "\1F3AF"
+}
+.icon-FirefoxEmoji-slotmachine:before {
+  content: "\1F3B0"
+}
+.icon-FirefoxEmoji-billiards:before {
+  content: "\1F3B1"
+}
+.icon-FirefoxEmoji-gamedie:before {
+  content: "\1F3B2"
+}
+.icon-FirefoxEmoji-bowling:before {
+  content: "\1F3B3"
+}
+.icon-FirefoxEmoji-flowerplayingcards:before {
+  content: "\1F3B4"
+}
+.icon-FirefoxEmoji-musicalnote:before {
+  content: "\1F3B5"
+}
+.icon-FirefoxEmoji-multiplemusicalnotes:before {
+  content: "\1F3B6"
+}
+.icon-FirefoxEmoji-saxophone:before {
+  content: "\1F3B7"
+}
+.icon-FirefoxEmoji-guitar:before {
+  content: "\1F3B8"
+}
+.icon-FirefoxEmoji-musicalkeyboard:before {
+  content: "\1F3B9"
+}
+.icon-FirefoxEmoji-trumpet:before {
+  content: "\1F3BA"
+}
+.icon-FirefoxEmoji-violin:before {
+  content: "\1F3BB"
+}
+.icon-FirefoxEmoji-musicalscore:before {
+  content: "\1F3BC"
+}
+.icon-FirefoxEmoji-runningshirt:before {
+  content: "\1F3BD"
+}
+.icon-FirefoxEmoji-tennisball:before {
+  content: "\1F3BE"
+}
+.icon-FirefoxEmoji-skiandskiboot:before {
+  content: "\1F3BF"
+}
+.icon-FirefoxEmoji-basketballandhoop:before {
+  content: "\1F3C0"
+}
+.icon-FirefoxEmoji-snowboarder:before {
+  content: "\1F3C2"
+}
+.icon-FirefoxEmoji-running:before {
+  content: "\1F3C3"
+}
+.icon-FirefoxEmoji-surfer:before {
+  content: "\1F3C4"
+}
+.icon-FirefoxEmoji-trophy:before {
+  content: "\1F3C6"
+}
+.icon-FirefoxEmoji-horseracing:before {
+  content: "\1F3C7"
+}
+.icon-FirefoxEmoji-americanfootball:before {
+  content: "\1F3C8"
+}
+.icon-FirefoxEmoji-rugbyfootball:before {
+  content: "\1F3C9"
+}
+.icon-FirefoxEmoji-swimming:before {
+  content: "\1F3CA"
+}
+.icon-FirefoxEmoji-housebuilding:before {
+  content: "\1F3E0"
+}
+.icon-FirefoxEmoji-housewithgarden:before {
+  content: "\1F3E1"
+}
+.icon-FirefoxEmoji-officebuilding:before {
+  content: "\1F3E2"
+}
+.icon-FirefoxEmoji-japanesepostoffice:before {
+  content: "\1F3E3"
+}
+.icon-FirefoxEmoji-europeanpostoffice:before {
+  content: "\1F3E4"
+}
+.icon-FirefoxEmoji-hospital:before {
+  content: "\1F3E5"
+}
+.icon-FirefoxEmoji-bank:before {
+  content: "\1F3E6"
+}
+.icon-FirefoxEmoji-automatedtellermachine:before {
+  content: "\1F3E7"
+}
+.icon-FirefoxEmoji-hotel:before {
+  content: "\1F3E8"
+}
+.icon-FirefoxEmoji-lovehotel:before {
+  content: "\1F3E9"
+}
+.icon-FirefoxEmoji-conveniencestore:before {
+  content: "\1F3EA"
+}
+.icon-FirefoxEmoji-school:before {
+  content: "\1F3EB"
+}
+.icon-FirefoxEmoji-departmentstore:before {
+  content: "\1F3EC"
+}
+.icon-FirefoxEmoji-factory:before {
+  content: "\1F3ED"
+}
+.icon-FirefoxEmoji-IZAKAYALANTERN:before {
+  content: "\1F3EE"
+}
+.icon-FirefoxEmoji-japanesecastle:before {
+  content: "\1F3EF"
+}
+.icon-FirefoxEmoji-europeancastle:before {
+  content: "\1F3F0"
+}
+.icon-FirefoxEmoji-rat:before {
+  content: "\1F400"
+}
+.icon-FirefoxEmoji-mouseside:before {
+  content: "\1F401"
+}
+.icon-FirefoxEmoji-ox:before {
+  content: "\1F402"
+}
+.icon-FirefoxEmoji-waterbuffalo:before {
+  content: "\1F403"
+}
+.icon-FirefoxEmoji-cow:before {
+  content: "\1F404"
+}
+.icon-FirefoxEmoji-tigerside:before {
+  content: "\1F405"
+}
+.icon-FirefoxEmoji-leopardside:before {
+  content: "\1F406"
+}
+.icon-FirefoxEmoji-bunnyside:before {
+  content: "\1F407"
+}
+.icon-FirefoxEmoji-catside:before {
+  content: "\1F408"
+}
+.icon-FirefoxEmoji-dragonside:before {
+  content: "\1F409"
+}
+.icon-FirefoxEmoji-crocodile:before {
+  content: "\1F40A"
+}
+.icon-FirefoxEmoji-whale:before {
+  content: "\1F40B"
+}
+.icon-FirefoxEmoji-snail:before {
+  content: "\1F40C"
+}
+.icon-FirefoxEmoji-snake:before {
+  content: "\1F40D"
+}
+.icon-FirefoxEmoji-horse:before {
+  content: "\1F40E"
+}
+.icon-FirefoxEmoji-ram:before {
+  content: "\1F40F"
+}
+.icon-FirefoxEmoji-goat:before {
+  content: "\1F410"
+}
+.icon-FirefoxEmoji-sheep:before {
+  content: "\1F411"
+}
+.icon-FirefoxEmoji-monkey:before {
+  content: "\1F412"
+}
+.icon-FirefoxEmoji-rooster:before {
+  content: "\1F413"
+}
+.icon-FirefoxEmoji-chicken:before {
+  content: "\1F414"
+}
+.icon-FirefoxEmoji-dogside:before {
+  content: "\1F415"
+}
+.icon-FirefoxEmoji-pigside:before {
+  content: "\1F416"
+}
+.icon-FirefoxEmoji-boar:before {
+  content: "\1F417"
+}
+.icon-FirefoxEmoji-elephant:before {
+  content: "\1F418"
+}
+.icon-FirefoxEmoji-octopus:before {
+  content: "\1F419"
+}
+.icon-FirefoxEmoji-spiralshell:before {
+  content: "\1F41A"
+}
+.icon-FirefoxEmoji-bug:before {
+  content: "\1F41B"
+}
+.icon-FirefoxEmoji-ant:before {
+  content: "\1F41C"
+}
+.icon-FirefoxEmoji-honeybee:before {
+  content: "\1F41D"
+}
+.icon-FirefoxEmoji-ladybeetle:before {
+  content: "\1F41E"
+}
+.icon-FirefoxEmoji-fish:before {
+  content: "\1F41F"
+}
+.icon-FirefoxEmoji-tropicalfish:before {
+  content: "\1F420"
+}
+.icon-FirefoxEmoji-blowfish:before {
+  content: "\1F421"
+}
+.icon-FirefoxEmoji-turtle:before {
+  content: "\1F422"
+}
+.icon-FirefoxEmoji-hatchingchick:before {
+  content: "\1F423"
+}
+.icon-FirefoxEmoji-babychick:before {
+  content: "\1F424"
+}
+.icon-FirefoxEmoji-frontfacingchick:before {
+  content: "\1F425"
+}
+.icon-FirefoxEmoji-bird:before {
+  content: "\1F426"
+}
+.icon-FirefoxEmoji-penguin:before {
+  content: "\1F427"
+}
+.icon-FirefoxEmoji-koala:before {
+  content: "\1F428"
+}
+.icon-FirefoxEmoji-poodle:before {
+  content: "\1F429"
+}
+.icon-FirefoxEmoji-dromedarycamel:before {
+  content: "\1F42A"
+}
+.icon-FirefoxEmoji-bactriancamel:before {
+  content: "\1F42B"
+}
+.icon-FirefoxEmoji-dolphin:before {
+  content: "\1F42C"
+}
+.icon-FirefoxEmoji-mouse:before {
+  content: "\1F42D"
+}
+.icon-FirefoxEmoji-cowface:before {
+  content: "\1F42E"
+}
+.icon-FirefoxEmoji-tiger:before {
+  content: "\1F42F"
+}
+.icon-FirefoxEmoji-bunny:before {
+  content: "\1F430"
+}
+.icon-FirefoxEmoji-cat:before {
+  content: "\1F431"
+}
+.icon-FirefoxEmoji-dragonhead:before {
+  content: "\1F432"
+}
+.icon-FirefoxEmoji-spurtingwhale:before {
+  content: "\1F433"
+}
+.icon-FirefoxEmoji-horseface:before {
+  content: "\1F434"
+}
+.icon-FirefoxEmoji-monkeyface:before {
+  content: "\1F435"
+}
+.icon-FirefoxEmoji-dog:before {
+  content: "\1F436"
+}
+.icon-FirefoxEmoji-pig:before {
+  content: "\1F437"
+}
+.icon-FirefoxEmoji-frog:before {
+  content: "\1F438"
+}
+.icon-FirefoxEmoji-hampster:before {
+  content: "\1F439"
+}
+.icon-FirefoxEmoji-wolfface:before {
+  content: "\1F43A"
+}
+.icon-FirefoxEmoji-bear:before {
+  content: "\1F43B"
+}
+.icon-FirefoxEmoji-pandaface:before {
+  content: "\1F43C"
+}
+.icon-FirefoxEmoji-pigsnout:before {
+  content: "\1F43D"
+}
+.icon-FirefoxEmoji-pawprints:before {
+  content: "\1F43E"
+}
+.icon-FirefoxEmoji-eyes:before {
+  content: "\1F440"
+}
+.icon-FirefoxEmoji-eye:before {
+  content: "\1F441"
+}
+.icon-FirefoxEmoji-ear:before {
+  content: "\1F442"
+}
+.icon-FirefoxEmoji-nose:before {
+  content: "\1F443"
+}
+.icon-FirefoxEmoji-mouth:before {
+  content: "\1F444"
+}
+.icon-FirefoxEmoji-tongue:before {
+  content: "\1F445"
+}
+.icon-FirefoxEmoji-up:before {
+  content: "\1F446"
+}
+.icon-FirefoxEmoji-down:before {
+  content: "\1F447"
+}
+.icon-FirefoxEmoji-left:before {
+  content: "\1F448"
+}
+.icon-FirefoxEmoji-right:before {
+  content: "\1F449"
+}
+.icon-FirefoxEmoji-fistedhand:before {
+  content: "\1F44A"
+}
+.icon-FirefoxEmoji-waving:before {
+  content: "\1F44B"
+}
+.icon-FirefoxEmoji-aok:before {
+  content: "\1F44C"
+}
+.icon-FirefoxEmoji-thumbsup:before {
+  content: "\1F44D"
+}
+.icon-FirefoxEmoji-thumbsdown:before {
+  content: "\1F44E"
+}
+.icon-FirefoxEmoji-clap:before {
+  content: "\1F44F"
+}
+.icon-FirefoxEmoji-hands:before {
+  content: "\1F450"
+}
+.icon-FirefoxEmoji-crown:before {
+  content: "\1F451"
+}
+.icon-FirefoxEmoji-womanshat:before {
+  content: "\1F452"
+}
+.icon-FirefoxEmoji-glasses:before {
+  content: "\1F453"
+}
+.icon-FirefoxEmoji-tie:before {
+  content: "\1F454"
+}
+.icon-FirefoxEmoji-mansshirt:before {
+  content: "\1F455"
+}
+.icon-FirefoxEmoji-jeans:before {
+  content: "\1F456"
+}
+.icon-FirefoxEmoji-dress:before {
+  content: "\1F457"
+}
+.icon-FirefoxEmoji-kimono:before {
+  content: "\1F458"
+}
+.icon-FirefoxEmoji-bikini:before {
+  content: "\1F459"
+}
+.icon-FirefoxEmoji-womansshirt:before {
+  content: "\1F45A"
+}
+.icon-FirefoxEmoji-pinkwallet:before {
+  content: "\1F45B"
+}
+.icon-FirefoxEmoji-handbag:before {
+  content: "\1F45C"
+}
+.icon-FirefoxEmoji-makeupbag:before {
+  content: "\1F45D"
+}
+.icon-FirefoxEmoji-mensshoe:before {
+  content: "\1F45E"
+}
+.icon-FirefoxEmoji-mensrunner:before {
+  content: "\1F45F"
+}
+.icon-FirefoxEmoji-heels:before {
+  content: "\1F460"
+}
+.icon-FirefoxEmoji-sandals:before {
+  content: "\1F461"
+}
+.icon-FirefoxEmoji-boot:before {
+  content: "\1F462"
+}
+.icon-FirefoxEmoji-footprints:before {
+  content: "\1F463"
+}
+.icon-FirefoxEmoji-contact:before {
+  content: "\1F464"
+}
+.icon-FirefoxEmoji-contact2:before {
+  content: "\1F465"
+}
+.icon-FirefoxEmoji-boy:before {
+  content: "\1F466"
+}
+.icon-FirefoxEmoji-girl:before {
+  content: "\1F467"
+}
+.icon-FirefoxEmoji-man:before {
+  content: "\1F468"
+}
+.icon-FirefoxEmoji-woman:before {
+  content: "\1F469"
+}
+.icon-FirefoxEmoji-family:before {
+  content: "\1F46A"
+}
+.icon-FirefoxEmoji-girlguy:before {
+  content: "\1F46B"
+}
+.icon-FirefoxEmoji-guyguy:before {
+  content: "\1F46C"
+}
+.icon-FirefoxEmoji-girlgirl:before {
+  content: "\1F46D"
+}
+.icon-FirefoxEmoji-cop:before {
+  content: "\1F46E"
+}
+.icon-FirefoxEmoji-bunny__ears:before {
+  content: "\1F46F"
+}
+.icon-FirefoxEmoji-bride:before {
+  content: "\1F470"
+}
+.icon-FirefoxEmoji-blonde:before {
+  content: "\1F471"
+}
+.icon-FirefoxEmoji-guapimao:before {
+  content: "\1F472"
+}
+.icon-FirefoxEmoji-turban:before {
+  content: "\1F473"
+}
+.icon-FirefoxEmoji-gpa:before {
+  content: "\1F474"
+}
+.icon-FirefoxEmoji-gma:before {
+  content: "\1F475"
+}
+.icon-FirefoxEmoji-baby:before {
+  content: "\1F476"
+}
+.icon-FirefoxEmoji-construct:before {
+  content: "\1F477"
+}
+.icon-FirefoxEmoji-princess:before {
+  content: "\1F478"
+}
+.icon-FirefoxEmoji-ogre:before {
+  content: "\1F479"
+}
+.icon-FirefoxEmoji-japaneseangrymask:before {
+  content: "\1F47A"
+}
+.icon-FirefoxEmoji-ghost:before {
+  content: "\1F47B"
+}
+.icon-FirefoxEmoji-babyangel:before {
+  content: "\1F47C"
+}
+.icon-FirefoxEmoji-alien:before {
+  content: "\1F47D"
+}
+.icon-FirefoxEmoji-alienmonster:before {
+  content: "\1F47E"
+}
+.icon-FirefoxEmoji-imp:before {
+  content: "\1F47F"
+}
+.icon-FirefoxEmoji-skull:before {
+  content: "\1F480"
+}
+.icon-FirefoxEmoji-waitress:before {
+  content: "\1F481"
+}
+.icon-FirefoxEmoji-guardsman:before {
+  content: "\1F482"
+}
+.icon-FirefoxEmoji-dancer:before {
+  content: "\1F483"
+}
+.icon-FirefoxEmoji-lipstick:before {
+  content: "\1F484"
+}
+.icon-FirefoxEmoji-nailpolish:before {
+  content: "\1F485"
+}
+.icon-FirefoxEmoji-headmassage:before {
+  content: "\1F486"
+}
+.icon-FirefoxEmoji-haircut:before {
+  content: "\1F487"
+}
+.icon-FirefoxEmoji-barberpole:before {
+  content: "\1F488"
+}
+.icon-FirefoxEmoji-syringe:before {
+  content: "\1F489"
+}
+.icon-FirefoxEmoji-pill:before {
+  content: "\1F48A"
+}
+.icon-FirefoxEmoji-kissmark:before {
+  content: "\1F48B"
+}
+.icon-FirefoxEmoji-loveletter:before {
+  content: "\1F48C"
+}
+.icon-FirefoxEmoji-ring:before {
+  content: "\1F48D"
+}
+.icon-FirefoxEmoji-gem:before {
+  content: "\1F48E"
+}
+.icon-FirefoxEmoji-couplekiss:before {
+  content: "\1F48F"
+}
+.icon-FirefoxEmoji-bouquet:before {
+  content: "\1F490"
+}
+.icon-FirefoxEmoji-couple:before {
+  content: "\1F491"
+}
+.icon-FirefoxEmoji-wedding:before {
+  content: "\1F492"
+}
+.icon-FirefoxEmoji-beating__heart:before {
+  content: "\1F493"
+}
+.icon-FirefoxEmoji-brokenheart:before {
+  content: "\1F494"
+}
+.icon-FirefoxEmoji-2hearts:before {
+  content: "\1F495"
+}
+.icon-FirefoxEmoji-sparklingheart:before {
+  content: "\1F496"
+}
+.icon-FirefoxEmoji-growingheart:before {
+  content: "\1F497"
+}
+.icon-FirefoxEmoji-heartarrow:before {
+  content: "\1F498"
+}
+.icon-FirefoxEmoji-heartblue:before {
+  content: "\1F499"
+}
+.icon-FirefoxEmoji-heartgreen:before {
+  content: "\1F49A"
+}
+.icon-FirefoxEmoji-heartyellow:before {
+  content: "\1F49B"
+}
+.icon-FirefoxEmoji-heartpurple:before {
+  content: "\1F49C"
+}
+.icon-FirefoxEmoji-heartribbon:before {
+  content: "\1F49D"
+}
+.icon-FirefoxEmoji-revolvinghearts:before {
+  content: "\1F49E"
+}
+.icon-FirefoxEmoji-heartdecoration:before {
+  content: "\1F49F"
+}
+.icon-FirefoxEmoji-diamondshapewithdotinside:before {
+  content: "\1F4A0"
+}
+.icon-FirefoxEmoji-electriclightbulb:before {
+  content: "\1F4A1"
+}
+.icon-FirefoxEmoji-anger:before {
+  content: "\1F4A2"
+}
+.icon-FirefoxEmoji-bomb:before {
+  content: "\1F4A3"
+}
+.icon-FirefoxEmoji-zzz:before {
+  content: "\1F4A4"
+}
+.icon-FirefoxEmoji-collision:before {
+  content: "\1F4A5"
+}
+.icon-FirefoxEmoji-sweatsplash:before {
+  content: "\1F4A6"
+}
+.icon-FirefoxEmoji-droplet:before {
+  content: "\1F4A7"
+}
+.icon-FirefoxEmoji-dash:before {
+  content: "\1F4A8"
+}
+.icon-FirefoxEmoji-poo:before {
+  content: "\1F4A9"
+}
+.icon-FirefoxEmoji-flexbicep:before {
+  content: "\1F4AA"
+}
+.icon-FirefoxEmoji-dizzy:before {
+  content: "\1F4AB"
+}
+.icon-FirefoxEmoji-speechbubble:before {
+  content: "\1F4AC"
+}
+.icon-FirefoxEmoji-thoughtbaloon:before {
+  content: "\1F4AD"
+}
+.icon-FirefoxEmoji-whiteflower:before {
+  content: "\1F4AE"
+}
+.icon-FirefoxEmoji-hundredpointssymbol:before {
+  content: "\1F4AF"
+}
+.icon-FirefoxEmoji-moneybag:before {
+  content: "\1F4B0"
+}
+.icon-FirefoxEmoji-currencyexchange:before {
+  content: "\1F4B1"
+}
+.icon-FirefoxEmoji-heavydollarsign:before {
+  content: "\1F4B2"
+}
+.icon-FirefoxEmoji-creditcard:before {
+  content: "\1F4B3"
+}
+.icon-FirefoxEmoji-banknoteyen:before {
+  content: "\1F4B4"
+}
+.icon-FirefoxEmoji-banknotedollar:before {
+  content: "\1F4B5"
+}
+.icon-FirefoxEmoji-banknoteeuro:before {
+  content: "\1F4B6"
+}
+.icon-FirefoxEmoji-banknotepound:before {
+  content: "\1F4B7"
+}
+.icon-FirefoxEmoji-moneywithwings:before {
+  content: "\1F4B8"
+}
+.icon-FirefoxEmoji-chartupwardstrendyen:before {
+  content: "\1F4B9"
+}
+.icon-FirefoxEmoji-seat:before {
+  content: "\1F4BA"
+}
+.icon-FirefoxEmoji-personalcomputer:before {
+  content: "\1F4BB"
+}
+.icon-FirefoxEmoji-briefcase:before {
+  content: "\1F4BC"
+}
+.icon-FirefoxEmoji-minidisc:before {
+  content: "\1F4BD"
+}
+.icon-FirefoxEmoji-floppydisk2:before {
+  content: "\1F4BE"
+}
+.icon-FirefoxEmoji-opticaldisc:before {
+  content: "\1F4BF"
+}
+.icon-FirefoxEmoji-dvd:before {
+  content: "\1F4C0"
+}
+.icon-FirefoxEmoji-filefolder:before {
+  content: "\1F4C1"
+}
+.icon-FirefoxEmoji-openfilefolder:before {
+  content: "\1F4C2"
+}
+.icon-FirefoxEmoji-pagewithcurl:before {
+  content: "\1F4C3"
+}
+.icon-FirefoxEmoji-pagefacingup:before {
+  content: "\1F4C4"
+}
+.icon-FirefoxEmoji-calendar:before {
+  content: "\1F4C5"
+}
+.icon-FirefoxEmoji-tearoffcalendar:before {
+  content: "\1F4C6"
+}
+.icon-FirefoxEmoji-cardindex:before {
+  content: "\1F4C7"
+}
+.icon-FirefoxEmoji-chartupwardstrend:before {
+  content: "\1F4C8"
+}
+.icon-FirefoxEmoji-chartdownwardstrend:before {
+  content: "\1F4C9"
+}
+.icon-FirefoxEmoji-barchart:before {
+  content: "\1F4CA"
+}
+.icon-FirefoxEmoji-clipboard:before {
+  content: "\1F4CB"
+}
+.icon-FirefoxEmoji-pushpin:before {
+  content: "\1F4CC"
+}
+.icon-FirefoxEmoji-roundpushpin:before {
+  content: "\1F4CD"
+}
+.icon-FirefoxEmoji-paperclip:before {
+  content: "\1F4CE"
+}
+.icon-FirefoxEmoji-straightruler:before {
+  content: "\1F4CF"
+}
+.icon-FirefoxEmoji-triangularruler:before {
+  content: "\1F4D0"
+}
+.icon-FirefoxEmoji-bookmarktab:before {
+  content: "\1F4D1"
+}
+.icon-FirefoxEmoji-ledger:before {
+  content: "\1F4D2"
+}
+.icon-FirefoxEmoji-notebook:before {
+  content: "\1F4D3"
+}
+.icon-FirefoxEmoji-notebookdecorativecover:before {
+  content: "\1F4D4"
+}
+.icon-FirefoxEmoji-closedbook:before {
+  content: "\1F4D5"
+}
+.icon-FirefoxEmoji-openbook:before {
+  content: "\1F4D6"
+}
+.icon-FirefoxEmoji-greenbook:before {
+  content: "\1F4D7"
+}
+.icon-FirefoxEmoji-bluebook:before {
+  content: "\1F4D8"
+}
+.icon-FirefoxEmoji-orangebook:before {
+  content: "\1F4D9"
+}
+.icon-FirefoxEmoji-books:before {
+  content: "\1F4DA"
+}
+.icon-FirefoxEmoji-namebadge:before {
+  content: "\1F4DB"
+}
+.icon-FirefoxEmoji-scroll:before {
+  content: "\1F4DC"
+}
+.icon-FirefoxEmoji-memo:before {
+  content: "\1F4DD"
+}
+.icon-FirefoxEmoji-telephonereceiver2:before {
+  content: "\1F4DE"
+}
+.icon-FirefoxEmoji-pager:before {
+  content: "\1F4DF"
+}
+.icon-FirefoxEmoji-faxmachine:before {
+  content: "\1F4E0"
+}
+.icon-FirefoxEmoji-satelliteantenna:before {
+  content: "\1F4E1"
+}
+.icon-FirefoxEmoji-loudspeaker:before {
+  content: "\1F4E2"
+}
+.icon-FirefoxEmoji-megaphone:before {
+  content: "\1F4E3"
+}
+.icon-FirefoxEmoji-outbox:before {
+  content: "\1F4E4"
+}
+.icon-FirefoxEmoji-inboxtray:before {
+  content: "\1F4E5"
+}
+.icon-FirefoxEmoji-package:before {
+  content: "\1F4E6"
+}
+.icon-FirefoxEmoji-email:before {
+  content: "\1F4E7"
+}
+.icon-FirefoxEmoji-incomingenvelope:before {
+  content: "\1F4E8"
+}
+.icon-FirefoxEmoji-envelopedownarrowabove:before {
+  content: "\1F4E9"
+}
+.icon-FirefoxEmoji-closedmailboxloweredflag:before {
+  content: "\1F4EA"
+}
+.icon-FirefoxEmoji-closedmailboxraisedflag:before {
+  content: "\1F4EB"
+}
+.icon-FirefoxEmoji-openmailboxraisedflag:before {
+  content: "\1F4EC"
+}
+.icon-FirefoxEmoji-openmailboxloweredflag:before {
+  content: "\1F4ED"
+}
+.icon-FirefoxEmoji-postbox:before {
+  content: "\1F4EE"
+}
+.icon-FirefoxEmoji-postalhorn:before {
+  content: "\1F4EF"
+}
+.icon-FirefoxEmoji-newspaper:before {
+  content: "\1F4F0"
+}
+.icon-FirefoxEmoji-cellphone:before {
+  content: "\1F4F1"
+}
+.icon-FirefoxEmoji-phonerightarrowleft:before {
+  content: "\1F4F2"
+}
+.icon-FirefoxEmoji-vibrationmode:before {
+  content: "\1F4F3"
+}
+.icon-FirefoxEmoji-mobilephoneoff:before {
+  content: "\1F4F4"
+}
+.icon-FirefoxEmoji-nomobilephones:before {
+  content: "\1F4F5"
+}
+.icon-FirefoxEmoji-antennawithbars:before {
+  content: "\1F4F6"
+}
+.icon-FirefoxEmoji-camera:before {
+  content: "\1F4F7"
+}
+.icon-FirefoxEmoji-handheldvideocamera:before {
+  content: "\1F4F9"
+}
+.icon-FirefoxEmoji-television:before {
+  content: "\1F4FA"
+}
+.icon-FirefoxEmoji-radio:before {
+  content: "\1F4FB"
+}
+.icon-FirefoxEmoji-videocasette:before {
+  content: "\1F4FC"
+}
+.icon-FirefoxEmoji-twistedrightwardsarrows:before {
+  content: "\1F500"
+}
+.icon-FirefoxEmoji-clockwiserightwardsleftwardscirclearrows:before {
+  content: "\1F501"
+}
+.icon-FirefoxEmoji-clockwiserightwardsleftwardscirclearrowsone:before {
+  content: "\1F502"
+}
+.icon-FirefoxEmoji-clockwisedownupcircledarrows:before {
+  content: "\1F503"
+}
+.icon-FirefoxEmoji-anticlockwiseupwardsanddownwardsarrows:before {
+  content: "\1F504"
+}
+.icon-FirefoxEmoji-lowbrightness:before {
+  content: "\1F505"
+}
+.icon-FirefoxEmoji-highbrightness:before {
+  content: "\1F506"
+}
+.icon-FirefoxEmoji-speakercancellation:before {
+  content: "\1F507"
+}
+.icon-FirefoxEmoji-speaker:before {
+  content: "\1F508"
+}
+.icon-FirefoxEmoji-Speakeronesoundwave:before {
+  content: "\1F509"
+}
+.icon-FirefoxEmoji-speaker3soundwaves:before {
+  content: "\1F50A"
+}
+.icon-FirefoxEmoji-battery:before {
+  content: "\1F50B"
+}
+.icon-FirefoxEmoji-electricplug:before {
+  content: "\1F50C"
+}
+.icon-FirefoxEmoji-leftmagnifyingglass:before {
+  content: "\1F50D"
+}
+.icon-FirefoxEmoji-rightmagnifyingglass:before {
+  content: "\1F50E"
+}
+.icon-FirefoxEmoji-lockwithinkpen:before {
+  content: "\1F50F"
+}
+.icon-FirefoxEmoji-lockandkey:before {
+  content: "\1F510"
+}
+.icon-FirefoxEmoji-key:before {
+  content: "\1F511"
+}
+.icon-FirefoxEmoji-lock:before {
+  content: "\1F512"
+}
+.icon-FirefoxEmoji-openlock:before {
+  content: "\1F513"
+}
+.icon-FirefoxEmoji-BELL:before {
+  content: "\1F514"
+}
+.icon-FirefoxEmoji-bellcancellation:before {
+  content: "\1F515"
+}
+.icon-FirefoxEmoji-bookmark:before {
+  content: "\1F516"
+}
+.icon-FirefoxEmoji-linksymbol:before {
+  content: "\1F517"
+}
+.icon-FirefoxEmoji-radiobutton:before {
+  content: "\1F518"
+}
+.icon-FirefoxEmoji-backwithleftwardsarrow:before {
+  content: "\1F519"
+}
+.icon-FirefoxEmoji-endwithleftwardsarrow:before {
+  content: "\1F51A"
+}
+.icon-FirefoxEmoji-onarrowleftright:before {
+  content: "\1F51B"
+}
+.icon-FirefoxEmoji-soonwithrightarrow:before {
+  content: "\1F51C"
+}
+.icon-FirefoxEmoji-topwithupwardsarrow:before {
+  content: "\1F51D"
+}
+.icon-FirefoxEmoji-nooneunder18symbol:before {
+  content: "\1F51E"
+}
+.icon-FirefoxEmoji-ten:before {
+  content: "\1F51F"
+}
+.icon-FirefoxEmoji-inputsymbolforlatincapitalletters:before {
+  content: "\1F520"
+}
+.icon-FirefoxEmoji-inputsymbolforlatinsmallletters:before {
+  content: "\1F521"
+}
+.icon-FirefoxEmoji-inputsymbolfornumbers:before {
+  content: "\1F522"
+}
+.icon-FirefoxEmoji-inputsymbolforsymbols:before {
+  content: "\1F523"
+}
+.icon-FirefoxEmoji-inputsymbolforlatinletters:before {
+  content: "\1F524"
+}
+.icon-FirefoxEmoji-fire:before {
+  content: "\1F525"
+}
+.icon-FirefoxEmoji-electrictorch:before {
+  content: "\1F526"
+}
+.icon-FirefoxEmoji-wrench:before {
+  content: "\1F527"
+}
+.icon-FirefoxEmoji-hammer:before {
+  content: "\1F528"
+}
+.icon-FirefoxEmoji-nutandbolt:before {
+  content: "\1F529"
+}
+.icon-FirefoxEmoji-hocho:before {
+  content: "\1F52A"
+}
+.icon-FirefoxEmoji-pistol:before {
+  content: "\1F52B"
+}
+.icon-FirefoxEmoji-microscope:before {
+  content: "\1F52C"
+}
+.icon-FirefoxEmoji-telescope:before {
+  content: "\1F52D"
+}
+.icon-FirefoxEmoji-crystalball:before {
+  content: "\1F52E"
+}
+.icon-FirefoxEmoji-sixpointedstarwithdot:before {
+  content: "\1F52F"
+}
+.icon-FirefoxEmoji-japanesesymbolforbeginner:before {
+  content: "\1F530"
+}
+.icon-FirefoxEmoji-tridentemblem:before {
+  content: "\1F531"
+}
+.icon-FirefoxEmoji-blacksquarebutton:before {
+  content: "\1F532"
+}
+.icon-FirefoxEmoji-whitesquarebutton:before {
+  content: "\1F533"
+}
+.icon-FirefoxEmoji-largeredcircle:before {
+  content: "\1F534"
+}
+.icon-FirefoxEmoji-largebluecircle:before {
+  content: "\1F535"
+}
+.icon-FirefoxEmoji-largeorangediamond:before {
+  content: "\1F536"
+}
+.icon-FirefoxEmoji-largebluediamond:before {
+  content: "\1F537"
+}
+.icon-FirefoxEmoji-smallorangediamond:before {
+  content: "\1F538"
+}
+.icon-FirefoxEmoji-smallbluediamond:before {
+  content: "\1F539"
+}
+.icon-FirefoxEmoji-uppointingredtriangle:before {
+  content: "\1F53A"
+}
+.icon-FirefoxEmoji-downpointingredtriangle:before {
+  content: "\1F53B"
+}
+.icon-FirefoxEmoji-uppointingsmallredtrisngle:before {
+  content: "\1F53C"
+}
+.icon-FirefoxEmoji-downpointingsmallredtrisngle:before {
+  content: "\1F53D"
+}
+.icon-FirefoxEmoji-clock1oclock:before {
+  content: "\1F550"
+}
+.icon-FirefoxEmoji-clock2oclock:before {
+  content: "\1F551"
+}
+.icon-FirefoxEmoji-clock3oclock:before {
+  content: "\1F552"
+}
+.icon-FirefoxEmoji-clock4oclock:before {
+  content: "\1F553"
+}
+.icon-FirefoxEmoji-clock6oclock:before {
+  content: "\1F555"
+}
+.icon-FirefoxEmoji-clock7oclock:before {
+  content: "\1F556"
+}
+.icon-FirefoxEmoji-clock12oclock:before {
+  content: "\1F55B"
+}
+.icon-FirefoxEmoji-clock1thirty:before {
+  content: "\1F55C"
+}
+.icon-FirefoxEmoji-clock2thirty:before {
+  content: "\1F55D"
+}
+.icon-FirefoxEmoji-clock3thirty:before {
+  content: "\1F55E"
+}
+.icon-FirefoxEmoji-clock4thirty:before {
+  content: "\1F55F"
+}
+.icon-FirefoxEmoji-clock5thirty:before {
+  content: "\1F560"
+}
+.icon-FirefoxEmoji-clock6thirty:before {
+  content: "\1F561"
+}
+.icon-FirefoxEmoji-clock12thirty:before {
+  content: "\1F567"
+}
+.icon-FirefoxEmoji-telephonereceiver:before {
+  content: "\1F57B"
+}
+.icon-FirefoxEmoji-blacktouchtonetelephone:before {
+  content: "\1F57F"
+}
+.icon-FirefoxEmoji-floppydisk:before {
+  content: "\1F5AA"
+}
+.icon-FirefoxEmoji-mountfuji:before {
+  content: "\1F5FB"
+}
+.icon-FirefoxEmoji-toykotower:before {
+  content: "\1F5FC"
+}
+.icon-FirefoxEmoji-silhouetteohjapan:before {
+  content: "\1F5FE"
+}
+.icon-FirefoxEmoji-moyai:before {
+  content: "\1F5FF"
+}
+.icon-FirefoxEmoji-statueofliberty:before {
+  content: "\1F5FD"
+}
+.icon-FirefoxEmoji-grin:before {
+  content: "\1F600"
+}
+.icon-FirefoxEmoji-grineyes:before {
+  content: "\1F601"
+}
+.icon-FirefoxEmoji-grintears:before {
+  content: "\1F602"
+}
+.icon-FirefoxEmoji-grinwide:before {
+  content: "\1F603"
+}
+.icon-FirefoxEmoji-grinwideeyes:before {
+  content: "\1F604"
+}
+.icon-FirefoxEmoji-grinsweat:before {
+  content: "\1F605"
+}
+.icon-FirefoxEmoji-grinsquint:before {
+  content: "\1F606"
+}
+.icon-FirefoxEmoji-halo:before {
+  content: "\1F607"
+}
+.icon-FirefoxEmoji-devilhorns:before {
+  content: "\1F608"
+}
+.icon-FirefoxEmoji-winking:before {
+  content: "\1F609"
+}
+.icon-FirefoxEmoji-smileeyes:before {
+  content: "\1F60A"
+}
+.icon-FirefoxEmoji-smiletongue:before {
+  content: "\1F60B"
+}
+.icon-FirefoxEmoji-relieved:before {
+  content: "\1F60C"
+}
+.icon-FirefoxEmoji-hearteyes:before {
+  content: "\1F60D"
+}
+.icon-FirefoxEmoji-sunglasses:before {
+  content: "\1F60E"
+}
+.icon-FirefoxEmoji-smirk:before {
+  content: "\1F60F"
+}
+.icon-FirefoxEmoji-neutral:before {
+  content: "\1F610"
+}
+.icon-FirefoxEmoji-expressionless:before {
+  content: "\1F611"
+}
+.icon-FirefoxEmoji-unamused:before {
+  content: "\1F612"
+}
+.icon-FirefoxEmoji-sweat:before {
+  content: "\1F613"
+}
+.icon-FirefoxEmoji-pensive:before {
+  content: "\1F614"
+}
+.icon-FirefoxEmoji-confused:before {
+  content: "\1F615"
+}
+.icon-FirefoxEmoji-confounded:before {
+  content: "\1F616"
+}
+.icon-FirefoxEmoji-kiss:before {
+  content: "\1F617"
+}
+.icon-FirefoxEmoji-kissing:before {
+  content: "\1F618"
+}
+.icon-FirefoxEmoji-kisseyes:before {
+  content: "\1F619"
+}
+.icon-FirefoxEmoji-kissclosedeyes:before {
+  content: "\1F61A"
+}
+.icon-FirefoxEmoji-tongueout:before {
+  content: "\1F61B"
+}
+.icon-FirefoxEmoji-tongueoutwink:before {
+  content: "\1F61C"
+}
+.icon-FirefoxEmoji-tongueoutwink2:before {
+  content: "\1F61D"
+}
+.icon-FirefoxEmoji-disappointed:before {
+  content: "\1F61E"
+}
+.icon-FirefoxEmoji-worried:before {
+  content: "\1F61F"
+}
+.icon-FirefoxEmoji-angry:before {
+  content: "\1F620"
+}
+.icon-FirefoxEmoji-pouting:before {
+  content: "\1F621"
+}
+.icon-FirefoxEmoji-crying:before {
+  content: "\1F622"
+}
+.icon-FirefoxEmoji-perservere:before {
+  content: "\1F623"
+}
+.icon-FirefoxEmoji-triumph:before {
+  content: "\1F624"
+}
+.icon-FirefoxEmoji-dissapointedrelief:before {
+  content: "\1F625"
+}
+.icon-FirefoxEmoji-frownmouth:before {
+  content: "\1F626"
+}
+.icon-FirefoxEmoji-anguish:before {
+  content: "\1F627"
+}
+.icon-FirefoxEmoji-fearful:before {
+  content: "\1F628"
+}
+.icon-FirefoxEmoji-weary:before {
+  content: "\1F629"
+}
+.icon-FirefoxEmoji-sleepy:before {
+  content: "\1F62A"
+}
+.icon-FirefoxEmoji-tired:before {
+  content: "\1F62B"
+}
+.icon-FirefoxEmoji-grimacing:before {
+  content: "\1F62C"
+}
+.icon-FirefoxEmoji-loudlycrying:before {
+  content: "\1F62D"
+}
+.icon-FirefoxEmoji-openmouth:before {
+  content: "\1F62E"
+}
+.icon-FirefoxEmoji-hushed:before {
+  content: "\1F62F"
+}
+.icon-FirefoxEmoji-coldsweat:before {
+  content: "\1F630"
+}
+.icon-FirefoxEmoji-screamfear:before {
+  content: "\1F631"
+}
+.icon-FirefoxEmoji-astonished:before {
+  content: "\1F632"
+}
+.icon-FirefoxEmoji-flushed:before {
+  content: "\1F633"
+}
+.icon-FirefoxEmoji-sleeping:before {
+  content: "\1F634"
+}
+.icon-FirefoxEmoji-dizzyface:before {
+  content: "\1F635"
+}
+.icon-FirefoxEmoji-nomouth:before {
+  content: "\1F636"
+}
+.icon-FirefoxEmoji-medicalmask:before {
+  content: "\1F637"
+}
+.icon-FirefoxEmoji-foxgrin:before {
+  content: "\1F638"
+}
+.icon-FirefoxEmoji-foxtearofjoy:before {
+  content: "\1F639"
+}
+.icon-FirefoxEmoji-foxsmiling:before {
+  content: "\1F63A"
+}
+.icon-FirefoxEmoji-foxheart:before {
+  content: "\1F63B"
+}
+.icon-FirefoxEmoji-foxwry:before {
+  content: "\1F63C"
+}
+.icon-FirefoxEmoji-foxkissing:before {
+  content: "\1F63D"
+}
+.icon-FirefoxEmoji-foxpouting:before {
+  content: "\1F63E"
+}
+.icon-FirefoxEmoji-foxcrying:before {
+  content: "\1F63F"
+}
+.icon-FirefoxEmoji-foxweary:before {
+  content: "\1F640"
+}
+.icon-FirefoxEmoji-smallfrown:before {
+  content: "\1F641"
+}
+.icon-FirefoxEmoji-smallsmile:before {
+  content: "\1F642"
+}
+.icon-FirefoxEmoji-nogesture:before {
+  content: "\1F645"
+}
+.icon-FirefoxEmoji-okgesture:before {
+  content: "\1F646"
+}
+.icon-FirefoxEmoji-bowing:before {
+  content: "\1F647"
+}
+.icon-FirefoxEmoji-monkeysee:before {
+  content: "\1F648"
+}
+.icon-FirefoxEmoji-monkeyhear:before {
+  content: "\1F649"
+}
+.icon-FirefoxEmoji-monkeyspeak:before {
+  content: "\1F64A"
+}
+.icon-FirefoxEmoji-handup:before {
+  content: "\1F64B"
+}
+.icon-FirefoxEmoji-high5:before {
+  content: "\1F64C"
+}
+.icon-FirefoxEmoji-frown:before {
+  content: "\1F64D"
+}
+.icon-FirefoxEmoji-pout:before {
+  content: "\1F64E"
+}
+.icon-FirefoxEmoji-pray:before {
+  content: "\1F64F"
+}
+.icon-FirefoxEmoji-rocket:before {
+  content: "\1F680"
+}
+.icon-FirefoxEmoji-helicopter:before {
+  content: "\1F681"
+}
+.icon-FirefoxEmoji-steamlocomotive:before {
+  content: "\1F682"
+}
+.icon-FirefoxEmoji-railwaycar:before {
+  content: "\1F683"
+}
+.icon-FirefoxEmoji-highspeedtrain:before {
+  content: "\1F684"
+}
+.icon-FirefoxEmoji-highspeedtrainbulletnose:before {
+  content: "\1F685"
+}
+.icon-FirefoxEmoji-train:before {
+  content: "\1F686"
+}
+.icon-FirefoxEmoji-metro:before {
+  content: "\1F687"
+}
+.icon-FirefoxEmoji-lightrail:before {
+  content: "\1F688"
+}
+.icon-FirefoxEmoji-station:before {
+  content: "\1F689"
+}
+.icon-FirefoxEmoji-tram:before {
+  content: "\1F68A"
+}
+.icon-FirefoxEmoji-tramcar:before {
+  content: "\1F68B"
+}
+.icon-FirefoxEmoji-bus:before {
+  content: "\1F68C"
+}
+.icon-FirefoxEmoji-oncomingbus:before {
+  content: "\1F68D"
+}
+.icon-FirefoxEmoji-trolleybus:before {
+  content: "\1F68E"
+}
+.icon-FirefoxEmoji-busstop:before {
+  content: "\1F68F"
+}
+.icon-FirefoxEmoji-minibus:before {
+  content: "\1F690"
+}
+.icon-FirefoxEmoji-ambulance:before {
+  content: "\1F691"
+}
+.icon-FirefoxEmoji-fireengine:before {
+  content: "\1F692"
+}
+.icon-FirefoxEmoji-policecar:before {
+  content: "\1F693"
+}
+.icon-FirefoxEmoji-oncomingpolicecar:before {
+  content: "\1F694"
+}
+.icon-FirefoxEmoji-taxi:before {
+  content: "\1F695"
+}
+.icon-FirefoxEmoji-oncomingtaxi:before {
+  content: "\1F696"
+}
+.icon-FirefoxEmoji-automobile:before {
+  content: "\1F697"
+}
+.icon-FirefoxEmoji-oncomingautomobile:before {
+  content: "\1F698"
+}
+.icon-FirefoxEmoji-recreationalvehicle:before {
+  content: "\1F699"
+}
+.icon-FirefoxEmoji-deliverytruck:before {
+  content: "\1F69A"
+}
+.icon-FirefoxEmoji-articulatedlorry:before {
+  content: "\1F69B"
+}
+.icon-FirefoxEmoji-tractor:before {
+  content: "\1F69C"
+}
+.icon-FirefoxEmoji-monorail:before {
+  content: "\1F69D"
+}
+.icon-FirefoxEmoji-mountainrailway:before {
+  content: "\1F69E"
+}
+.icon-FirefoxEmoji-suspensionrailway:before {
+  content: "\1F69F"
+}
+.icon-FirefoxEmoji-mountaincableway:before {
+  content: "\1F6A0"
+}
+.icon-FirefoxEmoji-aerialtramway:before {
+  content: "\1F6A1"
+}
+.icon-FirefoxEmoji-ship:before {
+  content: "\1F6A2"
+}
+.icon-FirefoxEmoji-rowboat:before {
+  content: "\1F6A3"
+}
+.icon-FirefoxEmoji-speedboat:before {
+  content: "\1F6A4"
+}
+.icon-FirefoxEmoji-horizontaltrafficlight:before {
+  content: "\1F6A5"
+}
+.icon-FirefoxEmoji-verticaltrafficlight:before {
+  content: "\1F6A6"
+}
+.icon-FirefoxEmoji-constructionsign:before {
+  content: "\1F6A7"
+}
+.icon-FirefoxEmoji-policecarsrevolvinglight:before {
+  content: "\1F6A8"
+}
+.icon-FirefoxEmoji-triangularflagonpost:before {
+  content: "\1F6A9"
+}
+.icon-FirefoxEmoji-door:before {
+  content: "\1F6AA"
+}
+.icon-FirefoxEmoji-noentrysign:before {
+  content: "\1F6AB"
+}
+.icon-FirefoxEmoji-smokingsymbol:before {
+  content: "\1F6AC"
+}
+.icon-FirefoxEmoji-nosmokingsymbol:before {
+  content: "\1F6AD"
+}
+.icon-FirefoxEmoji-putlitterinitsplacesymbol:before {
+  content: "\1F6AE"
+}
+.icon-FirefoxEmoji-donotlittersymbol:before {
+  content: "\1F6AF"
+}
+.icon-FirefoxEmoji-potablewatersystem:before {
+  content: "\1F6B0"
+}
+.icon-FirefoxEmoji-nonpotablewatersymbol:before {
+  content: "\1F6B1"
+}
+.icon-FirefoxEmoji-bicycle:before {
+  content: "\1F6B2"
+}
+.icon-FirefoxEmoji-nobicycles:before {
+  content: "\1F6B3"
+}
+.icon-FirefoxEmoji-bicyclist:before {
+  content: "\1F6B4"
+}
+.icon-FirefoxEmoji-walking:before {
+  content: "\1F6B6"
+}
+.icon-FirefoxEmoji-nopedestrians:before {
+  content: "\1F6B7"
+}
+.icon-FirefoxEmoji-childrencrossing:before {
+  content: "\1F6B8"
+}
+.icon-FirefoxEmoji-menssymbol:before {
+  content: "\1F6B9"
+}
+.icon-FirefoxEmoji-womenssymbol:before {
+  content: "\1F6BA"
+}
+.icon-FirefoxEmoji-restroom:before {
+  content: "\1F6BB"
+}
+.icon-FirefoxEmoji-babysymbol:before {
+  content: "\1F6BC"
+}
+.icon-FirefoxEmoji-toilet:before {
+  content: "\1F6BD"
+}
+.icon-FirefoxEmoji-watercloset:before {
+  content: "\1F6BE"
+}
+.icon-FirefoxEmoji-shower:before {
+  content: "\1F6BF"
+}
+.icon-FirefoxEmoji-bath:before {
+  content: "\1F6C0"
+}
+.icon-FirefoxEmoji-bathtub:before {
+  content: "\1F6C1"
+}
+.icon-FirefoxEmoji-passportcontrol:before {
+  content: "\1F6C2"
+}
+.icon-FirefoxEmoji-customs:before {
+  content: "\1F6C3"
+}
+.icon-FirefoxEmoji-baggageclaim:before {
+  content: "\1F6C4"
+}
+.icon-FirefoxEmoji-leftluggage:before {
+  content: "\1F6C5"
+}
+.icon-FirefoxEmoji-doubleexclaimationmark:before {
+  content: "\203C"
+}
+.icon-FirefoxEmoji-exclaimationquestionmark:before {
+  content: "\2049"
+}
+.icon-FirefoxEmoji-trademarksign:before {
+  content: "\2122"
+}
+.icon-FirefoxEmoji-informationsource:before {
+  content: "\2139"
+}
+.icon-FirefoxEmoji-leftrightarrow:before {
+  content: "\2194"
+}
+.icon-FirefoxEmoji-updownarrow:before {
+  content: "\2195"
+}
+.icon-FirefoxEmoji-northwestarrow:before {
+  content: "\2196"
+}
+.icon-FirefoxEmoji-northeastarrow:before {
+  content: "\2197"
+}
+.icon-FirefoxEmoji-southeastarrow:before {
+  content: "\2198"
+}
+.icon-FirefoxEmoji-leftwardsarrowwithhook:before {
+  content: "\21A9"
+}
+.icon-FirefoxEmoji-rightwardsarrowwithhook:before {
+  content: "\21AA"
+}
+.icon-FirefoxEmoji-watch:before {
+  content: "\231A"
+}
+.icon-FirefoxEmoji-hourglass:before {
+  content: "\231B"
+}
+.icon-FirefoxEmoji-blackrightpointingdoublearrow:before {
+  content: "\23E9"
+}
+.icon-FirefoxEmoji-blackleftpointingdoublearrow:before {
+  content: "\23EA"
+}
+.icon-FirefoxEmoji-blackuppointingdoublearrow:before {
+  content: "\23EB"
+}
+.icon-FirefoxEmoji-blackdownpointingdoublearrow:before {
+  content: "\23EC"
+}
+.icon-FirefoxEmoji-alarmclock:before {
+  content: "\23F0"
+}
+.icon-FirefoxEmoji-hourglassflowingsand:before {
+  content: "\23F3"
+}
+.icon-FirefoxEmoji-circledlatincapitalletterM:before {
+  content: "\24C2"
+}
+.icon-FirefoxEmoji-blacksmallsquare:before {
+  content: "\25AA"
+}
+.icon-FirefoxEmoji-whitesmallsquare:before {
+  content: "\25AB"
+}
+.icon-FirefoxEmoji-blackrightpointingarrow:before {
+  content: "\25B6"
+}
+.icon-FirefoxEmoji-blackleftpointingarrow:before {
+  content: "\25C0"
+}
+.icon-FirefoxEmoji-whitemediumsquare:before {
+  content: "\25FB"
+}
+.icon-FirefoxEmoji-blackmediumsquare:before {
+  content: "\25FC"
+}
+.icon-FirefoxEmoji-whitemediumsmallsquare:before {
+  content: "\25FD"
+}
+.icon-FirefoxEmoji-blackmediumsmallsquare:before {
+  content: "\25FE"
+}
+.icon-FirefoxEmoji-sunrays:before {
+  content: "\2600"
+}
+.icon-FirefoxEmoji-cloud:before {
+  content: "\2601"
+}
+.icon-FirefoxEmoji-whitestar:before {
+  content: "\2606"
+}
+.icon-FirefoxEmoji-blacktelephone:before {
+  content: "\260E"
+}
+.icon-FirefoxEmoji-ballotboxwithcheck:before {
+  content: "\2611"
+}
+.icon-FirefoxEmoji-umbrellawithraindrops:before {
+  content: "\2614"
+}
+.icon-FirefoxEmoji-hotbeverage:before {
+  content: "\2615"
+}
+.icon-FirefoxEmoji-whitesmilingface:before {
+  content: "\263A"
+}
+.icon-FirefoxEmoji-blackmissingsmiley:before {
+  content: "\263B"
+}
+.icon-FirefoxEmoji-aries:before {
+  content: "\2648"
+}
+.icon-FirefoxEmoji-taurus:before {
+  content: "\2649"
+}
+.icon-FirefoxEmoji-gemini:before {
+  content: "\264A"
+}
+.icon-FirefoxEmoji-cancer:before {
+  content: "\264B"
+}
+.icon-FirefoxEmoji-leo:before {
+  content: "\264C"
+}
+.icon-FirefoxEmoji-virgo:before {
+  content: "\264D"
+}
+.icon-FirefoxEmoji-libra:before {
+  content: "\264E"
+}
+.icon-FirefoxEmoji-scorpius:before {
+  content: "\264F"
+}
+.icon-FirefoxEmoji-saggitarius:before {
+  content: "\2650"
+}
+.icon-FirefoxEmoji-capricorn:before {
+  content: "\2651"
+}
+.icon-FirefoxEmoji-aquarius:before {
+  content: "\2652"
+}
+.icon-FirefoxEmoji-pisces:before {
+  content: "\2653"
+}
+.icon-FirefoxEmoji-blackspadesuit:before {
+  content: "\2660"
+}
+.icon-FirefoxEmoji-blackclubsuit:before {
+  content: "\2663"
+}
+.icon-FirefoxEmoji-blackheartsuit:before {
+  content: "\2665"
+}
+.icon-FirefoxEmoji-blackdiamondsuit:before {
+  content: "\2666"
+}
+.icon-FirefoxEmoji-hotsprings:before {
+  content: "\2668"
+}
+.icon-FirefoxEmoji-blackuniversalrecyclingsymbol:before {
+  content: "\267B"
+}
+.icon-FirefoxEmoji-wheelchairsymbol:before {
+  content: "\267F"
+}
+.icon-FirefoxEmoji-anchor:before {
+  content: "\2693"
+}
+.icon-FirefoxEmoji-warningsign:before {
+  content: "\26A0"
+}
+.icon-FirefoxEmoji-bolt:before {
+  content: "\26A1"
+}
+.icon-FirefoxEmoji-mediumwhitecircle:before {
+  content: "\26AA"
+}
+.icon-FirefoxEmoji-mediumblackcircle:before {
+  content: "\26AB"
+}
+.icon-FirefoxEmoji-soccerball:before {
+  content: "\26BD"
+}
+.icon-FirefoxEmoji-baseball:before {
+  content: "\26BE"
+}
+.icon-FirefoxEmoji-snowmannosnow:before {
+  content: "\26C4"
+}
+.icon-FirefoxEmoji-sunbehindcloud:before {
+  content: "\26C5"
+}
+.icon-FirefoxEmoji-ophiuchus:before {
+  content: "\26CE"
+}
+.icon-FirefoxEmoji-noentry:before {
+  content: "\26D4"
+}
+.icon-FirefoxEmoji-church:before {
+  content: "\26EA"
+}
+.icon-FirefoxEmoji-fountain:before {
+  content: "\26F2"
+}
+.icon-FirefoxEmoji-flaginhole:before {
+  content: "\26F3"
+}
+.icon-FirefoxEmoji-sailboat:before {
+  content: "\26F5"
+}
+.icon-FirefoxEmoji-tent:before {
+  content: "\26FA"
+}
+.icon-FirefoxEmoji-fuelpump:before {
+  content: "\26FD"
+}
+.icon-FirefoxEmoji-blackscissors:before {
+  content: "\2702"
+}
+.icon-FirefoxEmoji-whiteheavycheckmark:before {
+  content: "\2705"
+}
+.icon-FirefoxEmoji-airplane:before {
+  content: "\2708"
+}
+.icon-FirefoxEmoji-envelope:before {
+  content: "\2709"
+}
+.icon-FirefoxEmoji-hand:before {
+  content: "\270B"
+}
+.icon-FirefoxEmoji-victoryhand:before {
+  content: "\270C"
+}
+.icon-FirefoxEmoji-pencil:before {
+  content: "\270F"
+}
+.icon-FirefoxEmoji-blacknib:before {
+  content: "\2712"
+}
+.icon-FirefoxEmoji-heavycheckmark:before {
+  content: "\2714"
+}
+.icon-FirefoxEmoji-heavymultiplicationsymbol:before {
+  content: "\2716"
+}
+.icon-FirefoxEmoji-sparkles:before {
+  content: "\2728"
+}
+.icon-FirefoxEmoji-eightspokedasterix:before {
+  content: "\2733"
+}
+.icon-FirefoxEmoji-eightpointedblackstar:before {
+  content: "\2734"
+}
+.icon-FirefoxEmoji-snowflake:before {
+  content: "\2744"
+}
+.icon-FirefoxEmoji-sparkle:before {
+  content: "\2748"
+}
+.icon-FirefoxEmoji-crossmark:before {
+  content: "\274C"
+}
+.icon-FirefoxEmoji-negativesquaredcrossmark:before {
+  content: "\274E"
+}
+.icon-FirefoxEmoji-blackquestionmark:before {
+  content: "\2753"
+}
+.icon-FirefoxEmoji-whitequestionmark:before {
+  content: "\2754"
+}
+.icon-FirefoxEmoji-whiteexclaimationmark:before {
+  content: "\2755"
+}
+.icon-FirefoxEmoji-heavyexclaimationmarksymbol:before {
+  content: "\2757"
+}
+.icon-FirefoxEmoji-redheart:before {
+  content: "\2764"
+}
+.icon-FirefoxEmoji-heavyplussign:before {
+  content: "\2795"
+}
+.icon-FirefoxEmoji-heavyminussign:before {
+  content: "\2796"
+}
+.icon-FirefoxEmoji-heavydivisionsign:before {
+  content: "\2797"
+}
+.icon-FirefoxEmoji-blackrightwardsarrow:before {
+  content: "\27A1"
+}
+.icon-FirefoxEmoji-curlyloop:before {
+  content: "\27B0"
+}
+.icon-FirefoxEmoji-doublecurlyloop:before {
+  content: "\27BF"
+}
+.icon-FirefoxEmoji-arrowrightwardsupwards:before {
+  content: "\2934"
+}
+.icon-FirefoxEmoji-arrowrightwardsdownwards:before {
+  content: "\2935"
+}
+.icon-FirefoxEmoji-leftwardsblackarrow:before {
+  content: "\2B05"
+}
+.icon-FirefoxEmoji-blacklargesquare:before {
+  content: "\2B1B"
+}
+.icon-FirefoxEmoji-whitelargesquare:before {
+  content: "\2B1C"
+}
+.icon-FirefoxEmoji-whitemediumstar:before {
+  content: "\2B50"
+}
+.icon-FirefoxEmoji-heavylargecircle:before {
+  content: "\2B55"
+}
+.icon-FirefoxEmoji-wavydash:before {
+  content: "\3030"
+}
+.icon-FirefoxEmoji-partalternationmark:before {
+  content: "\303D"
+}
+.icon-FirefoxEmoji-circledideographcongratulation:before {
+  content: "\3297"
+}
+.icon-FirefoxEmoji-circledideographsecret:before {
+  content: "\3299"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_k1:before {
+  content: "\5272"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_e1:before {
+  content: "\5408"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_b1:before {
+  content: "\55B6"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_a1:before {
+  content: "\6307"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_h1:before {
+  content: "\6708"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_g1:before {
+  content: "\6709"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_f1:before {
+  content: "\6E80"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_i1:before {
+  content: "\7121"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_j1:before {
+  content: "\7533"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph_c1:before {
+  content: "\7981"
+}
+.icon-FirefoxEmoji-CJKunifiedideograph2_d1:before {
+  content: "\7A7A"
+}
+.icon-FirefoxEmoji-speaker1soundwave:before {
+  content: "\F509"
+}

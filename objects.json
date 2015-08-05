@@ -1562,6 +1562,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u260E",
+        "name": "blacktelephone"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u260E.layer1",
+          "order": 1
+        },
+        {
+          "color": "5A5D5E",
+          "name": "u260E.layer2",
+          "order": 2
+        },
+        {
+          "color": "F4F9F9",
+          "name": "u260E.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F351",
         "name": "peach"
       },
@@ -1740,6 +1765,31 @@
           "color": "FCDEA2",
           "name": "u1F35.layer2",
           "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F509",
+        "name": "Speakeronesoundwave"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F509.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F509.layer3",
+          "order": 3
+        },
+        {
+          "color": "7D9DAF",
+          "name": "u1F509.layer4",
+          "order": 4
         }
       ]
     }
@@ -2608,7 +2658,7 @@
     "icon": {
       "glyph": {
         "code": "u1F57F",
-        "name": "blacktelephone"
+        "name": "blacktouchtonetelephone"
       },
       "layers": [
         {
@@ -2820,6 +2870,41 @@
           "color": "96A9B2",
           "name": "u270F.layer6",
           "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4A1",
+        "name": "electriclightbulb"
+      },
+      "layers": [
+        {
+          "color": "B6C7CE",
+          "name": "u1F4A1.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F4A1.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F4A1.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F4A1.layer4",
+          "order": 4
+        },
+        {
+          "color": "B6C7CE",
+          "name": "u1F4A1.layer5",
+          "order": 5
         }
       ]
     }
@@ -3284,41 +3369,6 @@
         {
           "color": "FF473E",
           "name": "u26F3.layer5",
-          "order": 5
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "uF4A1",
-        "name": "lightbulb"
-      },
-      "layers": [
-        {
-          "color": "B6C7CE",
-          "name": "uF4A1.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFD469",
-          "name": "uF4A1.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFB636",
-          "name": "uF4A1.layer3",
-          "order": 3
-        },
-        {
-          "color": "597B91",
-          "name": "uF4A1.layer4",
-          "order": 4
-        },
-        {
-          "color": "B6C7CE",
-          "name": "uF4A1.layer5",
           "order": 5
         }
       ]
@@ -4852,6 +4902,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4BE",
+        "name": "floppydisk2"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F4BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F4BE.layer3",
+          "order": 3
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F4BE.layer4",
+          "order": 4
+        },
+        {
+          "color": "132028",
+          "name": "u1F4BE.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BF",
         "name": "opticaldisc"
       },
@@ -5615,6 +5700,36 @@
           "color": "FFAF8F",
           "name": "u1F379.layer9",
           "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u23F3",
+        "name": "hourglassflowingsand"
+      },
+      "layers": [
+        {
+          "color": "F9E7C0",
+          "name": "u23F3.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u23F3.layer2",
+          "order": 2
+        },
+        {
+          "color": "68442A",
+          "name": "u23F3.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u23F3.layer4",
+          "order": 4
         }
       ]
     }
@@ -7670,6 +7785,21 @@
           "color": "96A9B2",
           "name": "u1F4DD.layer8",
           "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4DE",
+        "name": "telephonereceiver2"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u1F4DE.layer1",
+          "order": 1
         }
       ]
     }

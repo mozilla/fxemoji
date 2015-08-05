@@ -4087,6 +4087,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u23F0",
+        "name": "alarmclock"
+      },
+      "layers": [
+        {
+          "color": "6B8DA1",
+          "name": "u23F0.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u23F0.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u23F0.layer3",
+          "order": 3
+        },
+        {
+          "color": "FB5046",
+          "name": "u23F0.layer4",
+          "order": 4
+        },
+        {
+          "color": "F9F9F8",
+          "name": "u23F0.layer5",
+          "order": 5
+        },
+        {
+          "color": "6B8DA1",
+          "name": "u23F0.layer6",
+          "order": 6
+        },
+        {
+          "color": "6B8DA1",
+          "name": "u23F0.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u6709",
         "name": "CJKunifiedideograph_g1"
       },

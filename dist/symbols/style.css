@@ -423,6 +423,9 @@
 .icon-symbols-blackdownpointingdoublearrow:before {
   content: "\23EC"
 }
+.icon-symbols-alarmclock:before {
+  content: "\23F0"
+}
 .icon-symbols-circledlatincapitalletterM:before {
   content: "\24C2"
 }
