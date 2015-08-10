@@ -16,7 +16,8 @@ gulp.task('default', function() {
   gulp.src([sourceDir + '/*.svg'])
     .pipe(iconfont({
       fontName: fontName,
-      normalize: true
+      normalize: true,
+      descent: 75
     }))
     .on('codepoints', function(codepoints) {
       var options = {

@@ -153,14 +153,14 @@
 .icon-places-toykotower:before {
   content: "\1F5FC"
 }
+.icon-places-statueofliberty:before {
+  content: "\1F5FD"
+}
 .icon-places-silhouetteohjapan:before {
   content: "\1F5FE"
 }
 .icon-places-moyai:before {
   content: "\1F5FF"
-}
-.icon-places-statueofliberty:before {
-  content: "\1F5FD"
 }
 .icon-places-rocket:before {
   content: "\1F680"

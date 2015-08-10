@@ -4378,11 +4378,6 @@
       "layers": [
         {
           "color": "2B3B47",
-          "name": "u1F6AF.layer0",
-          "order": 0
-        },
-        {
-          "color": "2B3B47",
           "name": "u1F6AF.layer1",
           "order": 1
         },
@@ -4390,11 +4385,6 @@
           "color": "FF473E",
           "name": "u1F6AF.layer2",
           "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F6AF.layer3",
-          "order": 3
         }
       ]
     }

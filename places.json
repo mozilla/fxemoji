@@ -1502,12 +1502,12 @@
           "order": 1
         },
         {
-          "color": "FF473E",
+          "color": "F9F9F7",
           "name": "u1F5FC.layer2",
           "order": 2
         },
         {
-          "color": "F9F9F7",
+          "color": "FF473E",
           "name": "u1F5FC.layer3",
           "order": 3
         },
@@ -1560,6 +1560,36 @@
           "color": "34A010",
           "name": "u1F5FE.layer2",
           "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F5FD",
+        "name": "statueofliberty"
+      },
+      "layers": [
+        {
+          "color": "76DFFF",
+          "name": "u1F5FD.layer1",
+          "order": 1
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5FD.layer2",
+          "order": 2
+        },
+        {
+          "color": "49D1C6",
+          "name": "u1F5FD.layer3",
+          "order": 3
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5FD.layer4",
+          "order": 4
         }
       ]
     }
@@ -1925,36 +1955,6 @@
           "color": "597B91",
           "name": "u1F69D.layer10",
           "order": 10
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F5Fd",
-        "name": "statueofliberty"
-      },
-      "layers": [
-        {
-          "color": "76DFFF",
-          "name": "u1F5Fd.layer1",
-          "order": 1
-        },
-        {
-          "color": "10867C",
-          "name": "u1F5Fd.layer2",
-          "order": 2
-        },
-        {
-          "color": "49D1C6",
-          "name": "u1F5Fd.layer3",
-          "order": 3
-        },
-        {
-          "color": "10867C",
-          "name": "u1F5Fd.layer4",
-          "order": 4
         }
       ]
     }

@@ -576,6 +576,9 @@
 .icon-people-walking:before {
   content: "\1F6B6"
 }
+.icon-people-whitesmilingface:before {
+  content: "\263A"
+}
 .icon-people-blackmissingsmiley:before {
   content: "\263B"
 }
