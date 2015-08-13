@@ -1737,14 +1737,14 @@
 .icon-FirefoxEmoji-toykotower:before {
   content: "\1F5FC"
 }
-.icon-FirefoxEmoji-statueofliberty:before {
-  content: "\1F5FD"
-}
 .icon-FirefoxEmoji-silhouetteohjapan:before {
   content: "\1F5FE"
 }
 .icon-FirefoxEmoji-moyai:before {
   content: "\1F5FF"
+}
+.icon-FirefoxEmoji-statueofliberty:before {
+  content: "\1F5FD"
 }
 .icon-FirefoxEmoji-grin:before {
   content: "\1F600"

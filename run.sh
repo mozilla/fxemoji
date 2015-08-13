@@ -41,6 +41,13 @@ generate_font() {
   #move final font to 'dist' folder
   mv tmp/${font_name}/${font_name}-colr.ttf dist/${font_name}/${font_name}.ttf
 
+  if [[  ${font_name} == 'FirefoxEmoji' ]]
+    then
+    mv dist/${font_name}/${font_name}.ttf dist/${font_name}/${font_name}-tmp.ttf
+    ttx -o dist/${font_name}/${font_name}.ttf -m dist/${font_name}/${font_name}-tmp.ttf templates/name.ttx
+    rm dist/${font_name}/${font_name}-tmp.ttf
+  fi
+
   clean "tmp"
 }
 

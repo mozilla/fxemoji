@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.5">
+  <name>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.0
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0"></namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0"></namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.0
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Firefox Emoji
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409"></namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409"></namerecord>
+  </name>
+</ttFont>
