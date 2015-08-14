@@ -17,6 +17,7 @@ generate_font() {
   #Dumping 'cmap' table
   ttx -o tmp/${font_name}/${font_name}.ttx -t cmap tmp/${font_name}/${font_name}.ttf
 
+
   # Remove Glyphs from 'cmap' table
   for file in `find ${svgs_dir}/${font_name}/ -name "*.svg"`
     do
@@ -30,10 +31,12 @@ generate_font() {
       fi
   done
 
+
   #Merge 'cmap' table back to font
   ttx -o tmp/${font_name}/${font_name}-cmap.ttf -m tmp/${font_name}/${font_name}.ttf tmp/${font_name}/${font_name}.ttx
 
   python generate_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx
+
 
   #Merge 'COLR' table to font
   ttx -o tmp/${font_name}/${font_name}-colr.ttf -m tmp/${font_name}/${font_name}-cmap.ttf tmp/${font_name}/${font_name}-colr.ttx
