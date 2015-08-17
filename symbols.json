@@ -2230,11 +2230,6 @@
           "color": "FFFFFF",
           "name": "u1F236.layer3",
           "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F236.layer4",
-          "order": 4
         }
       ]
     }
@@ -4150,11 +4145,6 @@
           "color": "FFFFFF",
           "name": "u6709.layer3",
           "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u6709.layer4",
-          "order": 4
         }
       ]
     }
