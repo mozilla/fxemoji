@@ -15007,6 +15007,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5FD",
+        "name": "statueofliberty"
+      },
+      "layers": [
+        {
+          "color": "76DFFF",
+          "name": "u1F5FD.layer1",
+          "order": 1
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5FD.layer2",
+          "order": 2
+        },
+        {
+          "color": "49D1C6",
+          "name": "u1F5FD.layer3",
+          "order": 3
+        },
+        {
+          "color": "10867C",
+          "name": "u1F5FD.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5FF",
         "name": "moyai"
       },
@@ -15445,36 +15475,6 @@
           "color": "FCDEA2",
           "name": "u1F35.layer2",
           "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F5Fd",
-        "name": "statueofliberty"
-      },
-      "layers": [
-        {
-          "color": "76DFFF",
-          "name": "u1F5Fd.layer1",
-          "order": 1
-        },
-        {
-          "color": "10867C",
-          "name": "u1F5Fd.layer2",
-          "order": 2
-        },
-        {
-          "color": "49D1C6",
-          "name": "u1F5Fd.layer3",
-          "order": 3
-        },
-        {
-          "color": "10867C",
-          "name": "u1F5Fd.layer4",
-          "order": 4
         }
       ]
     }
@@ -28342,7 +28342,7 @@
           "order": 1
         },
         {
-          "color": "E583C9",
+          "color": "2B3B47",
           "name": "u1F607.layer2",
           "order": 2
         },
@@ -28352,7 +28352,7 @@
           "order": 3
         },
         {
-          "color": "2B3B47",
+          "color": "E583C9",
           "name": "u1F607.layer4",
           "order": 4
         },
@@ -28607,12 +28607,12 @@
       },
       "layers": [
         {
-          "color": "D32A2A",
+          "color": "FF473E",
           "name": "u1F608.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
+          "color": "2B3B47",
           "name": "u1F608.layer2",
           "order": 2
         },
@@ -28622,7 +28622,7 @@
           "order": 3
         },
         {
-          "color": "2B3B47",
+          "color": "D32A2A",
           "name": "u1F608.layer4",
           "order": 4
         },

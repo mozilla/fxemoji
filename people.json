@@ -6052,7 +6052,7 @@
           "order": 1
         },
         {
-          "color": "E583C9",
+          "color": "2B3B47",
           "name": "u1F607.layer2",
           "order": 2
         },
@@ -6062,7 +6062,7 @@
           "order": 3
         },
         {
-          "color": "2B3B47",
+          "color": "E583C9",
           "name": "u1F607.layer4",
           "order": 4
         },
@@ -6247,12 +6247,12 @@
       },
       "layers": [
         {
-          "color": "D32A2A",
+          "color": "FF473E",
           "name": "u1F608.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
+          "color": "2B3B47",
           "name": "u1F608.layer2",
           "order": 2
         },
@@ -6262,7 +6262,7 @@
           "order": 3
         },
         {
-          "color": "2B3B47",
+          "color": "D32A2A",
           "name": "u1F608.layer4",
           "order": 4
         },
