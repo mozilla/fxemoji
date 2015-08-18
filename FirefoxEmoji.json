@@ -16875,11 +16875,6 @@
           "color": "FFFFFF",
           "name": "u1F234.layer4",
           "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u1F234.layer5",
-          "order": 5
         }
       ]
     }
@@ -19250,11 +19245,6 @@
           "color": "FFFFFF",
           "name": "u5408.layer4",
           "order": 4
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u5408.layer5",
-          "order": 5
         }
       ]
     }
