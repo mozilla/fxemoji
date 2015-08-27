@@ -1,6 +1,3 @@
-fxemoji 
-=================================
-
 #Firefox OS Emojis
 http://mozilla.github.io/fxemoji/
 
