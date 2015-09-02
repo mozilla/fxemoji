@@ -6317,6 +6317,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u261D",
+        "name": "index"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u261D.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u261D.layer2",
+          "order": 2
+        },
+        {
+          "color": "F2C7AA",
+          "name": "u261D.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F68D",
         "name": "oncomingbus"
       },
