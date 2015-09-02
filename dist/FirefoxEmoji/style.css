@@ -2418,6 +2418,9 @@
 .icon-FirefoxEmoji-envelope:before {
   content: "\2709"
 }
+.icon-FirefoxEmoji-raisedfist:before {
+  content: "\270A"
+}
 .icon-FirefoxEmoji-hand:before {
   content: "\270B"
 }
