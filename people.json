@@ -3087,22 +3087,22 @@
       },
       "layers": [
         {
-          "color": "D9DDE8",
+          "color": "FFD469",
           "name": "u263A.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
+          "color": "FFB636",
           "name": "u263A.layer2",
           "order": 2
         },
         {
-          "color": "BBBEC9",
+          "color": "2B3B47",
           "name": "u263A.layer3",
           "order": 3
         },
         {
-          "color": "BBBEC9",
+          "color": "F2A74E",
           "name": "u263A.layer4",
           "order": 4
         }
