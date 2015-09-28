@@ -18,39 +18,6 @@
   cursor: pointer;
 }
 
-.icon-symbols-hash_keycap:before {
-  content: "\23"
-}
-.icon-symbols-zero_keycap:before {
-  content: "\30"
-}
-.icon-symbols-one_keycap:before {
-  content: "\31"
-}
-.icon-symbols-two_keycap:before {
-  content: "\32"
-}
-.icon-symbols-three_keycap:before {
-  content: "\33"
-}
-.icon-symbols-four_keycap:before {
-  content: "\34"
-}
-.icon-symbols-five_keycap:before {
-  content: "\35"
-}
-.icon-symbols-six_keycap:before {
-  content: "\36"
-}
-.icon-symbols-seven_keycap:before {
-  content: "\37"
-}
-.icon-symbols-eight_keycap:before {
-  content: "\38"
-}
-.icon-symbols-nine_keycap:before {
-  content: "\39"
-}
 .icon-symbols-copyrightsign:before {
   content: "\A9"
 }

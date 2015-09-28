@@ -18,39 +18,6 @@
   cursor: pointer;
 }
 
-.icon-FirefoxEmoji-hash_keycap:before {
-  content: "\23"
-}
-.icon-FirefoxEmoji-zero_keycap:before {
-  content: "\30"
-}
-.icon-FirefoxEmoji-one_keycap:before {
-  content: "\31"
-}
-.icon-FirefoxEmoji-two_keycap:before {
-  content: "\32"
-}
-.icon-FirefoxEmoji-three_keycap:before {
-  content: "\33"
-}
-.icon-FirefoxEmoji-four_keycap:before {
-  content: "\34"
-}
-.icon-FirefoxEmoji-five_keycap:before {
-  content: "\35"
-}
-.icon-FirefoxEmoji-six_keycap:before {
-  content: "\36"
-}
-.icon-FirefoxEmoji-seven_keycap:before {
-  content: "\37"
-}
-.icon-FirefoxEmoji-eight_keycap:before {
-  content: "\38"
-}
-.icon-FirefoxEmoji-nine_keycap:before {
-  content: "\39"
-}
 .icon-FirefoxEmoji-copyrightsign:before {
   content: "\A9"
 }

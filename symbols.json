@@ -1147,56 +1147,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u0030",
-        "name": "zero_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0030.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0030.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0030.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0036",
-        "name": "six_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0036.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0036.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0036.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u6E80",
         "name": "CJKunifiedideograph_f1"
       },
@@ -2732,21 +2682,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2665",
-        "name": "blackheartsuit"
-      },
-      "layers": [
-        {
-          "color": "FF473E",
-          "name": "u2665.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F21A",
         "name": "CJKunifiedideograph_i"
       },
@@ -3212,24 +3147,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u0037",
-        "name": "seven_keycap"
+        "code": "u2716",
+        "name": "heavymultiplicationsymbol"
       },
       "layers": [
         {
-          "color": "597B91",
-          "name": "u0037.layer1",
+          "color": "2B3B47",
+          "name": "u2716.layer1",
           "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0037.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0037.layer3",
-          "order": 3
         }
       ]
     }
@@ -4267,21 +4192,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2716",
-        "name": "heavymultiplicationsymbol"
-      },
-      "layers": [
-        {
-          "color": "2B3B47",
-          "name": "u2716.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F6AB",
         "name": "noentrysign"
       },
@@ -4297,24 +4207,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u0039",
-        "name": "nine_keycap"
+        "code": "u3297",
+        "name": "circledideographcongratulation"
       },
       "layers": [
         {
-          "color": "597B91",
-          "name": "u0039.layer1",
+          "color": "FF473E",
+          "name": "u3297.layer1",
           "order": 1
         },
         {
-          "color": "F9F9F7",
-          "name": "u0039.layer2",
+          "color": "D32A2A",
+          "name": "u3297.layer2",
           "order": 2
         },
         {
-          "color": "2B5770",
-          "name": "u0039.layer3",
+          "color": "FFFFFF",
+          "name": "u3297.layer3",
           "order": 3
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u3297.layer4",
+          "order": 4
         }
       ]
     }
@@ -4537,31 +4452,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u0031",
-        "name": "one_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0031.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0031.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0031.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u26D4",
         "name": "noentry"
       },
@@ -4587,99 +4477,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u0033",
-        "name": "three_keycap"
+        "code": "u2665",
+        "name": "blackheartsuit"
       },
       "layers": [
         {
-          "color": "597B91",
-          "name": "u0033.layer1",
+          "color": "FF473E",
+          "name": "u2665.layer1",
           "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0033.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0033.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0032",
-        "name": "two_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0032.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0032.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0032.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0035",
-        "name": "five_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0035.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0035.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0035.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0034",
-        "name": "four_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0034.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0034.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0034.layer3",
-          "order": 3
         }
       ]
     }
@@ -4710,31 +4515,6 @@
           "color": "00B1FF",
           "name": "u1F539.layer1",
           "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0038",
-        "name": "eight_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0038.layer1",
-          "order": 1
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0038.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B5770",
-          "name": "u0038.layer3",
-          "order": 3
         }
       ]
     }
@@ -4929,36 +4709,6 @@
         {
           "color": "F4F3EF",
           "name": "u2611.layer4",
-          "order": 4
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u3297",
-        "name": "circledideographcongratulation"
-      },
-      "layers": [
-        {
-          "color": "FF473E",
-          "name": "u3297.layer1",
-          "order": 1
-        },
-        {
-          "color": "D32A2A",
-          "name": "u3297.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u3297.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFFFFF",
-          "name": "u3297.layer4",
           "order": 4
         }
       ]
@@ -5440,31 +5190,6 @@
           "color": "F9F9F7",
           "name": "u1F522.layer6",
           "order": 6
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u0023",
-        "name": "hash_keycap"
-      },
-      "layers": [
-        {
-          "color": "597B91",
-          "name": "u0023.layer1",
-          "order": 1
-        },
-        {
-          "color": "2B5770",
-          "name": "u0023.layer2",
-          "order": 2
-        },
-        {
-          "color": "F9F9F7",
-          "name": "u0023.layer3",
-          "order": 3
         }
       ]
     }
