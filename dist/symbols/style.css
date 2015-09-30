@@ -18,9 +18,6 @@
   cursor: pointer;
 }
 
-.icon-symbols-copyrightsign:before {
-  content: "\A9"
-}
 .icon-symbols-negativesquaredlatincaptialA:before {
   content: "\1F170"
 }

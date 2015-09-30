@@ -18,9 +18,6 @@
   cursor: pointer;
 }
 
-.icon-FirefoxEmoji-copyrightsign:before {
-  content: "\A9"
-}
 .icon-FirefoxEmoji-mahjong:before {
   content: "\1F004"
 }

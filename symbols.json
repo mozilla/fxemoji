@@ -672,21 +672,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2B55",
-        "name": "heavylargecircle"
-      },
-      "layers": [
-        {
-          "color": "FF473E",
-          "name": "u2B55.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F517",
         "name": "linksymbol"
       },
@@ -3457,19 +3442,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u00A9",
-        "name": "copyrightsign"
+        "code": "u2B55",
+        "name": "heavylargecircle"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u00A9.layer1",
+          "color": "FF473E",
+          "name": "u2B55.layer1",
           "order": 1
-        },
-        {
-          "color": "2B3B47",
-          "name": "u00A9.layer2",
-          "order": 2
         }
       ]
     }
