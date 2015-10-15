@@ -2852,32 +2852,32 @@
       },
       "layers": [
         {
-          "color": "2B2622",
+          "color": "FF6E83",
           "name": "u270F.layer1",
           "order": 1
         },
         {
-          "color": "E5AA6E",
+          "color": "BFBCAF",
           "name": "u270F.layer2",
           "order": 2
         },
         {
-          "color": "FFD469",
+          "color": "2B2622",
           "name": "u270F.layer3",
           "order": 3
         },
         {
-          "color": "FF6E83",
+          "color": "FFD469",
           "name": "u270F.layer4",
           "order": 4
         },
         {
-          "color": "B9C5C6",
+          "color": "E5AA6E",
           "name": "u270F.layer5",
           "order": 5
         },
         {
-          "color": "96A9B2",
+          "color": "FFB636",
           "name": "u270F.layer6",
           "order": 6
         }
