@@ -1025,6 +1025,11 @@
           "color": "00ADE1",
           "name": "u1F454.layer5",
           "order": 5
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F454.layer6",
+          "order": 6
         }
       ]
     }

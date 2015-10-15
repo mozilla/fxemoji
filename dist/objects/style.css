@@ -342,6 +342,9 @@
 .icon-objects-swimming:before {
   content: "\1F3CA"
 }
+.icon-objects-tie:before {
+  content: "\1F454"
+}
 .icon-objects-ghost:before {
   content: "\1F47B"
 }
