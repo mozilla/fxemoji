@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g id="Layer_2">
-	<path fill="#A97DFF" d="M489.524,340.093v124.001c0,21.211-17.195,38.406-38.406,38.406H331.177
-		c-21.211,0-38.406-17.195-38.406-38.406V340.093c0-3.102,0.377-6.114,1.072-9.003c7.028-47.436,47.913-83.836,97.304-83.836
-		c49.391,0,90.276,36.4,97.304,83.836C489.146,333.979,489.524,336.991,489.524,340.093z"/>
+	<path fill="#009E83" d="M219.271,331.09c-7.028-47.436-47.913-83.836-97.304-83.836s-90.276,36.4-97.304,83.836
+		c-0.694,2.889-1.072,5.901-1.072,9.003v124.001c0,21.211,17.195,38.406,38.406,38.406h119.941
+		c21.211,0,38.406-17.195,38.406-38.406V340.093C220.343,336.991,219.966,333.979,219.271,331.09z"/>
 </g>
 <g id="Layer_1">
 </g>
