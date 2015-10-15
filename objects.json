@@ -1012,14 +1012,19 @@
           "order": 3
         },
         {
-          "color": "597B91",
+          "color": "E2A042",
           "name": "u1F50F.layer4",
           "order": 4
         },
         {
-          "color": "2B3B47",
+          "color": "353F44",
           "name": "u1F50F.layer5",
           "order": 5
+        },
+        {
+          "color": "48677E",
+          "name": "u1F50F.layer6",
+          "order": 6
         }
       ]
     }
