@@ -12292,19 +12292,24 @@
           "order": 1
         },
         {
-          "color": "75432E",
+          "color": "FF8A8A",
           "name": "u1F34E.layer2",
           "order": 2
         },
         {
-          "color": "16992B",
+          "color": "EAB4A2",
           "name": "u1F34E.layer3",
           "order": 3
         },
         {
-          "color": "FF8A8A",
+          "color": "75432E",
           "name": "u1F34E.layer4",
           "order": 4
+        },
+        {
+          "color": "16992B",
+          "name": "u1F34E.layer5",
+          "order": 5
         }
       ]
     }
