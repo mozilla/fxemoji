@@ -3,8 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g id="Layer_4">
-	<ellipse fill="#DB1D1D" cx="257.839" cy="297.676" rx="211.416" ry="72.015"/>
+<g id="Layer_8">
+	<path fill="#E59328" d="M252.713,25.587c-123.195,0-230.181,77.808-230.181,171.53c0,49.971,103.055,90.48,230.181,90.48
+		s230.181-40.509,230.181-90.48C482.894,106.046,375.908,25.587,252.713,25.587z"/>
 </g>
 <g id="Layer_1">
 </g>

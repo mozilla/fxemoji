@@ -3742,19 +3742,34 @@
           "order": 2
         },
         {
-          "color": "FECB21",
+          "color": "DB1D1D",
           "name": "u1F354.layer3",
           "order": 3
         },
         {
-          "color": "E59328",
+          "color": "FF473E",
           "name": "u1F354.layer4",
           "order": 4
         },
         {
-          "color": "FFCD7D",
+          "color": "00B89C",
           "name": "u1F354.layer5",
           "order": 5
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F354.layer6",
+          "order": 6
+        },
+        {
+          "color": "E59328",
+          "name": "u1F354.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFCD7D",
+          "name": "u1F354.layer8",
+          "order": 8
         }
       ]
     }
