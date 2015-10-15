@@ -2502,7 +2502,7 @@
       },
       "layers": [
         {
-          "color": "E01212",
+          "color": "D1552A",
           "name": "u1F35F.layer1",
           "order": 1
         },
@@ -2512,19 +2512,54 @@
           "order": 2
         },
         {
-          "color": "FECB21",
+          "color": "E59328",
           "name": "u1F35F.layer3",
           "order": 3
         },
         {
-          "color": "FF473E",
+          "color": "E59328",
           "name": "u1F35F.layer4",
           "order": 4
         },
         {
-          "color": "E01212",
+          "color": "E59328",
           "name": "u1F35F.layer5",
           "order": 5
+        },
+        {
+          "color": "E59328",
+          "name": "u1F35F.layer6",
+          "order": 6
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer7",
+          "order": 7
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer8",
+          "order": 8
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer9",
+          "order": 9
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer10",
+          "order": 10
+        },
+        {
+          "color": "FECB21",
+          "name": "u1F35F.layer11",
+          "order": 11
+        },
+        {
+          "color": "FF6F1F",
+          "name": "u1F35F.layer12",
+          "order": 12
         }
       ]
     }
