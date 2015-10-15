@@ -5347,29 +5347,34 @@
       },
       "layers": [
         {
-          "color": "56C140",
+          "color": "37AA1B",
           "name": "u1F352.layer1",
           "order": 1
         },
         {
-          "color": "DB1414",
+          "color": "D81637",
           "name": "u1F352.layer2",
           "order": 2
         },
         {
-          "color": "16992B",
+          "color": "EF5454",
           "name": "u1F352.layer3",
           "order": 3
         },
         {
-          "color": "A31616",
+          "color": "56C140",
           "name": "u1F352.layer4",
           "order": 4
         },
         {
-          "color": "EF5454",
+          "color": "E84951",
           "name": "u1F352.layer5",
           "order": 5
+        },
+        {
+          "color": "F47171",
+          "name": "u1F352.layer6",
+          "order": 6
         }
       ]
     }
