@@ -3,10 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g id="Layer_3">
-	<path fill="#445056" d="M214.707,344.84l-39.498,11.829c-20.849,6.244-40.281-13.189-34.037-34.037l11.829-39.498
-		c3.724-12.437,9.864-24.017,18.068-34.078l85.57-104.943c10.234-12.551,29.074-13.506,40.525-2.055l58.619,58.619
-		c11.451,11.451,10.496,30.291-2.055,40.525l-104.943,85.57C238.724,334.976,227.144,341.116,214.707,344.84z"/>
+<g id="Layer_8">
+	<ellipse fill="#DCE2E2" cx="384.857" cy="46.002" rx="28.879" ry="12"/>
 </g>
 <g id="Layer_1">
 </g>
