@@ -23932,7 +23932,7 @@
       },
       "layers": [
         {
-          "color": "296D84",
+          "color": "5BB25B",
           "name": "u1F33E.layer1",
           "order": 1
         },
@@ -23940,11 +23940,6 @@
           "color": "FFD469",
           "name": "u1F33E.layer2",
           "order": 2
-        },
-        {
-          "color": "5BB25B",
-          "name": "u1F33E.layer3",
-          "order": 3
         }
       ]
     }
