@@ -2387,19 +2387,24 @@
       },
       "layers": [
         {
-          "color": "59CAFC",
+          "color": "00B1FF",
           "name": "u1F42C.layer1",
           "order": 1
         },
         {
-          "color": "00B1FF",
+          "color": "2B3B47",
           "name": "u1F42C.layer2",
           "order": 2
         },
         {
-          "color": "2B3B47",
+          "color": "7EDBFC",
           "name": "u1F42C.layer3",
           "order": 3
+        },
+        {
+          "color": "7EDBFC",
+          "name": "u1F42C.layer4",
+          "order": 4
         }
       ]
     }
