@@ -6367,26 +6367,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F525",
-        "name": "fire"
-      },
-      "layers": [
-        {
-          "color": "FF8F1F",
-          "name": "u1F525.layer1",
-          "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F525.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F448",
         "name": "left"
       },
