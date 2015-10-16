@@ -14327,32 +14327,32 @@
       },
       "layers": [
         {
-          "color": "DADBDC",
+          "color": "AFC1C9",
           "name": "u1F3E5.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
+          "color": "95AAAD",
           "name": "u1F3E5.layer2",
           "order": 2
         },
         {
-          "color": "C8CACB",
+          "color": "95AAAD",
           "name": "u1F3E5.layer3",
           "order": 3
         },
         {
-          "color": "0096D1",
+          "color": "CFDBE2",
           "name": "u1F3E5.layer4",
           "order": 4
         },
         {
-          "color": "67747C",
+          "color": "FF473E",
           "name": "u1F3E5.layer5",
           "order": 5
         },
         {
-          "color": "DADBDC",
+          "color": "0096D1",
           "name": "u1F3E5.layer6",
           "order": 6
         },
@@ -14362,14 +14362,19 @@
           "order": 7
         },
         {
-          "color": "67747C",
+          "color": "00B1FF",
           "name": "u1F3E5.layer8",
           "order": 8
         },
         {
-          "color": "00B1FF",
+          "color": "67747C",
           "name": "u1F3E5.layer9",
           "order": 9
+        },
+        {
+          "color": "95AAAD",
+          "name": "u1F3E5.layer10",
+          "order": 10
         }
       ]
     }
