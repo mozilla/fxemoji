@@ -2,6 +2,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "japanflag",
+        "name": "japanflag"
+      },
+      "layers": [
+        {
+          "color": "E8E8E8",
+          "name": "japanflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "japanflag.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "greatbritainflag",
         "name": "greatbritainflag"
       },
@@ -185,6 +205,21 @@
           "color": "E8E8E8",
           "name": "italianflag.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1F5",
+        "name": "regionalindicatorP"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F5.layer1",
+          "order": 1
         }
       ]
     }

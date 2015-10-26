@@ -232,6 +232,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1F5",
+        "name": "regionalindicatorP"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F5.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F1F7",
         "name": "regionalindicatorR"
       },
@@ -3185,6 +3200,61 @@
           "color": "442A2A",
           "name": "u1F492.layer10",
           "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F478",
+        "name": "princess"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u1F478.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F478.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F478.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF7DDA",
+          "name": "u1F478.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5AB83",
+          "name": "u1F478.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F478.layer6",
+          "order": 6
+        },
+        {
+          "color": "959DA3",
+          "name": "u1F478.layer7",
+          "order": 7
+        },
+        {
+          "color": "C4C43B",
+          "name": "u1F478.layer8",
+          "order": 8
+        },
+        {
+          "color": "DEE254",
+          "name": "u1F478.layer9",
+          "order": 9
         }
       ]
     }
@@ -12942,54 +13012,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F478",
-        "name": "princess"
+        "code": "japanflag",
+        "name": "japanflag"
       },
       "layers": [
         {
-          "color": "FFD3B6",
-          "name": "u1F478.layer1",
+          "color": "E8E8E8",
+          "name": "japanflag.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F478.layer2",
+          "color": "FF473E",
+          "name": "japanflag.layer2",
           "order": 2
-        },
-        {
-          "color": "EDC0A2",
-          "name": "u1F478.layer3",
-          "order": 3
-        },
-        {
-          "color": "FF7DDA",
-          "name": "u1F478.layer4",
-          "order": 4
-        },
-        {
-          "color": "E5AB83",
-          "name": "u1F478.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F478.layer6",
-          "order": 6
-        },
-        {
-          "color": "959DA3",
-          "name": "u1F478.layer7",
-          "order": 7
-        },
-        {
-          "color": "C4C43B",
-          "name": "u1F478.layer8",
-          "order": 8
-        },
-        {
-          "color": "DEE254",
-          "name": "u1F478.layer9",
-          "order": 9
         }
       ]
     }
