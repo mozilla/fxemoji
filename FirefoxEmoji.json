@@ -24232,7 +24232,7 @@
       },
       "layers": [
         {
-          "color": "D5DEE4",
+          "color": "E5E4DF",
           "name": "u1F488.layer1",
           "order": 1
         },
@@ -24242,12 +24242,12 @@
           "order": 2
         },
         {
-          "color": "FF473E",
+          "color": "00B1FF",
           "name": "u1F488.layer3",
           "order": 3
         },
         {
-          "color": "00B1FF",
+          "color": "FF473E",
           "name": "u1F488.layer4",
           "order": 4
         },
