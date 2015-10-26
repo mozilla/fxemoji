@@ -29,7 +29,9 @@
           <LigatureSet glyph="regionalindicatorC">
             <Ligature components="regionalindicatorN" glyph="chineseflag"/>
           </LigatureSet>
-          <LigatureSet glyph="regionalindicatorE"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorE">
+            <Ligature components="regionalindicatorS" glyph="spanishflag"/>
+          </LigatureSet>
           <LigatureSet glyph="regionalindicatorF">
             <Ligature components="regionalindicatorR" glyph="franceflag"/>
           </LigatureSet>

@@ -197,6 +197,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1F8",
+        "name": "regionalindicatorS"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F8.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F518",
         "name": "radiobutton"
       },
@@ -567,34 +582,44 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F362",
-        "name": "oden"
+        "code": "spanishflag",
+        "name": "spanishflag"
       },
       "layers": [
         {
-          "color": "FCDDB1",
-          "name": "u1F362.layer1",
+          "color": "FFB636",
+          "name": "spanishflag.layer1",
           "order": 1
         },
         {
-          "color": "597B91",
-          "name": "u1F362.layer2",
+          "color": "E8E8E8",
+          "name": "spanishflag.layer2",
           "order": 2
         },
         {
-          "color": "E5AA6E",
-          "name": "u1F362.layer3",
-          "order": 3
-        },
-        {
-          "color": "D89055",
-          "name": "u1F362.layer4",
+          "color": "E8E8E8",
+          "name": "spanishflag.layer4",
           "order": 4
         },
         {
-          "color": "E2DCC7",
-          "name": "u1F362.layer5",
+          "color": "E8E8E8",
+          "name": "spanishflag.layer5",
           "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "spanishflag.layer6",
+          "order": 6
+        },
+        {
+          "color": "E2A042",
+          "name": "spanishflag.layer7",
+          "order": 7
+        },
+        {
+          "color": "575A5B",
+          "name": "spanishflag.layer8",
+          "order": 8
         }
       ]
     }
@@ -2450,6 +2475,41 @@
           "color": "FF6E83",
           "name": "u1F42F.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F362",
+        "name": "oden"
+      },
+      "layers": [
+        {
+          "color": "FCDDB1",
+          "name": "u1F362.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F362.layer2",
+          "order": 2
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F362.layer3",
+          "order": 3
+        },
+        {
+          "color": "D89055",
+          "name": "u1F362.layer4",
+          "order": 4
+        },
+        {
+          "color": "E2DCC7",
+          "name": "u1F362.layer5",
+          "order": 5
         }
       ]
     }
