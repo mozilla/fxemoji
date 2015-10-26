@@ -10107,69 +10107,34 @@
       },
       "layers": [
         {
-          "color": "B1B8BC",
+          "color": "132028",
           "name": "u1F68A.layer1",
           "order": 1
         },
         {
-          "color": "89999B",
+          "color": "FF473E",
           "name": "u1F68A.layer2",
           "order": 2
         },
         {
-          "color": "606E72",
+          "color": "F9F9F7",
           "name": "u1F68A.layer3",
           "order": 3
         },
         {
-          "color": "7DC437",
+          "color": "FFD469",
           "name": "u1F68A.layer4",
           "order": 4
         },
         {
-          "color": "575A5B",
+          "color": "132028",
           "name": "u1F68A.layer5",
           "order": 5
         },
         {
-          "color": "8CA3AF",
+          "color": "FFFFFF",
           "name": "u1F68A.layer6",
           "order": 6
-        },
-        {
-          "color": "E5E4DF",
-          "name": "u1F68A.layer7",
-          "order": 7
-        },
-        {
-          "color": "8CA3AF",
-          "name": "u1F68A.layer8",
-          "order": 8
-        },
-        {
-          "color": "59CAFC",
-          "name": "u1F68A.layer9",
-          "order": 9
-        },
-        {
-          "color": "575A5B",
-          "name": "u1F68A.layer10",
-          "order": 10
-        },
-        {
-          "color": "8CA3AF",
-          "name": "u1F68A.layer11",
-          "order": 11
-        },
-        {
-          "color": "FFD469",
-          "name": "u1F68A.layer12",
-          "order": 12
-        },
-        {
-          "color": "B1B8BC",
-          "name": "u1F68A.layer13",
-          "order": 13
         }
       ]
     }
