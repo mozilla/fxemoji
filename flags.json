@@ -107,6 +107,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "chineseflag",
+        "name": "chineseflag"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "chineseflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "chineseflag.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F1F7",
         "name": "regionalindicatorR"
       },
@@ -129,6 +149,21 @@
         {
           "color": "333333",
           "name": "u1F1F0.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1F3",
+        "name": "regionalindicatorN"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F3.layer1",
           "order": 1
         }
       ]

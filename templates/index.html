@@ -8,6 +8,11 @@
   <body>
     <h1><%= fontName %></h1>
     <ul class="glyphs">
+      <li>
+        <i class="icon">&#x1F1E8;&#x1F1F3;</i>
+        <span class="glyph-name">chinaflag</span>
+        <span class="glyph-codepoint">U+1F1E8 U+1F1F3</span>
+      </li>
     <% if ( fontName != 'flags' ) { %>
     <% _.each(glyphs, function(glyph) { if( glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "E") { %>
       <li>

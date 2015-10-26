@@ -26,7 +26,9 @@
         <LookupType value="4"/>
         <LookupFlag value="0"/>
         <LigatureSubst index="0" Format="1">
-          <LigatureSet glyph="regionalindicatorC"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorC">
+            <Ligature components="regionalindicatorN" glyph="chineseflag"/>
+          </LigatureSet>
           <LigatureSet glyph="regionalindicatorE"></LigatureSet>
           <LigatureSet glyph="regionalindicatorF"></LigatureSet>
           <LigatureSet glyph="regionalindicatorG"></LigatureSet>
