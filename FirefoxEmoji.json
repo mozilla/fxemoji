@@ -8647,6 +8647,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "russianflag",
+        "name": "russianflag"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "russianflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "0B67B2",
+          "name": "russianflag.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "russianflag.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4AE",
         "name": "whiteflower"
       },

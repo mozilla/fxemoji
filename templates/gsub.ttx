@@ -45,7 +45,9 @@
           <LigatureSet glyph="regionalindicatorK">
             <Ligature components="regionalindicatorR" glyph="koreaflag"/>
           </LigatureSet>
-          <LigatureSet glyph="regionalindicatorR"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorR">
+            <Ligature components="regionalindicatorU" glyph="russianflag"/>
+          </LigatureSet>
           <LigatureSet glyph="regionalindicatorU"></LigatureSet>
         </LigatureSubst>
       </Lookup>
