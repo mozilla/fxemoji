@@ -50,7 +50,9 @@
           <LigatureSet glyph="regionalindicatorR">
             <Ligature components="regionalindicatorU" glyph="russianflag"/>
           </LigatureSet>
-          <LigatureSet glyph="regionalindicatorU"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorU">
+            <Ligature components="regionalindicatorS" glyph="unitedstatesflag"/>
+          </LigatureSet>
         </LigatureSubst>
       </Lookup>
     </LookupList>
