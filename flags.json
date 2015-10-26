@@ -92,13 +92,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F1FA",
-        "name": "regionalindicatorU"
+        "code": "u1F1F0",
+        "name": "regionalindicatorK"
       },
       "layers": [
         {
           "color": "333333",
-          "name": "u1F1FA.layer1",
+          "name": "u1F1F0.layer1",
           "order": 1
         }
       ]
@@ -137,14 +137,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F1F0",
-        "name": "regionalindicatorK"
+        "code": "franceflag",
+        "name": "franceflag"
       },
       "layers": [
         {
-          "color": "333333",
-          "name": "u1F1F0.layer1",
+          "color": "0B67B2",
+          "name": "franceflag.layer1",
           "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "franceflag.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "franceflag.layer3",
+          "order": 3
         }
       ]
     }
@@ -159,6 +169,21 @@
         {
           "color": "333333",
           "name": "u1F1E8.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1FA",
+        "name": "regionalindicatorU"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1FA.layer1",
           "order": 1
         }
       ]
@@ -257,24 +282,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "franceflag",
-        "name": "franceflag"
+        "code": "koreaflag",
+        "name": "koreaflag"
       },
       "layers": [
         {
-          "color": "0B67B2",
-          "name": "franceflag.layer1",
+          "color": "E8E8E8",
+          "name": "koreaflag.layer1",
           "order": 1
         },
         {
           "color": "FF473E",
-          "name": "franceflag.layer2",
+          "name": "koreaflag.layer2",
           "order": 2
         },
         {
-          "color": "E8E8E8",
-          "name": "franceflag.layer3",
+          "color": "0B67B2",
+          "name": "koreaflag.layer3",
           "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "koreaflag.layer4",
+          "order": 4
         }
       ]
     }

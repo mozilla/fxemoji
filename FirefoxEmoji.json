@@ -8777,6 +8777,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F634",
+        "name": "sleeping"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F634.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F634.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F634.layer3",
+          "order": 3
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F634.layer4",
+          "order": 4
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F634.layer5",
+          "order": 5
+        },
+        {
+          "color": "009E83",
+          "name": "u1F634.layer6",
+          "order": 6
+        },
+        {
+          "color": "00BEEA",
+          "name": "u1F634.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2648",
         "name": "aries"
       },
@@ -9675,61 +9720,6 @@
           "color": "FFB636",
           "name": "u1F684.layer8",
           "order": 8
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
-        "code": "u1F3A7",
-        "name": "headphone"
-      },
-      "layers": [
-        {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer1",
-          "order": 1
-        },
-        {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer2",
-          "order": 2
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer3",
-          "order": 3
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer4",
-          "order": 4
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer5",
-          "order": 5
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer6",
-          "order": 6
-        },
-        {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer7",
-          "order": 7
-        },
-        {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer8",
-          "order": 8
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer9",
-          "order": 9
         }
       ]
     }
@@ -15697,6 +15687,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F0CF",
+        "name": "playingcardblackjoker"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F0CF.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F0CF.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F0CF.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F0CF.layer7",
+          "order": 7
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F0CF.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F309",
         "name": "bridgeatnight"
       },
@@ -18222,49 +18262,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F0CF",
-        "name": "playingcardblackjoker"
+        "code": "u1F3A7",
+        "name": "headphone"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u1F0CF.layer1",
+          "color": "00B1FF",
+          "name": "u1F3A7.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer2",
+          "color": "00B1FF",
+          "name": "u1F3A7.layer2",
           "order": 2
         },
         {
-          "color": "597B91",
-          "name": "u1F0CF.layer3",
+          "color": "176068",
+          "name": "u1F3A7.layer3",
           "order": 3
         },
         {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer4",
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer4",
           "order": 4
         },
         {
-          "color": "FFD3B6",
-          "name": "u1F0CF.layer5",
+          "color": "96A9B2",
+          "name": "u1F3A7.layer5",
           "order": 5
         },
         {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer6",
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer6",
           "order": 6
         },
         {
-          "color": "FF473E",
-          "name": "u1F0CF.layer7",
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer7",
           "order": 7
         },
         {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer8",
+          "color": "96A9B2",
+          "name": "u1F3A7.layer8",
           "order": 8
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer9",
+          "order": 9
         }
       ]
     }
@@ -20142,44 +20187,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F634",
-        "name": "sleeping"
+        "code": "koreaflag",
+        "name": "koreaflag"
       },
       "layers": [
         {
-          "color": "FFD469",
-          "name": "u1F634.layer1",
+          "color": "E8E8E8",
+          "name": "koreaflag.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F634.layer2",
+          "color": "FF473E",
+          "name": "koreaflag.layer2",
           "order": 2
         },
         {
-          "color": "2B3B47",
-          "name": "u1F634.layer3",
+          "color": "0B67B2",
+          "name": "koreaflag.layer3",
           "order": 3
         },
         {
-          "color": "F2A74E",
-          "name": "u1F634.layer4",
+          "color": "2B3B47",
+          "name": "koreaflag.layer4",
           "order": 4
-        },
-        {
-          "color": "00B89C",
-          "name": "u1F634.layer5",
-          "order": 5
-        },
-        {
-          "color": "009E83",
-          "name": "u1F634.layer6",
-          "order": 6
-        },
-        {
-          "color": "00BEEA",
-          "name": "u1F634.layer7",
-          "order": 7
         }
       ]
     }
