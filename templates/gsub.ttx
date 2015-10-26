@@ -30,7 +30,9 @@
             <Ligature components="regionalindicatorN" glyph="chineseflag"/>
           </LigatureSet>
           <LigatureSet glyph="regionalindicatorE"></LigatureSet>
-          <LigatureSet glyph="regionalindicatorF"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorF">
+            <Ligature components="regionalindicatorR" glyph="franceflag"/>
+          </LigatureSet>
           <LigatureSet glyph="regionalindicatorG"></LigatureSet>
           <LigatureSet glyph="regionalindicatorI"></LigatureSet>
           <LigatureSet glyph="regionalindicatorJ"></LigatureSet>

@@ -27707,6 +27707,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "franceflag",
+        "name": "franceflag"
+      },
+      "layers": [
+        {
+          "color": "0B67B2",
+          "name": "franceflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "franceflag.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "franceflag.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F604",
         "name": "grinwideeyes"
       },
