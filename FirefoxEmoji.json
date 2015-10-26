@@ -9897,44 +9897,29 @@
           "order": 1
         },
         {
-          "color": "EBECED",
+          "color": "FF473E",
           "name": "u1F687.layer2",
           "order": 2
         },
         {
-          "color": "2B3B47",
+          "color": "F9F9F7",
           "name": "u1F687.layer3",
           "order": 3
         },
         {
-          "color": "00B1FF",
+          "color": "FFD469",
           "name": "u1F687.layer4",
           "order": 4
         },
         {
-          "color": "F2A74E",
+          "color": "E5E4DF",
           "name": "u1F687.layer5",
           "order": 5
         },
         {
-          "color": "FF473E",
+          "color": "132028",
           "name": "u1F687.layer6",
           "order": 6
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F687.layer7",
-          "order": 7
-        },
-        {
-          "color": "FFD469",
-          "name": "u1F687.layer8",
-          "order": 8
-        },
-        {
-          "color": "9BA5A8",
-          "name": "u1F687.layer9",
-          "order": 9
         }
       ]
     }
