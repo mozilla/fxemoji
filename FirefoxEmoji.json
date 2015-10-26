@@ -182,6 +182,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F1F9",
+        "name": "regionalindicatorT"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F9.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F518",
         "name": "radiobutton"
       },
@@ -9597,6 +9612,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3A7",
+        "name": "headphone"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer1",
+          "order": 1
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3A7.layer2",
+          "order": 2
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer4",
+          "order": 4
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer5",
+          "order": 5
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer6",
+          "order": 6
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F3A7.layer7",
+          "order": 7
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F3A7.layer8",
+          "order": 8
+        },
+        {
+          "color": "176068",
+          "name": "u1F3A7.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F685",
         "name": "highspeedtrainbulletnose"
       },
@@ -11332,19 +11402,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F533",
-        "name": "whitesquarebutton"
+        "code": "italianflag",
+        "name": "italianflag"
       },
       "layers": [
         {
-          "color": "D9DDE8",
-          "name": "u1F533.layer1",
+          "color": "00B89C",
+          "name": "italianflag.layer1",
           "order": 1
         },
         {
-          "color": "132028",
-          "name": "u1F533.layer2",
+          "color": "FF473E",
+          "name": "italianflag.layer2",
           "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "italianflag.layer3",
+          "order": 3
         }
       ]
     }
@@ -15587,56 +15662,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F0CF",
-        "name": "playingcardblackjoker"
-      },
-      "layers": [
-        {
-          "color": "E5E4DF",
-          "name": "u1F0CF.layer1",
-          "order": 1
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer2",
-          "order": 2
-        },
-        {
-          "color": "597B91",
-          "name": "u1F0CF.layer3",
-          "order": 3
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFD3B6",
-          "name": "u1F0CF.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer6",
-          "order": 6
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F0CF.layer7",
-          "order": 7
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F0CF.layer8",
-          "order": 8
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F309",
         "name": "bridgeatnight"
       },
@@ -18162,54 +18187,49 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3A7",
-        "name": "headphone"
+        "code": "u1F0CF",
+        "name": "playingcardblackjoker"
       },
       "layers": [
         {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer1",
+          "color": "E5E4DF",
+          "name": "u1F0CF.layer1",
           "order": 1
         },
         {
-          "color": "00B1FF",
-          "name": "u1F3A7.layer2",
+          "color": "2B3B47",
+          "name": "u1F0CF.layer2",
           "order": 2
         },
         {
-          "color": "176068",
-          "name": "u1F3A7.layer3",
+          "color": "597B91",
+          "name": "u1F0CF.layer3",
           "order": 3
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer4",
+          "color": "2B3B47",
+          "name": "u1F0CF.layer4",
           "order": 4
         },
         {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer5",
+          "color": "FFD3B6",
+          "name": "u1F0CF.layer5",
           "order": 5
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer6",
+          "color": "2B3B47",
+          "name": "u1F0CF.layer6",
           "order": 6
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F3A7.layer7",
+          "color": "FF473E",
+          "name": "u1F0CF.layer7",
           "order": 7
         },
         {
-          "color": "96A9B2",
-          "name": "u1F3A7.layer8",
+          "color": "2B3B47",
+          "name": "u1F0CF.layer8",
           "order": 8
-        },
-        {
-          "color": "176068",
-          "name": "u1F3A7.layer9",
-          "order": 9
         }
       ]
     }
@@ -22350,6 +22370,26 @@
           "color": "FFFFFF",
           "name": "u24C2.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F533",
+        "name": "whitesquarebutton"
+      },
+      "layers": [
+        {
+          "color": "D9DDE8",
+          "name": "u1F533.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F533.layer2",
+          "order": 2
         }
       ]
     }

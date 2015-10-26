@@ -167,6 +167,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "italianflag",
+        "name": "italianflag"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "italianflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "italianflag.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "italianflag.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1F9",
+        "name": "regionalindicatorT"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F9.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F1F7",
         "name": "regionalindicatorR"
       },

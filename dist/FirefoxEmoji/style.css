@@ -151,6 +151,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-regionalindicatorR:before {
   content: "\1F1F7"
 }
+.icon-FirefoxEmoji-regionalindicatorT:before {
+  content: "\1F1F9"
+}
 .icon-FirefoxEmoji-regionalindicatorU:before {
   content: "\1F1FA"
 }

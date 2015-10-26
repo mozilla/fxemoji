@@ -100,6 +100,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-flags-regionalindicatorR:before {
   content: "\1F1F7"
 }
+.icon-flags-regionalindicatorT:before {
+  content: "\1F1F9"
+}
 .icon-flags-regionalindicatorU:before {
   content: "\1F1FA"
 }
