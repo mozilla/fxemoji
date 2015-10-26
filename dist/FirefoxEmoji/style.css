@@ -121,6 +121,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-squaredvs:before {
   content: "\1F19A"
 }
+.icon-FirefoxEmoji-regionalindicatorB:before {
+  content: "\1F1E7"
+}
 .icon-FirefoxEmoji-regionalindicatorC:before {
   content: "\1F1E8"
 }

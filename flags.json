@@ -2,6 +2,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "greatbritainflag",
+        "name": "greatbritainflag"
+      },
+      "layers": [
+        {
+          "color": "0B67B2",
+          "name": "greatbritainflag.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "greatbritainflag.layer2",
+          "order": 2
+        },
+        {
+          "color": "E8E8E8",
+          "name": "greatbritainflag.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F1EA",
         "name": "regionalindicatorE"
       },
@@ -189,6 +214,21 @@
         {
           "color": "333333",
           "name": "u1F1F3.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1E7",
+        "name": "regionalindicatorB"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1E7.layer1",
           "order": 1
         }
       ]

@@ -33,7 +33,9 @@
           <LigatureSet glyph="regionalindicatorF">
             <Ligature components="regionalindicatorR" glyph="franceflag"/>
           </LigatureSet>
-          <LigatureSet glyph="regionalindicatorG"></LigatureSet>
+          <LigatureSet glyph="regionalindicatorG">
+            <Ligature components="regionalindicatorB" glyph="greatbritainflag"/>
+          </LigatureSet>
           <LigatureSet glyph="regionalindicatorI"></LigatureSet>
           <LigatureSet glyph="regionalindicatorJ"></LigatureSet>
           <LigatureSet glyph="regionalindicatorK"></LigatureSet>
