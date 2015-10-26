@@ -1,0 +1,137 @@
+[
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1EA",
+        "name": "regionalindicatorE"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1EA.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1EB",
+        "name": "regionalindicatorF"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1EB.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1EC",
+        "name": "regionalindicatorG"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1EC.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1FA",
+        "name": "regionalindicatorU"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1FA.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1EE",
+        "name": "regionalindicatorI"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1EE.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1EF",
+        "name": "regionalindicatorJ"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1EF.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1E8",
+        "name": "regionalindicatorC"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1E8.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1F7",
+        "name": "regionalindicatorR"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F7.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F1F0",
+        "name": "regionalindicatorK"
+      },
+      "layers": [
+        {
+          "color": "333333",
+          "name": "u1F1F0.layer1",
+          "order": 1
+        }
+      ]
+    }
+  }
+]

@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "<%= fontName %>";
-  src: url('<%= fontName %>.ttf') format('truetype');
+  font-family: "flags";
+  src: url('flags.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -47,7 +47,7 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
   line-height: 10rem;
   font-style: normal;
   font-weight: normal;
-  font-family: "<%= fontName %>";
+  font-family: "flags";
   font-size: 10rem;
 }
 .glyphs .icon:hover {
@@ -70,7 +70,30 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
   font-size: 1.2rem;
 }
 
-<% _.each(glyphs, function(glyph) { if( glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "E") { %>.<%= className %>-<%= glyph.name %>:before {
-  content: "\<%= glyph.codepoint.toString(16).toUpperCase() %>"
+.icon-flags-regionalindicatorC:before {
+  content: "\1F1E8"
 }
-<% } }); %>
+.icon-flags-regionalindicatorE:before {
+  content: "\1F1EA"
+}
+.icon-flags-regionalindicatorF:before {
+  content: "\1F1EB"
+}
+.icon-flags-regionalindicatorG:before {
+  content: "\1F1EC"
+}
+.icon-flags-regionalindicatorI:before {
+  content: "\1F1EE"
+}
+.icon-flags-regionalindicatorJ:before {
+  content: "\1F1EF"
+}
+.icon-flags-regionalindicatorK:before {
+  content: "\1F1F0"
+}
+.icon-flags-regionalindicatorR:before {
+  content: "\1F1F7"
+}
+.icon-flags-regionalindicatorU:before {
+  content: "\1F1FA"
+}
