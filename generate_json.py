@@ -35,6 +35,11 @@ if __name__ == "__main__":
       file_name=file.replace('.svg','').split('-')
       icons[file_name[0]]=file_name[1]
 
+    if file .find('flag.') > -1 and not file .find('layer') > -1:
+      file_name=file.replace('.svg','').split('.')
+      icons[file_name[0]]=file_name[0]
+
+
     if file .find('.layer') > -1:
 
       #get color from file
@@ -52,6 +57,7 @@ if __name__ == "__main__":
       key=file_name[0].replace('.','')
       if key not in layers:
         layers[key]=[]
+
       layers[key].append({'order': int(file_name[1]) ,'color' : color, 'name':file_name[0] + 'layer' + file_name[1]})
 
   for icon in icons:

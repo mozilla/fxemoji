@@ -17,34 +17,51 @@ generate_font() {
   #Dumping 'cmap' table
   ttx -o tmp/${font_name}/${font_name}.ttx -t cmap tmp/${font_name}/${font_name}.ttf
 
-
   # Remove Glyphs from 'cmap' table
   for file in `find ${svgs_dir}/${font_name}/ -name "*.svg"`
     do
-      #get first 2 characters after first 4 characters
       filename=$(basename $file);
+
       if [[ $filename == *layer* ]]
         then
           code=${filename%.*}
           sed /$code/d tmp/${font_name}/${font_name}.ttx > tmp/${font_name}/output.tmp
           mv tmp/${font_name}/output.tmp tmp/${font_name}/${font_name}.ttx
       fi
-  done
 
+      # if [[ $filename == *flag* ]]
+      #   then
+      #     code=${filename%.*}
+      #     sed /$code/d tmp/${font_name}/${font_name}.ttx > tmp/${font_name}/output.tmp
+      #     mv tmp/${font_name}/output.tmp tmp/${font_name}/${font_name}.ttx
+      # fi
+  done
 
   #Merge 'cmap' table back to font
   ttx -o tmp/${font_name}/${font_name}-cmap.ttf -m tmp/${font_name}/${font_name}.ttf tmp/${font_name}/${font_name}.ttx
 
-  python generate_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx
+  python generate_colr_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx
 
 
   #Merge 'COLR' table to font
   ttx -o tmp/${font_name}/${font_name}-colr.ttf -m tmp/${font_name}/${font_name}-cmap.ttf tmp/${font_name}/${font_name}-colr.ttx
 
-  #move final font to 'dist' folder
-  mv tmp/${font_name}/${font_name}-colr.ttf dist/${font_name}/${font_name}.ttf
 
-  if [[  ${font_name} == 'FirefoxEmoji' ]]
+
+  if [[ ${font_name} == 'FirefoxEmoji' || ${font_name} == 'flags' ]]
+    then
+      #Merge 'GSUB' table to font
+      ttx -o tmp/${font_name}/${font_name}-gsub.ttf -m tmp/${font_name}/${font_name}-colr.ttf templates/gsub.ttx
+
+      #move final font to 'dist' folder
+      mv tmp/${font_name}/${font_name}-gsub.ttf dist/${font_name}/${font_name}.ttf
+    else
+      #move final font to 'dist' folder
+      mv tmp/${font_name}/${font_name}-colr.ttf dist/${font_name}/${font_name}.ttf
+
+  fi
+
+  if [[ ${font_name} == 'FirefoxEmoji' ]]
     then
     mv dist/${font_name}/${font_name}.ttf dist/${font_name}/${font_name}-tmp.ttf
     ttx -o dist/${font_name}/${font_name}.ttf -m dist/${font_name}/${font_name}-tmp.ttf templates/name.ttx

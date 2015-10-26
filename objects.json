@@ -6493,7 +6493,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4EA",
-        "name": "closedmailboxloweredflag"
+        "name": "closedmailboxlowered"
       },
       "layers": [
         {
@@ -6523,7 +6523,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4EC",
-        "name": "openmailboxraisedflag"
+        "name": "openmailboxraised"
       },
       "layers": [
         {
@@ -6573,7 +6573,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4EB",
-        "name": "closedmailboxraisedflag"
+        "name": "closedmailboxraised"
       },
       "layers": [
         {
@@ -6653,7 +6653,7 @@
     "icon": {
       "glyph": {
         "code": "u1F4ED",
-        "name": "openmailboxloweredflag"
+        "name": "openmailboxlowered"
       },
       "layers": [
         {

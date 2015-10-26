@@ -69,33 +69,6 @@
 .icon-FirefoxEmoji-squaredvs:before {
   content: "\1F19A"
 }
-.icon-FirefoxEmoji-chineseflag:before {
-  content: "\1F1E8"
-}
-.icon-FirefoxEmoji-spanishflag:before {
-  content: "\1F1EA"
-}
-.icon-FirefoxEmoji-franceflag:before {
-  content: "\1F1EB"
-}
-.icon-FirefoxEmoji-greatbritainflag:before {
-  content: "\1F1EC"
-}
-.icon-FirefoxEmoji-italianflag:before {
-  content: "\1F1EE"
-}
-.icon-FirefoxEmoji-flagjapan:before {
-  content: "\1F1EF"
-}
-.icon-FirefoxEmoji-flagkorea:before {
-  content: "\1F1F0"
-}
-.icon-FirefoxEmoji-russianflag:before {
-  content: "\1F1F7"
-}
-.icon-FirefoxEmoji-unitedstatesflag:before {
-  content: "\1F1FA"
-}
 .icon-FirefoxEmoji-squaredkatakanakoko:before {
   content: "\1F201"
 }
@@ -1404,16 +1377,16 @@
 .icon-FirefoxEmoji-envelopedownarrowabove:before {
   content: "\1F4E9"
 }
-.icon-FirefoxEmoji-closedmailboxloweredflag:before {
+.icon-FirefoxEmoji-closedmailboxlowered:before {
   content: "\1F4EA"
 }
-.icon-FirefoxEmoji-closedmailboxraisedflag:before {
+.icon-FirefoxEmoji-closedmailboxraised:before {
   content: "\1F4EB"
 }
-.icon-FirefoxEmoji-openmailboxraisedflag:before {
+.icon-FirefoxEmoji-openmailboxraised:before {
   content: "\1F4EC"
 }
-.icon-FirefoxEmoji-openmailboxloweredflag:before {
+.icon-FirefoxEmoji-openmailboxlowered:before {
   content: "\1F4ED"
 }
 .icon-FirefoxEmoji-postbox:before {
