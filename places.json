@@ -2978,23 +2978,28 @@
     "icon": {
       "glyph": {
         "code": "u1F3EE",
-        "name": "IZAKAYALANTERN"
+        "name": "izakayalantern"
       },
       "layers": [
         {
-          "color": "2B3B47",
+          "color": "050505",
           "name": "u1F3EE.layer1",
           "order": 1
         },
         {
-          "color": "FF473E",
+          "color": "C33B32",
           "name": "u1F3EE.layer2",
           "order": 2
         },
         {
-          "color": "D32A2A",
+          "color": "FF473E",
           "name": "u1F3EE.layer3",
           "order": 3
+        },
+        {
+          "color": "C33B32",
+          "name": "u1F3EE.layer4",
+          "order": 4
         }
       ]
     }
