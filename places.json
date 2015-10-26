@@ -1887,24 +1887,29 @@
       },
       "layers": [
         {
-          "color": "2B3B47",
+          "color": "1D4488",
           "name": "u1F309.layer1",
           "order": 1
         },
         {
-          "color": "F7F9AA",
+          "color": "F05A28",
           "name": "u1F309.layer2",
           "order": 2
         },
         {
-          "color": "FFCF53",
+          "color": "1F356B",
           "name": "u1F309.layer3",
           "order": 3
         },
         {
-          "color": "F4580B",
+          "color": "FFCD00",
           "name": "u1F309.layer4",
           "order": 4
+        },
+        {
+          "color": "FFDA70",
+          "name": "u1F309.layer5",
+          "order": 5
         }
       ]
     }
