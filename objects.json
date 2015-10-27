@@ -3272,27 +3272,27 @@
       },
       "layers": [
         {
-          "color": "00B89C",
+          "color": "1B871B",
           "name": "u1F38D.layer1",
           "order": 1
         },
         {
-          "color": "009B81",
+          "color": "175F17",
           "name": "u1F38D.layer2",
           "order": 2
         },
         {
-          "color": "00B89C",
+          "color": "F9E7C0",
           "name": "u1F38D.layer3",
           "order": 3
         },
         {
-          "color": "AF773F",
+          "color": "5BB25B",
           "name": "u1F38D.layer4",
           "order": 4
         },
         {
-          "color": "00D1AE",
+          "color": "5DC15D",
           "name": "u1F38D.layer5",
           "order": 5
         },
@@ -3302,14 +3302,24 @@
           "order": 6
         },
         {
-          "color": "009B81",
+          "color": "1B871B",
           "name": "u1F38D.layer7",
           "order": 7
         },
         {
-          "color": "169136",
+          "color": "E6CA82",
           "name": "u1F38D.layer8",
           "order": 8
+        },
+        {
+          "color": "F2E3BD",
+          "name": "u1F38D.layer9",
+          "order": 9
+        },
+        {
+          "color": "4C311E",
+          "name": "u1F38D.layer10",
+          "order": 10
         }
       ]
     }
