@@ -9283,33 +9283,38 @@
     "icon": {
       "glyph": {
         "code": "u1F4A1",
-        "name": "electriclightbulb"
+        "name": "lightbulb"
       },
       "layers": [
         {
-          "color": "B6C7CE",
+          "color": "FFE46A",
           "name": "u1F4A1.layer1",
           "order": 1
         },
         {
-          "color": "FFD469",
+          "color": "FFF0B7",
           "name": "u1F4A1.layer2",
           "order": 2
         },
         {
-          "color": "FFB636",
+          "color": "FFDA00",
           "name": "u1F4A1.layer3",
           "order": 3
         },
         {
-          "color": "597B91",
+          "color": "FAAF63",
           "name": "u1F4A1.layer4",
           "order": 4
         },
         {
-          "color": "B6C7CE",
+          "color": "6B83A5",
           "name": "u1F4A1.layer5",
           "order": 5
+        },
+        {
+          "color": "ABBDDB",
+          "name": "u1F4A1.layer6",
+          "order": 6
         }
       ]
     }
