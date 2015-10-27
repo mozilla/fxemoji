@@ -3,10 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g id="Layer_4">
-	<path fill="#00A7E0" d="M237.851,105.901c51.969-51.969,136.227-51.969,188.195,0c14.373,14.373,24.752,31.222,31.174,49.168
-		c-5.25-24.028-17.178-46.889-35.86-65.571c-51.969-51.969-136.227-51.969-188.196,0c-37.596,37.596-47.974,92.085-31.174,139.028
-		C192.636,185.714,204.564,139.187,237.851,105.901z"/>
+<g id="Layer_6">
+	<polygon fill="#5BC0A4" points="53.165,405.596 106.404,458.835 170.629,388.882 123.118,341.371 	"/>
 </g>
 <g id="Layer_1">
 </g>
