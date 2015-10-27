@@ -25302,19 +25302,29 @@
           "order": 1
         },
         {
-          "color": "0B7C23",
+          "color": "F27A15",
           "name": "u1F383.layer2",
           "order": 2
         },
         {
-          "color": "0EAA2B",
+          "color": "0B7C23",
           "name": "u1F383.layer3",
           "order": 3
         },
         {
-          "color": "4C311E",
+          "color": "0EAA2B",
           "name": "u1F383.layer4",
           "order": 4
+        },
+        {
+          "color": "4C311E",
+          "name": "u1F383.layer5",
+          "order": 5
+        },
+        {
+          "color": "F27A15",
+          "name": "u1F383.layer6",
+          "order": 6
         }
       ]
     }
