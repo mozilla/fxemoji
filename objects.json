@@ -1212,29 +1212,54 @@
       },
       "layers": [
         {
-          "color": "164C5B",
+          "color": "1F356B",
           "name": "u1F391.layer1",
           "order": 1
         },
         {
-          "color": "CAE4ED",
+          "color": "FFFAE9",
           "name": "u1F391.layer2",
           "order": 2
         },
         {
-          "color": "D19B61",
+          "color": "FFF0B7",
           "name": "u1F391.layer3",
           "order": 3
         },
         {
-          "color": "FFD469",
+          "color": "8A4537",
           "name": "u1F391.layer4",
           "order": 4
         },
         {
-          "color": "5BB25B",
+          "color": "A85D39",
           "name": "u1F391.layer5",
           "order": 5
+        },
+        {
+          "color": "FFDA70",
+          "name": "u1F391.layer6",
+          "order": 6
+        },
+        {
+          "color": "6EBE4A",
+          "name": "u1F391.layer7",
+          "order": 7
+        },
+        {
+          "color": "7DC04C",
+          "name": "u1F391.layer8",
+          "order": 8
+        },
+        {
+          "color": "6EBE4A",
+          "name": "u1F391.layer9",
+          "order": 9
+        },
+        {
+          "color": "FFDA00",
+          "name": "u1F391.layer10",
+          "order": 10
         }
       ]
     }
