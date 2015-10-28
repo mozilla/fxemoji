@@ -3473,33 +3473,48 @@
     "icon": {
       "glyph": {
         "code": "u26C4",
-        "name": "snowmannosnow"
+        "name": "snowmanwithoutsnow"
       },
       "layers": [
         {
-          "color": "E5E4DF",
+          "color": "4C311E",
           "name": "u26C4.layer1",
           "order": 1
         },
         {
-          "color": "597B91",
+          "color": "E5E4DF",
           "name": "u26C4.layer2",
           "order": 2
         },
         {
-          "color": "132028",
+          "color": "FFB636",
           "name": "u26C4.layer3",
           "order": 3
         },
         {
-          "color": "FF473E",
+          "color": "132028",
           "name": "u26C4.layer4",
           "order": 4
         },
         {
-          "color": "FFB636",
+          "color": "4C311E",
           "name": "u26C4.layer5",
           "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u26C4.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u26C4.layer7",
+          "order": 7
+        },
+        {
+          "color": "E53939",
+          "name": "u26C4.layer8",
+          "order": 8
         }
       ]
     }

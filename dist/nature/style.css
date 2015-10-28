@@ -415,7 +415,7 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-nature-bolt:before {
   content: "\26A1"
 }
-.icon-nature-snowmannosnow:before {
+.icon-nature-snowmanwithoutsnow:before {
   content: "\26C4"
 }
 .icon-nature-sunbehindcloud:before {
