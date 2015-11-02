@@ -4,8 +4,9 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g id="Layer_7">
-	<polygon fill="#FF473E" points="444.569,88 437,64.678 437,64 436.336,64 76,64 76,64.277 67.431,88 0,88 0,400 512,400 512,88 	
-		"/>
+	<path fill="#132028" d="M512,496H0v-32h512V496z M512,400H0v32h105.371c3.295,9.32,12.18,16,22.629,16s19.334-6.68,22.629-16
+		h210.742c3.295,9.32,12.18,16,22.629,16s19.334-6.68,22.629-16H512V400z M368,152H260v144h108V152z M376,152v144h108V152H376z
+		 M136,152H28v144h108V152z M144,152v144h108V152H144z"/>
 </g>
 <g id="Layer_1">
 </g>

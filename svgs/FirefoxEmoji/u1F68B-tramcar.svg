@@ -1,35 +1,34 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#575A5B;}
+	.st1{fill:#E5E4DF;}
+	.st2{fill:#132028;}
+	.st3{fill:#FF473E;}
+	.st4{fill:#F9F9F7;}
+</style>
 <g id="Layer_2">
-	<path fill="#575A5B" d="M176,424c0,26.51-21.49,48-48,48s-48-21.49-48-48 M336,424c0,26.51,21.49,48,48,48s48-21.49,48-48"/>
+	<path class="st0" d="M176,424c0,26.5-21.5,48-48,48s-48-21.5-48-48 M336,424c0,26.5,21.5,48,48,48s48-21.5,48-48"/>
 </g>
 <g id="Layer_3">
-	<rect y="24" fill="#E5E4DF" width="512" height="8"/>
+	<rect y="24" class="st1" width="512" height="8"/>
 </g>
 <g id="Layer_4">
-	
-		<rect x="191.513" y="47.919" transform="matrix(0.7071 0.7071 -0.7071 0.7071 109.8923 -153.3036)" fill="#132028" width="96.975" height="16.162"/>
+	<path class="st2" d="M312,27.4l-11-11V16h-0.4l0,0l0,0h-89.1l0,0l0,0H211v0.4l-11,11L244.6,72L232,84.6L243.4,96L256,83.4L268.6,96
+		L280,84.6L267.4,72L312,27.4z M227.4,32h57.1L256,60.6L227.4,32z"/>
 </g>
 <g id="Layer_5">
-	<rect x="211" y="16" fill="#132028" width="90" height="16"/>
+	<polygon class="st3" points="444.6,88 437,64.7 437,64 436.3,64 76,64 76,64.3 67.4,88 0,88 0,400 512,400 512,88 	"/>
 </g>
 <g id="Layer_6">
-	
-		<rect x="223.513" y="47.919" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 503.931 -96.7351)" fill="#132028" width="96.975" height="16.162"/>
+	<rect y="96" class="st4" width="512" height="224"/>
 </g>
 <g id="Layer_7">
-	<polygon fill="#FF473E" points="444.569,88 437,64.678 437,64 436.336,64 76,64 76,64.277 67.431,88 0,88 0,400 512,400 512,88 	
-		"/>
-</g>
-<g id="Layer_8">
-	<rect y="96" fill="#F9F9F7" width="512" height="224"/>
-</g>
-<g id="Layer_9">
-	<path fill="#132028" d="M512,496H0v-32h512V496z M512,400H0v32h105.371c3.295,9.32,12.18,16,22.629,16s19.334-6.68,22.629-16
-		h210.742c3.295,9.32,12.18,16,22.629,16s19.334-6.68,22.629-16H512V400z M368,152H260v144h108V152z M376,152v144h108V152H376z
-		 M136,152H28v144h108V152z M144,152v144h108V152H144z"/>
+	<path class="st2" d="M512,496H0v-32h512V496z M512,400H0v32h105.4c3.3,9.3,12.2,16,22.6,16s19.3-6.7,22.6-16h210.7
+		c3.3,9.3,12.2,16,22.6,16s19.3-6.7,22.6-16H512V400z M368,152H260v144h108V152z M376,152v144h108V152H376z M136,152H28v144h108V152
+		z M144,152v144h108V152H144z"/>
 </g>
 </svg>

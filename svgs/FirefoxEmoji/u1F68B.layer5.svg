@@ -4,8 +4,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g id="Layer_6">
-	
-		<rect x="223.513" y="47.919" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 503.931 -96.7351)" fill="#132028" width="96.975" height="16.162"/>
+	<rect y="96" fill="#F9F9F7" width="512" height="224"/>
 </g>
 <g id="Layer_1">
 </g>
