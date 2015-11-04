@@ -2867,31 +2867,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "uF509",
-        "name": "speaker1soundwave"
-      },
-      "layers": [
-        {
-          "color": "ADB8BC",
-          "name": "uF509.layer1",
-          "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "uF509.layer2",
-          "order": 2
-        },
-        {
-          "color": "7D9DAF",
-          "name": "uF509.layer3",
-          "order": 3
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u270F",
         "name": "pencil"
       },
