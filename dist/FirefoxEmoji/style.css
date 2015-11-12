@@ -400,9 +400,6 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-greenapple:before {
   content: "\1F34F"
 }
-.icon-FirefoxEmoji-bread:before {
-  content: "\1F35"
-}
 .icon-FirefoxEmoji-pear:before {
   content: "\1F350"
 }
@@ -444,6 +441,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 }
 .icon-FirefoxEmoji-spaghetti:before {
   content: "\1F35D"
+}
+.icon-FirefoxEmoji-bread:before {
+  content: "\1F35E"
 }
 .icon-FirefoxEmoji-frenchfries:before {
   content: "\1F35F"

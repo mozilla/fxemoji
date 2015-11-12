@@ -1787,26 +1787,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F35",
-        "name": "bread"
-      },
-      "layers": [
-        {
-          "color": "BC7535",
-          "name": "u1F35.layer1",
-          "order": 1
-        },
-        {
-          "color": "FCDEA2",
-          "name": "u1F35.layer2",
-          "order": 2
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F509",
         "name": "Speakeronesoundwave"
       },
@@ -3570,6 +3550,26 @@
           "color": "FFB941",
           "name": "u1F35D.layer6",
           "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F35E",
+        "name": "bread"
+      },
+      "layers": [
+        {
+          "color": "BC7535",
+          "name": "u1F35E.layer1",
+          "order": 1
+        },
+        {
+          "color": "FCDEA2",
+          "name": "u1F35E.layer2",
+          "order": 2
         }
       ]
     }

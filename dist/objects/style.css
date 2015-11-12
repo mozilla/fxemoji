@@ -112,9 +112,6 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-greenapple:before {
   content: "\1F34F"
 }
-.icon-objects-bread:before {
-  content: "\1F35"
-}
 .icon-objects-pear:before {
   content: "\1F350"
 }
@@ -156,6 +153,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 }
 .icon-objects-spaghetti:before {
   content: "\1F35D"
+}
+.icon-objects-bread:before {
+  content: "\1F35E"
 }
 .icon-objects-frenchfries:before {
   content: "\1F35F"
