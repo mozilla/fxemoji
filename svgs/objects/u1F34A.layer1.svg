@@ -4,8 +4,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 <g id="Layer_2">
-	
-		<ellipse transform="matrix(0.9971 -0.0757 0.0757 0.9971 -21.5277 20.3606)" fill="#FFA52E" cx="257.836" cy="294.176" rx="233.768" ry="214.658"/>
+	<path fill="#FFA52E" d="M490.934,276.481c8.974,118.212-88.113,221.964-216.849,231.737
+		c-128.736,9.773-240.372-78.135-249.346-196.347S112.851,89.907,241.588,80.135S481.96,158.269,490.934,276.481z"/>
 </g>
 <g id="Layer_1">
 </g>
