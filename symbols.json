@@ -1492,13 +1492,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2660",
-        "name": "blackspadesuit"
+        "code": "u1F5D9",
+        "name": "cancellationx"
       },
       "layers": [
         {
           "color": "2B3B47",
-          "name": "u2660.layer1",
+          "name": "u1F5D9.layer1",
           "order": 1
         }
       ]
@@ -4015,6 +4015,21 @@
           "color": "FFFFFF",
           "name": "u2748.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2660",
+        "name": "blackspadesuit"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2660.layer1",
+          "order": 1
         }
       ]
     }
