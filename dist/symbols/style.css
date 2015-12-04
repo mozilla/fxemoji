@@ -367,6 +367,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-compression:before {
   content: "\1F5DC"
 }
+.icon-symbols-oldkey:before {
+  content: "\1F5DD"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
