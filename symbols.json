@@ -1092,6 +1092,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5E3",
+        "name": "speakingheadinsilhouette"
+      },
+      "layers": [
+        {
+          "color": "48677E",
+          "name": "u1F5E3.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26AB",
         "name": "mediumblackcircle"
       },

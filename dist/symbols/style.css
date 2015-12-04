@@ -370,6 +370,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-oldkey:before {
   content: "\1F5DD"
 }
+.icon-symbols-speakingheadinsilhouette:before {
+  content: "\1F5E3"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
