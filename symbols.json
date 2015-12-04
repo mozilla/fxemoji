@@ -1397,6 +1397,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5D5",
+        "name": "minimize"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F5D5.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5D4",
         "name": "window"
       },

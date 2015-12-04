@@ -343,6 +343,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-window:before {
   content: "\1F5D4"
 }
+.icon-symbols-minimize:before {
+  content: "\1F5D5"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
