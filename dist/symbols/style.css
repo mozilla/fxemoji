@@ -382,6 +382,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-threeraysleft:before {
   content: "\1F5E6"
 }
+.icon-symbols-threeraysright:before {
+  content: "\1F5E7"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
