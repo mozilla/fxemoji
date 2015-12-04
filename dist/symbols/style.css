@@ -340,6 +340,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-clock12thirty:before {
   content: "\1F567"
 }
+.icon-symbols-window:before {
+  content: "\1F5D4"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
