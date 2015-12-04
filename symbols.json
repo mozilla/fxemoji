@@ -1507,6 +1507,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5D8",
+        "name": "clockwiseleftrightarrows"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F5D8.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F5D8.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2666",
         "name": "blackdiamondsuit"
       },

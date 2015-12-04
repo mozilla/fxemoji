@@ -352,6 +352,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-overlap:before {
   content: "\1F5D7"
 }
+.icon-symbols-clockwiseleftrightarrows:before {
+  content: "\1F5D8"
+}
 .icon-symbols-noentrysign:before {
   content: "\1F6AB"
 }
