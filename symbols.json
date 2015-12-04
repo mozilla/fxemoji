@@ -4522,6 +4522,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F53F",
+        "name": "upperrightwhitecircle"
+      },
+      "layers": [
+        {
+          "color": "BCBCBC",
+          "name": "u1F53F.layer1",
+          "order": 1
+        },
+        {
+          "color": "E0E0E0",
+          "name": "u1F53F.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F53D",
         "name": "downpointingsmallredtrisngle"
       },
