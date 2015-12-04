@@ -298,6 +298,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-downpointingsmallredtrisngle:before {
   content: "\1F53D"
 }
+.icon-symbols-lowerrightwhitecircle:before {
+  content: "\1F53E"
+}
 .icon-symbols-clock1oclock:before {
   content: "\1F550"
 }
