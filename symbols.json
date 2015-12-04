@@ -3057,14 +3057,59 @@
   {
     "icon": {
       "glyph": {
-        "code": "u25AA",
-        "name": "blacksmallsquare"
+        "code": "u1F5DC",
+        "name": "compression"
       },
       "layers": [
         {
-          "color": "132028",
-          "name": "u25AA.layer1",
+          "color": "AF773F",
+          "name": "u1F5DC.layer1",
           "order": 1
+        },
+        {
+          "color": "332A23",
+          "name": "u1F5DC.layer2",
+          "order": 2
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F5DC.layer3",
+          "order": 3
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F5DC.layer4",
+          "order": 4
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F5DC.layer5",
+          "order": 5
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F5DC.layer6",
+          "order": 6
+        },
+        {
+          "color": "819096",
+          "name": "u1F5DC.layer7",
+          "order": 7
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F5DC.layer8",
+          "order": 8
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F5DC.layer9",
+          "order": 9
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F5DC.layer10",
+          "order": 10
         }
       ]
     }
@@ -3985,6 +4030,21 @@
           "color": "FFFFFF",
           "name": "u1F52F.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u25AA",
+        "name": "blacksmallsquare"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u25AA.layer1",
+          "order": 1
         }
       ]
     }
