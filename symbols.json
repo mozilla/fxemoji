@@ -3087,14 +3087,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2716",
-        "name": "heavymultiplicationsymbol"
+        "code": "u1F5DB",
+        "name": "decreasefontsize"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u2716.layer1",
+          "color": "597B91",
+          "name": "u1F5DB.layer1",
           "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F5DB.layer2",
+          "order": 2
         }
       ]
     }
@@ -4030,6 +4035,21 @@
           "color": "FFFFFF",
           "name": "u2748.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u2716",
+        "name": "heavymultiplicationsymbol"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2716.layer1",
+          "order": 1
         }
       ]
     }
