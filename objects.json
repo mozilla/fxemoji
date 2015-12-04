@@ -2647,21 +2647,6 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F57B",
-        "name": "telephonereceiver"
-      },
-      "layers": [
-        {
-          "color": "132028",
-          "name": "u1F57B.layer1",
-          "order": 1
-        }
-      ]
-    }
-  },
-  {
-    "icon": {
-      "glyph": {
         "code": "u1F508",
         "name": "speaker"
       },

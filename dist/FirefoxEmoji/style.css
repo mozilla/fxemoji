@@ -1711,6 +1711,12 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-downpointingsmallredtrisngle:before {
   content: "\1F53D"
 }
+.icon-FirefoxEmoji-lowerrightwhitecircle:before {
+  content: "\1F53E"
+}
+.icon-FirefoxEmoji-upperrightwhitecircle:before {
+  content: "\1F53F"
+}
 .icon-FirefoxEmoji-clock1oclock:before {
   content: "\1F550"
 }
@@ -1753,14 +1759,65 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-clock12thirty:before {
   content: "\1F567"
 }
-.icon-FirefoxEmoji-telephonereceiver:before {
+.icon-FirefoxEmoji-rightspeaker3soundwaves:before {
+  content: "\1F56A"
+}
+.icon-FirefoxEmoji-lefthandphone:before {
   content: "\1F57B"
+}
+.icon-FirefoxEmoji-phonewithpage:before {
+  content: "\1F57C"
 }
 .icon-FirefoxEmoji-blacktouchtonetelephone:before {
   content: "\1F57F"
 }
 .icon-FirefoxEmoji-floppydisk:before {
   content: "\1F5AA"
+}
+.icon-FirefoxEmoji-window:before {
+  content: "\1F5D4"
+}
+.icon-FirefoxEmoji-minimize:before {
+  content: "\1F5D5"
+}
+.icon-FirefoxEmoji-maximize:before {
+  content: "\1F5D6"
+}
+.icon-FirefoxEmoji-overlap:before {
+  content: "\1F5D7"
+}
+.icon-FirefoxEmoji-clockwiseleftrightarrows:before {
+  content: "\1F5D8"
+}
+.icon-FirefoxEmoji-cancellationx:before {
+  content: "\1F5D9"
+}
+.icon-FirefoxEmoji-increasefontsize:before {
+  content: "\1F5DA"
+}
+.icon-FirefoxEmoji-decreasefontsize:before {
+  content: "\1F5DB"
+}
+.icon-FirefoxEmoji-compression:before {
+  content: "\1F5DC"
+}
+.icon-FirefoxEmoji-oldkey:before {
+  content: "\1F5DD"
+}
+.icon-FirefoxEmoji-speakingheadinsilhouette:before {
+  content: "\1F5E3"
+}
+.icon-FirefoxEmoji-threeraysabove:before {
+  content: "\1F5E4"
+}
+.icon-FirefoxEmoji-threeraysbelow:before {
+  content: "\1F5E5"
+}
+.icon-FirefoxEmoji-threeraysleft:before {
+  content: "\1F5E6"
+}
+.icon-FirefoxEmoji-threeraysright:before {
+  content: "\1F5E7"
 }
 .icon-FirefoxEmoji-mountfuji:before {
   content: "\1F5FB"
