@@ -1782,6 +1782,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2796",
+        "name": "heavyminussign"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2796.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u27BF",
         "name": "doublecurlyloop"
       },
@@ -1897,13 +1912,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2796",
-        "name": "heavyminussign"
+        "code": "u1F57B",
+        "name": "lefthandphone"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u2796.layer1",
+          "color": "132028",
+          "name": "u1F57B.layer1",
           "order": 1
         }
       ]
