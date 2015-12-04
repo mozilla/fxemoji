@@ -1327,6 +1327,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F56A",
+        "name": "rightspeaker3soundwaves"
+      },
+      "layers": [
+        {
+          "color": "ADB8BC",
+          "name": "u1F56A.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F56A.layer2",
+          "order": 2
+        },
+        {
+          "color": "7D9DAF",
+          "name": "u1F56A.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2B05",
         "name": "leftwardsblackarrow"
       },
