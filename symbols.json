@@ -1797,6 +1797,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u2797",
+        "name": "heavydivisionsign"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u2797.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u27BF",
         "name": "doublecurlyloop"
       },
@@ -1927,24 +1952,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u2797",
-        "name": "heavydivisionsign"
+        "code": "u1F57C",
+        "name": "phonewithpage"
       },
       "layers": [
         {
-          "color": "2B3B47",
-          "name": "u2797.layer1",
+          "color": "132028",
+          "name": "u1F57C.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u2797.layer2",
+          "color": "BCBCBC",
+          "name": "u1F57C.layer2",
           "order": 2
-        },
-        {
-          "color": "2B3B47",
-          "name": "u2797.layer3",
-          "order": 3
         }
       ]
     }
