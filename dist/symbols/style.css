@@ -355,6 +355,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-phonewithpage:before {
   content: "\1F57C"
 }
+.icon-symbols-righthandphone:before {
+  content: "\1F57D"
+}
 .icon-symbols-window:before {
   content: "\1F5D4"
 }

@@ -2012,6 +2012,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F57D",
+        "name": "righthandphone"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u1F57D.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F22F",
         "name": "CJKunifiedideograph_a"
       },
