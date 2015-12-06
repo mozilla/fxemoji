@@ -358,6 +358,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-rightspeaker:before {
   content: "\1F568"
 }
+.icon-symbols-speakerwith1soundwave:before {
+  content: "\1F569"
+}
 .icon-symbols-rightspeaker3soundwaves:before {
   content: "\1F56A"
 }
