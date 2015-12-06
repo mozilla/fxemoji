@@ -1847,6 +1847,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F572",
+        "name": "nopiracy"
+      },
+      "layers": [
+        {
+          "color": "EDC0A2",
+          "name": "u1F572.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F572.layer2",
+          "order": 2
+        },
+        {
+          "color": "68442A",
+          "name": "u1F572.layer3",
+          "order": 3
+        },
+        {
+          "color": "D19871",
+          "name": "u1F572.layer4",
+          "order": 4
+        },
+        {
+          "color": "332A23",
+          "name": "u1F572.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F572.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F572.layer7",
+          "order": 7
+        },
+        {
+          "color": "FF5850",
+          "name": "u1F572.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u27BF",
         "name": "doublecurlyloop"
       },
