@@ -304,6 +304,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-symbols-upperrightwhitecircle:before {
   content: "\1F53F"
 }
+.icon-symbols-notchedrightsemi3dot:before {
+  content: "\1F544"
+}
 .icon-symbols-clock1oclock:before {
   content: "\1F550"
 }

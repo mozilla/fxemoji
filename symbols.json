@@ -3687,6 +3687,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F544",
+        "name": "notchedrightsemi3dot"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F544.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6C3",
         "name": "customs"
       },
