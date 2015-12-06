@@ -1717,6 +1717,15 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-upperrightwhitecircle:before {
   content: "\1F53F"
 }
+.icon-FirefoxEmoji-notchedrightsemi3dot:before {
+  content: "\1F544"
+}
+.icon-FirefoxEmoji-markschaptersymbol:before {
+  content: "\1F545"
+}
+.icon-FirefoxEmoji-omsymbol:before {
+  content: "\1F549"
+}
 .icon-FirefoxEmoji-clock1oclock:before {
   content: "\1F550"
 }
@@ -1759,14 +1768,26 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-clock12thirty:before {
   content: "\1F567"
 }
+.icon-FirefoxEmoji-rightspeaker:before {
+  content: "\1F568"
+}
+.icon-FirefoxEmoji-speakerwith1soundwave:before {
+  content: "\1F569"
+}
 .icon-FirefoxEmoji-rightspeaker3soundwaves:before {
   content: "\1F56A"
+}
+.icon-FirefoxEmoji-nopiracy:before {
+  content: "\1F572"
 }
 .icon-FirefoxEmoji-lefthandphone:before {
   content: "\1F57B"
 }
 .icon-FirefoxEmoji-phonewithpage:before {
   content: "\1F57C"
+}
+.icon-FirefoxEmoji-righthandphone:before {
+  content: "\1F57D"
 }
 .icon-FirefoxEmoji-blacktouchtonetelephone:before {
   content: "\1F57F"
@@ -2613,4 +2634,22 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 }
 .icon-FirefoxEmoji-circledideographsecret:before {
   content: "\3299"
+}
+.icon-FirefoxEmoji-u3299.layer5:before {
+  content: "\F000"
+}
+.icon-FirefoxEmoji-unitedstatesflag.layer1:before {
+  content: "\F001"
+}
+.icon-FirefoxEmoji-unitedstatesflag.layer2:before {
+  content: "\F002"
+}
+.icon-FirefoxEmoji-unitedstatesflag.layer3:before {
+  content: "\F003"
+}
+.icon-FirefoxEmoji-unitedstatesflag.layer4:before {
+  content: "\F004"
+}
+.icon-FirefoxEmoji-unitedstatesflag:before {
+  content: "\F005"
 }
