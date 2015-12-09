@@ -62,6 +62,81 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3DF",
+        "name": "stadium"
+      },
+      "layers": [
+        {
+          "color": "FF99AA",
+          "name": "u1F3DF.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFA9BA",
+          "name": "u1F3DF.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3DF.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4580B",
+          "name": "u1F3DF.layer4",
+          "order": 4
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3DF.layer5",
+          "order": 5
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3DF.layer6",
+          "order": 6
+        },
+        {
+          "color": "D9DBDB",
+          "name": "u1F3DF.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3DF.layer8",
+          "order": 8
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3DF.layer9",
+          "order": 9
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3DF.layer10",
+          "order": 10
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3DF.layer11",
+          "order": 11
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3DF.layer12",
+          "order": 12
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3DF.layer13",
+          "order": 13
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3DC",
         "name": "desert"
       },

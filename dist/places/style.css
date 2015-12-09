@@ -121,6 +121,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-places-nationalpark:before {
   content: "\1F3DE"
 }
+.icon-places-stadium:before {
+  content: "\1F3DF"
+}
 .icon-places-housebuilding:before {
   content: "\1F3E0"
 }
