@@ -1837,6 +1837,131 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3D7",
+        "name": "construction"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F3D7.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D7.layer2",
+          "order": 2
+        },
+        {
+          "color": "E2AF8D",
+          "name": "u1F3D7.layer3",
+          "order": 3
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3D7.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D7.layer5",
+          "order": 5
+        },
+        {
+          "color": "D8D8D8",
+          "name": "u1F3D7.layer6",
+          "order": 6
+        },
+        {
+          "color": "D7F4F7",
+          "name": "u1F3D7.layer7",
+          "order": 7
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D7.layer8",
+          "order": 8
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3D7.layer9",
+          "order": 9
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D7.layer10",
+          "order": 10
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3D7.layer11",
+          "order": 11
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3D7.layer12",
+          "order": 12
+        },
+        {
+          "color": "009E83",
+          "name": "u1F3D7.layer13",
+          "order": 13
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D7.layer14",
+          "order": 14
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D7.layer15",
+          "order": 15
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D7.layer16",
+          "order": 16
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3D7.layer17",
+          "order": 17
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D7.layer18",
+          "order": 18
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F3D7.layer19",
+          "order": 19
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D7.layer20",
+          "order": 20
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D7.layer21",
+          "order": 21
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3D7.layer22",
+          "order": 22
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D7.layer23",
+          "order": 23
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3D6",
         "name": "beachumbrella"
       },
