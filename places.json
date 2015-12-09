@@ -2,6 +2,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3DE",
+        "name": "nationalpark"
+      },
+      "layers": [
+        {
+          "color": "D7F4F7",
+          "name": "u1F3DE.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F3DE.layer2",
+          "order": 2
+        },
+        {
+          "color": "AAA8A0",
+          "name": "u1F3DE.layer3",
+          "order": 3
+        },
+        {
+          "color": "C1BFB4",
+          "name": "u1F3DE.layer4",
+          "order": 4
+        },
+        {
+          "color": "E2DFD3",
+          "name": "u1F3DE.layer5",
+          "order": 5
+        },
+        {
+          "color": "0A8E0A",
+          "name": "u1F3DE.layer6",
+          "order": 6
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3DE.layer7",
+          "order": 7
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3DE.layer8",
+          "order": 8
+        },
+        {
+          "color": "2BA52E",
+          "name": "u1F3DE.layer9",
+          "order": 9
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F3DE.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3DC",
         "name": "desert"
       },
@@ -1227,19 +1287,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u26A0",
-        "name": "warningsign"
+        "code": "u1F3EE",
+        "name": "IZAKAYALANTERN"
       },
       "layers": [
         {
-          "color": "FFB636",
-          "name": "u26A0.layer1",
+          "color": "050505",
+          "name": "u1F3EE.layer1",
           "order": 1
         },
         {
-          "color": "2B3B47",
-          "name": "u26A0.layer2",
+          "color": "C33B32",
+          "name": "u1F3EE.layer2",
           "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3EE.layer3",
+          "order": 3
+        },
+        {
+          "color": "C33B32",
+          "name": "u1F3EE.layer4",
+          "order": 4
         }
       ]
     }
@@ -3192,29 +3262,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F3EE",
-        "name": "IZAKAYALANTERN"
+        "code": "u26A0",
+        "name": "warningsign"
       },
       "layers": [
         {
-          "color": "050505",
-          "name": "u1F3EE.layer1",
+          "color": "FFB636",
+          "name": "u26A0.layer1",
           "order": 1
         },
         {
-          "color": "C33B32",
-          "name": "u1F3EE.layer2",
+          "color": "2B3B47",
+          "name": "u26A0.layer2",
           "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F3EE.layer3",
-          "order": 3
-        },
-        {
-          "color": "C33B32",
-          "name": "u1F3EE.layer4",
-          "order": 4
         }
       ]
     }
