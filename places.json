@@ -1837,6 +1837,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3D6",
+        "name": "beachumbrella"
+      },
+      "layers": [
+        {
+          "color": "FFCF53",
+          "name": "u1F3D6.layer1",
+          "order": 1
+        },
+        {
+          "color": "C2F4FF",
+          "name": "u1F3D6.layer2",
+          "order": 2
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F3D6.layer3",
+          "order": 3
+        },
+        {
+          "color": "F9E7C0",
+          "name": "u1F3D6.layer4",
+          "order": 4
+        },
+        {
+          "color": "F9E7C0",
+          "name": "u1F3D6.layer5",
+          "order": 5
+        },
+        {
+          "color": "E5D4B1",
+          "name": "u1F3D6.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D6.layer7",
+          "order": 7
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D6.layer8",
+          "order": 8
+        },
+        {
+          "color": "FD8C97",
+          "name": "u1F3D6.layer9",
+          "order": 9
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F3D6.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2668",
         "name": "hotsprings"
       },
