@@ -2,6 +2,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3DC",
+        "name": "desert"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F3DC.layer1",
+          "order": 1
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F3DC.layer2",
+          "order": 2
+        },
+        {
+          "color": "2BA52E",
+          "name": "u1F3DC.layer3",
+          "order": 3
+        },
+        {
+          "color": "5DC15D",
+          "name": "u1F3DC.layer4",
+          "order": 4
+        },
+        {
+          "color": "2BA52E",
+          "name": "u1F3DC.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF9C39",
+          "name": "u1F3DC.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F699",
         "name": "recreationalvehicle"
       },

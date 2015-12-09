@@ -115,6 +115,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-places-construction:before {
   content: "\1F3D7"
 }
+.icon-places-desert:before {
+  content: "\1F3DC"
+}
 .icon-places-housebuilding:before {
   content: "\1F3E0"
 }
