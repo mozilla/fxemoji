@@ -2112,6 +2112,66 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3D5",
+        "name": "camping"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D5.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D5.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D5.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D5.layer4",
+          "order": 4
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3D5.layer5",
+          "order": 5
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D5.layer6",
+          "order": 6
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3D5.layer7",
+          "order": 7
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F3D5.layer8",
+          "order": 8
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3D5.layer9",
+          "order": 9
+        },
+        {
+          "color": "2BA52E",
+          "name": "u1F3D5.layer10",
+          "order": 10
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3D7",
         "name": "construction"
       },
