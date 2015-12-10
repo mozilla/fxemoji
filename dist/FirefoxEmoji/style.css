@@ -721,6 +721,51 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-swimming:before {
   content: "\1F3CA"
 }
+.icon-FirefoxEmoji-weightlifter:before {
+  content: "\1F3CB"
+}
+.icon-FirefoxEmoji-golfer:before {
+  content: "\1F3CC"
+}
+.icon-FirefoxEmoji-motorcycle:before {
+  content: "\1F3CD"
+}
+.icon-FirefoxEmoji-racecar:before {
+  content: "\1F3CE"
+}
+.icon-FirefoxEmoji-snowmountains:before {
+  content: "\1F3D4"
+}
+.icon-FirefoxEmoji-camping:before {
+  content: "\1F3D5"
+}
+.icon-FirefoxEmoji-beachumbrella:before {
+  content: "\1F3D6"
+}
+.icon-FirefoxEmoji-construction:before {
+  content: "\1F3D7"
+}
+.icon-FirefoxEmoji-housebuildings:before {
+  content: "\1F3D8"
+}
+.icon-FirefoxEmoji-cityscape:before {
+  content: "\1F3D9"
+}
+.icon-FirefoxEmoji-classicalbuilding:before {
+  content: "\1F3DB"
+}
+.icon-FirefoxEmoji-desert:before {
+  content: "\1F3DC"
+}
+.icon-FirefoxEmoji-desertisland:before {
+  content: "\1F3DD"
+}
+.icon-FirefoxEmoji-nationalpark:before {
+  content: "\1F3DE"
+}
+.icon-FirefoxEmoji-stadium:before {
+  content: "\1F3DF"
+}
 .icon-FirefoxEmoji-housebuilding:before {
   content: "\1F3E0"
 }
@@ -2434,222 +2479,825 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-FirefoxEmoji-saggitarius:before {
   content: "\2650"
 }
+.icon-FirefoxEmoji-u2650.layer3:before {
+  content: "\F000"
+}
 .icon-FirefoxEmoji-capricorn:before {
   content: "\2651"
+}
+.icon-FirefoxEmoji-u2651.layer1:before {
+  content: "\F001"
+}
+.icon-FirefoxEmoji-u2651.layer2:before {
+  content: "\F002"
+}
+.icon-FirefoxEmoji-u2651.layer3:before {
+  content: "\F003"
 }
 .icon-FirefoxEmoji-aquarius:before {
   content: "\2652"
 }
+.icon-FirefoxEmoji-u2652.layer1:before {
+  content: "\F004"
+}
+.icon-FirefoxEmoji-u2652.layer2:before {
+  content: "\F005"
+}
+.icon-FirefoxEmoji-u2652.layer3:before {
+  content: "\F006"
+}
+.icon-FirefoxEmoji-u2652.layer4:before {
+  content: "\F007"
+}
 .icon-FirefoxEmoji-pisces:before {
   content: "\2653"
+}
+.icon-FirefoxEmoji-u2653.layer1:before {
+  content: "\F008"
+}
+.icon-FirefoxEmoji-u2653.layer2:before {
+  content: "\F009"
+}
+.icon-FirefoxEmoji-u2653.layer3:before {
+  content: "\F00A"
 }
 .icon-FirefoxEmoji-blackspadesuit:before {
   content: "\2660"
 }
+.icon-FirefoxEmoji-u2660.layer1:before {
+  content: "\F00B"
+}
 .icon-FirefoxEmoji-blackclubsuit:before {
   content: "\2663"
+}
+.icon-FirefoxEmoji-u2663.layer1:before {
+  content: "\F00C"
 }
 .icon-FirefoxEmoji-blackheartsuit:before {
   content: "\2665"
 }
+.icon-FirefoxEmoji-u2665.layer1:before {
+  content: "\F00D"
+}
 .icon-FirefoxEmoji-blackdiamondsuit:before {
   content: "\2666"
+}
+.icon-FirefoxEmoji-u2666.layer1:before {
+  content: "\F00E"
 }
 .icon-FirefoxEmoji-hotsprings:before {
   content: "\2668"
 }
+.icon-FirefoxEmoji-u2668.layer1:before {
+  content: "\F00F"
+}
 .icon-FirefoxEmoji-blackuniversalrecyclingsymbol:before {
   content: "\267B"
+}
+.icon-FirefoxEmoji-u267B.layer1:before {
+  content: "\F010"
+}
+.icon-FirefoxEmoji-u267B.layer2:before {
+  content: "\F011"
+}
+.icon-FirefoxEmoji-u267B.layer3:before {
+  content: "\F012"
+}
+.icon-FirefoxEmoji-u267B.layer4:before {
+  content: "\F013"
+}
+.icon-FirefoxEmoji-u267B.layer5:before {
+  content: "\F014"
+}
+.icon-FirefoxEmoji-u267B.layer6:before {
+  content: "\F015"
 }
 .icon-FirefoxEmoji-wheelchairsymbol:before {
   content: "\267F"
 }
+.icon-FirefoxEmoji-u267F.layer1:before {
+  content: "\F016"
+}
+.icon-FirefoxEmoji-u267F.layer2:before {
+  content: "\F017"
+}
+.icon-FirefoxEmoji-u267F.layer3:before {
+  content: "\F018"
+}
+.icon-FirefoxEmoji-u267F.layer4:before {
+  content: "\F019"
+}
+.icon-FirefoxEmoji-u267F.layer5:before {
+  content: "\F01A"
+}
 .icon-FirefoxEmoji-anchor:before {
   content: "\2693"
+}
+.icon-FirefoxEmoji-u2693.layer1:before {
+  content: "\F01B"
 }
 .icon-FirefoxEmoji-warningsign:before {
   content: "\26A0"
 }
+.icon-FirefoxEmoji-u26A0.layer1:before {
+  content: "\F01C"
+}
+.icon-FirefoxEmoji-u26A0.layer2:before {
+  content: "\F01D"
+}
 .icon-FirefoxEmoji-bolt:before {
   content: "\26A1"
+}
+.icon-FirefoxEmoji-u26A1.layer1:before {
+  content: "\F01E"
 }
 .icon-FirefoxEmoji-mediumwhitecircle:before {
   content: "\26AA"
 }
+.icon-FirefoxEmoji-u26AA.layer1:before {
+  content: "\F01F"
+}
 .icon-FirefoxEmoji-mediumblackcircle:before {
   content: "\26AB"
+}
+.icon-FirefoxEmoji-u26AB.layer1:before {
+  content: "\F020"
 }
 .icon-FirefoxEmoji-soccerball:before {
   content: "\26BD"
 }
+.icon-FirefoxEmoji-u26BD.layer1:before {
+  content: "\F021"
+}
+.icon-FirefoxEmoji-u26BD.layer2:before {
+  content: "\F022"
+}
 .icon-FirefoxEmoji-baseball:before {
   content: "\26BE"
+}
+.icon-FirefoxEmoji-u26BE.layer1:before {
+  content: "\F023"
+}
+.icon-FirefoxEmoji-u26BE.layer2:before {
+  content: "\F024"
+}
+.icon-FirefoxEmoji-u26BE.layer3:before {
+  content: "\F025"
 }
 .icon-FirefoxEmoji-snowmanwithoutsnow:before {
   content: "\26C4"
 }
+.icon-FirefoxEmoji-u26C4.layer1:before {
+  content: "\F026"
+}
+.icon-FirefoxEmoji-u26C4.layer2:before {
+  content: "\F027"
+}
+.icon-FirefoxEmoji-u26C4.layer3:before {
+  content: "\F028"
+}
+.icon-FirefoxEmoji-u26C4.layer4:before {
+  content: "\F029"
+}
+.icon-FirefoxEmoji-u26C4.layer5:before {
+  content: "\F02A"
+}
+.icon-FirefoxEmoji-u26C4.layer6:before {
+  content: "\F02B"
+}
+.icon-FirefoxEmoji-u26C4.layer7:before {
+  content: "\F02C"
+}
+.icon-FirefoxEmoji-u26C4.layer8:before {
+  content: "\F02D"
+}
 .icon-FirefoxEmoji-sunbehindcloud:before {
   content: "\26C5"
+}
+.icon-FirefoxEmoji-u26C5.layer1:before {
+  content: "\F02E"
+}
+.icon-FirefoxEmoji-u26C5.layer2:before {
+  content: "\F02F"
 }
 .icon-FirefoxEmoji-ophiuchus:before {
   content: "\26CE"
 }
+.icon-FirefoxEmoji-u26CE.layer1:before {
+  content: "\F030"
+}
+.icon-FirefoxEmoji-u26CE.layer2:before {
+  content: "\F031"
+}
+.icon-FirefoxEmoji-u26CE.layer3:before {
+  content: "\F032"
+}
 .icon-FirefoxEmoji-noentry:before {
   content: "\26D4"
+}
+.icon-FirefoxEmoji-u26D4.layer1:before {
+  content: "\F033"
+}
+.icon-FirefoxEmoji-u26D4.layer2:before {
+  content: "\F034"
+}
+.icon-FirefoxEmoji-u26D4.layer3:before {
+  content: "\F035"
 }
 .icon-FirefoxEmoji-church:before {
   content: "\26EA"
 }
+.icon-FirefoxEmoji-u26EA.layer1:before {
+  content: "\F036"
+}
+.icon-FirefoxEmoji-u26EA.layer10:before {
+  content: "\F037"
+}
+.icon-FirefoxEmoji-u26EA.layer2:before {
+  content: "\F038"
+}
+.icon-FirefoxEmoji-u26EA.layer3:before {
+  content: "\F039"
+}
+.icon-FirefoxEmoji-u26EA.layer4:before {
+  content: "\F03A"
+}
+.icon-FirefoxEmoji-u26EA.layer5:before {
+  content: "\F03B"
+}
+.icon-FirefoxEmoji-u26EA.layer6:before {
+  content: "\F03C"
+}
+.icon-FirefoxEmoji-u26EA.layer7:before {
+  content: "\F03D"
+}
+.icon-FirefoxEmoji-u26EA.layer8:before {
+  content: "\F03E"
+}
+.icon-FirefoxEmoji-u26EA.layer9:before {
+  content: "\F03F"
+}
 .icon-FirefoxEmoji-fountain:before {
   content: "\26F2"
+}
+.icon-FirefoxEmoji-u26F2.layer1:before {
+  content: "\F040"
+}
+.icon-FirefoxEmoji-u26F2.layer10:before {
+  content: "\F041"
+}
+.icon-FirefoxEmoji-u26F2.layer11:before {
+  content: "\F042"
+}
+.icon-FirefoxEmoji-u26F2.layer12:before {
+  content: "\F043"
+}
+.icon-FirefoxEmoji-u26F2.layer13:before {
+  content: "\F044"
+}
+.icon-FirefoxEmoji-u26F2.layer14:before {
+  content: "\F045"
+}
+.icon-FirefoxEmoji-u26F2.layer2:before {
+  content: "\F046"
+}
+.icon-FirefoxEmoji-u26F2.layer3:before {
+  content: "\F047"
+}
+.icon-FirefoxEmoji-u26F2.layer4:before {
+  content: "\F048"
+}
+.icon-FirefoxEmoji-u26F2.layer5:before {
+  content: "\F049"
+}
+.icon-FirefoxEmoji-u26F2.layer6:before {
+  content: "\F04A"
+}
+.icon-FirefoxEmoji-u26F2.layer7:before {
+  content: "\F04B"
+}
+.icon-FirefoxEmoji-u26F2.layer8:before {
+  content: "\F04C"
+}
+.icon-FirefoxEmoji-u26F2.layer9:before {
+  content: "\F04D"
 }
 .icon-FirefoxEmoji-flaginhole:before {
   content: "\26F3"
 }
+.icon-FirefoxEmoji-u26F3.layer1:before {
+  content: "\F04E"
+}
+.icon-FirefoxEmoji-u26F3.layer2:before {
+  content: "\F04F"
+}
+.icon-FirefoxEmoji-u26F3.layer3:before {
+  content: "\F050"
+}
+.icon-FirefoxEmoji-u26F3.layer4:before {
+  content: "\F051"
+}
 .icon-FirefoxEmoji-sailboat:before {
   content: "\26F5"
+}
+.icon-FirefoxEmoji-u26F5.layer1:before {
+  content: "\F052"
+}
+.icon-FirefoxEmoji-u26F5.layer2:before {
+  content: "\F053"
+}
+.icon-FirefoxEmoji-u26F5.layer3:before {
+  content: "\F054"
+}
+.icon-FirefoxEmoji-u26F5.layer4:before {
+  content: "\F055"
+}
+.icon-FirefoxEmoji-u26F5.layer5:before {
+  content: "\F056"
+}
+.icon-FirefoxEmoji-u26F5.layer6:before {
+  content: "\F057"
+}
+.icon-FirefoxEmoji-u26F5.layer7:before {
+  content: "\F058"
 }
 .icon-FirefoxEmoji-tent:before {
   content: "\26FA"
 }
+.icon-FirefoxEmoji-u26FA.layer1:before {
+  content: "\F059"
+}
+.icon-FirefoxEmoji-u26FA.layer10:before {
+  content: "\F05A"
+}
+.icon-FirefoxEmoji-u26FA.layer11:before {
+  content: "\F05B"
+}
+.icon-FirefoxEmoji-u26FA.layer2:before {
+  content: "\F05C"
+}
+.icon-FirefoxEmoji-u26FA.layer3:before {
+  content: "\F05D"
+}
+.icon-FirefoxEmoji-u26FA.layer4:before {
+  content: "\F05E"
+}
+.icon-FirefoxEmoji-u26FA.layer5:before {
+  content: "\F05F"
+}
+.icon-FirefoxEmoji-u26FA.layer6:before {
+  content: "\F060"
+}
+.icon-FirefoxEmoji-u26FA.layer7:before {
+  content: "\F061"
+}
+.icon-FirefoxEmoji-u26FA.layer8:before {
+  content: "\F062"
+}
+.icon-FirefoxEmoji-u26FA.layer9:before {
+  content: "\F063"
+}
 .icon-FirefoxEmoji-fuelpump:before {
   content: "\26FD"
+}
+.icon-FirefoxEmoji-u26FD.layer1:before {
+  content: "\F064"
+}
+.icon-FirefoxEmoji-u26FD.layer10:before {
+  content: "\F065"
+}
+.icon-FirefoxEmoji-u26FD.layer2:before {
+  content: "\F066"
+}
+.icon-FirefoxEmoji-u26FD.layer3:before {
+  content: "\F067"
+}
+.icon-FirefoxEmoji-u26FD.layer4:before {
+  content: "\F068"
+}
+.icon-FirefoxEmoji-u26FD.layer5:before {
+  content: "\F069"
+}
+.icon-FirefoxEmoji-u26FD.layer6:before {
+  content: "\F06A"
+}
+.icon-FirefoxEmoji-u26FD.layer7:before {
+  content: "\F06B"
+}
+.icon-FirefoxEmoji-u26FD.layer8:before {
+  content: "\F06C"
+}
+.icon-FirefoxEmoji-u26FD.layer9:before {
+  content: "\F06D"
 }
 .icon-FirefoxEmoji-blackscissors:before {
   content: "\2702"
 }
+.icon-FirefoxEmoji-u2702.layer1:before {
+  content: "\F06E"
+}
+.icon-FirefoxEmoji-u2702.layer2:before {
+  content: "\F06F"
+}
+.icon-FirefoxEmoji-u2702.layer3:before {
+  content: "\F070"
+}
+.icon-FirefoxEmoji-u2702.layer4:before {
+  content: "\F071"
+}
+.icon-FirefoxEmoji-u2702.layer5:before {
+  content: "\F072"
+}
 .icon-FirefoxEmoji-whiteheavycheckmark:before {
   content: "\2705"
+}
+.icon-FirefoxEmoji-u2705.layer1:before {
+  content: "\F073"
+}
+.icon-FirefoxEmoji-u2705.layer2:before {
+  content: "\F074"
+}
+.icon-FirefoxEmoji-u2705.layer3:before {
+  content: "\F075"
 }
 .icon-FirefoxEmoji-airplane:before {
   content: "\2708"
 }
+.icon-FirefoxEmoji-u2708.layer1:before {
+  content: "\F076"
+}
+.icon-FirefoxEmoji-u2708.layer2:before {
+  content: "\F077"
+}
+.icon-FirefoxEmoji-u2708.layer3:before {
+  content: "\F078"
+}
+.icon-FirefoxEmoji-u2708.layer4:before {
+  content: "\F079"
+}
 .icon-FirefoxEmoji-envelope:before {
   content: "\2709"
+}
+.icon-FirefoxEmoji-u2709.layer1:before {
+  content: "\F07A"
+}
+.icon-FirefoxEmoji-u2709.layer2:before {
+  content: "\F07B"
+}
+.icon-FirefoxEmoji-u2709.layer3:before {
+  content: "\F07C"
 }
 .icon-FirefoxEmoji-raisedfist:before {
   content: "\270A"
 }
+.icon-FirefoxEmoji-u270A.layer1:before {
+  content: "\F07D"
+}
+.icon-FirefoxEmoji-u270A.layer2:before {
+  content: "\F07E"
+}
+.icon-FirefoxEmoji-u270A.layer3:before {
+  content: "\F07F"
+}
 .icon-FirefoxEmoji-hand:before {
   content: "\270B"
+}
+.icon-FirefoxEmoji-u270B.layer1:before {
+  content: "\F080"
+}
+.icon-FirefoxEmoji-u270B.layer2:before {
+  content: "\F081"
 }
 .icon-FirefoxEmoji-victoryhand:before {
   content: "\270C"
 }
+.icon-FirefoxEmoji-u270C.layer1:before {
+  content: "\F082"
+}
+.icon-FirefoxEmoji-u270C.layer2:before {
+  content: "\F083"
+}
 .icon-FirefoxEmoji-pencil:before {
   content: "\270F"
+}
+.icon-FirefoxEmoji-u270F.layer1:before {
+  content: "\F084"
+}
+.icon-FirefoxEmoji-u270F.layer2:before {
+  content: "\F085"
+}
+.icon-FirefoxEmoji-u270F.layer3:before {
+  content: "\F086"
+}
+.icon-FirefoxEmoji-u270F.layer4:before {
+  content: "\F087"
+}
+.icon-FirefoxEmoji-u270F.layer5:before {
+  content: "\F088"
+}
+.icon-FirefoxEmoji-u270F.layer6:before {
+  content: "\F089"
 }
 .icon-FirefoxEmoji-blacknib:before {
   content: "\2712"
 }
+.icon-FirefoxEmoji-u2712.layer1:before {
+  content: "\F08A"
+}
+.icon-FirefoxEmoji-u2712.layer2:before {
+  content: "\F08B"
+}
+.icon-FirefoxEmoji-u2712.layer3:before {
+  content: "\F08C"
+}
+.icon-FirefoxEmoji-u2712.layer4:before {
+  content: "\F08D"
+}
+.icon-FirefoxEmoji-u2712.layer5:before {
+  content: "\F08E"
+}
 .icon-FirefoxEmoji-heavycheckmark:before {
   content: "\2714"
+}
+.icon-FirefoxEmoji-u2714.layer1:before {
+  content: "\F08F"
 }
 .icon-FirefoxEmoji-heavymultiplicationsymbol:before {
   content: "\2716"
 }
+.icon-FirefoxEmoji-u2716.layer1:before {
+  content: "\F090"
+}
 .icon-FirefoxEmoji-sparkles:before {
   content: "\2728"
+}
+.icon-FirefoxEmoji-u2728.layer1:before {
+  content: "\F091"
+}
+.icon-FirefoxEmoji-u2728.layer2:before {
+  content: "\F092"
+}
+.icon-FirefoxEmoji-u2728.layer3:before {
+  content: "\F093"
 }
 .icon-FirefoxEmoji-eightspokedasterix:before {
   content: "\2733"
 }
+.icon-FirefoxEmoji-u2733.layer1:before {
+  content: "\F094"
+}
+.icon-FirefoxEmoji-u2733.layer2:before {
+  content: "\F095"
+}
+.icon-FirefoxEmoji-u2733.layer3:before {
+  content: "\F096"
+}
 .icon-FirefoxEmoji-eightpointedblackstar:before {
   content: "\2734"
+}
+.icon-FirefoxEmoji-u2734.layer1:before {
+  content: "\F097"
+}
+.icon-FirefoxEmoji-u2734.layer2:before {
+  content: "\F098"
+}
+.icon-FirefoxEmoji-u2734.layer3:before {
+  content: "\F099"
 }
 .icon-FirefoxEmoji-snowflake:before {
   content: "\2744"
 }
+.icon-FirefoxEmoji-u2744.layer1:before {
+  content: "\F09A"
+}
 .icon-FirefoxEmoji-sparkle:before {
   content: "\2748"
+}
+.icon-FirefoxEmoji-u2748.layer1:before {
+  content: "\F09B"
+}
+.icon-FirefoxEmoji-u2748.layer2:before {
+  content: "\F09C"
+}
+.icon-FirefoxEmoji-u2748.layer3:before {
+  content: "\F09D"
 }
 .icon-FirefoxEmoji-crossmark:before {
   content: "\274C"
 }
+.icon-FirefoxEmoji-u274C.layer1:before {
+  content: "\F09E"
+}
 .icon-FirefoxEmoji-negativesquaredcrossmark:before {
   content: "\274E"
+}
+.icon-FirefoxEmoji-u274E.layer1:before {
+  content: "\F09F"
+}
+.icon-FirefoxEmoji-u274E.layer2:before {
+  content: "\F0A0"
+}
+.icon-FirefoxEmoji-u274E.layer3:before {
+  content: "\F0A1"
 }
 .icon-FirefoxEmoji-blackquestionmark:before {
   content: "\2753"
 }
+.icon-FirefoxEmoji-u2753.layer1:before {
+  content: "\F0A2"
+}
 .icon-FirefoxEmoji-whitequestionmark:before {
   content: "\2754"
+}
+.icon-FirefoxEmoji-u2754.layer1:before {
+  content: "\F0A3"
 }
 .icon-FirefoxEmoji-whiteexclaimationmark:before {
   content: "\2755"
 }
+.icon-FirefoxEmoji-u2755.layer1:before {
+  content: "\F0A4"
+}
 .icon-FirefoxEmoji-heavyexclaimationmarksymbol:before {
   content: "\2757"
+}
+.icon-FirefoxEmoji-u2757.layer1:before {
+  content: "\F0A5"
 }
 .icon-FirefoxEmoji-redheart:before {
   content: "\2764"
 }
+.icon-FirefoxEmoji-u2764.layer1:before {
+  content: "\F0A6"
+}
+.icon-FirefoxEmoji-u2764.layer2:before {
+  content: "\F0A7"
+}
 .icon-FirefoxEmoji-heavyplussign:before {
   content: "\2795"
+}
+.icon-FirefoxEmoji-u2795.layer1:before {
+  content: "\F0A8"
 }
 .icon-FirefoxEmoji-heavyminussign:before {
   content: "\2796"
 }
+.icon-FirefoxEmoji-u2796.layer1:before {
+  content: "\F0A9"
+}
 .icon-FirefoxEmoji-heavydivisionsign:before {
   content: "\2797"
+}
+.icon-FirefoxEmoji-u2797.layer1:before {
+  content: "\F0AA"
+}
+.icon-FirefoxEmoji-u2797.layer2:before {
+  content: "\F0AB"
+}
+.icon-FirefoxEmoji-u2797.layer3:before {
+  content: "\F0AC"
 }
 .icon-FirefoxEmoji-blackrightwardsarrow:before {
   content: "\27A1"
 }
+.icon-FirefoxEmoji-u27A1.layer1:before {
+  content: "\F0AD"
+}
+.icon-FirefoxEmoji-u27A1.layer2:before {
+  content: "\F0AE"
+}
+.icon-FirefoxEmoji-u27A1.layer3:before {
+  content: "\F0AF"
+}
 .icon-FirefoxEmoji-curlyloop:before {
   content: "\27B0"
+}
+.icon-FirefoxEmoji-u27B0.layer1:before {
+  content: "\F0B0"
 }
 .icon-FirefoxEmoji-doublecurlyloop:before {
   content: "\27BF"
 }
+.icon-FirefoxEmoji-u27BF.layer0:before {
+  content: "\F0B1"
+}
 .icon-FirefoxEmoji-arrowrightwardsupwards:before {
   content: "\2934"
+}
+.icon-FirefoxEmoji-u2934.layer1:before {
+  content: "\F0B2"
+}
+.icon-FirefoxEmoji-u2934.layer2:before {
+  content: "\F0B3"
+}
+.icon-FirefoxEmoji-u2934.layer3:before {
+  content: "\F0B4"
 }
 .icon-FirefoxEmoji-arrowrightwardsdownwards:before {
   content: "\2935"
 }
+.icon-FirefoxEmoji-u2935.layer1:before {
+  content: "\F0B5"
+}
+.icon-FirefoxEmoji-u2935.layer2:before {
+  content: "\F0B6"
+}
+.icon-FirefoxEmoji-u2935.layer3:before {
+  content: "\F0B7"
+}
 .icon-FirefoxEmoji-leftwardsblackarrow:before {
   content: "\2B05"
+}
+.icon-FirefoxEmoji-u2B05.layer1:before {
+  content: "\F0B8"
+}
+.icon-FirefoxEmoji-u2B05.layer2:before {
+  content: "\F0B9"
+}
+.icon-FirefoxEmoji-u2B05.layer3:before {
+  content: "\F0BA"
 }
 .icon-FirefoxEmoji-blacklargesquare:before {
   content: "\2B1B"
 }
+.icon-FirefoxEmoji-u2B1B.layer1:before {
+  content: "\F0BB"
+}
 .icon-FirefoxEmoji-whitelargesquare:before {
   content: "\2B1C"
+}
+.icon-FirefoxEmoji-u2B1C.layer1:before {
+  content: "\F0BC"
 }
 .icon-FirefoxEmoji-whitemediumstar:before {
   content: "\2B50"
 }
+.icon-FirefoxEmoji-u2B50.layer1:before {
+  content: "\F0BD"
+}
 .icon-FirefoxEmoji-heavylargecircle:before {
   content: "\2B55"
+}
+.icon-FirefoxEmoji-u2B55.layer1:before {
+  content: "\F0BE"
 }
 .icon-FirefoxEmoji-wavydash:before {
   content: "\3030"
 }
+.icon-FirefoxEmoji-u3030.layer1:before {
+  content: "\F0BF"
+}
 .icon-FirefoxEmoji-partalternationmark:before {
   content: "\303D"
+}
+.icon-FirefoxEmoji-u303D.layer1:before {
+  content: "\F0C0"
 }
 .icon-FirefoxEmoji-circledideographcongratulation:before {
   content: "\3297"
 }
+.icon-FirefoxEmoji-u3297.layer1:before {
+  content: "\F0C1"
+}
+.icon-FirefoxEmoji-u3297.layer2:before {
+  content: "\F0C2"
+}
+.icon-FirefoxEmoji-u3297.layer3:before {
+  content: "\F0C3"
+}
+.icon-FirefoxEmoji-u3297.layer4:before {
+  content: "\F0C4"
+}
 .icon-FirefoxEmoji-circledideographsecret:before {
   content: "\3299"
 }
+.icon-FirefoxEmoji-u3299.layer1:before {
+  content: "\F0C5"
+}
+.icon-FirefoxEmoji-u3299.layer2:before {
+  content: "\F0C6"
+}
+.icon-FirefoxEmoji-u3299.layer3:before {
+  content: "\F0C7"
+}
+.icon-FirefoxEmoji-u3299.layer4:before {
+  content: "\F0C8"
+}
 .icon-FirefoxEmoji-u3299.layer5:before {
-  content: "\F000"
+  content: "\F0C9"
 }
 .icon-FirefoxEmoji-unitedstatesflag.layer1:before {
-  content: "\F001"
+  content: "\F0CA"
 }
 .icon-FirefoxEmoji-unitedstatesflag.layer2:before {
-  content: "\F002"
+  content: "\F0CB"
 }
 .icon-FirefoxEmoji-unitedstatesflag.layer3:before {
-  content: "\F003"
+  content: "\F0CC"
 }
 .icon-FirefoxEmoji-unitedstatesflag.layer4:before {
-  content: "\F004"
+  content: "\F0CD"
 }
 .icon-FirefoxEmoji-unitedstatesflag:before {
-  content: "\F005"
+  content: "\F0CE"
 }
