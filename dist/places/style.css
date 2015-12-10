@@ -109,6 +109,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-places-slotmachine:before {
   content: "\1F3B0"
 }
+.icon-places-golfer:before {
+  content: "\1F3CC"
+}
 .icon-places-motorcycle:before {
   content: "\1F3CD"
 }

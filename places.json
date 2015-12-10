@@ -3252,6 +3252,126 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3CC",
+        "name": "golfer"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F3CC.layer1",
+          "order": 1
+        },
+        {
+          "color": "006652",
+          "name": "u1F3CC.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer3",
+          "order": 3
+        },
+        {
+          "color": "68442A",
+          "name": "u1F3CC.layer4",
+          "order": 4
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3CC.layer5",
+          "order": 5
+        },
+        {
+          "color": "C49270",
+          "name": "u1F3CC.layer6",
+          "order": 6
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3CC.layer7",
+          "order": 7
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3CC.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer9",
+          "order": 9
+        },
+        {
+          "color": "008E76",
+          "name": "u1F3CC.layer10",
+          "order": 10
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer11",
+          "order": 11
+        },
+        {
+          "color": "008E76",
+          "name": "u1F3CC.layer12",
+          "order": 12
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer13",
+          "order": 13
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer14",
+          "order": 14
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CC.layer15",
+          "order": 15
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3CC.layer16",
+          "order": 16
+        },
+        {
+          "color": "68442A",
+          "name": "u1F3CC.layer17",
+          "order": 17
+        },
+        {
+          "color": "E5AB83",
+          "name": "u1F3CC.layer18",
+          "order": 18
+        },
+        {
+          "color": "EDC0A2",
+          "name": "u1F3CC.layer19",
+          "order": 19
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F3CC.layer20",
+          "order": 20
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3CC.layer21",
+          "order": 21
+        },
+        {
+          "color": "008E76",
+          "name": "u1F3CC.layer22",
+          "order": 22
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u26F5",
         "name": "sailboat"
       },
