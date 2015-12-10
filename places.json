@@ -2297,6 +2297,116 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3D9",
+        "name": "cityscape"
+      },
+      "layers": [
+        {
+          "color": "8E6049",
+          "name": "u1F3D9.layer1",
+          "order": 1
+        },
+        {
+          "color": "F4580B",
+          "name": "u1F3D9.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D9.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D9.layer4",
+          "order": 4
+        },
+        {
+          "color": "B0E9FF",
+          "name": "u1F3D9.layer5",
+          "order": 5
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3D9.layer6",
+          "order": 6
+        },
+        {
+          "color": "AAA9A2",
+          "name": "u1F3D9.layer7",
+          "order": 7
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3D9.layer8",
+          "order": 8
+        },
+        {
+          "color": "AAA9A2",
+          "name": "u1F3D9.layer9",
+          "order": 9
+        },
+        {
+          "color": "B1EAFE",
+          "name": "u1F3D9.layer11",
+          "order": 11
+        },
+        {
+          "color": "FFCF53",
+          "name": "u1F3D9.layer12",
+          "order": 12
+        },
+        {
+          "color": "B1EAFE",
+          "name": "u1F3D9.layer13",
+          "order": 13
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F3D9.layer14",
+          "order": 14
+        },
+        {
+          "color": "00B89C",
+          "name": "u1F3D9.layer15",
+          "order": 15
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3D9.layer16",
+          "order": 16
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D9.layer17",
+          "order": 17
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D9.layer18",
+          "order": 18
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3D9.layer19",
+          "order": 19
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D9.layer20",
+          "order": 20
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D9.layer21",
+          "order": 21
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2668",
         "name": "hotsprings"
       },
