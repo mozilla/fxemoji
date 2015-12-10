@@ -2862,6 +2862,116 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3CE",
+        "name": "racecar"
+      },
+      "layers": [
+        {
+          "color": "8E7B70",
+          "name": "u1F3CE.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CE.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CE.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CE.layer5",
+          "order": 5
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3CE.layer6",
+          "order": 6
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer7",
+          "order": 7
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F3CE.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3CE.layer9",
+          "order": 9
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer10",
+          "order": 10
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3CE.layer11",
+          "order": 11
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer12",
+          "order": 12
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CE.layer13",
+          "order": 13
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer14",
+          "order": 14
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer15",
+          "order": 15
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3CE.layer16",
+          "order": 16
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3CE.layer17",
+          "order": 17
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer18",
+          "order": 18
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3CE.layer19",
+          "order": 19
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3CE.layer20",
+          "order": 20
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F688",
         "name": "lightrail"
       },
