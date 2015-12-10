@@ -227,6 +227,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3DB",
+        "name": "classicalbuilding"
+      },
+      "layers": [
+        {
+          "color": "DADBDC",
+          "name": "u1F3DB.layer1",
+          "order": 1
+        },
+        {
+          "color": "999999",
+          "name": "u1F3DB.layer2",
+          "order": 2
+        },
+        {
+          "color": "C8CACB",
+          "name": "u1F3DB.layer3",
+          "order": 3
+        },
+        {
+          "color": "EBECED",
+          "name": "u1F3DB.layer4",
+          "order": 4
+        },
+        {
+          "color": "767777",
+          "name": "u1F3DB.layer5",
+          "order": 5
+        },
+        {
+          "color": "999999",
+          "name": "u1F3DB.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F699",
         "name": "recreationalvehicle"
       },
