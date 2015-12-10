@@ -2407,6 +2407,71 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3D8",
+        "name": "housebuildings"
+      },
+      "layers": [
+        {
+          "color": "BFBCAF",
+          "name": "u1F3D8.layer1",
+          "order": 1
+        },
+        {
+          "color": "A8A8A8",
+          "name": "u1F3D8.layer2",
+          "order": 2
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F3D8.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D8.layer4",
+          "order": 4
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F3D8.layer5",
+          "order": 5
+        },
+        {
+          "color": "8E7B70",
+          "name": "u1F3D8.layer6",
+          "order": 6
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3D8.layer7",
+          "order": 7
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F3D8.layer8",
+          "order": 8
+        },
+        {
+          "color": "009E83",
+          "name": "u1F3D8.layer9",
+          "order": 9
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F3D8.layer10",
+          "order": 10
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F3D8.layer11",
+          "order": 11
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u2668",
         "name": "hotsprings"
       },
