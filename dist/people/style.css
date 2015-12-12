@@ -400,6 +400,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-blackrightpointingbackhand:before {
   content: "\1F59D"
 }
+.icon-people-sidewaysuppointingindex:before {
+  content: "\1F59E"
+}
 .icon-people-sidewaysblackuppointingindex:before {
   content: "\1F5A0"
 }
