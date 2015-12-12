@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import sys
 import json
 from lxml import etree
@@ -5,7 +7,7 @@ from lxml import etree
 if __name__ == "__main__":
 
   if len(sys.argv)<3:
-    print "Please provide arguments."
+    print("Please provide arguments.")
     sys.exit(1)
 
   json_file=sys.argv[1]
@@ -55,6 +57,9 @@ if __name__ == "__main__":
 
 
   xml = etree.tostring(tree)
+  if not isinstance(xml, str):
+      xml = xml.decode("utf-8")
+
   f=open(output_file,'w+')
   f.write('<?xml version="1.0" encoding="utf-8"?>\n')
   f.write(xml)
