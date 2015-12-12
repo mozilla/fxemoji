@@ -802,6 +802,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F590",
+        "name": "raisedhandsfingerssplayed"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u1F590.layer1",
+          "order": 1
+        },
+        {
+          "color": "F2C7AA",
+          "name": "u1F590.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F619",
         "name": "kisseyes"
       },
