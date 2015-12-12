@@ -1607,6 +1607,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F59B",
+        "name": "sidewaysblackrightpointingindex"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F59B.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F59B.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F464",
         "name": "contact"
       },
