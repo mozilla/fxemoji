@@ -1627,6 +1627,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F59C",
+        "name": "blackleftpointingbackhand"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F59C.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F464",
         "name": "contact"
       },

@@ -394,6 +394,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-sidewaysblackrightpointingindex:before {
   content: "\1F59B"
 }
+.icon-people-blackleftpointingbackhand:before {
+  content: "\1F59C"
+}
 .icon-people-sidewaysblackuppointingindex:before {
   content: "\1F5A0"
 }
