@@ -1,7 +1,7 @@
 {
-  "name": "Firefox Emoji Font",
-  "version": "0.0.1",
-  "description": "FirefoxOS emoji font.",
+  "name": "fxemoji",
+  "version": "0.0.2",
+  "description": "FirefoxOS Emoji Font.",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.0",
@@ -22,7 +22,7 @@
     "SVG"
   ],
   "author": "Pavel Ivanov",
-  "license": "MIT",
+  "license": "http://mozilla.github.io/fxemoji/LICENSE.md",
   "bugs": {
     "url": "https://github.com/mozilla/fxemoji/issues"
   }
