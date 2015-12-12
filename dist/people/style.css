@@ -391,6 +391,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-sidewaysblackuppointingindex:before {
   content: "\1F5A0"
 }
+.icon-people-sidewaysblackdownpointingindex:before {
+  content: "\1F5A1"
+}
 .icon-people-grin:before {
   content: "\1F600"
 }

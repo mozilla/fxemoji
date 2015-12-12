@@ -4687,6 +4687,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5A1",
+        "name": "sidewaysblackdownpointingindex"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F5A1.layer1",
+          "order": 1
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5A1.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u270B",
         "name": "hand"
       },
