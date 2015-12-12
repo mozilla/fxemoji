@@ -388,6 +388,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-briefcase:before {
   content: "\1F4BC"
 }
+.icon-people-sidewaysblackuppointingindex:before {
+  content: "\1F5A0"
+}
 .icon-people-grin:before {
   content: "\1F600"
 }
