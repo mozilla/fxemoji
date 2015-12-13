@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import os
 import sys
 import natsort
@@ -7,7 +9,7 @@ import json
 if __name__ == "__main__":
 
   if len(sys.argv)<1:
-    print "Please provide arguments."
+    print("Please provide arguments.")
     sys.exit(1)
 
   font_name=sys.argv[1]
