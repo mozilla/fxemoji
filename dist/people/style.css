@@ -391,6 +391,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-raisedhandsfingerssplayed:before {
   content: "\1F590"
 }
+.icon-people-reverseraisedhandsfingerssplayed:before {
+  content: "\1F591"
+}
 .icon-people-sidewaysblackleftpointingindex:before {
   content: "\1F59A"
 }
