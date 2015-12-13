@@ -400,6 +400,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-people-raisedhandpartfingers:before {
   content: "\1F596"
 }
+.icon-people-sidewaysleftpointingindex:before {
+  content: "\1F598"
+}
 .icon-people-sidewaysblackleftpointingindex:before {
   content: "\1F59A"
 }
