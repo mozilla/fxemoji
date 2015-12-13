@@ -932,6 +932,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F594",
+        "name": "reversevictoryhand"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u1F594.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F459",
         "name": "bikini"
       },
