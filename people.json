@@ -862,49 +862,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F618",
-        "name": "kissing"
+        "code": "u1F593",
+        "name": "reversethumbsdown"
       },
       "layers": [
         {
-          "color": "FFD469",
-          "name": "u1F618.layer1",
+          "color": "FFD3B6",
+          "name": "u1F593.layer1",
           "order": 1
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F618.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F618.layer3",
-          "order": 3
-        },
-        {
-          "color": "F2A74E",
-          "name": "u1F618.layer4",
-          "order": 4
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F618.layer5",
-          "order": 5
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F618.layer6",
-          "order": 6
-        },
-        {
-          "color": "FF7DDA",
-          "name": "u1F618.layer7",
-          "order": 7
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F618.layer8",
-          "order": 8
         }
       ]
     }
@@ -5700,6 +5665,56 @@
           "color": "15E5C2",
           "name": "u1F3BD.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F618",
+        "name": "kissing"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F618.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F618.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F618.layer3",
+          "order": 3
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F618.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F618.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F618.layer6",
+          "order": 6
+        },
+        {
+          "color": "FF7DDA",
+          "name": "u1F618.layer7",
+          "order": 7
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F618.layer8",
+          "order": 8
         }
       ]
     }
