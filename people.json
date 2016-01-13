@@ -587,24 +587,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F612",
-        "name": "unamused"
+        "code": "u1F599",
+        "name": "sidewaysrightpointingindex"
       },
       "layers": [
         {
-          "color": "FFD469",
-          "name": "u1F612.layer1",
+          "color": "CCCCCC",
+          "name": "u1F599.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F612.layer2",
+          "color": "E0E0E0",
+          "name": "u1F599.layer2",
           "order": 2
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F612.layer3",
-          "order": 3
         }
       ]
     }
@@ -3150,6 +3145,31 @@
           "color": "00BEEA",
           "name": "u1F613.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F612",
+        "name": "unamused"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F612.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F612.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F612.layer3",
+          "order": 3
         }
       ]
     }
