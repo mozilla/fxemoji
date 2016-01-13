@@ -607,19 +607,24 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F599",
-        "name": "sidewaysrightpointingindex"
+        "code": "u1F58F",
+        "name": "turnedokhand"
       },
       "layers": [
         {
-          "color": "CCCCCC",
-          "name": "u1F599.layer1",
+          "color": "EDC0A2",
+          "name": "u1F58F.layer1",
           "order": 1
         },
         {
-          "color": "E0E0E0",
-          "name": "u1F599.layer2",
+          "color": "F2C7AA",
+          "name": "u1F58F.layer2",
           "order": 2
+        },
+        {
+          "color": "FFD3B6",
+          "name": "u1F58F.layer4",
+          "order": 4
         }
       ]
     }
@@ -2067,6 +2072,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F612",
+        "name": "unamused"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F612.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F612.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F612.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F491",
         "name": "couple"
       },
@@ -3142,24 +3172,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F612",
-        "name": "unamused"
+        "code": "u1F599",
+        "name": "sidewaysrightpointingindex"
       },
       "layers": [
         {
-          "color": "FFD469",
-          "name": "u1F612.layer1",
+          "color": "CCCCCC",
+          "name": "u1F599.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F612.layer2",
+          "color": "E0E0E0",
+          "name": "u1F599.layer2",
           "order": 2
-        },
-        {
-          "color": "2B3B47",
-          "name": "u1F612.layer3",
-          "order": 3
         }
       ]
     }
