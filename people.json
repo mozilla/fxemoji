@@ -952,6 +952,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F595",
+        "name": "reversehandmiddlefinger"
+      },
+      "layers": [
+        {
+          "color": "FFD3B6",
+          "name": "u1F595.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F596",
         "name": "raisedhandpartfingers"
       },
