@@ -3347,6 +3347,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3F1",
+        "name": "whitepennant"
+      },
+      "layers": [
+        {
+          "color": "CFD3D3",
+          "name": "u1F3F1.layer1",
+          "order": 1
+        },
+        {
+          "color": "BCBCBC",
+          "name": "u1F3F1.layer2",
+          "order": 2
+        },
+        {
+          "color": "E0E0E0",
+          "name": "u1F3F1.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F3F1.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F47E",
         "name": "alienmonster"
       },

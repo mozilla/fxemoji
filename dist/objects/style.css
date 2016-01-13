@@ -391,6 +391,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-swimming:before {
   content: "\1F3CA"
 }
+.icon-objects-whitepennant:before {
+  content: "\1F3F1"
+}
 .icon-objects-tie:before {
   content: "\1F454"
 }
