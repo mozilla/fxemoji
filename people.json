@@ -4952,6 +4952,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5A3",
+        "name": "blackdownpointingbackhand"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F5A3.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u270B",
         "name": "hand"
       },
