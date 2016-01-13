@@ -972,6 +972,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F597",
+        "name": "whitedownpointinglefthand"
+      },
+      "layers": [
+        {
+          "color": "E0E0E0",
+          "name": "u1F597.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F459",
         "name": "bikini"
       },
