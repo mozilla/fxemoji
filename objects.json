@@ -2772,6 +2772,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F375",
+        "name": "teacupwithouthandle"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer1",
+          "order": 1
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer2",
+          "order": 2
+        },
+        {
+          "color": "E1E1E1",
+          "name": "u1F375.layer3",
+          "order": 3
+        },
+        {
+          "color": "77B708",
+          "name": "u1F375.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer5",
+          "order": 5
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F358",
         "name": "ricecracker"
       },
@@ -6277,38 +6317,38 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F375",
-        "name": "teacupwithouthandle"
+        "code": "u1F5C3",
+        "name": "cardfilebox"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u1F375.layer1",
+          "color": "C6965C",
+          "name": "u1F5C3.layer1",
           "order": 1
         },
         {
-          "color": "D1CFC3",
-          "name": "u1F375.layer2",
+          "color": "EAC083",
+          "name": "u1F5C3.layer2",
           "order": 2
         },
         {
-          "color": "E1E1E1",
-          "name": "u1F375.layer3",
+          "color": "8E6049",
+          "name": "u1F5C3.layer3",
           "order": 3
         },
         {
-          "color": "77B708",
-          "name": "u1F375.layer4",
+          "color": "F9E7C0",
+          "name": "u1F5C3.layer4",
           "order": 4
         },
         {
-          "color": "E5E4DF",
-          "name": "u1F375.layer5",
+          "color": "597B91",
+          "name": "u1F5C3.layer5",
           "order": 5
         },
         {
-          "color": "D1CFC3",
-          "name": "u1F375.layer6",
+          "color": "AF773F",
+          "name": "u1F5C3.layer6",
           "order": 6
         }
       ]
