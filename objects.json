@@ -3452,6 +3452,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5C4",
+        "name": "filecabinet"
+      },
+      "layers": [
+        {
+          "color": "AF773F",
+          "name": "u1F5C4.layer1",
+          "order": 1
+        },
+        {
+          "color": "D19B61",
+          "name": "u1F5C4.layer2",
+          "order": 2
+        },
+        {
+          "color": "F9E7C0",
+          "name": "u1F5C4.layer3",
+          "order": 3
+        },
+        {
+          "color": "7A5039",
+          "name": "u1F5C4.layer4",
+          "order": 4
+        },
+        {
+          "color": "7A5039",
+          "name": "u1F5C4.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F5C4.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u270F",
         "name": "pencil"
       },
