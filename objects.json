@@ -4137,6 +4137,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5AF",
+        "name": "onebuttonmouse"
+      },
+      "layers": [
+        {
+          "color": "819096",
+          "name": "u1F5AF.layer1",
+          "order": 1
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F5AF.layer2",
+          "order": 2
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F5AF.layer3",
+          "order": 3
+        },
+        {
+          "color": "9BA7AA",
+          "name": "u1F5AF.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F35A",
         "name": "cookedrice"
       },
