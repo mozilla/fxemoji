@@ -613,6 +613,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-camera:before {
   content: "\1F4F7"
 }
+.icon-objects-camerawithflash:before {
+  content: "\1F4F8"
+}
 .icon-objects-handheldvideocamera:before {
   content: "\1F4F9"
 }
