@@ -3122,6 +3122,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5B0",
+        "name": "twobuttonmouse"
+      },
+      "layers": [
+        {
+          "color": "819096",
+          "name": "u1F5B0.layer1",
+          "order": 1
+        },
+        {
+          "color": "C5CFD1",
+          "name": "u1F5B0.layer2",
+          "order": 2
+        },
+        {
+          "color": "9BA7AA",
+          "name": "u1F5B0.layer3",
+          "order": 3
+        },
+        {
+          "color": "9BA7AA",
+          "name": "u1F5B0.layer4",
+          "order": 4
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F5B0.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u270F",
         "name": "pencil"
       },
