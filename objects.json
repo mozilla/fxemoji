@@ -92,6 +92,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F393",
+        "name": "graduationcap"
+      },
+      "layers": [
+        {
+          "color": "132028",
+          "name": "u1F393.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F393.layer2",
+          "order": 2
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F393.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD592",
+          "name": "u1F393.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F393.layer5",
+          "order": 5
+        },
+        {
+          "color": "132028",
+          "name": "u1F393.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C8",
         "name": "americanfootball"
       },
@@ -1257,39 +1297,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F393",
-        "name": "graduationcap"
+        "code": "u1F5C0",
+        "name": "folder"
       },
       "layers": [
         {
-          "color": "132028",
-          "name": "u1F393.layer1",
+          "color": "0074A8",
+          "name": "u1F5C0.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F393.layer2",
+          "color": "59CAFC",
+          "name": "u1F5C0.layer2",
           "order": 2
-        },
-        {
-          "color": "464A4C",
-          "name": "u1F393.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFD592",
-          "name": "u1F393.layer4",
-          "order": 4
-        },
-        {
-          "color": "FFB636",
-          "name": "u1F393.layer5",
-          "order": 5
-        },
-        {
-          "color": "132028",
-          "name": "u1F393.layer6",
-          "order": 6
         }
       ]
     }

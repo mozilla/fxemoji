@@ -790,6 +790,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-blackfolder:before {
   content: "\1F5BF"
 }
+.icon-objects-folder:before {
+  content: "\1F5C0"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
