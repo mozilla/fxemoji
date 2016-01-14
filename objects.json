@@ -1487,6 +1487,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4FD",
+        "name": "filmprojector"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F4FD.layer1",
+          "order": 1
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FD.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4FD.layer3",
+          "order": 3
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FD.layer4",
+          "order": 4
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F4FD.layer5",
+          "order": 5
+        },
+        {
+          "color": "132028",
+          "name": "u1F4FD.layer6",
+          "order": 6
+        },
+        {
+          "color": "132028",
+          "name": "u1F4FD.layer7",
+          "order": 7
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F4FD.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F345",
         "name": "tomato"
       },
