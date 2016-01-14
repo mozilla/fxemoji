@@ -5827,6 +5827,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5BE",
+        "name": "framewithx"
+      },
+      "layers": [
+        {
+          "color": "E0E0E0",
+          "name": "u1F5BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F5BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F5BE.layer3",
+          "order": 3
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F5BE.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5BD",
         "name": "framewithtiles"
       },
