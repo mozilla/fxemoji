@@ -9427,6 +9427,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5BA",
+        "name": "documenttextpicture"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F5BA.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F5BA.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F5BA.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F5BA.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F529",
         "name": "nutandbolt"
       },
