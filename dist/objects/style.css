@@ -808,6 +808,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-emptynotepage:before {
   content: "\1F5C6"
 }
+.icon-objects-emptynotepad:before {
+  content: "\1F5C7"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
