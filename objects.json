@@ -5942,6 +5942,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5BB",
+        "name": "documentwithpicture"
+      },
+      "layers": [
+        {
+          "color": "DCE2E2",
+          "name": "u1F5BB.layer1",
+          "order": 1
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F5BB.layer2",
+          "order": 2
+        },
+        {
+          "color": "BCBBBB",
+          "name": "u1F5BB.layer3",
+          "order": 3
+        },
+        {
+          "color": "009E83",
+          "name": "u1F5BB.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F5BB.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F5BB.layer6",
+          "order": 6
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F5BB.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F49D",
         "name": "heartribbon"
       },

@@ -775,6 +775,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-documenttextpicture:before {
   content: "\1F5BA"
 }
+.icon-objects-documentwithpicture:before {
+  content: "\1F5BB"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
