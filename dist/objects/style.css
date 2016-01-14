@@ -736,6 +736,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-tapecartridge:before {
   content: "\1F5AD"
 }
+.icon-objects-wiredkeyboard:before {
+  content: "\1F5AE"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
