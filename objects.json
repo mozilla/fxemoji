@@ -2812,6 +2812,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5CB",
+        "name": "emptydocument"
+      },
+      "layers": [
+        {
+          "color": "F9E7C0",
+          "name": "u1F5CB.layer1",
+          "order": 1
+        },
+        {
+          "color": "EAC083",
+          "name": "u1F5CB.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F358",
         "name": "ricecracker"
       },
