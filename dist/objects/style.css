@@ -778,6 +778,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-documentwithpicture:before {
   content: "\1F5BB"
 }
+.icon-objects-framewithpicture:before {
+  content: "\1F5BC"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
