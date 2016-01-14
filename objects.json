@@ -4882,6 +4882,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5B8",
+        "name": "opticaldiscicon"
+      },
+      "layers": [
+        {
+          "color": "C5CFD1",
+          "name": "u1F5B8.layer1",
+          "order": 1
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5B8.layer2",
+          "order": 2
+        },
+        {
+          "color": "798A93",
+          "name": "u1F5B8.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6B4",
         "name": "bicyclist"
       },
