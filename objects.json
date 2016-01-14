@@ -5942,6 +5942,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5BF",
+        "name": "blackfolder"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F5BF.layer1",
+          "order": 1
+        },
+        {
+          "color": "626566",
+          "name": "u1F5BF.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BD",
         "name": "minidisc"
       },
