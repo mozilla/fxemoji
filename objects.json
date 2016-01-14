@@ -3452,6 +3452,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5C6",
+        "name": "emptynotepage"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F5C6.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5C4",
         "name": "filecabinet"
       },
