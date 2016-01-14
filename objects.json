@@ -1952,24 +1952,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u26BE",
-        "name": "baseball"
+        "code": "u1F35E",
+        "name": "bread"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u26BE.layer1",
+          "color": "BC7535",
+          "name": "u1F35E.layer1",
           "order": 1
         },
         {
-          "color": "BFBCAF",
-          "name": "u26BE.layer2",
+          "color": "FCDEA2",
+          "name": "u1F35E.layer2",
           "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u26BE.layer3",
-          "order": 3
         }
       ]
     }
@@ -2775,6 +2770,31 @@
           "color": "F7EAD7",
           "name": "u1F37A.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u26BE",
+        "name": "baseball"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u26BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u26BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u26BE.layer3",
+          "order": 3
         }
       ]
     }
@@ -3922,19 +3942,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F35E",
-        "name": "bread"
+        "code": "u1F5AC",
+        "name": "softshellfloppy"
       },
       "layers": [
         {
-          "color": "BC7535",
-          "name": "u1F35E.layer1",
+          "color": "464A4C",
+          "name": "u1F5AC.layer1",
           "order": 1
         },
         {
-          "color": "FCDEA2",
-          "name": "u1F35E.layer2",
+          "color": "597B91",
+          "name": "u1F5AC.layer2",
           "order": 2
+        },
+        {
+          "color": "EDEDED",
+          "name": "u1F5AC.layer3",
+          "order": 3
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5AC.layer4",
+          "order": 4
         }
       ]
     }

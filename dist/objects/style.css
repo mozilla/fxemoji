@@ -730,6 +730,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
+.icon-objects-softshellfloppy:before {
+  content: "\1F5AC"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
