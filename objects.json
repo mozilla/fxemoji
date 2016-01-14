@@ -517,6 +517,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F49D",
+        "name": "heartribbon"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F49D.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F49D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F49D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F49D.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4F8",
         "name": "camerawithflash"
       },
@@ -6167,28 +6197,28 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F49D",
-        "name": "heartribbon"
+        "code": "u1F5C2",
+        "name": "cardindexdividers"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F49D.layer1",
+          "color": "C6965C",
+          "name": "u1F5C2.layer1",
           "order": 1
         },
         {
-          "color": "FFD469",
-          "name": "u1F49D.layer2",
+          "color": "D6A667",
+          "name": "u1F5C2.layer2",
           "order": 2
         },
         {
-          "color": "FFB636",
-          "name": "u1F49D.layer3",
+          "color": "EAC083",
+          "name": "u1F5C2.layer3",
           "order": 3
         },
         {
-          "color": "FFE1AB",
-          "name": "u1F49D.layer4",
+          "color": "F9E7C0",
+          "name": "u1F5C2.layer4",
           "order": 4
         }
       ]
