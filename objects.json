@@ -3737,6 +3737,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5C8",
+        "name": "note"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F5C8.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F5C8.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F5C8.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F38A",
         "name": "confetti"
       },
