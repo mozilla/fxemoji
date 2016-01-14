@@ -754,6 +754,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-oldpersonalcomputer:before {
   content: "\1F5B3"
 }
+.icon-objects-harddisk:before {
+  content: "\1F5B4"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
