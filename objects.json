@@ -2882,6 +2882,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5B5",
+        "name": "screen"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F5B5.layer1",
+          "order": 1
+        },
+        {
+          "color": "59CAFC",
+          "name": "u1F5B5.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F377",
         "name": "wineglass"
       },
