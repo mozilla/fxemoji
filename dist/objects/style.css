@@ -724,6 +724,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-threenetworkedcomputers:before {
   content: "\1F5A7"
 }
+.icon-objects-printer:before {
+  content: "\1F5A8"
+}
 .icon-objects-floppydisk:before {
   content: "\1F5AA"
 }
