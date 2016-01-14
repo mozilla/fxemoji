@@ -760,6 +760,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-screen:before {
   content: "\1F5B5"
 }
+.icon-objects-printericon:before {
+  content: "\1F5B6"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
