@@ -5827,6 +5827,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5BD",
+        "name": "framewithtiles"
+      },
+      "layers": [
+        {
+          "color": "E0E0E0",
+          "name": "u1F5BD.layer1",
+          "order": 1
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F5BD.layer2",
+          "order": 2
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F5BD.layer3",
+          "order": 3
+        },
+        {
+          "color": "009E83",
+          "name": "u1F5BD.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F5BD.layer5",
+          "order": 5
+        },
+        {
+          "color": "0074A8",
+          "name": "u1F5BD.layer6",
+          "order": 6
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F5BD.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4BB",
         "name": "personalcomputer"
       },
