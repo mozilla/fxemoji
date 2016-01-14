@@ -823,6 +823,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-emptydocument:before {
   content: "\1F5CB"
 }
+.icon-objects-emptypage:before {
+  content: "\1F5CC"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
