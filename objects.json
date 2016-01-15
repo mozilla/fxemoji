@@ -2837,6 +2837,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5CF",
+        "name": "page"
+      },
+      "layers": [
+        {
+          "color": "F9E7C0",
+          "name": "u1F5CF.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F5CF.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CD",
         "name": "emptypages"
       },
