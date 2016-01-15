@@ -3077,34 +3077,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F376",
-        "name": "sakebottleandcup"
+        "code": "u1F5D1",
+        "name": "wastebasket"
       },
       "layers": [
         {
-          "color": "C6B793",
-          "name": "u1F376.layer1",
+          "color": "597B91",
+          "name": "u1F5D1.layer1",
           "order": 1
         },
         {
-          "color": "E2D6C0",
-          "name": "u1F376.layer2",
+          "color": "2B3B47",
+          "name": "u1F5D1.layer2",
           "order": 2
-        },
-        {
-          "color": "EDE6D9",
-          "name": "u1F376.layer3",
-          "order": 3
-        },
-        {
-          "color": "C6B793",
-          "name": "u1F376.layer4",
-          "order": 4
-        },
-        {
-          "color": "C6B793",
-          "name": "u1F376.layer5",
-          "order": 5
         }
       ]
     }
@@ -4860,6 +4845,41 @@
           "color": "96A9B2",
           "name": "u1F4CE.layer1",
           "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F376",
+        "name": "sakebottleandcup"
+      },
+      "layers": [
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer1",
+          "order": 1
+        },
+        {
+          "color": "E2D6C0",
+          "name": "u1F376.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDE6D9",
+          "name": "u1F376.layer3",
+          "order": 3
+        },
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer4",
+          "order": 4
+        },
+        {
+          "color": "C6B793",
+          "name": "u1F376.layer5",
+          "order": 5
         }
       ]
     }
