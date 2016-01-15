@@ -2857,6 +2857,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5D2",
+        "name": "spiralnotepad"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F5D2.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F5D2.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F5D2.layer3",
+          "order": 3
+        },
+        {
+          "color": "939393",
+          "name": "u1F5D2.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CD",
         "name": "emptypages"
       },
