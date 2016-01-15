@@ -847,6 +847,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-spiralcalendarpad:before {
   content: "\1F5D3"
 }
+.icon-objects-rolledupnewspaper:before {
+  content: "\1F5DE"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
