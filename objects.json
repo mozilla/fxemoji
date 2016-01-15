@@ -2837,6 +2837,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5CD",
+        "name": "emptypages"
+      },
+      "layers": [
+        {
+          "color": "EAC083",
+          "name": "u1F5CD.layer1",
+          "order": 1
+        },
+        {
+          "color": "F9E7C0",
+          "name": "u1F5CD.layer2",
+          "order": 2
+        },
+        {
+          "color": "EAC083",
+          "name": "u1F5CD.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CB",
         "name": "emptydocument"
       },
