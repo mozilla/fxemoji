@@ -2862,6 +2862,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5CE",
+        "name": "document"
+      },
+      "layers": [
+        {
+          "color": "F9E7C0",
+          "name": "u1F5CE.layer1",
+          "order": 1
+        },
+        {
+          "color": "EAC083",
+          "name": "u1F5CE.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F5CE.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CB",
         "name": "emptydocument"
       },
