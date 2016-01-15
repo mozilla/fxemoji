@@ -1437,6 +1437,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F357",
+        "name": "poultryleg"
+      },
+      "layers": [
+        {
+          "color": "FCDDB1",
+          "name": "u1F357.layer1",
+          "order": 1
+        },
+        {
+          "color": "E59328",
+          "name": "u1F357.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F489",
         "name": "syringe"
       },
@@ -6657,19 +6677,54 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F357",
-        "name": "poultryleg"
+        "code": "u1F5D3",
+        "name": "spiralcalendarpad"
       },
       "layers": [
         {
-          "color": "FCDDB1",
-          "name": "u1F357.layer1",
+          "color": "FFB636",
+          "name": "u1F5D3.layer1",
           "order": 1
         },
         {
-          "color": "E59328",
-          "name": "u1F357.layer2",
+          "color": "FFD469",
+          "name": "u1F5D3.layer2",
           "order": 2
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F5D3.layer3",
+          "order": 3
+        },
+        {
+          "color": "939393",
+          "name": "u1F5D3.layer4",
+          "order": 4
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5D3.layer5",
+          "order": 5
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5D3.layer6",
+          "order": 6
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5D3.layer7",
+          "order": 7
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5D3.layer8",
+          "order": 8
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F5D3.layer9",
+          "order": 9
         }
       ]
     }
