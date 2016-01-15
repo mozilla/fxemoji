@@ -3172,6 +3172,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5DF",
+        "name": "pagewithcircledtext"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F5DF.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F5DF.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F5DF.layer3",
+          "order": 3
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F5DF.layer4",
+          "order": 4
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F5DF.layer5",
+          "order": 5
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F5DF.layer6",
+          "order": 6
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F5DF.layer7",
+          "order": 7
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u1F5DF.layer8",
+          "order": 8
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F5DF.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5D1",
         "name": "wastebasket"
       },
