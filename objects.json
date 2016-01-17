@@ -897,6 +897,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5F5",
+        "name": "ballottboxwithscriptx"
+      },
+      "layers": [
+        {
+          "color": "FFD469",
+          "name": "u1F5F5.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F5F5.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5F4",
         "name": "ballottscriptx"
       },
