@@ -1557,6 +1557,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5E1",
+        "name": "daggerknife"
+      },
+      "layers": [
+        {
+          "color": "ABBAC1",
+          "name": "u1F5E1.layer1",
+          "order": 1
+        },
+        {
+          "color": "384C59",
+          "name": "u1F5E1.layer2",
+          "order": 2
+        },
+        {
+          "color": "DEE4E7",
+          "name": "u1F5E1.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36F",
         "name": "honeypot"
       },
