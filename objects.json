@@ -832,24 +832,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F364",
-        "name": "friedshrimp"
+        "code": "u1F5F2",
+        "name": "lightningmood"
       },
       "layers": [
         {
-          "color": "F98787",
-          "name": "u1F364.layer1",
+          "color": "FDB436",
+          "name": "u1F5F2.layer1",
           "order": 1
-        },
-        {
-          "color": "F96B6B",
-          "name": "u1F364.layer2",
-          "order": 2
-        },
-        {
-          "color": "FFC878",
-          "name": "u1F364.layer3",
-          "order": 3
         }
       ]
     }
@@ -4590,6 +4580,31 @@
           "color": "597B91",
           "name": "u1F3F1.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F364",
+        "name": "friedshrimp"
+      },
+      "layers": [
+        {
+          "color": "F98787",
+          "name": "u1F364.layer1",
+          "order": 1
+        },
+        {
+          "color": "F96B6B",
+          "name": "u1F364.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFC878",
+          "name": "u1F364.layer3",
+          "order": 3
         }
       ]
     }
