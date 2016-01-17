@@ -717,6 +717,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u26BE",
+        "name": "baseball"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u26BE.layer1",
+          "order": 1
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u26BE.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF473E",
+          "name": "u26BE.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5EA",
         "name": "twospeechbubbles"
       },
@@ -812,19 +837,44 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F365",
-        "name": "fishcakeswirl"
+        "code": "u1F5F3",
+        "name": "ballottboxwithballott"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u1F365.layer1",
+          "color": "8E6049",
+          "name": "u1F5F3.layer1",
           "order": 1
         },
         {
-          "color": "FFA1E0",
-          "name": "u1F365.layer2",
+          "color": "68442A",
+          "name": "u1F5F3.layer2",
           "order": 2
+        },
+        {
+          "color": "332A23",
+          "name": "u1F5F3.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F5F3.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F5F3.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F5F3.layer6",
+          "order": 6
+        },
+        {
+          "color": "8E6049",
+          "name": "u1F5F3.layer7",
+          "order": 7
         }
       ]
     }
@@ -3297,24 +3347,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u26BE",
-        "name": "baseball"
+        "code": "u1F365",
+        "name": "fishcakeswirl"
       },
       "layers": [
         {
           "color": "E5E4DF",
-          "name": "u26BE.layer1",
+          "name": "u1F365.layer1",
           "order": 1
         },
         {
-          "color": "BFBCAF",
-          "name": "u26BE.layer2",
+          "color": "FFA1E0",
+          "name": "u1F365.layer2",
           "order": 2
-        },
-        {
-          "color": "FF473E",
-          "name": "u26BE.layer3",
-          "order": 3
         }
       ]
     }
