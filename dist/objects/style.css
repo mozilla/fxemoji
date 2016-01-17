@@ -877,6 +877,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-rightthoughtbubble:before {
   content: "\1F5ED"
 }
+.icon-objects-leftangerbubble:before {
+  content: "\1F5EE"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }

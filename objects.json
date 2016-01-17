@@ -687,6 +687,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5EE",
+        "name": "leftangerbubble"
+      },
+      "layers": [
+        {
+          "color": "E3E2DD",
+          "name": "u1F5EE.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5EA",
         "name": "twospeechbubbles"
       },
