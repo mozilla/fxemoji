@@ -672,6 +672,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5ED",
+        "name": "rightthoughtbubble"
+      },
+      "layers": [
+        {
+          "color": "E3E2DD",
+          "name": "u1F5ED.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5EA",
         "name": "twospeechbubbles"
       },
