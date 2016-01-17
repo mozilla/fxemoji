@@ -672,34 +672,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E9",
-        "name": "envelopedownarrowabove"
+        "code": "u1F5EA",
+        "name": "twospeechbubbles"
       },
       "layers": [
         {
-          "color": "96A9B2",
-          "name": "u1F4E9.layer1",
+          "color": "E3E2DD",
+          "name": "u1F5EA.layer1",
           "order": 1
         },
         {
-          "color": "B9C5C6",
-          "name": "u1F4E9.layer2",
+          "color": "6B8DA1",
+          "name": "u1F5EA.layer2",
           "order": 2
-        },
-        {
-          "color": "EDECE6",
-          "name": "u1F4E9.layer3",
-          "order": 3
-        },
-        {
-          "color": "DCE2E2",
-          "name": "u1F4E9.layer4",
-          "order": 4
-        },
-        {
-          "color": "FF473E",
-          "name": "u1F4E9.layer5",
-          "order": 5
         }
       ]
     }
@@ -3360,6 +3345,41 @@
           "color": "FF473E",
           "name": "u26BE.layer3",
           "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F4E9",
+        "name": "envelopedownarrowabove"
+      },
+      "layers": [
+        {
+          "color": "96A9B2",
+          "name": "u1F4E9.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F4E9.layer2",
+          "order": 2
+        },
+        {
+          "color": "EDECE6",
+          "name": "u1F4E9.layer3",
+          "order": 3
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F4E9.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4E9.layer5",
+          "order": 5
         }
       ]
     }
