@@ -3167,6 +3167,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5E9",
+        "name": "rightspeechbubble"
+      },
+      "layers": [
+        {
+          "color": "E3E2DD",
+          "name": "u1F5E9.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F48A",
         "name": "pill"
       },

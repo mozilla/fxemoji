@@ -862,6 +862,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-leftspeechbubble:before {
   content: "\1F5E8"
 }
+.icon-objects-rightspeechbubble:before {
+  content: "\1F5E9"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
