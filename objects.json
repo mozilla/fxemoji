@@ -702,6 +702,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5EF",
+        "name": "rightangerbubble"
+      },
+      "layers": [
+        {
+          "color": "E3E2DD",
+          "name": "u1F5EF.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5EA",
         "name": "twospeechbubbles"
       },
