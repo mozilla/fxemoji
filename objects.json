@@ -897,34 +897,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F362",
-        "name": "oden"
+        "code": "u1F5F4",
+        "name": "ballottscriptx"
       },
       "layers": [
         {
-          "color": "FCDDB1",
-          "name": "u1F362.layer1",
+          "color": "FF473E",
+          "name": "u1F5F4.layer1",
           "order": 1
-        },
-        {
-          "color": "597B91",
-          "name": "u1F362.layer2",
-          "order": 2
-        },
-        {
-          "color": "E5AA6E",
-          "name": "u1F362.layer3",
-          "order": 3
-        },
-        {
-          "color": "D89055",
-          "name": "u1F362.layer4",
-          "order": 4
-        },
-        {
-          "color": "E2DCC7",
-          "name": "u1F362.layer5",
-          "order": 5
         }
       ]
     }
@@ -4765,6 +4745,41 @@
           "color": "FF473E",
           "name": "u26F3.layer4",
           "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F362",
+        "name": "oden"
+      },
+      "layers": [
+        {
+          "color": "FCDDB1",
+          "name": "u1F362.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F362.layer2",
+          "order": 2
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F362.layer3",
+          "order": 3
+        },
+        {
+          "color": "D89055",
+          "name": "u1F362.layer4",
+          "order": 4
+        },
+        {
+          "color": "E2DCC7",
+          "name": "u1F362.layer5",
+          "order": 5
         }
       ]
     }

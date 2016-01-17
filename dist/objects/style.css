@@ -895,6 +895,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-ballottboxwithballott:before {
   content: "\1F5F3"
 }
+.icon-objects-ballottscriptx:before {
+  content: "\1F5F4"
+}
 .icon-objects-door:before {
   content: "\1F6AA"
 }
