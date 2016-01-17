@@ -3702,6 +3702,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5E8",
+        "name": "leftspeechbubble"
+      },
+      "layers": [
+        {
+          "color": "E3E2DD",
+          "name": "u1F5E8.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5B0",
         "name": "twobuttonmouse"
       },
