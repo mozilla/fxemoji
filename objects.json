@@ -962,34 +962,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F360",
-        "name": "roastedsweetpotato"
+        "code": "u1F5F6",
+        "name": "ballotboldscriptx"
       },
       "layers": [
         {
-          "color": "CE7E61",
-          "name": "u1F360.layer1",
+          "color": "FF473E",
+          "name": "u1F5F6.layer1",
           "order": 1
-        },
-        {
-          "color": "CE7E61",
-          "name": "u1F360.layer2",
-          "order": 2
-        },
-        {
-          "color": "F8A106",
-          "name": "u1F360.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFB64D",
-          "name": "u1F360.layer4",
-          "order": 4
-        },
-        {
-          "color": "9D5F48",
-          "name": "u1F360.layer5",
-          "order": 5
         }
       ]
     }
@@ -2592,39 +2572,34 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F383",
-        "name": "jackolantern"
+        "code": "u1F376",
+        "name": "sakebottleandcup"
       },
       "layers": [
         {
-          "color": "FF8724",
-          "name": "u1F383.layer1",
+          "color": "C6B793",
+          "name": "u1F376.layer1",
           "order": 1
         },
         {
-          "color": "F27A15",
-          "name": "u1F383.layer2",
+          "color": "E2D6C0",
+          "name": "u1F376.layer2",
           "order": 2
         },
         {
-          "color": "0B7C23",
-          "name": "u1F383.layer3",
+          "color": "EDE6D9",
+          "name": "u1F376.layer3",
           "order": 3
         },
         {
-          "color": "0EAA2B",
-          "name": "u1F383.layer4",
+          "color": "C6B793",
+          "name": "u1F376.layer4",
           "order": 4
         },
         {
-          "color": "4C311E",
-          "name": "u1F383.layer5",
+          "color": "C6B793",
+          "name": "u1F376.layer5",
           "order": 5
-        },
-        {
-          "color": "F27A15",
-          "name": "u1F383.layer6",
-          "order": 6
         }
       ]
     }
@@ -4772,6 +4747,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F383",
+        "name": "jackolantern"
+      },
+      "layers": [
+        {
+          "color": "FF8724",
+          "name": "u1F383.layer1",
+          "order": 1
+        },
+        {
+          "color": "F27A15",
+          "name": "u1F383.layer2",
+          "order": 2
+        },
+        {
+          "color": "0B7C23",
+          "name": "u1F383.layer3",
+          "order": 3
+        },
+        {
+          "color": "0EAA2B",
+          "name": "u1F383.layer4",
+          "order": 4
+        },
+        {
+          "color": "4C311E",
+          "name": "u1F383.layer5",
+          "order": 5
+        },
+        {
+          "color": "F27A15",
+          "name": "u1F383.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F362",
         "name": "oden"
       },
@@ -5227,33 +5242,33 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F376",
-        "name": "sakebottleandcup"
+        "code": "u1F360",
+        "name": "roastedsweetpotato"
       },
       "layers": [
         {
-          "color": "C6B793",
-          "name": "u1F376.layer1",
+          "color": "CE7E61",
+          "name": "u1F360.layer1",
           "order": 1
         },
         {
-          "color": "E2D6C0",
-          "name": "u1F376.layer2",
+          "color": "CE7E61",
+          "name": "u1F360.layer2",
           "order": 2
         },
         {
-          "color": "EDE6D9",
-          "name": "u1F376.layer3",
+          "color": "F8A106",
+          "name": "u1F360.layer3",
           "order": 3
         },
         {
-          "color": "C6B793",
-          "name": "u1F376.layer4",
+          "color": "FFB64D",
+          "name": "u1F360.layer4",
           "order": 4
         },
         {
-          "color": "C6B793",
-          "name": "u1F376.layer5",
+          "color": "9D5F48",
+          "name": "u1F360.layer5",
           "order": 5
         }
       ]
