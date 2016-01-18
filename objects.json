@@ -2517,6 +2517,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F58B",
+        "name": "lowerleftfountainpen"
+      },
+      "layers": [
+        {
+          "color": "445056",
+          "name": "u1F58B.layer1",
+          "order": 1
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F58B.layer2",
+          "order": 2
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F58B.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AE",
         "name": "wiredkeyboard"
       },
