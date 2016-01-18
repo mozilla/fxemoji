@@ -9712,6 +9712,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F546",
+        "name": "whitelatincross"
+      },
+      "layers": [
+        {
+          "color": "E0E0E0",
+          "name": "u1F546.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AC",
         "name": "smokingsymbol"
       },

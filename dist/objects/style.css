@@ -715,6 +715,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-crystalball:before {
   content: "\1F52E"
 }
+.icon-objects-whitelatincross:before {
+  content: "\1F546"
+}
 .icon-objects-bullhorn:before {
   content: "\1F56B"
 }
