@@ -2977,6 +2977,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F56D",
+        "name": "ringingbell"
+      },
+      "layers": [
+        {
+          "color": "A06C33",
+          "name": "u1F56D.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F56D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F56D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F56D.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CF",
         "name": "page"
       },
