@@ -3727,6 +3727,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F575",
+        "name": "sleuthspy"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F575.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F575.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F575.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5B5",
         "name": "screen"
       },
