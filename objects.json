@@ -8067,6 +8067,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F548",
+        "name": "celticcross"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F548.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F379",
         "name": "tropicaldrink"
       },

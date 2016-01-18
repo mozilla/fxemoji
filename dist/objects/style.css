@@ -721,6 +721,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-heavylatincross:before {
   content: "\1F547"
 }
+.icon-objects-celticcross:before {
+  content: "\1F548"
+}
 .icon-objects-bullhorn:before {
   content: "\1F56B"
 }
