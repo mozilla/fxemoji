@@ -727,6 +727,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-candle:before {
   content: "\1F56F"
 }
+.icon-objects-whitetouchtonephone:before {
+  content: "\1F57E"
+}
 .icon-objects-blacktouchtonetelephone:before {
   content: "\1F57F"
 }
