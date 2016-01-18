@@ -3007,6 +3007,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F56F",
+        "name": "candle"
+      },
+      "layers": [
+        {
+          "color": "B3CECC",
+          "name": "u1F56F.layer1",
+          "order": 1
+        },
+        {
+          "color": "D6E5E5",
+          "name": "u1F56F.layer2",
+          "order": 2
+        },
+        {
+          "color": "EBF2F2",
+          "name": "u1F56F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD366",
+          "name": "u1F56F.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5CF",
         "name": "page"
       },
