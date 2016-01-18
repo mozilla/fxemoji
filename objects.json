@@ -2902,6 +2902,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F56C",
+        "name": "bullhornwithsoundwaves"
+      },
+      "layers": [
+        {
+          "color": "0096D1",
+          "name": "u1F56C.layer1",
+          "order": 1
+        },
+        {
+          "color": "597B91",
+          "name": "u1F56C.layer2",
+          "order": 2
+        },
+        {
+          "color": "132028",
+          "name": "u1F56C.layer3",
+          "order": 3
+        },
+        {
+          "color": "626566",
+          "name": "u1F56C.layer4",
+          "order": 4
+        },
+        {
+          "color": "BCBCBC",
+          "name": "u1F56C.layer5",
+          "order": 5
+        },
+        {
+          "color": "626566",
+          "name": "u1F56C.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F56B",
         "name": "bullhorn"
       },
