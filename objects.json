@@ -3547,6 +3547,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F573",
+        "name": "hole"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F573.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F573.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F570",
         "name": "manltepiececlock"
       },
