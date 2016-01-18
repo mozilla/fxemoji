@@ -932,29 +932,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F361",
-        "name": "dango"
+        "code": "u1F5F7",
+        "name": "ballotboxwithboldscriptx"
       },
       "layers": [
         {
-          "color": "FCDDB1",
-          "name": "u1F361.layer1",
+          "color": "FFD469",
+          "name": "u1F5F7.layer1",
           "order": 1
         },
         {
-          "color": "A5E077",
-          "name": "u1F361.layer2",
+          "color": "FF473E",
+          "name": "u1F5F7.layer2",
           "order": 2
-        },
-        {
-          "color": "FFD469",
-          "name": "u1F361.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFA1E0",
-          "name": "u1F361.layer4",
-          "order": 4
         }
       ]
     }
@@ -5664,6 +5654,36 @@
         {
           "color": "C4F0F2",
           "name": "u1F4B8.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F361",
+        "name": "dango"
+      },
+      "layers": [
+        {
+          "color": "FCDDB1",
+          "name": "u1F361.layer1",
+          "order": 1
+        },
+        {
+          "color": "A5E077",
+          "name": "u1F361.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F361.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFA1E0",
+          "name": "u1F361.layer4",
           "order": 4
         }
       ]
