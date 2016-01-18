@@ -762,6 +762,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F58C",
+        "name": "lowerleftpaintbrush"
+      },
+      "layers": [
+        {
+          "color": "AF773F",
+          "name": "u1F58C.layer1",
+          "order": 1
+        },
+        {
+          "color": "68442A",
+          "name": "u1F58C.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFE1AB",
+          "name": "u1F58C.layer3",
+          "order": 3
+        },
+        {
+          "color": "00B1FF",
+          "name": "u1F58C.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5EA",
         "name": "twospeechbubbles"
       },
