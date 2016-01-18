@@ -2902,39 +2902,34 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F375",
-        "name": "teacupwithouthandle"
+        "code": "u1F56B",
+        "name": "bullhorn"
       },
       "layers": [
         {
-          "color": "E5E4DF",
-          "name": "u1F375.layer1",
+          "color": "132028",
+          "name": "u1F56B.layer1",
           "order": 1
         },
         {
-          "color": "D1CFC3",
-          "name": "u1F375.layer2",
+          "color": "0096D1",
+          "name": "u1F56B.layer2",
           "order": 2
         },
         {
-          "color": "E1E1E1",
-          "name": "u1F375.layer3",
+          "color": "626566",
+          "name": "u1F56B.layer3",
           "order": 3
         },
         {
-          "color": "77B708",
-          "name": "u1F375.layer4",
+          "color": "BCBCBC",
+          "name": "u1F56B.layer4",
           "order": 4
         },
         {
-          "color": "E5E4DF",
-          "name": "u1F375.layer5",
+          "color": "626566",
+          "name": "u1F56B.layer5",
           "order": 5
-        },
-        {
-          "color": "D1CFC3",
-          "name": "u1F375.layer6",
-          "order": 6
         }
       ]
     }
@@ -6325,6 +6320,46 @@
           "color": "597B91",
           "name": "u231A.layer5",
           "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F375",
+        "name": "teacupwithouthandle"
+      },
+      "layers": [
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer1",
+          "order": 1
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer2",
+          "order": 2
+        },
+        {
+          "color": "E1E1E1",
+          "name": "u1F375.layer3",
+          "order": 3
+        },
+        {
+          "color": "77B708",
+          "name": "u1F375.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5E4DF",
+          "name": "u1F375.layer5",
+          "order": 5
+        },
+        {
+          "color": "D1CFC3",
+          "name": "u1F375.layer6",
+          "order": 6
         }
       ]
     }
