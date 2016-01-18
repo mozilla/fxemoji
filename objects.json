@@ -8837,6 +8837,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F547",
+        "name": "heavylatincross"
+      },
+      "layers": [
+        {
+          "color": "464A4C",
+          "name": "u1F547.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4EC",
         "name": "openmailboxraised"
       },
