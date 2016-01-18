@@ -739,6 +739,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-manltepiececlock:before {
   content: "\1F570"
 }
+.icon-objects-blackskullcrossbones:before {
+  content: "\1F571"
+}
 .icon-objects-whitetouchtonephone:before {
   content: "\1F57E"
 }

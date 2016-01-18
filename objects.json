@@ -3577,6 +3577,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F571",
+        "name": "blackskullcrossbones"
+      },
+      "layers": [
+        {
+          "color": "2B3B47",
+          "name": "u1F571.layer1",
+          "order": 1
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F571.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F346",
         "name": "aubergine"
       },
