@@ -56,7 +56,7 @@
       </li>
     <% } %>
     <% if ( fontName != 'flags' ) { %>
-      <% _.each(glyphs, function(glyph) { if( glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "E") { %>
+      <% _.each(glyphs, function(glyph) { if( glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "E" && glyph.codepoint.toString(16).toUpperCase().substring(0, 1) != "F") { %>
       <li>
         <i class="icon"><%= '&#x' + glyph.codepoint.toString(16).toUpperCase() + ';' %></i>
         <span class="glyph-name"><%= glyph.name %></span>
