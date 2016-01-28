@@ -1627,6 +1627,56 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F580",
+        "name": "telephoneonmodem"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F580.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F580.layer2",
+          "order": 2
+        },
+        {
+          "color": "5A5D5E",
+          "name": "u1F580.layer3",
+          "order": 3
+        },
+        {
+          "color": "F4F9F9",
+          "name": "u1F580.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F580.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F580.layer6",
+          "order": 6
+        },
+        {
+          "color": "BCBCBC",
+          "name": "u1F580.layer7",
+          "order": 7
+        },
+        {
+          "color": "BCBCBC",
+          "name": "u1F580.layer8",
+          "order": 8
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F36F",
         "name": "honeypot"
       },

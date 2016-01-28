@@ -760,6 +760,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-blacktouchtonetelephone:before {
   content: "\1F57F"
 }
+.icon-objects-telephoneonmodem:before {
+  content: "\1F580"
+}
 .icon-objects-lowerleftpen:before {
   content: "\1F58A"
 }
