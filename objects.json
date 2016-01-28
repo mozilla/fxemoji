@@ -397,6 +397,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F510",
+        "name": "lockandkey"
+      },
+      "layers": [
+        {
+          "color": "B1B4B5",
+          "name": "u1F510.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F510.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F510.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F510.layer4",
+          "order": 4
+        },
+        {
+          "color": "7E9AA8",
+          "name": "u1F510.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4F7",
         "name": "camera"
       },
@@ -1052,33 +1087,33 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F510",
-        "name": "lockandkey"
+        "code": "u1F39B",
+        "name": "controlknob"
       },
       "layers": [
         {
-          "color": "B1B4B5",
-          "name": "u1F510.layer1",
+          "color": "BAC5C6",
+          "name": "u1F39B.layer1",
           "order": 1
         },
         {
-          "color": "FFB636",
-          "name": "u1F510.layer2",
+          "color": "989FA0",
+          "name": "u1F39B.layer2",
           "order": 2
         },
         {
-          "color": "FFD469",
-          "name": "u1F510.layer3",
+          "color": "464A4C",
+          "name": "u1F39B.layer3",
           "order": 3
         },
         {
-          "color": "597B91",
-          "name": "u1F510.layer4",
+          "color": "F4F3EF",
+          "name": "u1F39B.layer4",
           "order": 4
         },
         {
-          "color": "7E9AA8",
-          "name": "u1F510.layer5",
+          "color": "8A98A0",
+          "name": "u1F39B.layer5",
           "order": 5
         }
       ]
