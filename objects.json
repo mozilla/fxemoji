@@ -1087,13 +1087,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F511",
-        "name": "key"
+        "code": "u1F39C",
+        "name": "musicascend"
       },
       "layers": [
         {
-          "color": "FFB636",
-          "name": "u1F511.layer1",
+          "color": "00B1FF",
+          "name": "u1F39C.layer1",
           "order": 1
         }
       ]
@@ -7307,13 +7307,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F516",
-        "name": "bookmark"
+        "code": "u1F511",
+        "name": "key"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F516.layer1",
+          "color": "FFB636",
+          "name": "u1F511.layer1",
           "order": 1
         }
       ]
@@ -9440,6 +9440,21 @@
           "color": "DFEEF2",
           "name": "u1F37C.layer7",
           "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F516",
+        "name": "bookmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F516.layer1",
+          "order": 1
         }
       ]
     }
