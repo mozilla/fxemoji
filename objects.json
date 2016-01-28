@@ -1607,6 +1607,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F587",
+        "name": "linkedpaperclips"
+      },
+      "layers": [
+        {
+          "color": "FFB636",
+          "name": "u1F587.layer1",
+          "order": 1
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F587.layer2",
+          "order": 2
+        },
+        {
+          "color": "009AAF",
+          "name": "u1F587.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F587.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F587.layer5",
+          "order": 5
+        },
+        {
+          "color": "009AAF",
+          "name": "u1F587.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F586",
         "name": "penoverstampedenvelope"
       },

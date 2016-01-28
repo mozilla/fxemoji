@@ -781,6 +781,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-penoverstampedenvelope:before {
   content: "\1F586"
 }
+.icon-objects-linkedpaperclips:before {
+  content: "\1F587"
+}
 .icon-objects-lowerleftpen:before {
   content: "\1F58A"
 }
