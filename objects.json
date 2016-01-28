@@ -4667,39 +4667,19 @@
   {
     "icon": {
       "glyph": {
-        "code": "u270F",
-        "name": "pencil"
+        "code": "u1F5C5",
+        "name": "emptynote"
       },
       "layers": [
         {
-          "color": "FF6E83",
-          "name": "u270F.layer1",
+          "color": "FFD469",
+          "name": "u1F5C5.layer1",
           "order": 1
         },
         {
-          "color": "BFBCAF",
-          "name": "u270F.layer2",
-          "order": 2
-        },
-        {
-          "color": "2B2622",
-          "name": "u270F.layer3",
-          "order": 3
-        },
-        {
-          "color": "FFD469",
-          "name": "u270F.layer4",
-          "order": 4
-        },
-        {
-          "color": "E5AA6E",
-          "name": "u270F.layer5",
-          "order": 5
-        },
-        {
           "color": "FFB636",
-          "name": "u270F.layer6",
-          "order": 6
+          "name": "u1F5C5.layer2",
+          "order": 2
         }
       ]
     }
@@ -6809,6 +6789,46 @@
         {
           "color": "009B51",
           "name": "u1F3A8.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u270F",
+        "name": "pencil"
+      },
+      "layers": [
+        {
+          "color": "FF6E83",
+          "name": "u270F.layer1",
+          "order": 1
+        },
+        {
+          "color": "BFBCAF",
+          "name": "u270F.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B2622",
+          "name": "u270F.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD469",
+          "name": "u270F.layer4",
+          "order": 4
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u270F.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u270F.layer6",
           "order": 6
         }
       ]
