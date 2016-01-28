@@ -11378,5 +11378,30 @@
         }
       ]
     }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F582",
+        "name": "backofenvelope"
+      },
+      "layers": [
+        {
+          "color": "B9C5C6",
+          "name": "u1F582.layer1",
+          "order": 1
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F582.layer2",
+          "order": 2
+        },
+        {
+          "color": "DCE2E2",
+          "name": "u1F582.layer3",
+          "order": 3
+        }
+      ]
+    }
   }
 ]
