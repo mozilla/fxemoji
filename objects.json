@@ -9842,6 +9842,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3C5",
+        "name": "sportsmedal"
+      },
+      "layers": [
+        {
+          "color": "7F4AFF",
+          "name": "u1F3C5.layer1",
+          "order": 1
+        },
+        {
+          "color": "A97DFF",
+          "name": "u1F3C5.layer2",
+          "order": 2
+        },
+        {
+          "color": "C6C6C6",
+          "name": "u1F3C5.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFD60D",
+          "name": "u1F3C5.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFE780",
+          "name": "u1F3C5.layer5",
+          "order": 5
+        },
+        {
+          "color": "A4ECF4",
+          "name": "u1F3C5.layer6",
+          "order": 6
+        },
+        {
+          "color": "A97DFF",
+          "name": "u1F3C5.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F3C6",
         "name": "trophy"
       },
