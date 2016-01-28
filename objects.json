@@ -3617,6 +3617,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F576",
+        "name": "darksunglasses"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F576.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F576.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F346",
         "name": "aubergine"
       },

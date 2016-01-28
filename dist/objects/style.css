@@ -751,6 +751,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-sleuthspy:before {
   content: "\1F575"
 }
+.icon-objects-darksunglasses:before {
+  content: "\1F576"
+}
 .icon-objects-whitetouchtonephone:before {
   content: "\1F57E"
 }
