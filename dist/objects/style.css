@@ -769,6 +769,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-backofenvelope:before {
   content: "\1F582"
 }
+.icon-objects-stampedenvelope:before {
+  content: "\1F583"
+}
 .icon-objects-lowerleftpen:before {
   content: "\1F58A"
 }
