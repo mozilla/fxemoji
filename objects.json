@@ -1537,6 +1537,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F397",
+        "name": "reminder"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F397.layer1",
+          "order": 1
+        },
+        {
+          "color": "F22F2F",
+          "name": "u1F397.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F357",
         "name": "poultryleg"
       },
