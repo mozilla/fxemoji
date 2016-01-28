@@ -244,6 +244,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-babybottle:before {
   content: "\1F37C"
 }
+.icon-objects-forkknife:before {
+  content: "\1F37D"
+}
 .icon-objects-present:before {
   content: "\1F381"
 }

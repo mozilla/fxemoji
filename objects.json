@@ -8737,6 +8737,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F37D",
+        "name": "forkknife"
+      },
+      "layers": [
+        {
+          "color": "CECECE",
+          "name": "u1F37D.layer1",
+          "order": 1
+        },
+        {
+          "color": "DBDBDB",
+          "name": "u1F37D.layer2",
+          "order": 2
+        },
+        {
+          "color": "CECECE",
+          "name": "u1F37D.layer3",
+          "order": 3
+        },
+        {
+          "color": "CECECE",
+          "name": "u1F37D.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F6AC",
         "name": "smokingsymbol"
       },
