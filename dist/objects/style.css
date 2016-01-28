@@ -817,7 +817,7 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-printer:before {
   content: "\1F5A8"
 }
-.icon-objects-floppydisk:before {
+.icon-objects-blackhardshellfloppy:before {
   content: "\1F5AA"
 }
 .icon-objects-whitehardshellfloppy:before {

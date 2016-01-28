@@ -5728,7 +5728,7 @@
     "icon": {
       "glyph": {
         "code": "u1F5AA",
-        "name": "floppydisk"
+        "name": "blackhardshellfloppy"
       },
       "layers": [
         {
@@ -5742,17 +5742,17 @@
           "order": 2
         },
         {
-          "color": "EDEDED",
+          "color": "597B91",
           "name": "u1F5AA.layer3",
           "order": 3
         },
         {
-          "color": "59CAFC",
+          "color": "597B91",
           "name": "u1F5AA.layer4",
           "order": 4
         },
         {
-          "color": "132028",
+          "color": "EDEDED",
           "name": "u1F5AA.layer5",
           "order": 5
         }
