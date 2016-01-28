@@ -2197,6 +2197,81 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4FE",
+        "name": "portablestereo"
+      },
+      "layers": [
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FE.layer1",
+          "order": 1
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FE.layer2",
+          "order": 2
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4FE.layer3",
+          "order": 3
+        },
+        {
+          "color": "ADB8BC",
+          "name": "u1F4FE.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F4FE.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4FE.layer6",
+          "order": 6
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FE.layer7",
+          "order": 7
+        },
+        {
+          "color": "F9F7F4",
+          "name": "u1F4FE.layer8",
+          "order": 8
+        },
+        {
+          "color": "8F9799",
+          "name": "u1F4FE.layer9",
+          "order": 9
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F4FE.layer10",
+          "order": 10
+        },
+        {
+          "color": "D5DEE4",
+          "name": "u1F4FE.layer11",
+          "order": 11
+        },
+        {
+          "color": "1C4C5A",
+          "name": "u1F4FE.layer12",
+          "order": 12
+        },
+        {
+          "color": "FF5850",
+          "name": "u1F4FE.layer13",
+          "order": 13
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F345",
         "name": "tomato"
       },
