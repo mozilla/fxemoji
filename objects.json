@@ -1557,6 +1557,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F399",
+        "name": "studiomic"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F399.layer1",
+          "order": 1
+        },
+        {
+          "color": "BAC5C6",
+          "name": "u1F399.layer2",
+          "order": 2
+        },
+        {
+          "color": "BCCACC",
+          "name": "u1F399.layer3",
+          "order": 3
+        },
+        {
+          "color": "597B91",
+          "name": "u1F399.layer4",
+          "order": 4
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F399.layer5",
+          "order": 5
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F399.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F489",
         "name": "syringe"
       },
