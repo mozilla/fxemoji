@@ -301,6 +301,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-graduationcap:before {
   content: "\1F393"
 }
+.icon-objects-keyboard:before {
+  content: "\1F398"
+}
 .icon-objects-studiomic:before {
   content: "\1F399"
 }
