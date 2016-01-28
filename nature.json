@@ -337,6 +337,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F5FA",
+        "name": "worldmap"
+      },
+      "layers": [
+        {
+          "color": "13A031",
+          "name": "u1F5FA.layer1",
+          "order": 1
+        },
+        {
+          "color": "13A031",
+          "name": "u1F5FA.layer2",
+          "order": 2
+        },
+        {
+          "color": "13A031",
+          "name": "u1F5FA.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F318",
         "name": "waningcrescentmoon"
       },
