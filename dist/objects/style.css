@@ -772,6 +772,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-stampedenvelope:before {
   content: "\1F583"
 }
+.icon-objects-envelopewithlightning:before {
+  content: "\1F584"
+}
 .icon-objects-flyingenvelope:before {
   content: "\1F585"
 }
