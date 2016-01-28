@@ -1217,13 +1217,13 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F516",
-        "name": "bookmark"
+        "code": "u1F39D",
+        "name": "musicdescend"
       },
       "layers": [
         {
-          "color": "FF473E",
-          "name": "u1F516.layer1",
+          "color": "00B1FF",
+          "name": "u1F39D.layer1",
           "order": 1
         }
       ]
@@ -7300,6 +7300,21 @@
           "color": "D1CFC3",
           "name": "u1F375.layer6",
           "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
+        "code": "u1F516",
+        "name": "bookmark"
+      },
+      "layers": [
+        {
+          "color": "FF473E",
+          "name": "u1F516.layer1",
+          "order": 1
         }
       ]
     }
