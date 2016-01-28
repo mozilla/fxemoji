@@ -3597,6 +3597,41 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F43F",
+        "name": "chipmunk"
+      },
+      "layers": [
+        {
+          "color": "684321",
+          "name": "u1F43F.layer1",
+          "order": 1
+        },
+        {
+          "color": "AF773F",
+          "name": "u1F43F.layer2",
+          "order": 2
+        },
+        {
+          "color": "684321",
+          "name": "u1F43F.layer3",
+          "order": 3
+        },
+        {
+          "color": "2B3B47",
+          "name": "u1F43F.layer4",
+          "order": 4
+        },
+        {
+          "color": "AF773F",
+          "name": "u1F43F.layer5",
+          "order": 5
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F43E",
         "name": "pawprints"
       },
