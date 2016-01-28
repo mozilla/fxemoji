@@ -2477,14 +2477,39 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F374",
-        "name": "forkandknife"
+        "code": "u1F35D",
+        "name": "spaghetti"
       },
       "layers": [
         {
-          "color": "CED6D5",
-          "name": "u1F374.layer1",
+          "color": "BFBCAF",
+          "name": "u1F35D.layer1",
           "order": 1
+        },
+        {
+          "color": "E3E8E7",
+          "name": "u1F35D.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD45F",
+          "name": "u1F35D.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F35D.layer4",
+          "order": 4
+        },
+        {
+          "color": "CED6D5",
+          "name": "u1F35D.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB941",
+          "name": "u1F35D.layer6",
+          "order": 6
         }
       ]
     }
@@ -5737,39 +5762,29 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F35D",
-        "name": "spaghetti"
+        "code": "u1F5AB",
+        "name": "whitehardshellfloppy"
       },
       "layers": [
         {
-          "color": "BFBCAF",
-          "name": "u1F35D.layer1",
+          "color": "CFD3D3",
+          "name": "u1F5AB.layer1",
           "order": 1
         },
         {
-          "color": "E3E8E7",
-          "name": "u1F35D.layer2",
+          "color": "EDEDED",
+          "name": "u1F5AB.layer2",
           "order": 2
         },
         {
-          "color": "FFD45F",
-          "name": "u1F35D.layer3",
+          "color": "597B91",
+          "name": "u1F5AB.layer3",
           "order": 3
         },
         {
-          "color": "FF473E",
-          "name": "u1F35D.layer4",
+          "color": "EDEDED",
+          "name": "u1F5AB.layer4",
           "order": 4
-        },
-        {
-          "color": "CED6D5",
-          "name": "u1F35D.layer5",
-          "order": 5
-        },
-        {
-          "color": "FFB941",
-          "name": "u1F35D.layer6",
-          "order": 6
         }
       ]
     }
@@ -8872,6 +8887,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F4E6",
+        "name": "package"
+      },
+      "layers": [
+        {
+          "color": "AF773F",
+          "name": "u1F4E6.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F4E6.layer2",
+          "order": 2
+        },
+        {
+          "color": "332A23",
+          "name": "u1F4E6.layer3",
+          "order": 3
+        },
+        {
+          "color": "3F6072",
+          "name": "u1F4E6.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F4E2",
         "name": "loudspeaker"
       },
@@ -11457,29 +11502,14 @@
   {
     "icon": {
       "glyph": {
-        "code": "u1F4E6",
-        "name": "package"
+        "code": "u1F374",
+        "name": "forkandknife"
       },
       "layers": [
         {
-          "color": "AF773F",
-          "name": "u1F4E6.layer1",
+          "color": "CED6D5",
+          "name": "u1F374.layer1",
           "order": 1
-        },
-        {
-          "color": "E5AA6E",
-          "name": "u1F4E6.layer2",
-          "order": 2
-        },
-        {
-          "color": "332A23",
-          "name": "u1F4E6.layer3",
-          "order": 3
-        },
-        {
-          "color": "3F6072",
-          "name": "u1F4E6.layer4",
-          "order": 4
         }
       ]
     }
