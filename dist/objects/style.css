@@ -76,6 +76,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-playingcardblackjoker:before {
   content: "\1F0CF"
 }
+.icon-objects-blackdroplet:before {
+  content: "\1F322"
+}
 .icon-objects-earofmaize:before {
   content: "\1F33D"
 }

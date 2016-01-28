@@ -1347,6 +1347,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F322",
+        "name": "blackdroplet"
+      },
+      "layers": [
+        {
+          "color": "00B1FF",
+          "name": "u1F322.layer1",
+          "order": 1
+        },
+        {
+          "color": "76DFFF",
+          "name": "u1F322.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F35D",
         "name": "spaghetti"
       },
