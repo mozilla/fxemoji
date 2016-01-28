@@ -2847,6 +2847,46 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F589",
+        "name": "lowerleftpencil"
+      },
+      "layers": [
+        {
+          "color": "2B2622",
+          "name": "u1F589.layer1",
+          "order": 1
+        },
+        {
+          "color": "E5AA6E",
+          "name": "u1F589.layer2",
+          "order": 2
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F589.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF6E83",
+          "name": "u1F589.layer4",
+          "order": 4
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F589.layer5",
+          "order": 5
+        },
+        {
+          "color": "96A9B2",
+          "name": "u1F589.layer6",
+          "order": 6
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5AE",
         "name": "wiredkeyboard"
       },

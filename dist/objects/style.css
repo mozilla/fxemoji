@@ -787,6 +787,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-blackpushpin:before {
   content: "\1F588"
 }
+.icon-objects-lowerleftpencil:before {
+  content: "\1F589"
+}
 .icon-objects-lowerleftpen:before {
   content: "\1F58A"
 }
