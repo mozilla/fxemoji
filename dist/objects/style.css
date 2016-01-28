@@ -778,6 +778,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-objects-flyingenvelope:before {
   content: "\1F585"
 }
+.icon-objects-penoverstampedenvelope:before {
+  content: "\1F586"
+}
 .icon-objects-lowerleftpen:before {
   content: "\1F58A"
 }

@@ -1607,6 +1607,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F586",
+        "name": "penoverstampedenvelope"
+      },
+      "layers": [
+        {
+          "color": "B9C5C6",
+          "name": "u1F586.layer1",
+          "order": 1
+        },
+        {
+          "color": "F4F3EF",
+          "name": "u1F586.layer2",
+          "order": 2
+        },
+        {
+          "color": "597B91",
+          "name": "u1F586.layer3",
+          "order": 3
+        },
+        {
+          "color": "B9C5C6",
+          "name": "u1F586.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFFFFF",
+          "name": "u1F586.layer5",
+          "order": 5
+        },
+        {
+          "color": "445056",
+          "name": "u1F586.layer6",
+          "order": 6
+        },
+        {
+          "color": "A1AAAD",
+          "name": "u1F586.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F585",
         "name": "flyingenvelope"
       },
