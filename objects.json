@@ -1627,6 +1627,51 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F581",
+        "name": "clamshellmobile"
+      },
+      "layers": [
+        {
+          "color": "597B91",
+          "name": "u1F581.layer1",
+          "order": 1
+        },
+        {
+          "color": "F2A74E",
+          "name": "u1F581.layer2",
+          "order": 2
+        },
+        {
+          "color": "000000",
+          "name": "u1F581.layer3",
+          "order": 3
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F581.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F581.layer5",
+          "order": 5
+        },
+        {
+          "color": "132028",
+          "name": "u1F581.layer6",
+          "order": 6
+        },
+        {
+          "color": "597B91",
+          "name": "u1F581.layer7",
+          "order": 7
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F580",
         "name": "telephoneonmodem"
       },
