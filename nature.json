@@ -997,6 +997,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F578",
+        "name": "spiderweb"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F578.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F577",
         "name": "spider"
       },
