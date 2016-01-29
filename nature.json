@@ -337,6 +337,61 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F395",
+        "name": "bouquetofflowers"
+      },
+      "layers": [
+        {
+          "color": "00B89C",
+          "name": "u1F395.layer1",
+          "order": 1
+        },
+        {
+          "color": "009E83",
+          "name": "u1F395.layer2",
+          "order": 2
+        },
+        {
+          "color": "FF929D",
+          "name": "u1F395.layer3",
+          "order": 3
+        },
+        {
+          "color": "FF473E",
+          "name": "u1F395.layer4",
+          "order": 4
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F395.layer5",
+          "order": 5
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F395.layer6",
+          "order": 6
+        },
+        {
+          "color": "F8BBC6",
+          "name": "u1F395.layer7",
+          "order": 7
+        },
+        {
+          "color": "FFD469",
+          "name": "u1F395.layer8",
+          "order": 8
+        },
+        {
+          "color": "FFB636",
+          "name": "u1F395.layer9",
+          "order": 9
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F5FA",
         "name": "worldmap"
       },
