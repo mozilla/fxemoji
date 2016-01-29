@@ -163,6 +163,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-nature-cactus:before {
   content: "\1F335"
 }
+.icon-nature-chilipepper:before {
+  content: "\1F336"
+}
 .icon-nature-tulip:before {
   content: "\1F337"
 }
