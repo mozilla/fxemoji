@@ -1667,6 +1667,36 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F3F6",
+        "name": "blackrosette"
+      },
+      "layers": [
+        {
+          "color": "626566",
+          "name": "u1F3F6.layer1",
+          "order": 1
+        },
+        {
+          "color": "132028",
+          "name": "u1F3F6.layer2",
+          "order": 2
+        },
+        {
+          "color": "AAA7A2",
+          "name": "u1F3F6.layer3",
+          "order": 3
+        },
+        {
+          "color": "464A4C",
+          "name": "u1F3F6.layer4",
+          "order": 4
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F408",
         "name": "catside"
       },
