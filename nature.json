@@ -2127,6 +2127,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F327",
+        "name": "raincloud"
+      },
+      "layers": [
+        {
+          "color": "A7C1C9",
+          "name": "u1F327.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F328",
         "name": "snowcloud"
       },
