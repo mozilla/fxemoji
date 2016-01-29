@@ -42,10 +42,10 @@ generate_font() {
 
   python generate_colr_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx || exit
 
+  mv ${font_name}.json dist/${font_name}/
 
   #Merge 'COLR' table to font
   ttx -o tmp/${font_name}/${font_name}-colr.ttf -m tmp/${font_name}/${font_name}-cmap.ttf tmp/${font_name}/${font_name}-colr.ttx || exit
-
 
 
   if [[ ${font_name} == 'FirefoxEmoji' || ${font_name} == 'flags' ]]
