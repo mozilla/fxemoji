@@ -2937,6 +2937,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F32B",
+        "name": "fog"
+      },
+      "layers": [
+        {
+          "color": "D3DDE0",
+          "name": "u1F32B.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F32A",
         "name": "tornado"
       },
