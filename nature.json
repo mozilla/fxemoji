@@ -2077,6 +2077,26 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F323",
+        "name": "whitesun"
+      },
+      "layers": [
+        {
+          "color": "FFC639",
+          "name": "u1F323.layer1",
+          "order": 1
+        },
+        {
+          "color": "FFE564",
+          "name": "u1F323.layer2",
+          "order": 2
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F54A",
         "name": "doveofpeace"
       },

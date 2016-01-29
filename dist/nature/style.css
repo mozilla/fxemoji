@@ -145,6 +145,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-nature-shootingstar:before {
   content: "\1F320"
 }
+.icon-nature-whitesun:before {
+  content: "\1F323"
+}
 .icon-nature-whitesunsmallcloud:before {
   content: "\1F324"
 }
