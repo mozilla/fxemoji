@@ -23,9 +23,12 @@ if __name__ == "__main__":
       if src_file .find('.layer') == -1:
         files.append(src_file.replace('.svg','')[1:])
 
+  #print(files)
+
   for original_file in original_dir:
     if original_file.endswith('.ai'):
       current_file = original_file.replace('.ai','')
       if current_file not in files:
         if os.path.exists('original/' + font_name + '/' + current_file + '.ai'):
-          shutil.copy('original/' + font_name + '/' + current_file + '.ai', 'tbd/' + font_name)
+          shutil.copy('original/' + font_name + '/' + current_file + '.ai', 'tbd/' + current_file + '.ai')
+

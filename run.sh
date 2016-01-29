@@ -11,7 +11,7 @@ generate_font() {
   gulp --font ${font_name} || exit
   rm -f tmp/${font_name}/{*.eot,*.svg,*.woff} || exit
 
-  python generate_json.py ${font_name} || exit
+  python bin/generate_json.py ${font_name} || exit
 
 
   #Dumping 'cmap' table
@@ -40,7 +40,7 @@ generate_font() {
   #Merge 'cmap' table back to font
   ttx -o tmp/${font_name}/${font_name}-cmap.ttf -m tmp/${font_name}/${font_name}.ttf tmp/${font_name}/${font_name}.ttx || exit
 
-  python generate_colr_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx || exit
+  python bin/generate_colr_ttx_from_json.py ${font_name}.json templates/colr.ttx tmp/${font_name}/${font_name}-colr.ttx || exit
 
   mv ${font_name}.json dist/${font_name}/
 
