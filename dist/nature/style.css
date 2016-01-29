@@ -406,6 +406,9 @@ body > h1 { color: #777; padding: 2rem 0;margin: 0;}
 .icon-nature-doveofpeace:before {
   content: "\1F54A"
 }
+.icon-nature-spider:before {
+  content: "\1F577"
+}
 .icon-nature-worldmap:before {
   content: "\1F5FA"
 }

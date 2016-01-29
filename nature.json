@@ -997,6 +997,21 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F577",
+        "name": "spider"
+      },
+      "layers": [
+        {
+          "color": "000000",
+          "name": "u1F577.layer1",
+          "order": 1
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F334",
         "name": "palmtree"
       },
