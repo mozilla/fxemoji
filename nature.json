@@ -2182,6 +2182,31 @@
   {
     "icon": {
       "glyph": {
+        "code": "u1F324",
+        "name": "whitesunsmallcloud"
+      },
+      "layers": [
+        {
+          "color": "FFD60D",
+          "name": "u1F324.layer1",
+          "order": 1
+        },
+        {
+          "color": "B0E9FF",
+          "name": "u1F324.layer2",
+          "order": 2
+        },
+        {
+          "color": "D3D638",
+          "name": "u1F324.layer3",
+          "order": 3
+        }
+      ]
+    }
+  },
+  {
+    "icon": {
+      "glyph": {
         "code": "u1F328",
         "name": "snowcloud"
       },
