@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/fxemoji"
+    "url": "https://github.com/fuzzyermine/fxemoji"
   },
   "keywords": [
     "FirefoxOS",
@@ -21,9 +21,9 @@
     "Font",
     "SVG"
   ],
-  "author": "Pavel Ivanov",
-  "license": "http://mozilla.github.io/fxemoji/LICENSE.md",
+  "author": "fuzzyermine",
+  "license": "http://fuzzyermine.github.io/fxemoji/LICENSE.md",
   "bugs": {
-    "url": "https://github.com/mozilla/fxemoji/issues"
+    "url": "https://github.com/fuzzyermine/fxemoji/issues"
   }
 }
