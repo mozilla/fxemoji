@@ -23,8 +23,8 @@ Change permissions of `run.sh` with `chmod +x run.sh`
 $./run.sh
 ```
 
-## Prepare SVG's
-We need few SVG's per icon.
+## Prepare SVGs
+We need few SVGs per icon.
   - SVG file for each color layer
   - SVG that contains the complete glyph.
 
